@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Contact Us.md
       - School Information/.keep
       - School Information/School Information.md
       - School Information/School Vision.md
@@ -11,3 +10,4 @@ collections:
       - School Information/School Values.md
       - School Services.md
       - Our Staff.md
+      - Contact Us.md
