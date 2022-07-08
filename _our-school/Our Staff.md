@@ -16,14 +16,14 @@ description: ""
 | Ms Malinda Lim | Assistant Year Head P3-4 |  65119561 |  [Email](https://form.gov.sg/5dc12cb31b03c2001912301f) |  [WA](https://wa.me/6565119561) |
 | Ms So Bee Soon | Year Head P1-2 |  65119555 Ext 445 | [Email](https://form.gov.sg/5dc11d231b03c200191229f0) |  [WA](https://wa.me/6565119646) |
 |  |   |   |   |   |
-| Mr Andy Fan | HOD Mathematics  |  65119555x 447 |                          Email |  WA |
-| Ms Caroline | HOD Science |  65119555 x 446 | Email |  WA |
-| Mrs Samantha Kong | HOD CCE  |  65119587 | Email |  WA |
-| Mr Thomas Wong | HOD PAM/CCA |  65119564 | Email |  WA |
-| Mrs Jocelyn Chew | HOD Student Management |  65119645 |                          Email |  WA |
+| Mr Andy Fan | HOD Mathematics  |  65119555x 447 | [Email](https://form.gov.sg/5dc1301bb9014c0012b8c7ac) |  [WA](https://wa.me/6565119559) |
+| Ms Caroline | HOD Science |  65119555 x 446 | [Email](https://form.gov.sg/5dc12b9f1b03c20019122fac) | [WA](https://wa.me/6565119558) |
+| Mrs Samantha Kong | HOD CCE  |  65119587 | [Email](https://form.gov.sg/5dc130c7b9014c0012b8c7dc) |  [WA](https://wa.me/6565119587) |
+| Mr Thomas Wong | HOD PAM/CCA |  65119564 | [Email](https://form.gov.sg/5dc1243b5f93b50019043ce0) |  [WA](https://wa.me/6565119564) |
+| Mrs Jocelyn Chew | HOD Student Management |  65119645 | [Email](https://form.gov.sg/5dc220d011ecd70012ef9051) |  [WA](https://wa.me/6565119557) |
 |   |   |   |   |   |
-| Mr Azhar  | SH English Language |  65119586 |                          Email | WA |
-| Mr Shah Ally | SH English Language  |  65119568 | Email | WA |
+| Mr Azhar  | SH English Language |  65119586 | [Email](https://form.gov.sg/61c9eb126c60da00127bfaac) | [WA](https://wa.me/6565119586) |
+| Mr Shah Ally | SH English Language  |  65119568 | [Email](https://form.gov.sg/5dc221dfc321c6001240b9a4) | [WA](https://wa.me/6565119568) |
 | Mrs Jocelyn Chew | SH Mathematics  |  65119645 | Email | WA |
 | Mrs Tan Guat Hwa  | SH Mathematics  |  65119562 |                          Email | WA |
 | Mr Bunawar | SH Science  |  65119563 | Email | WA |
