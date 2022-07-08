@@ -146,3 +146,22 @@ description: ""
 | 5 Respect | Mrs Yap Pui Mei | 64999241  | [Email](https://form.gov.sg/5dc12ddd5bec6f001203485f) | [WA](https://wa.me/6564999241) |
 |   | Mr Jason Tan  | 64999244 | [Email](https://form.gov.sg/5dc2210811ecd70012ef9069) | [WA](https://wa.me/6564999244) |
 | | | | | |
+
+### Primary 6
+
+| Class | Name | Phone | Email | WA | 
+|---|---|---|---|---|
+| 6 Care | Ms Tan Yi Xin | 64999429 | [Email](https://form.gov.sg/607d4ae2145bfa001228cbba) | [WA](https://wa.me/6564999429) | 
+| | Mdm Gladys Tan | 64999428 | [Email](https://form.gov.sg/5dc12d515f93b5001904401a) | [WA](https://wa.me/6564999428) |
+| | Mdm Ng Jie Ling | 64999426 | [Email](https://form.gov.sg/5dc1145f1b03c2001912266e) | [WA](https://wa.me/6564999426)| 
+| 6 Graciousness | Mdm Sim Bee Hoon | 64999425 | [Email](https://form.gov.sg/5dc22b7511ecd70012ef94be) | [WA](https://wa.me/6564999425) | 
+| | Mr Kevin Yang | 64999424 | [Email](https://form.gov.sg/5dc118d45f93b500190438ed) | [WA](https://wa.me/6564999424) | 
+| 6 Integrity | Mdm Salwah | 64999427 | [Email](https://form.gov.sg/5dc2218311ecd70012ef90a7) | [WA](https://wa.me/6564999427) | 
+| | Mr Andy Fan | 65119555 x 447 | [Email](https://form.gov.sg/5dc1301bb9014c0012b8c7ac) | [WA](https://wa.me/6565119562) |
+| | Mr Johnny Chan | 65119588 | [Email](https://form.gov.sg/5db78593506fd6001264ff1f) | [WA](https://wa.me/6565119588) | 
+| 6 Resilience | Mr Ameen | 64999423 | [Email](https://form.gov.sg/5dc126385f93b50019043da0) | [WA](https://wa.me/6564999423) |
+| | Ms Li Lidan | 64999422 | [Email](https://form.gov.sg/5dc125051b03c20019122cfa) | [WA](https://wa.me/6564999422)| 
+| 6 Respect | Mr Daniel Ying | 64999421 | [Email](https://form.gov.sg/5dc130995bec6f0012034970) | [WA](https://wa.me/6564999421) |
+| | Mr Jeremy | 64999420 | [Email](https://form.gov.sg/61c9ea4847f7c60013117d25) | [WA](https://wa.me/6564999420) | 
+| | Ms Aileen Poon | 64999419 | [Email](https://form.gov.sg/5dc261f0c321c6001240d3c0) | [WA](https://wa.me/6564999419) | 
+| | | | | |
