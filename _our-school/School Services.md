@@ -46,7 +46,7 @@ Opening Hours: Mon-Fri 9 am-6 pm; Sat 9 am-1 pm
 
 Tel: 62719248 (Office) <br>
 Location: <img src="/images/Uniform%20Vendor%20Map.jpg" 
-     style="width:50%">
+     style="width: 40%">
 
 Website: [https://www.schooluniforms.sg/cantonment-primary-school/](https://www.schooluniforms.sg/cantonment-primary-school)
 
