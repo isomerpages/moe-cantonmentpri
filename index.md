@@ -14,8 +14,8 @@ sections:
       background: /images/e24f73442_454.jpg
       button: Contact Us
       url: /contact-us/
-  - resources:
-      title: Announcements
-      subtitle: "CHECK OUT THE LATEST "
-      button: CLICK HERE FOR MORE
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: ""
 ---
