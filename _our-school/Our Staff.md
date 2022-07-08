@@ -13,8 +13,8 @@ description: ""
 |   |   |   |   |   |
 | Mdm Ganesh | School Staff Developer |  65119643 | [Email](https://form.gov.sg/5dc1306d5bec6f0012034966) |  [WA](https://wa.me/6565119643) |
 | Mr Ameen | Assistant Year Head P5-6  |  64999423 | [Email](https://form.gov.sg/5dc126385f93b50019043da0) |  [WA](https://wa.me/6564999423) |
-| Ms Malinda Lim | Assistant Year Head P3-4 |  65119561 |  Email |  WA |
-| Ms So Bee Soon | Year Head P1-2 |  65119555 Ext 445 |                          Email |  WA |
+| Ms Malinda Lim | Assistant Year Head P3-4 |  65119561 |  [Email](https://form.gov.sg/5dc12cb31b03c2001912301f) |  [WA](https://wa.me/6565119561) |
+| Ms So Bee Soon | Year Head P1-2 |  65119555 Ext 445 | [Email](https://form.gov.sg/5dc11d231b03c200191229f0) |  [WA](https://wa.me/6565119646) |
 |  |   |   |   |   |
 | Mr Andy Fan | HOD Mathematics  |  65119555x 447 |                          Email |  WA |
 | Ms Caroline | HOD Science |  65119555 x 446 | Email |  WA |
