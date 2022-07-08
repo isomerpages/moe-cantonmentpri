@@ -32,6 +32,5 @@ Contact person: Shirley 8126-2310; Yoyo 98660836
 
 Email: [emltpt08@gmail.com](mailto:emltpt08@gmail.com)  
   
-[Infor Sheet on School Bus Services 2022.pdf](/files/Infor%20Sheet%20on%20School%20Bus%20Services%202022.pdf)
-
+[Infor Sheet on School Bus Services 2022.pdf](/files/Infor%20Sheet%20on%20School%20Bus%20Services%202022.pdf) <br>
 [CPS New Bus Registration Form for 2022.doc](https://cantonmentpri.moe.edu.sg/qql/slot/u535/About%20Us/Bookshop/CPS%20New%20Bus%20Registration%20Form%20for%202022.doc)
