@@ -77,7 +77,7 @@ description: ""
 |   | Mdm So Bee Soon  | 65119555 Ext 445 | [Email](https://form.gov.sg/61c9ed563cff100012cef5e8) | [WA](https://wa.me/6565119570) |
 |   | Mr Muhammad Zulhilmi Abdullah | 65119570 | [Email](https://form.gov.sg/5dc11f105f93b50019043af8) | [WA](https://wa.me/6564999417) |
 | 2 Resilience | Mr Tarmizi | 64999417 | [Email](https://form.gov.sg/60deacf6967a9000129466b5) | [WA](https://wa.me/6564999416) |
-|   | Ms Jaslin Yeo | 64999416 | [Email](https://form.gov.sg/5dc1252c5f93b50019043d41) | [WA](https://wa.me/6564999414) |
+|   | Ms Jaslin Yeo | 64999416 | [Email](https://form.gov.sg/60deacf6967a9000129466b5) | [WA](https://wa.me/6564999414) |
 | 2 Respect | Ms Cheong Mun See  | 64999414 | [Email](https://form.gov.sg/5dc1252c5f93b50019043d41) | [WA](https://wa.me/6564999414) |
 |   | Mdm Ganesh  | 65119643  | [Email](https://form.gov.sg/5dc1306d5bec6f0012034966) | [WA](https://wa.me/6565119643) |
 |   | Mr Huang Yao Tian | 64999413 | [Email](https://form.gov.sg/61c9ed123cff100012cef300) | [WA](https://wa.me/6564999413) |
