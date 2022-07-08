@@ -8,11 +8,11 @@ description: ""
 | Name | Role | Phone | Email (Click on "Email" to send an email to the teacher) | WhatsApp((Press WA link on your phone to start a chat) |
 |---|---|---|---|---|
 | Mrs Manokara S | Principal | 65119555 | [cantonment\_ps@moe.edu.sg](mailto:cantonment_ps@moe.edu.sg) |   |
-| Mrs Audrea Chin Meng Tsing  | Vice Principal | 65119555 | cantonment_ps@moe.edu.sg |   |
-| Ms Cheng Shin Miin | Vice Principal | 65119555 |  cantonment_ps@moe.edu.sg |   |
+| Mrs Audrea Chin Meng Tsing | Vice Principal | 65119555 | [cantonment\_ps@moe.edu.sg](mailto:cantonment_ps@moe.edu.sg) |   |
+| Ms Cheng Shin Miin | Vice Principal | 65119555 | [cantonment\_ps@moe.edu.sg](mailto:cantonment_ps@moe.edu.sg) |   |
 |   |   |   |   |   |
-| Mdm Ganesh | School Staff Developer |  65119643 |                          Email |  WA |
-| Mr Ameen | Assistant Year Head P5-6  |  64999423 | Email |  WA |
+| Mdm Ganesh | School Staff Developer |  65119643 | [Email](https://form.gov.sg/5dc1306d5bec6f0012034966) |  [WA](https://wa.me/6565119643) |
+| Mr Ameen | Assistant Year Head P5-6  |  64999423 | [Email](https://form.gov.sg/5dc126385f93b50019043da0) |  [WA](https://wa.me/6564999423) |
 | Ms Malinda Lim | Assistant Year Head P3-4 |  65119561 |  Email |  WA |
 | Ms So Bee Soon | Year Head P1-2 |  65119555 Ext 445 |                          Email |  WA |
 |  |   |   |   |   |
