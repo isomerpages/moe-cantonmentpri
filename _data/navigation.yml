@@ -1,6 +1,6 @@
 logo: /images/Capture.jpg
 links:
+  - title: Our School
+    collection: our-school
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
