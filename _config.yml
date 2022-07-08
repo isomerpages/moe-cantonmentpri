@@ -3,10 +3,10 @@ url: ""
 favicon: /images/ctmps.png
 colors:
   primary-color: "#0679c1"
-  secondary-color: "#90c646"
+  secondary-color: "#f57933"
   media-colors:
     - title: media-color-one
-      color: "#f77a2e"
+      color: "#90c646"
     - title: media-color-two
       color: "#787688"
     - title: media-color-three
