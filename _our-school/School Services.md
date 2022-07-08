@@ -51,3 +51,40 @@ Location: <img src="/images/Uniform%20Vendor%20Map.jpg"
 Website: [https://www.schooluniforms.sg/cantonment-primary-school/](https://www.schooluniforms.sg/cantonment-primary-school)
 
 \* Name tag orders are available online @ [https://tinyurl.com/cpsnametag](https://tinyurl.com/cpsnametag)
+
+### Kidz Treehouse International Pte Ltd
+
+School based Student Care Centre
+
+Email: [cps@kowabunga.com.sg](mailto:cps@kowabunga.com.sg) <br>
+Website: [www.kidztreehouse.com.sg](http://www.kidztreehouse.com.sg/)[  
+](https://kidztreehouse.com.sg/cps/) <br>
+For enquiry: 68505171 / 81272236
+
+### Dental Clinic @ CPS
+
+Opening dates in June. <br>
+2 <br>
+13 <br>
+14 <br>
+15 <br>
+27 <br>
+28 <br>
+29 <br>
+30 (Open during morning)  
+  
+For school based dentist appointments, please call 62253582. If you need to visit the dentist on other dates, contact Dental Centre below.
+
+For emergencies such as dental trauma, facial/gum swelling or toothache:  
+  
+Between 8 am to 4 pm call 64353782 <br>
+Health Promotion Board <br>
+School Dental Centre <br>
+3 Second Hospital Avenue <br>
+Singapore 168937  
+  
+After 4 pm <br>
+Proceed straight to Singapore General Hospital A&E <br>
+Outram Road <br>
+Singapore 169608 <br> 
+Tel: 62223322
