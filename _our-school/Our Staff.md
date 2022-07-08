@@ -106,6 +106,7 @@ description: ""
 |   | Ms Seah Lay Keng  | 64999410  | [Email](https://form.gov.sg/5dc12d155f93b5001904400d) | [WA](https://wa.me/6564999410) |
 | 3 Respect  | Ms Sally Low  | 64999405 | [Email](https://form.gov.sg/5dc128b61b03c20019122e80) | [WA](https://wa.me/6564999405) |
 |   | Mr Bunawar | 65119563 | [Email](https://form.gov.sg/5dc130e9b9014c0012b8c800) | [WA](https://wa.me/6565119563) |
+| | | | | |
 
 ### Primary 4
 
@@ -128,3 +129,20 @@ description: ""
 | | Mr Thomas Wong | 65119564 | [Email](https://form.gov.sg/5dc1243b5f93b50019043ce0) | [WA](https://wa.me/6565119564) | 
 |  | | | | |
 
+### Primary 5
+
+| Class | Name | Phone | Email | WA |
+| --- | --- | --- | --- | --- |
+| 5 Care | Mrs Persis Koh | 65119572  | [Email](https://form.gov.sg/5dc13043b9014c0012b8c7b8) | [WA](https://wa.me/6565119572) |
+|   | Mdm Lim Wan Jo  | 65119571 | [Email](https://form.gov.sg/5dc21e4cc321c6001240b7fe) | [WA](https://wa.me/6565119571) |
+| 5 Graciousness | Ms Loh Li Yoke | 65119573 | [Email](https://form.gov.sg/5dc2214711ecd70012ef9086)  | [WA](https://wa.me/6565119573) |
+|   | Mr Azhar | 65119586  | [Email](https://form.gov.sg/61c9eb126c60da00127bfaac) | [WA](https://wa.me/6565119586) |
+|   | Mdm Caroline  | 65119555 x 446 | [Email](https://form.gov.sg/5dc12b9f1b03c20019122fac) | [WA](https://wa.me/6565119558) |
+| 5 Integrity  | Mr Jerome Chong  | 65119566  | [Email](https://form.gov.sg/5dc2222511ecd70012ef90ed) | [WA](https://wa.me/6565119566) |
+|   | Mdm Shakila Banu | 64999246 | [Email](https://form.gov.sg/5dc12ce07dc06400122afa1c)  | [WA](https://wa.me/6564999246) |
+| 5 Resilience  | Mdm Sujatha | 65119569  | [Email](https://form.gov.sg/5e05835ddf378700118edee0) | [WA](https://wa.me/6565119569) |  
+| | Mr Shah Ally | 65119568 | [Email](https://form.gov.sg/5dc221dfc321c6001240b9a4)  | [WA](https://wa.me/6565119568) |
+|   | Mrs Jocelyn Chew  | 65119645 | [Email](https://form.gov.sg/5dc220d011ecd70012ef9051) | [WA](https://wa.me/6565119557) |
+| 5 Respect | Mrs Yap Pui Mei | 64999241  | [Email](https://form.gov.sg/5dc12ddd5bec6f001203485f) | [WA](https://wa.me/6564999241) |
+|   | Mr Jason Tan  | 64999244 | [Email](https://form.gov.sg/5dc2210811ecd70012ef9069) | [WA](https://wa.me/6564999244) |
+| | | | | |
