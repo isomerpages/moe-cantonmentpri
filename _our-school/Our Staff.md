@@ -177,4 +177,38 @@ description: ""
 | Mr Low Kiat | | | | 
 | Mrs Joy Loke | | [Email](https://form.gov.sg/5dc115a75f93b500190437b2) | 
 | Mdm Tan Kwa Hua | | [Email](https://form.gov.sg/62bcef9c72f5600012357d4e) | 
-| | | | | 
+| | | | |
+
+### Allied Educators
+
+| Name | Role | Phone | Email |
+|---|---|---|---|
+| Ms Ooi Huishan | Senior School Counsellor | 64999242 | [Email](https://form.gov.sg/5dc2237811ecd70012ef9180) |
+| Mdm Jenny Wong | Allied Educator (LBS) | 65119555 | [Email](https://form.gov.sg/5dc2239f11ecd70012ef9195) |
+| Ms Diana Ho | Student Welfare Officer   | 64999240 | [Email](https://form.gov.sg/5dc223ec11ecd70012ef91b4) |
+| Ms Ariela Yap | Allied Educator (LBS) | 64999243 | [Email](https://form.gov.sg/5ed48a3839b707001103884c) |
+| Ms Siti Norliza | Allied Educator (LBS) |   | [Email](https://form.gov.sg/62bcec6b3695530011cfd5a6) |
+| | | | |
+
+### Executive & Administrative Staff
+
+| Name | Role | Phone | Email |
+|---|---|---|---|
+| Mr Raymond Moo | Administration Manager | 65119553 | [Email](https://form.gov.sg/5dc2265cc321c6001240bc4b) |
+| Mr Mark Tham | Administration Manager | 65119642 | [Email](https://form.gov.sg/5ff659754b11630012b4c936) |
+| Mrs Mala Gunassaharan | Corporate Support Officer | 65119560 | [Email](https://form.gov.sg/5dc226b511ecd70012ef92ed) |
+| Mdm Peggy Tan | Corporate Support Officer  | 65119557 | [Email](https://form.gov.sg/5dc226e511ecd70012ef9302) |
+| Ms Siti Mariam | Adjunct Administrative Executive | 65119646  | [Email](https://form.gov.sg/62bcead53695530011cfb783) |
+| Mr Soffian | Adjunct Administrative Executive |  65119662 | [Email](https://form.gov.sg/62bce9f59277300012d2890f) |
+| Mr Puvan | ICT Manager | 65119555 | [Email](https://form.gov.sg/5dc227cb11ecd70012ef9354) |
+| My Johnny Ang | Receptionist cum Admin | 65119555 | |
+| Mr Low Leong Meng | Operations Manager | 65119559 |[Email](https://form.gov.sg/60a2072f5308590011e54827) |
+| Mdm Angeline Koh | Operations Support Officer | 65119555  | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
+| Mr Ong Boon Tiong | Operations Support Officer | 65119555 |  - |
+| Mdm Fauziah | Operations Support Officer | 65119555 | - |
+| Mr Alvin Lee | Adjunct Operations Support Officer | 65119555 | - |
+| Ms Nurul Kamilah | Librarian | 65119589 | [Email](https://form.gov.sg/5dc228ccc321c6001240bd52) |
+| Ms Lissy | Science Lab Technician  | 65119555  | [Email](https://form.gov.sg/5dc2294b11ecd70012ef93bb) |
+| Mr Edzhan | Desktop Engineer | 65119555 | - |
+| Ms Priya | Desktop Engineer | 65119555 | - |
+| | | | |
