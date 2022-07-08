@@ -172,7 +172,7 @@ description: ""
 |---|---|---|---|
 | Mr Lim YiQuan (Jobb) | 65119584 | [Email](https://form.gov.sg/61c9efe6b3479f00124dbdf2) | [WA](https://wa.me/6565119584) | 
 | Mdm Lim Yen Tong Rie | 65119555 Ext 450 |
-| Mr Hirman Md Khamis | 65119555 Ext 449 | [Email](https://form.gov.sg/61c9f02f454c2200125a1841) | | 
+| Mr Hirman Md Khamis | 65119555 Ext 449 | [Email](https://form.gov.sg/61c9f02f454c2200125a1841) | | 
 | Ms Wu Jiayue | | [Email](https://form.gov.sg/61c9ef7b2e385400128aed55) | |
 | Mr Low Kiat | | | | 
 | Mrs Joy Loke | | [Email](https://form.gov.sg/5dc115a75f93b500190437b2) | 
