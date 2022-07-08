@@ -4,27 +4,18 @@ title: Cantonment Primary School
 description: An Isomer site of the Singapore Government
 image: /images/Capture.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: Cantonment Primary School
+      subtitle: To nurture and empower our students to realise their potential and
+        aspirations so as to have a positive impact in the school and the
+        community
+      background: /images/e24f73442_454.jpg
       button: Contact Us
       url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - resources:
       title: Announcements
       subtitle: "CHECK OUT THE LATEST "
       button: CLICK HERE FOR MORE
 ---
-
