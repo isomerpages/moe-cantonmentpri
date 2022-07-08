@@ -41,3 +41,25 @@ description: ""
 | Mrs Yap Pui Mei | ST English Language |  64999241 | [Email](https://form.gov.sg/5dc12ddd5bec6f001203485f) | [WA](https://wa.me/6564999241) |
 | Ms Cassandra Siua | ST PE |  64999411 | [Email](https://form.gov.sg/5e0583cd8967b800114c11a7) | [WA](https://wa.me/6564999411) |
 | Mdm Lim Wan Jo | ST Science |  65119571 | [Email](https://form.gov.sg/5dc21e4cc321c6001240b7fe) | [WA](https://wa.me/6565119571) |
+|   |   |   |   |   |
+
+### Primary 1
+
+| Classs | Name | Phone | Email | WA |
+|---|---|---|---|---|
+| 1 Care | Mrs Evangelyn Goh | 64999233 | [Email](https://form.gov.sg/5dc12e3a5bec6f0012034894) | [WA](https://wa.me/6564999233) |
+|  | Mdm Zheng Lidan | 64999234 | [Email](https://form.gov.sg/5dc11f395f93b50019043b0b) | [WA](https://wa.me/6564999234) |
+|  1 Graciousness | Ms Judith Ogawa  | 64999235 | [Email](https://form.gov.sg/5e058457df378700118edef4)  |  |
+|   | Mrs Joleen Khoo  | 64999236 | [Email](https://form.gov.sg/5e9d32fe31bb1d0011180355) | [WA](https://wa.me/6564999236) |
+|  1 Integrity | Ms Huang Yinqi  | 64999237 | [Email](https://form.gov.sg/5dc11eb01b03c20019122a8b) | [WA](https://wa.me/6564999237) |
+|   | Mrs Prasana Ramesh  | 64999245 | [Email](https://form.gov.sg/5f9f6a974e781300114a537a) | [WA](https://wa.me/6564999245) |
+|   | Mdm Khloe Goh  | 64999232 | [Email](https://form.gov.sg/5dc11de15f93b50019043a85) | [WA](https://wa.me/6564999232) |
+|  1 Resilience | Mdm Toh Hong Yee | 64999238  | [Email](https://form.gov.sg/61c9ee4347f7c60013119d0a) | [WA](https://wa.me/6564999238) |
+|   | Ms Lau Kai Jing | 64999231 | [Email](https://form.gov.sg/5dc115231b03c200191226b6)  | [WA](https://wa.me/6564999231) |
+|  1 Respect | Ms Karen John  | 64999230 | [Email](https://form.gov.sg/5dc12c811b03c20019123004) | [WA](https://wa.me/6564999230) |
+|   | Ms Chua Jing Yi | 63036299 | [Email](https://form.gov.sg/61cd69393cff1000121db933) | [WA](https://wa.me/6563036299) |
+|  1 Harmony | Ms Gloria Tan | 63036298 | [Email](https://form.gov.sg/61fb200c07aa770012cc998c) | [WA](https://wa.me/6563036298) |
+|   | Mrs Samantha Kong | 65119587 | [Email](https://form.gov.sg/5dc130c7b9014c0012b8c7dc) | [WA](https://wa.me/6565119587) |
+|  1 Compassion | Mdm Goh Li Li  | 63036297 | [Email](https://form.gov.sg/5dc11d8a1b03c20019122a22) | [WA](https://wa.me/6563036297) |
+|   | Mr Nur Muhammad | 63036296 | [Email](https://form.gov.sg/5dc129795f93b50019043ed1) | [WA](https://wa.me/6563036296) |
+| | | | | |
