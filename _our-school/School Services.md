@@ -14,11 +14,24 @@ Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/) <br>
 For enquiry:  62259241 or WhatsApp to [90239270](https://wa.me/6590239270) by clicking this [link](https://wa.me/6565119568)
 
 **Booklist For 2022** <br>
-[2022 P1.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/About%20Us/Bookshop/2022%20P1.pdf) <br>
-[2022 P2.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/About%20Us/Bookshop/2022%20P2.pdf) <br>
-[2022 P3.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/About%20Us/Bookshop/2022%20P3.pdf) <br>
-[2022 P4.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/About%20Us/Bookshop/2022%20P4.pdf) <br>
-[2022 P5 FDN.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/About%20Us/Bookshop/2022%20P5%20FDN.pdf) <br>
-[2022 P5 STD.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/About%20Us/Bookshop/2022%20P5%20STD.pdf) <br>
-[2022 P6 FDN.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/About%20Us/Bookshop/2022%20P6%20FDN.pdf) <br>
-[2022 P6 STD.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/About%20Us/Bookshop/2022%20P6%20STD.pdf)
+[2022 P1.pdf](/files/2022%20P1.pdf) <br>
+[2022 P2.pdf](/files/2022%20P2.pdf) <br>
+[2022 P3.pdf](/files/2022%20P3.pdf) <br>
+[2022 P4.pdf](/files/2022%20P4.pdf) <br>
+[2022 P5 FDN.pdf](/files/2022%20P5%20FDN.pdf) <br>
+[2022 P5 STD.pdf](/files/2022%20P5%20STD.pdf) <br>
+[2022 P6 FDN.pdf](/files/2022%20P6%20FDN.pdf) <br>
+[2022 P6 STD.pdf](/files/2022%20P6%20STD.pdf)
+
+### Bus Transport
+
+Revolving Transport Pte Ltd
+
+Tel: 6479-7597 (Office) <br>
+Contact person: Shirley 8126-2310; Yoyo 98660836
+
+Email: [emltpt08@gmail.com](mailto:emltpt08@gmail.com)  
+  
+[Infor Sheet on School Bus Services 2022.pdf](/files/Infor%20Sheet%20on%20School%20Bus%20Services%202022.pdf)
+
+[CPS New Bus Registration Form for 2022.doc](https://cantonmentpri.moe.edu.sg/qql/slot/u535/About%20Us/Bookshop/CPS%20New%20Bus%20Registration%20Form%20for%202022.doc)
