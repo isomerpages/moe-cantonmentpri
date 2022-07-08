@@ -90,3 +90,41 @@ description: ""
 | 2 Kindness | Mrs Jocelyn Lee | 65119583 | [Email](https://form.gov.sg/5dc11e395f93b50019043aa9)  | [WA](https://wa.me/6565119583) |
 |   | Ms Liyu Min Yi | 65119584 | [Email](https://form.gov.sg/5e05880edf378700118edf96) |  |
 | | | | | |
+
+### Primary 3
+
+| Class | Name | Phone | Email | WA |
+| --- | --- | --- | --- | --- |
+|  3 Care | Mdm Kalai | 65119580 | [Email](https://form.gov.sg/5dc12bc45f93b50019043f93) | [WA](https://wa.me/6565119580) |
+|   | Ms Wu Jiayue | 65119555 Ext 436 | [Email](https://form.gov.sg/61c9ef7b2e385400128aed55) |   |
+| 3 Graciousness | Mdm Gladys Tay | 64999408  | [Email](https://form.gov.sg/5dc2209ec321c6001240b922)  | [WA](https://wa.me/6564999408) |
+|   | Ms Afidah | 64999409 | [Email](https://form.gov.sg/61c9ec3a6c60da00127c039b) | [WA](https://wa.me/6564999409) |
+|   | Ms Lin Huiling  | 64999404 | [Email](https://form.gov.sg/5fe1689b0ffe9700112c9032) | [WA](https://wa.me/6564999404) |
+| 3 Integrity | Mr Kumar  | 64999407 | [Email](https://form.gov.sg/61c9ec7e2e385400128ad9cc)  | [WA](https://wa.me/6564999407)  |
+|   | Ms Cassandra Siua  | 64999411  | [Email](https://form.gov.sg/5e0583cd8967b800114c11a7) | [WA](https://wa.me/6564999411) |
+| 3 Resilience | Mr Seah Tiong Boon | 64999406 | [Email](https://form.gov.sg/5dc12b7a1b03c20019122f9b)   | [WA](https://wa.me/6564999406) |
+|   | Ms Seah Lay Keng  | 64999410  | [Email](https://form.gov.sg/5dc12d155f93b5001904400d) | [WA](https://wa.me/6564999410) |
+| 3 Respect  | Ms Sally Low  | 64999405 | [Email](https://form.gov.sg/5dc128b61b03c20019122e80) | [WA](https://wa.me/6564999405) |
+|   | Mr Bunawar | 65119563 | [Email](https://form.gov.sg/5dc130e9b9014c0012b8c800) | [WA](https://wa.me/6565119563) |
+
+### Primary 4
+
+| Class | Name | Phone | Email | WA| 
+|---|---|---|---|---|
+| 4 Care | Ms Yvonne Koh | 64999401 | [Email](https://form.gov.sg/5dc1240c5f93b50019043cc5) | [WA](https://wa.me/6564999401) |
+| | Mdm Rachel Wong | 65119644 | [Email](https://form.gov.sg/5dc12e165bec6f001203487c)| [WA](https://wa.me/6565119644) | 
+| | Mrs Jenny Tham | 64999404 | [Email](https://form.gov.sg/62bce8f2375a2d00124a9ffe) | [WA](https://wa.me/6564999404)| 
+| 4 Graciousness | Mr Caleb Lim | 64999402 | [Email](https://form.gov.sg/5dc1248a1b03c20019122cc3) | [WA](https://wa.me/6564999402) | 
+| | Mdm Tay Yong Ngee | 64999403 | [Email](https://form.gov.sg/5dc115645f93b50019043792) | [WA](https://wa.me/6564999403) | 
+| 4 Integrity| Mrs Arun | 64999249 | [Email](https://form.gov.sg/5e0587cddf378700118edf8b) | [WA](https://wa.me/6564999249) | 
+| | Mrs Tan Sze Mian | 65119585 | [Email](https://form.gov.sg/5dc12f9c5bec6f0012034925) | [WA](https://wa.me/6565119585) | 
+| | Mr Yahya | 64999400 | [Email](https://form.gov.sg/5dc221b5c321c6001240b990) | [WA](https://wa.me/6564999400) | 
+| 4 Resilience| Ms Sangeetha | 64999248 | [Email](https://form.gov.sg/5ed48b24f2ec2d00118d4083) | [WA](https://wa.me/6564999248) | 
+| | Ms Malinda Lim| 65119561 | [Email](https://form.gov.sg/5dc12cb31b03c2001912301f) | [WA](https://wa.me/6565119561) | 
+| 4 Respect | Mr Alan | 65119576 | [Email](https://form.gov.sg/5dc125625f93b50019043d54) | [WA](https://wa.me/6565119576) | 
+| | Ms Kaylen Ang | 64999243 | [Email](https://form.gov.sg/5dc115e95f93b500190437c3) | [WA](https://wa.me/6564999243) |
+| 4 Harmony | Ms Zhang Fang | 65119575 | [Email](https://form.gov.sg/5dc12c095f93b50019043fb2) | [WA](https://wa.me/6565119575) | 
+| | Mrs Tan Guat Hwa | 65119562 | [Email](https://form.gov.sg/61c9ebb4f46e8700121fb164) | [WA](https://wa.me/6565119562) | 
+| | Mr Thomas Wong | 65119564 | [Email](https://form.gov.sg/5dc1243b5f93b50019043ce0) | [WA](https://wa.me/6565119564) | 
+|  | | | | |
+
