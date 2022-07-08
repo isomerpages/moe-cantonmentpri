@@ -83,7 +83,7 @@ description: ""
 |   | Mr Huang Yao Tian | 64999413 | [Email](https://form.gov.sg/5dc1174b5f93b5001904386d) | [WA](https://wa.me/6563036291) |
 | 2 Harmony | Mrs Donica Goh | 63036291 | [Email](https://form.gov.sg/61cd6a0cb3479f00129cb069) | [WA](https://wa.me/6565119642) |
 |   | Ms Nicole Ooi | 6511955 Ext 488 | [Email](https://form.gov.sg/5e42c22f228e6f0011eaede8) | [WA](https://wa.me/6565119581) |
-| 2 Compassion | Mr Jared Goh | 65119581 | [Email](https://form.gov.sg/5dc11e7f1b03c20019122a73) | [WA](https://wa.me/6565119582) |
+| 2 Compassion | Mr Jared Goh | 65119581 | [Email](https://form.gov.sg/5e42c22f228e6f0011eaede8) | [WA](https://wa.me/6565119581) |
 |   | Mdm Adeline Ong | 65119582 | [Email](https://form.gov.sg/5dc11e7f1b03c20019122a73) | [WA](https://wa.me/6565119582) |
 | 2 Responsibility | Mdm Jasmin How | 65119577 | [Email](https://form.gov.sg/5dc118535f93b500190438be) | [WA](https://wa.me/6565119577) |
 |   | Mdm Nurhiza | 65119578 | [Email](https://form.gov.sg/5dc124691b03c20019122cb2) | [WA](https://wa.me/6565119578) |
