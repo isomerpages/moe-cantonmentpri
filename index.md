@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Cantonment Primary School
 description: An Isomer site of the Singapore Government
 image: /images/Capture.jpg
 permalink: /
@@ -27,3 +27,4 @@ sections:
       subtitle: "CHECK OUT THE LATEST "
       button: CLICK HERE FOR MORE
 ---
+
