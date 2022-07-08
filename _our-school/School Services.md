@@ -34,3 +34,20 @@ Email: [emltpt08@gmail.com](mailto:emltpt08@gmail.com)
   
 [Infor Sheet on School Bus Services 2022.pdf](/files/Infor%20Sheet%20on%20School%20Bus%20Services%202022.pdf) <br>
 [CPS New Bus Registration Form for 2022.doc](https://cantonmentpri.moe.edu.sg/qql/slot/u535/About%20Us/Bookshop/CPS%20New%20Bus%20Registration%20Form%20for%202022.doc)
+
+### School Uniform
+
+Bibi&Baba Private Limited       
+
+Office/Retail: <br>
+213, Henderson Road, #01-12, Singapore 159553 
+
+Opening Hours: Mon-Fri 9 am-6 pm; Sat 9 am-1 pm
+
+Tel: 62719248 (Office) <br>
+Location: <img src="/images/Uniform%20Vendor%20Map.jpg" 
+     style="width:50%">
+
+Website: [https://www.schooluniforms.sg/cantonment-primary-school/](https://www.schooluniforms.sg/cantonment-primary-school)
+
+\* Name tag orders are available online @ [https://tinyurl.com/cpsnametag](https://tinyurl.com/cpsnametag)
