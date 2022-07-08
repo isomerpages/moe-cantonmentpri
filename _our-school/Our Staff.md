@@ -165,3 +165,16 @@ description: ""
 | | Mr Jeremy | 64999420 | [Email](https://form.gov.sg/61c9ea4847f7c60013117d25) | [WA](https://wa.me/6564999420) | 
 | | Ms Aileen Poon | 64999419 | [Email](https://form.gov.sg/5dc261f0c321c6001240d3c0) | [WA](https://wa.me/6564999419) | 
 | | | | | |
+
+### Other Teaching Staff
+
+| Name | Phone | Email | WA | 
+|---|---|---|---|
+| Mr Lim YiQuan (Jobb) | 65119584 | [Email](https://form.gov.sg/61c9efe6b3479f00124dbdf2) | [WA](https://wa.me/6565119584) | 
+| Mdm Lim Yen Tong Rie | 65119555 Ext 450 |
+| Mr Hirman Md Khamis | 65119555 Ext 449 | [Email](https://form.gov.sg/61c9f02f454c2200125a1841) | | 
+| Ms Wu Jiayue | | [Email](https://form.gov.sg/61c9ef7b2e385400128aed55) | |
+| Mr Low Kiat | | | | 
+| Mrs Joy Loke | | [Email](https://form.gov.sg/5dc115a75f93b500190437b2) | 
+| Mdm Tan Kwa Hua | | [Email](https://form.gov.sg/62bcef9c72f5600012357d4e) | 
+| | | | | 
