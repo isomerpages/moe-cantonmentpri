@@ -68,9 +68,9 @@ description: ""
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| Class | Name | Phone | [Email](https://form.gov.sg/5dc10e9d1b03c2001912244d) | [WA](https://wa.me/6563036293) |
-| 2 Care | Mdm Mubina | 63036293 | [Email](https://form.gov.sg/5dc112571b03c200191225c5) | [WA](https://wa.me/6563036294) |
-|  | Mr Wilson Kwa | 63036294 | [Email](https://form.gov.sg/5fe170580ffe9700112ca150) | [WA](https://wa.me/6563036295) |
+| Class | Name | Phone | Email  | WA |
+| 2 Care | Mdm Mubina | 63036293 | [Email](https://form.gov.sg/5dc10e9d1b03c2001912244d) | [WA](https://wa.me/6563036293)  |
+|  | Mr Wilson Kwa | 63036294 | [Email](https://form.gov.sg/5dc112571b03c200191225c5) | [WA](https://wa.me/6563036294) |
 | 2 Graciousness | Mrs Joanna Siasat | 63036295 | [Email](https://form.gov.sg/5fe170580ffe9700112ca150) | [WA](https://wa.me/6563036295) |
 |   | Mr Joshua Goh | 63036292 | [Email](https://form.gov.sg/5dc11d611b03c20019122a14) | [WA](https://wa.me/6563036292) |
 | 2 Integrity | Mr David Sim  | 64999412 | [Email](https://form.gov.sg/5dc114db1b03c2001912269c) | [WA](https://wa.me/6565119646) |
