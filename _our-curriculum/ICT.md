@@ -22,5 +22,14 @@ NML are woven into all lessons at different levels progessively. Our Primary 1 t
 <img src="/images/ICT%2002.jpeg" 
      style="width:80%">
 
+<figure>  
 <img src="/images/ICT%2003.jpg" 
-     style="width:80%">
+     style="width:80%">  
+<figcaption> Primary 1 students during touch typing </figcaption>  
+</figure>
+
+<u><strong> Cyber Wellness </strong></u><br>
+Cyber Wellness (CW) in Character and Citizenship Education (CCE) focuses on the well-being of our students as they navigate cyberspace. Our curriculum aims to equip students with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace and be safe and responsible users of ICT.
+
+<u><strong> MOE Cyber Wellness Framework </strong></u><br>
+The school adopts MOE’s Cyber Wellness Framework in educating our students on Cyber Wellness. This framework focuses on three key processes: Sense, Think and Act.
