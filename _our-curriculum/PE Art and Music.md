@@ -107,6 +107,7 @@ The aim of the PAM Fiesta is to promote the love for the arts and a healthy life
      style="width:70%">
 		 
 ### CCA
+
 | S/N | CCA | Description |
 |---|---|---|
 | **SPORTS & GAMES** |  |  |
