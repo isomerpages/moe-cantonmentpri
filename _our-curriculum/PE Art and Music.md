@@ -20,4 +20,12 @@ The current situation may not have allowed for physical inter-class competitions
  
 <img src="/images/PAM%202.jpg" 
      style="width:70%">
-
+		 
+<img src="/images/PAM%203.jpg" 
+     style="width:70%">
+		 
+<img src="/images/PAM%204.jpg" 
+     style="width:70%">
+		 
+<img src="/images/PAM%205.jpg" 
+     style="width:70%">
