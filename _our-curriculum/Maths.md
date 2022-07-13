@@ -96,6 +96,7 @@ Students make use of an application enabled robotic ball to draw different shape
 
 Using the properties of the shapes students have learnt, they use the robotic ball application on the mobile device to command the robotic ball to draw out the shapes they are learning.
 
+-------------
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -118,4 +119,3 @@ Using the properties of the shapes students have learnt, they use the robotic ba
   </tr>
 </thead>
 </table>
-
