@@ -61,3 +61,43 @@ The Covid-19 Safe Management Measures (SMM) did not dampen our school’s spirit
 From 2018, all primary school students will get to visit a museum as part of the refreshed art education syllabus aimed to make learning more authentic and to expose students to Singapore art. The MBL experience is designed to provide both breadth and depth of learning local art as part of all Primary 4 students’ core learning experience in the art curriculum.
 
 The experience comprises pre-, during- and post-visit experiences to National Gallery Singapore where students are involved as artists and audience to create and appreciate art. MBL culminates in a showcase of students’ art expressions that will form part of the collective memory for all Singaporean students. There is a greater focus on visual inquiry skills – observation and interpretation – and reflecting on artwork through activities and discussions facilitated by the education facilitator of the museum.
+
+<img src="/images/PAM%2012.jpg" 
+     style="width:70%">
+
+<img src="/images/PAM%2013.jpg" 
+     style="width:70%">
+		 
+<img src="/images/PAM%2014.jpg" 
+     style="width:70%">
+		 
+<u><strong> Primary 5 Camp </u></strong><br>
+The Primary 5 Outdoor Camp is a 3-day programme that is part of MOE’s initiative to provide every primary school child with an outdoor experience to promote the development of social skills, knowledge and values.
+
+The camp serves as a platform for the students to integrate their learning of the various academic subjects through the provision of outdoor experiences. In the camp, students engage in outdoor activities, embrace diversity through social mixing opportunities and develop positive Teacher-Student Relationships via out-of-classroom interactions.
+
+<img src="/images/PAM%2015.jpg" 
+     style="width:70%">
+		 
+<img src="/images/PAM%2016.jpg" 
+     style="width:70%">
+		 
+<img src="/images/PAM%2017.jpg" 
+     style="width:70%">
+		 
+<img src="/images/PAM%2018.jpg" 
+     style="width:70%">
+		 
+<u><strong> Gems Jam (All levels) </u></strong><br>
+In line with our Learning for Life Programme, the annual Gems Jam is an inclusive talent competition which encourages all students to showcase their talents in the performing arts. Students can participate in the Junior, Middle and Upper Primary Category by performing an instrumental piece, sing or dance. The song composing category is open to the middle and upper primary students to encourage original song composition which promotes the school core values. The inter-class category encourages students to perform as a class. All students are provided with training during Music lessons so that students can uncover their hidden talents.
+
+<img src="/images/PAM%2019.png" 
+     style="width:70%">
+
+<img src="/images/PAM%2020.png" 
+     style="width:70%">
+		 
+<u> <strong> PAM Fiesta (All levels) </u> </strong><br>  
+The aim of the PAM Fiesta is to promote the love for the arts and a healthy lifestyle. Every year, the PAM Fiesta, held in the last week of Term 3 brings out the sporty, artistic and musical side of Cantonment students. Students participate in music, art and physical activities. This includes watching performances put up by winners of the Gems Jam during the assembly as well as during the recesses. Art activities such as painting, drawing and craft work are also made available for the students during the recesses. The annual art competition also provides a platform for students to showcase their artistic talents. Physical and health-related activities are carried out during the assembly and recess periods to bring fun and laughter to the children. PAM Fiesta is also a platform where PE projects are displayed for students to appreciate their peers’ work.
+
+![](/images/PAM%2021.png)
