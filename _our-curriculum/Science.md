@@ -32,7 +32,7 @@ The Science department supports the school’s Learning for Life Programme (Perf
 The Science department supports the school’s Applied Learning Programme (Thinking) through the Toy Making programme. The Toy Making programme offers all Primary 5 students the opportunity to design an innovative toy using creative thinking strategies. Students work in teams to learn toy-making techniques and use Science to explain how their toy works. Outstanding toys will be selected to represent the school at the Sony Creative Science Award competition organized by the Science Centre Singapore and the Sony Group of Companies in Singapore, with the support of the Ministry of Education.
 
 <img src="/images/science5.jpeg" 
-     style="width:50%">
+     style="width:40%">
 		 
 **Excellence 2000 Programme (E2K Science)** <br>
 The E2K Science Programme offers opportunities for students to engage in scientific investigations to discover and deepen their understanding of advanced science concepts through an inquiry approach. This programme is offered to selected Primary 4 and 5 students based on their interest and aptitude in Science.
