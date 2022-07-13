@@ -56,3 +56,8 @@ Students need to:
 
 Guided by MOE’s Cyber Wellness Framework, our school values are aligned to cyber wellness principles and taught to the students
 
+<figure>  
+<img src="/images/ICT%2005.jpg" 
+     style="width:80%">  
+<figcaption> CPS School Values that help students navigate the digital world </figcaption>  
+</figure>
