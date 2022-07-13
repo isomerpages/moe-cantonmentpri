@@ -54,7 +54,12 @@ Students apply equivalent ratio to calculate the height of the school building.
 
 Fieldwork – taking measurement.
 
-----------
+<br> 
+<br>
+<br>
+<br> 
+
+--------
 
  (b)                **Nets of a Milk Carton**
 
@@ -69,3 +74,48 @@ Students make connections between what they learn in theory and real-life.
 	</div>
 	
 With the knowledge learnt about nets of solid figures, students calculated the capacity of a milk carton.
+
+-------------- 
+
+<img src="/images/maths5.jpg"
+		 style="width:60%">
+		 
+---------------
+
+(c)          **Properties of shapes** 
+
+Students make use of an application enabled robotic ball to draw different shapes.
+
+<div>
+<div style= "float: left">
+<img src="/images/maths.jpg"
+		 style="width:60%">
+	</div>
+	<div> </div>
+	</div>
+
+Using the properties of the shapes students have learnt, they use the robotic ball application on the mobile device to command the robotic ball to draw out the shapes they are learning.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 341px">
+<colgroup>
+<col style="width: 158px">
+<col style="width: 183px">
+</colgroup>
+<thead>
+  <tr>
+    <td class="tg-0lax"><img src="/images/maths.jpg"
+		 style="width:60%"></td>
+    <td class="tg-0lax">Using the properties of the shapes students have learnt, they use the robotic ball application on the mobile device to command the robotic ball to draw out the shapes they are learning.</td>
+  </tr>
+</thead>
+</table>
+
