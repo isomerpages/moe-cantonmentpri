@@ -2,7 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Mother Tongue.md
       - English.md
       - Maths.md
       - Science.md
+      - Mother Tongue.md
