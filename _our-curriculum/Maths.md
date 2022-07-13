@@ -86,18 +86,6 @@ With the knowledge learnt about nets of solid figures, students calculated the c
 
 Students make use of an application enabled robotic ball to draw different shapes.
 
-<div>
-<div style= "float: left">
-<img src="/images/maths.jpg"
-		 style="width:60%">
-	</div>
-	<div> </div>
-	</div>
-
-Using the properties of the shapes students have learnt, they use the robotic ball application on the mobile device to command the robotic ball to draw out the shapes they are learning.
-
--------------
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
