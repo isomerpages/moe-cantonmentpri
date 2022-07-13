@@ -58,6 +58,23 @@ Guided by MOE’s Cyber Wellness Framework, our school values are aligned to cyb
 
 <figure>  
 <img src="/images/ICT%2005.jpg" 
-     style="width:80%">  
+     style="width:90%">  
+<figcaption> CPS School Values that help students navigate the digital world </figcaption>  
+</figure>
+
+<u><strong> Assembly Talks </strong></u><br>
+Our students attend assembly talks and complete classroom lessons and activities during assembly periods which teaches them how to stay safe in cyber world. Topics covered include fake news, copyright issues, cyber-gaming, Internet addiction, cyber-bullying and cyber-relationships.
+
+<u><strong> Cyber Wellness (CW) Ambassador Training </strong></u><br>
+To empower our students to lead in Cyber Wellness (CW) efforts, our Primary 4 to Primary 6 students who are selected as the CW Student Ambassador of their class attend a training session where teachers equip them with information on CW and share tips on how to advocate positive online behaviours. The CW Ambassador will advocate CW efforts planned for the school as well as participate in external CW events.
+
+<u><strong> Cyber Wellness Online Activities by CW Ambassadors </strong></u><br>
+The following online activities were created by our students. Please  click on the pictures for more details of the projects. 
+
+**Cyber Wellness Posters**
+
+<figure>  
+<img src="![](/images/ICT%2006.png)" 
+     style="width:90%">  
 <figcaption> CPS School Values that help students navigate the digital world </figcaption>  
 </figure>
