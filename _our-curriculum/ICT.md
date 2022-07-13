@@ -74,7 +74,22 @@ The following online activities were created by our students. Please  click on 
 **Cyber Wellness Posters**
 
 <figure>  
-<img src="![](/images/ICT%2006.png)" 
+<img src="/images/ICT%2006.png" 
      style="width:90%">  
-<figcaption> CPS School Values that help students navigate the digital world </figcaption>  
+<figcaption> CW posters created by our CW ambassadors </figcaption>  
 </figure>
+
+**Cyber Wellness Games**
+<img src="/images/ICT%2007.png" 
+     style="width:80%">  
+
+<figure>  
+<img src="/images/ICT%2008.png" 
+     style="width:90%">  
+<figcaption> CW Games created by our CW ambassadors </figcaption>  
+</figure>
+
+<u><strong> Code For Fun (CFF) </strong></u><br>
+The Code for Fun (CFF) Enrichment Programme is offered to all MOE primary and secondary schools. CFF includes learning of related concepts using visual-based programming language, combining it with robotic kits and/or microcontrollers.
+
+The curriculum also includes the basics of emerging technologies such as artificial intelligence (A.I). CFF aims to create a coding experience for our students and teach them core computational and coding concepts through simple visual programming-based lessons.
