@@ -71,7 +71,7 @@ The experience comprises pre-, during- and post-visit experiences to National Ga
 <img src="/images/PAM%2014.jpg" 
      style="width:70%">
 		 
-<u><strong> Primary 5 Camp </u></strong><br>
+<u><strong> Primary 5 Camp </u> </strong> <br>
 The Primary 5 Outdoor Camp is a 3-day programme that is part of MOE’s initiative to provide every primary school child with an outdoor experience to promote the development of social skills, knowledge and values.
 
 The camp serves as a platform for the students to integrate their learning of the various academic subjects through the provision of outdoor experiences. In the camp, students engage in outdoor activities, embrace diversity through social mixing opportunities and develop positive Teacher-Student Relationships via out-of-classroom interactions.
@@ -129,5 +129,4 @@ The aim of the PAM Fiesta is to promote the love for the arts and a healthy life
 | **UNIFORMED GROUPS** |  |  |
 | 15 | Scouts | Students will:<br>• learn to work in environments that are intellectually and physically challenging; <br>• work in teams to overcome challenges and solve problems; <br>• be engaged in activities that are fun and encourage self-discovery. |
 | 16 | Red Cross | Students will:<br>• learn first-aid skills and knowledge;<br>• develop a sense of social responsibility;<br>• network with Red Cross members from other schools. |
-| | | | 
-
+| | | |
