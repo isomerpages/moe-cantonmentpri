@@ -27,18 +27,18 @@ The key strategies used in the Lower Primary classrooms are as follows:
 
 ![](/images/english1.png)
 
-1) Reading and Viewing - Shared Book Approach (SBA)
-2) Writing and Representing - Guided Class Writing
-3) Differentiated Focus Lessons (DFLs) - Word Study
+1) Reading and Viewing - Shared Book Approach (SBA) <br>
+2) Writing and Representing - Guided Class Writing <br>
+3) Differentiated Focus Lessons (DFLs) - Word Study <br>
 
 The key strategies used in the Upper Primary classrooms are as follows:
 
 ![](/images/english2.jpg)
 
-1) Silent reading - Sustained Silent Reading Approach
-2) Reading and understanding of text - Supported Reading Approach
-3) Composition writing – Writing Process Cycle Approach
-4) Differentiated learning – Differentiated Instruction Approach
+1) Silent reading - Sustained Silent Reading Approach <br>
+2) Reading and understanding of text - Supported Reading Approach <br>
+3) Composition writing – Writing Process Cycle Approach <br>
+4) Differentiated learning – Differentiated Instruction Approach <br>
 
   
 **School Based Curriculum** <br>
