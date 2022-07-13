@@ -34,7 +34,8 @@ Cyber Wellness (CW) in Character and Citizenship Education (CCE) focuses on the 
 <u><strong> MOE Cyber Wellness Framework </strong></u><br>
 The school adopts MOE’s Cyber Wellness Framework in educating our students on Cyber Wellness. This framework focuses on three key processes: Sense, Think and Act.
 
-![](/images/ICT%2004.png)
+<img src="/images/ICT%2004.png" 
+     style="width:80%">  
 
 MOE uses the CW framework to develop the child’s instinct to protect and empower him to take responsibility for his own well-being in cyberspace. The three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’ when adhered to will anchor a child’s well-being in cyberspace as he/she will then be able to make careful and well-considered decisions.  
 
