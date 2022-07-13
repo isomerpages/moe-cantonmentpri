@@ -14,7 +14,7 @@ Our Mother Tongue Language department seeks to
 
 ### Signature Programmes
 <img src="/images/mtl1.jpg" 
-     style="width:80%">
+     style="width:60%">
 
 **Performing Arts for Values Education and Excellence (PAVE)** <br>
 In line with our school’s Learning for Life Programme (PAVE), drama is used as a pedagogy for Primary 1 to 6 students. The Primary 1 and 2 students go through an introduction to drama for 2 weeks during the Mother Tongue fortnight week. From Primary 3 onwards, drama is infused into the teaching of selected comprehension/composition lessons. This personification of the characters also allows students the opportunity to examine the texts/pictures at a deeper level. Additionally, songs are incorporated into the curriculum to promote the joy of learning in MTL.
