@@ -97,7 +97,7 @@ In line with our Learning for Life Programme, the annual Gems Jam is an inclusiv
 <img src="/images/PAM%2020.png" 
      style="width:70%">
 		 
-<u><strong> PAM Fiesta (All levels) </strong></u><br>  
+<u><strong> PAM Fiesta (All levels) </strong></u><br> 
 The aim of the PAM Fiesta is to promote the love for the arts and a healthy lifestyle. Every year, the PAM Fiesta, held in the last week of Term 3 brings out the sporty, artistic and musical side of Cantonment students. Students participate in music, art and physical activities. This includes watching performances put up by winners of the Gems Jam during the assembly as well as during the recesses. Art activities such as painting, drawing and craft work are also made available for the students during the recesses. The annual art competition also provides a platform for students to showcase their artistic talents. Physical and health-related activities are carried out during the assembly and recess periods to bring fun and laughter to the children. PAM Fiesta is also a platform where PE projects are displayed for students to appreciate their peers’ work.
 
 <img src="/images/PAM%2021.png" 
