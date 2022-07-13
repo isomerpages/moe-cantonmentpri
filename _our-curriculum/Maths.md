@@ -67,7 +67,7 @@ Students make connections between what they learn in theory and real-life.
 <div>
 <div style= "float: left">
 <img src="/images/maths4.png"
-		 style="width:50%">
+		 style="width:60%">
 	</div>
 	<div> </div>
 	</div>
@@ -94,3 +94,14 @@ Students make use of an application enabled robotic ball to draw different shape
 	</div>
 
 Using the properties of the shapes students have learnt, they use the robotic ball application on the mobile device to command the robotic ball to draw out the shapes they are learning.
+
+------------
+
+**Enrichment** <br>
+Students who demonstrate potential for learning advanced mathematics are provided the opportunities to participate in programmes to foster independence in the students’ Mathematical thinking skills. 
+
+*(a) Excellence 2000 Programme (E2K Maths)* <br>
+This programme is offered to selected Primary 4 and 5 students.
+
+*(b) Mathematics Olympiad Programme* <br>
+This programme is offered to selected Primary 4 to 6 students.
