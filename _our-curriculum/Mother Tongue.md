@@ -42,3 +42,27 @@ Students’ learning is deepened as students use ICT regularly in the MTL lesson
 MTL reading programme activities are catered to all Primary 1 to Primary 5 students. The objective of this programme is to promote a love of reading and to cultivate good reading habits amongst students.
 
 ![](/images/mtl%20reading.jpg)
+
+The MTL Cultural Corner has also been set up in the school’s library to showcase the rich culture and heritage of the different ethnic groups. This corner is used to deepen students’ understanding of different cultures through meaningful and engaging activities incorporated in the curriculum.
+
+![](/images/mtl.jpg)
+
+**Conversational Chinese/Malay Programme (CCM)** <br>
+The Conversational Chinese and Malay Programme (CCM) has been a MOE initiated programme since 2005. The school offers this programme to Primary 3 and Primary 4 students who are interested. This programme aims to help students communicate (listen and speak) in everyday situations using the MTLs and to understand and respond to conversations or verbal narratives on selected issues. Through the programme, Primary 3 and Primary 4 students are able to communicate effectively with their counterparts, and to better understand and appreciate Chinese / Malay culture and values and enhance their rapport with Chinese / Malay-speaking friends.
+
+### Useful Links
+
+Ezhishi: [https://www.ezhishi.net/](https://www.ezhishi.net/)
+
+Online English-Chinese Dictionary: [http://www.iciba.com/](http://www.iciba.com/)
+
+Online Chinese Dictionary: [http://www.zdic.net/](http://www.zdic.net/)
+
+Online Picture Story Books: [http://www.qbaobei.com/plans/huibenzaixian/](http://www.qbaobei.com/plans/huibenzaixian/)
+
+Online Malay Dictionary: [http://prpm.dbp.gov.my/](http://prpm.dbp.gov.my/)
+
+Animated stories for kids (TL): <br>
+[https://www.youtube.com/watch?v=06CoXN1G3a8](https://www.youtube.com/watch?v=06CoXN1G3a8) <br>
+[https://www.youtube.com/watch?v=glYUlhAsSYk](https://www.youtube.com/watch?v=glYUlhAsSYk) <br>
+[https://www.youtube.com/watch?v=9WBDe\_zvfhQ](https://www.youtube.com/watch?v=9WBDe_zvfhQ)
