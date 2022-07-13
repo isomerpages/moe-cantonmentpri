@@ -25,7 +25,7 @@ In line with our school’s Learning for Life Programme (PAVE), drama is used as
 MTL fortnight and Cultural Camp aims to provide an authentic learning opportunity for students to understand and appreciate Mother Tongue culture, to heighten the use of mother tongue languages beyond the classrooms and to develop our students’ interest in the learning of the language. Fortnightly activities are conducted collaboratively amongst the CL, ML and TL departments. Students are given the exposure to cultures of the various ethnic groups.
 
 <img src="/images/fortnight.jpg" 
-     style="width:60%">
+     style="width:50%">
 ![](/images/fortnight2.jpg)
 
 **Making Thinking Visible (MTV) routines in MTL lessons** <br>
