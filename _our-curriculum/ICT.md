@@ -93,3 +93,19 @@ The following online activities were created by our students. Please  click on 
 The Code for Fun (CFF) Enrichment Programme is offered to all MOE primary and secondary schools. CFF includes learning of related concepts using visual-based programming language, combining it with robotic kits and/or microcontrollers.
 
 The curriculum also includes the basics of emerging technologies such as artificial intelligence (A.I). CFF aims to create a coding experience for our students and teach them core computational and coding concepts through simple visual programming-based lessons.
+
+<figure>  
+<img src="/images/ICT%2009.jpg" 
+     style="width:90%">  
+<figcaption> Primary 5 students during CFF lesson </figcaption>  
+</figure>
+
+### Useful Links For Parents
+
+**[MOE Cyber Wellness Parent Kit](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)** <br>
+The parent kit has useful tips, strategies and resources on various cyber issues. 
+
+**[Cyber Wellness 2020 Online Activities](https://cantonmentpscw2020.weebly.com/)** <br>
+The following online activities and posters were created by our CPS students. We hope you have fun and learn something useful.
+
+**[Cyber Wellness 2021 Online Activities](https://cantonmentpscw2021.weebly.com/)**
