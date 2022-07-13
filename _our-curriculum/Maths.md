@@ -41,3 +41,31 @@ Ancient mathematicians measure the shadows and applied ratio concept to calculat
 	</div>
 	
 Students apply equivalent ratio to calculate the height of the school building.
+
+-----------------
+
+<div>
+<div style= "float: left">
+<img src="/images/maths3.jpg"
+		 style="width:60%">
+	</div>
+	<div> </div>
+	</div>
+
+Fieldwork – taking measurement.
+
+----------
+
+ (b)                **Nets of a Milk Carton**
+
+Students make connections between what they learn in theory and real-life.
+
+<div>
+<div style= "float: left">
+<img src="/images/maths4.png"
+		 style="width:60%">
+	</div>
+	<div> </div>
+	</div>
+	
+With the knowledge learnt about nets of solid figures, students calculated the capacity of a milk carton.
