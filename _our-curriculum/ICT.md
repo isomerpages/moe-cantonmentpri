@@ -97,7 +97,7 @@ The curriculum also includes the basics of emerging technologies such as artific
 
 <figure>  
 <img src="/images/ICT%2009.jpg" 
-     style="width:90%">  
+     style="width:70%">  
 <figcaption> Primary 5 students during CFF lesson </figcaption>  
 </figure>
 
