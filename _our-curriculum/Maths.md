@@ -38,6 +38,7 @@ Students have a glimpse of what engineers or scientists experience in their work
 <center> Students apply equivalent ratio to calculate the height of the school building. </center>
 
 -----------------
+<br>
 
 <div>
 <div style= "float: left">
@@ -66,7 +67,7 @@ Students make connections between what they learn in theory and real-life.
 <div>
 <div style= "float: left">
 <img src="/images/maths4.png"
-		 style="width:60%">
+		 style="width:50%">
 	</div>
 	<div> </div>
 	</div>
