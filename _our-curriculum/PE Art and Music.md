@@ -48,8 +48,11 @@ While Games Day is a competition itself, it provides ample opportunities for stu
 
 The Covid-19 Safe Management Measures (SMM) did not dampen our school’s spirits or stop us from bringing the competition, fun and joy of learning to the students! Our PE teachers design modified games that achieve the learning outcomes and adhere to the SMM, ensuring maximum participation, fun and excitement for our students.
 
-![](/images/PAM%209.jpg)
+<img src="/images/PAM%209.jpg" 
+     style="width:70%">
 
-![](/images/PAM%2010.jpg)
+<img src="/images/PAM%2010.jpg" 
+     style="width:70%">
 
-![](/images/PAM%2011.jpg)
+<img src="/images/PAM%2011.jpg" 
+     style="width:70%">
