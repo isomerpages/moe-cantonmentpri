@@ -29,3 +29,15 @@ Students have a glimpse of what engineers or scientists experience in their work
 </div>
 
 Ancient mathematicians measure the shadows and applied ratio concept to calculate the height of the Great Pyramid.
+
+---------------
+
+<div>
+<div style= "float: left">
+<img src="/images/maths2.png"
+		 style="width:60%">
+	</div>
+	<div> </div>
+	</div>
+	
+Students apply equivalent ratio to calculate the height of the school building.
