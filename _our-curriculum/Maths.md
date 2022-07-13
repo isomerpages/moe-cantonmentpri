@@ -42,7 +42,7 @@ Students have a glimpse of what engineers or scientists experience in their work
 <div>
 <div style= "float: left">
 <img src="/images/maths3.jpg"
-		 style="width:60%">
+		 style="width:80%">
 	</div>
 	<div> </div>
 	</div>
@@ -53,6 +53,9 @@ Fieldwork – taking measurement.
 <br>
 <br>
 <br> 
+<br>
+<br>
+<br>
 
 --------
 
