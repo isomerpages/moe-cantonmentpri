@@ -21,3 +21,43 @@ The Science teachers believe that students learn best through doing. Thus, teach
 
 <img src="/images/science3.png" 
      style="width:70%">
+		 
+**Science Busking** <br>
+The Science department supports the school’s Learning for Life Programme (Performing Arts for Values and Excellence) through the Science Buskers programme. The Science Busking progrmame offers all Primary 3 students the opportunity to demonstrate a Science concept in a creative and engaging way. Students attend a Science busking workshop and use the skills learnt to create their own Science Busking performance. Outstanding performances will represent the school at the annual Science Buskers competition organized by the Singapore Science Centre.
+
+<img src="/images/science4.jpeg" 
+     style="width:50%">
+		 
+**Toy Making** <br>
+The Science department supports the school’s Applied Learning Programme (Thinking) through the Toy Making programme. The Toy Making programme offers all Primary 5 students the opportunity to design an innovative toy using creative thinking strategies. Students work in teams to learn toy-making techniques and use Science to explain how their toy works. Outstanding toys will be selected to represent the school at the Sony Creative Science Award competition organized by the Science Centre Singapore and the Sony Group of Companies in Singapore, with the support of the Ministry of Education.
+
+<img src="/images/science5.jpeg" 
+     style="width:50%">
+		 
+**Excellence 2000 Programme (E2K Science)** <br>
+The E2K Science Programme offers opportunities for students to engage in scientific investigations to discover and deepen their understanding of advanced science concepts through an inquiry approach. This programme is offered to selected Primary 4 and 5 students based on their interest and aptitude in Science.
+
+**Science Olympiad Programme** <br>
+Outstanding Science students are provided the opportunity to participate in local Science Olympiads organized by Raffles Institution and NUS High School. Students are selected through a selection test in early Primary 5 and go through online Science Olympiad training through zoom before participating in these Olympiads.
+
+### Useful Links For Parents
+
+**Singapore Science Centre** <br>
+[http://www.science.edu.sg/Pages/SCBHome.aspx](http://www.science.edu.sg/Pages/SCBHome.aspx)
+
+**British Broadcasting Corporation** <br>
+[http://www.bbc.co.uk/science](http://www.bbc.co.uk/science) <br>
+[http://www.bbc.com/earth/uk](http://www.bbc.com/earth/uk)
+
+**USA Steve Spangler** <br>
+[http://www.stevespanglerscience.com/](http://www.stevespanglerscience.com/)
+
+**Science competitions** <br>
+*Singapore Science Buskers* <br>
+[https://www.science.edu.sg/whats-on/competitions/singapore-science-buskers](https://www.science.edu.sg/whats-on/competitions/singapore-science-buskers)
+
+*Sony Creative Science Award* <br>
+[https://www.science.edu.sg/for-schools/competitions/sony-creative-science-award](https://www.science.edu.sg/for-schools/competitions/sony-creative-science-award)
+
+*NUS High Olympiad* <br>
+[https://www.nushigh.edu.sg/news-n-events/primary-school-competitions/singapore-primary-science-olympiad/introduction](https://www.nushigh.edu.sg/news-n-events/primary-school-competitions/singapore-primary-science-olympiad/introduction)
