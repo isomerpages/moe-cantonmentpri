@@ -29,3 +29,14 @@ The current situation may not have allowed for physical inter-class competitions
 		 
 <img src="/images/PAM%205.jpg" 
      style="width:70%">
+		 
+The current situation may not have allowed for physical competitions to take place, but this did not dampen the spirit of excellence in our students. They competed in their own classrooms, giving their best in the skills required in the game given the constraints. Most importantly, they had fun as a class!
+
+<img src="/images/PAM%206.jpg" 
+     style="width:70%">
+		 
+<img src="/images/PAM%207.jpg" 
+     style="width:70%">
+		 
+<img src="/images/PAM%208.jpg" 
+     style="width:70%">
