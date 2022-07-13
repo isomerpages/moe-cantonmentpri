@@ -2,6 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Science.md
       - English.md
       - Maths.md
+      - Science.md
