@@ -26,7 +26,7 @@ The Science teachers believe that students learn best through doing. Thus, teach
 The Science department supports the school’s Learning for Life Programme (Performing Arts for Values and Excellence) through the Science Buskers programme. The Science Busking progrmame offers all Primary 3 students the opportunity to demonstrate a Science concept in a creative and engaging way. Students attend a Science busking workshop and use the skills learnt to create their own Science Busking performance. Outstanding performances will represent the school at the annual Science Buskers competition organized by the Singapore Science Centre.
 
 <img src="/images/science4.jpeg" 
-     style="width:50%">
+     style="width:40%">
 		 
 **Toy Making** <br>
 The Science department supports the school’s Applied Learning Programme (Thinking) through the Toy Making programme. The Toy Making programme offers all Primary 5 students the opportunity to design an innovative toy using creative thinking strategies. Students work in teams to learn toy-making techniques and use Science to explain how their toy works. Outstanding toys will be selected to represent the school at the Sony Creative Science Award competition organized by the Science Centre Singapore and the Sony Group of Companies in Singapore, with the support of the Ministry of Education.
