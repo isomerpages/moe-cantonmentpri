@@ -8,7 +8,7 @@ Creative, compassionate, and active citizens with a passion for sports and an ap
 
 ### Signature Programmes
 
-**Lower Primary Games Day (Primary 1 to 3)** <br>
+<u><strong> Lower Primary Games Day (Primary 1 to 3) </strong> </u><br>
 The annual Lower Primary Games Day has always been the highlight for our Primary 1 to 3 students. This is a time where every student gets the opportunity to represent his/her class to compete with other classes in various games and sports.
 
 The stations, played in a relay style, are designed by the Physical Education (PE) department. Each station comprises physical skills taught during PE lessons, which is in alignment to the PE syllabus. Students will also be able to appreciate social and emotional bonds with their classmates as they take turns to play the games and cheer them on. In addition, they will also learn the school values such as resilience as they learn from the successes and failures in the game practices and actual competitions.
@@ -41,7 +41,7 @@ The current situation may not have allowed for physical competitions to take pla
 <img src="/images/PAM%208.jpg" 
      style="width:70%">
 		 
-**Upper Primary Games Day (Primary 4 to 6)** <br>
+<u><strong> Upper Primary Games Day (Primary 4 to 6) </strong> </u><br>
 The Upper Primary Games Day for our Primary 4 to 6 students is integrated as part of our Children’s Day celebration every year. It is an event that our students look forward to as it is an exciting platform for them to showcase and apply the different skills they have learnt in PE lessons through inter-class competitions. The games played at each level are Football (Primary 4), Floorball (Primary 5), and Frisbee (Primary 6), whereby they focus on the use of different equipment learnt in their PE Lessons.
 
 While Games Day is a competition itself, it provides ample opportunities for students to work and communicate with one another; build strength and resilience; understand the importance of teamwork and enact the true meaning of sportsmanship, fair play and respect for opponents.
@@ -56,3 +56,8 @@ The Covid-19 Safe Management Measures (SMM) did not dampen our school’s spirit
 
 <img src="/images/PAM%2011.jpg" 
      style="width:70%">
+		 
+<u><strong> Primary 4 Museum Based Learning (MBL) </strong></u><br>
+From 2018, all primary school students will get to visit a museum as part of the refreshed art education syllabus aimed to make learning more authentic and to expose students to Singapore art. The MBL experience is designed to provide both breadth and depth of learning local art as part of all Primary 4 students’ core learning experience in the art curriculum.
+
+The experience comprises pre-, during- and post-visit experiences to National Gallery Singapore where students are involved as artists and audience to create and appreciate art. MBL culminates in a showcase of students’ art expressions that will form part of the collective memory for all Singaporean students. There is a greater focus on visual inquiry skills – observation and interpretation – and reflecting on artwork through activities and discussions facilitated by the education facilitator of the museum.
