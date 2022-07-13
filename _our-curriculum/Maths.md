@@ -77,7 +77,7 @@ With the knowledge learnt about nets of solid figures, students calculated the c
 -------------- 
 
 <img src="/images/maths5.jpg"
-		 style="width:60%">
+		 style="width:50%">
 		 
 ---------------
 
