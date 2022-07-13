@@ -105,3 +105,29 @@ This programme is offered to selected Primary 4 and 5 students.
 
 *(b) Mathematics Olympiad Programme* <br>
 This programme is offered to selected Primary 4 to 6 students.
+
+### Useful Links
+
+**Koobits** <br>
+Students can access Koobits Learning Portals via [member.koobits.com](http://member.koobits.com/)
+
+Portal Introduction: [https://www.youtube.com/watch?v=yhMbiJqGHHo](https://www.youtube.com/watch?v=yhMbiJqGHHo)
+
+FAQs & guides: [support.koobits.com](http://support.koobits.com/)
+
+User name: _same as student’s SLS user name_
+
+Password (default): koobits
+
+**Maths Olympiad Competitions** <br>
+Singapore-Asia Pacific Mathematical Olympiad for Primary Schools (SMOPS)  
+
+[https://apmops.hci.edu.sg/details/smops](https://apmops.hci.edu.sg/details/smops)
+
+RI Primary Mathematics World Contest (RIPMWC)
+
+[https://contests.heymath.com/RI22](https://contests.heymath.com/RI22)
+
+National Mathematical Olympiad Of Singapore (NMOS)
+
+[https://nmos.nushigh.edu.sg](https://nmos.nushigh.edu.sg/)
