@@ -120,14 +120,11 @@ User name: _same as student’s SLS user name_
 Password (default): koobits
 
 **Maths Olympiad Competitions** <br>
-Singapore-Asia Pacific Mathematical Olympiad for Primary Schools (SMOPS)  
-
+Singapore-Asia Pacific Mathematical Olympiad for Primary Schools (SMOPS) <br>
 [https://apmops.hci.edu.sg/details/smops](https://apmops.hci.edu.sg/details/smops)
 
-RI Primary Mathematics World Contest (RIPMWC)
-
+RI Primary Mathematics World Contest (RIPMWC) <br>
 [https://contests.heymath.com/RI22](https://contests.heymath.com/RI22)
 
-National Mathematical Olympiad Of Singapore (NMOS)
-
+National Mathematical Olympiad Of Singapore (NMOS) <br>
 [https://nmos.nushigh.edu.sg](https://nmos.nushigh.edu.sg/)
