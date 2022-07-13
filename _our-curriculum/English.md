@@ -17,10 +17,10 @@ The knowledge and skills our students learn will empower them to take responsibi
 
 ### Signature Programmes
 
-**Approach** <br>
+<u><strong> Approach </u></strong><br>
 To realise our vision, we adopt a balanced and integrated approach in designing the English Language (EL) curriculum for the students. We combine the use of STELLAR (STrategies for English Language Learning And Reading), the core programme designed by MOE curriculum specialists, with our school-based curriculum. Our STELLAR approach is aligned with our department’s education philosophy to Engage, Empower and Enable. We strongly believe this approach will develop students to be confident and competent users of the English Language.
   
-**STELLAR** <br>
+<u><strong> STELLAR </u></strong><br>
 The STELLAR programme aims to cultivate the love of reading as well as to build a strong language foundation. It involves using age-appropriate resources and research based teaching strategies to engage our students in their learning of the language.  
   
 The key strategies used in the Lower Primary classrooms are as follows:
@@ -40,11 +40,10 @@ The key strategies used in the Upper Primary classrooms are as follows:
 3) Composition writing – Writing Process Cycle Approach <br>
 4) Differentiated learning – Differentiated Instruction Approach <br>
 
-  
-**School Based Curriculum** <br>
+<u><strong> School Based Curriculum </strong></u><br>
 Apart from STELLAR, the department has also crafted a structured programme to engage, empower and enable our students to achieve success in building strong language skills.
 
-**English Language Oracy Programme** <br>
+<u><strong> English Language Oracy Programme </u></strong><br>
 Oracy is seen as one of the essential pillars of children’s early development today. Through practicing oracy in the social context of the classroom, children are active participants in developing understanding and making knowledge and skills their own.  
   
 Oracy is broadly concerned with the complex ways in which language skills, interpersonal skills and thinking skills work together and affect each other in the social context of school. It emphasizes the vital role of listening and talking in children’s learning. The ability to listen actively, speak clearly, communicate fluently, and engage in a meaningful two-way interaction with others is seen as a vital, integral part of the process of children’s learning and academic development in English Language.  
@@ -64,13 +63,13 @@ This programme is a 5-year English Language Oracy Programme (ELOP) which provid
 | Primary 5 | To communicate thoughts, opinions, views and belief through the 3Cs: <br><br>• Critical analysis - Think deeply and independently and come up with solutions (Thinking)<br>• Communication - Communicate the solution persuasively to others (Speaking)<br>• Confidence - To be seen as confident and sure-footed (Winning)<br><br>With the 3Cs, students will have more balanced opinions as they are trained to see both sides of every issue<br><br> |  Debating |
 | | | | 
 
-**Character Alive Programme** <br>
+<u><strong> Character Alive Programme </strong></u><br>
 In CPS, we celebrate reading in a big way. We strive to make reading fun for the students by having Characters come Alive during our annual English Language Week. This activity arouses students’ curiosity in interesting characters found in stories. We actively encourage all students to discover the fun in exploring the different genres of literature. Students are given an opportunity to dress up as a character in their favourite story book and have a fun-filled day.
 
- **Our Time To Enjoy Reading (OTTER) Programme** <br>
+ <u><strong> Our Time To Enjoy Reading (OTTER) Programme </strong></u> <br>
 We want our students in CPS to enjoy reading. This programme aims to provide our students with the opportunity to read books of various genres. Through book sharing, students are introduced to a variety of titles to pique their curiosity in wanting to read different texts. Apart from developing literacy skills through reading, students will also gain a deeper understanding of the world and different cultures around them.
 
-**Collaboration with Parents** <br>
+<u><strong> Collaboration with Parents </strong></u><br>
 To ensure our students enjoy the learning of English Language and are confident communicators in the language, we need parents’ support. 
 
 Parents can help your child gain proficiency by providing English language reading materials at home. Show your child that learning English is both enjoyable and useful in daily life. Provide opportunities for your child to listen, speak, read and write the language. 
