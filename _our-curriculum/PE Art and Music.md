@@ -71,7 +71,7 @@ The experience comprises pre-, during- and post-visit experiences to National Ga
 <img src="/images/PAM%2014.jpg" 
      style="width:70%">
 		 
-<u><strong> Primary 5 Camp </u> </strong> <br>
+<u><strong> Primary 5 Camp </strong> </u><br>
 The Primary 5 Outdoor Camp is a 3-day programme that is part of MOE’s initiative to provide every primary school child with an outdoor experience to promote the development of social skills, knowledge and values.
 
 The camp serves as a platform for the students to integrate their learning of the various academic subjects through the provision of outdoor experiences. In the camp, students engage in outdoor activities, embrace diversity through social mixing opportunities and develop positive Teacher-Student Relationships via out-of-classroom interactions.
@@ -88,7 +88,7 @@ The camp serves as a platform for the students to integrate their learning of th
 <img src="/images/PAM%2018.jpg" 
      style="width:70%">
 		 
-<u><strong> Gems Jam (All levels) </u></strong><br>
+<u><strong> Gems Jam (All levels) </strong></u><br>
 In line with our Learning for Life Programme, the annual Gems Jam is an inclusive talent competition which encourages all students to showcase their talents in the performing arts. Students can participate in the Junior, Middle and Upper Primary Category by performing an instrumental piece, sing or dance. The song composing category is open to the middle and upper primary students to encourage original song composition which promotes the school core values. The inter-class category encourages students to perform as a class. All students are provided with training during Music lessons so that students can uncover their hidden talents.
 
 <img src="/images/PAM%2019.png" 
