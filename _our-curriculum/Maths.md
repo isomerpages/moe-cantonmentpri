@@ -33,7 +33,7 @@ Students have a glimpse of what engineers or scientists experience in their work
 ---------------
 
 <img src="/images/maths2.png"
-		 style="width:60%">
+		 style="width:50%">
 	
 <center> Students apply equivalent ratio to calculate the height of the school building. </center>
 
