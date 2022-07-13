@@ -11,7 +11,7 @@ We seek to support students to acquire mathematical concepts and skills through 
 
 ### Signature Programmes
 
-<u><strong> Experiential Learning** </strong></u><br>
+<u><strong> Experiential Learning </strong></u><br>
 Student centric and vibrant learning experiences are part of our school’s Mathematics curriculum to help students see the meaning and relevance of what they learn. Students are provided with authentic problem-solving situations and they work in groups to solve problems. As students explore and challenge their own assumptions with the guidance of the teachers, students are able to appreciate the connect between conceptual understanding and application.  Through working collaboratively, students also developed their critical thinking skills, as well as 21st century competencies.
 
 Some examples of such learning experiences include:
