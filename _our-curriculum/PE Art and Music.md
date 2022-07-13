@@ -40,3 +40,10 @@ The current situation may not have allowed for physical competitions to take pla
 		 
 <img src="/images/PAM%208.jpg" 
      style="width:70%">
+		 
+**Upper Primary Games Day (Primary 4 to 6)** <br>
+The Upper Primary Games Day for our Primary 4 to 6 students is integrated as part of our Children’s Day celebration every year. It is an event that our students look forward to as it is an exciting platform for them to showcase and apply the different skills they have learnt in PE lessons through inter-class competitions. The games played at each level are Football (Primary 4), Floorball (Primary 5), and Frisbee (Primary 6), whereby they focus on the use of different equipment learnt in their PE Lessons.
+
+While Games Day is a competition itself, it provides ample opportunities for students to work and communicate with one another; build strength and resilience; understand the importance of teamwork and enact the true meaning of sportsmanship, fair play and respect for opponents.
+
+The Covid-19 Safe Management Measures (SMM) did not dampen our school’s spirits or stop us from bringing the competition, fun and joy of learning to the students! Our PE teachers design modified games that achieve the learning outcomes and adhere to the SMM, ensuring maximum participation, fun and excitement for our students.
