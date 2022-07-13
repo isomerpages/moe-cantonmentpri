@@ -17,10 +17,10 @@ The knowledge and skills our students learn will empower them to take responsibi
 
 ### Signature Programmes
 
-<u><strong> Approach </u></strong><br>
+<u><strong> Approach </strong></u><br>
 To realise our vision, we adopt a balanced and integrated approach in designing the English Language (EL) curriculum for the students. We combine the use of STELLAR (STrategies for English Language Learning And Reading), the core programme designed by MOE curriculum specialists, with our school-based curriculum. Our STELLAR approach is aligned with our department’s education philosophy to Engage, Empower and Enable. We strongly believe this approach will develop students to be confident and competent users of the English Language.
   
-<u><strong> STELLAR </u></strong><br>
+<u><strong> STELLAR </strong></u><br>
 The STELLAR programme aims to cultivate the love of reading as well as to build a strong language foundation. It involves using age-appropriate resources and research based teaching strategies to engage our students in their learning of the language.  
   
 The key strategies used in the Lower Primary classrooms are as follows:
@@ -43,7 +43,7 @@ The key strategies used in the Upper Primary classrooms are as follows:
 <u><strong> School Based Curriculum </strong></u><br>
 Apart from STELLAR, the department has also crafted a structured programme to engage, empower and enable our students to achieve success in building strong language skills.
 
-<u><strong> English Language Oracy Programme </u></strong><br>
+<u><strong> English Language Oracy Programme </strong></u><br>
 Oracy is seen as one of the essential pillars of children’s early development today. Through practicing oracy in the social context of the classroom, children are active participants in developing understanding and making knowledge and skills their own.  
   
 Oracy is broadly concerned with the complex ways in which language skills, interpersonal skills and thinking skills work together and affect each other in the social context of school. It emphasizes the vital role of listening and talking in children’s learning. The ability to listen actively, speak clearly, communicate fluently, and engage in a meaningful two-way interaction with others is seen as a vital, integral part of the process of children’s learning and academic development in English Language.  
