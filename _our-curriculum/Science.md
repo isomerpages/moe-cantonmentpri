@@ -17,10 +17,10 @@ Environment education is a key feature of Science education at CPS. Students lea
 The Science teachers believe that students learn best through doing. Thus, teachers provide students ample opportunities to learn Science through hands-on learning opportunities such as mushroom growing (Primary 3), vegetable growing using soil-based techniques (Primary 3) and vegetable growing using hydroponics (Primary 4). Through these programmes, students also learn about the importance of healthy eating habits, reducing food waste and food security in Singapore.
 
 <img src="/images/science2.jpeg" 
-     style="width:70%">
+     style="width:60%">
 
 <img src="/images/science3.png" 
-     style="width:70%">
+     style="width:50%">
 		 
 **Science Busking** <br>
 The Science department supports the school’s Learning for Life Programme (Performing Arts for Values and Excellence) through the Science Buskers programme. The Science Busking progrmame offers all Primary 3 students the opportunity to demonstrate a Science concept in a creative and engaging way. Students attend a Science busking workshop and use the skills learnt to create their own Science Busking performance. Outstanding performances will represent the school at the annual Science Buskers competition organized by the Singapore Science Centre.
