@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Applied Learning Programme.md
       - English.md
       - Maths.md
       - Science.md
@@ -11,3 +10,4 @@ collections:
       - ICT.md
       - Character and Citizenship Education.md
       - Student Leadership.md
+      - Applied Learning Programme.md
