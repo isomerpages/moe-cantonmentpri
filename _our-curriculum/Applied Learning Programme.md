@@ -59,5 +59,5 @@ External platforms and competitions give students a wider audience to present th
 
 <figure>  
 <img src="/images/alp7.png">  
-<figcaption> Examples of our students’ submissions for the Sony Creative Science Award-Students think and explore how a closed circuit is formed through their toy/ product making project </figcaption>  
+<figcaption> Examples of our students’ submissions for the Sony Creative Science Award-Students think <br> and explore how a closed circuit is formed through their toy/ product making project </figcaption>  
 </figure>
