@@ -8,7 +8,7 @@ description: ""
 | 12 Jul | [P6 Standard Assessment Letter.pdf](/files/P6%20Standard%20Assessment%20Letter.pdf) <br> [P6 Foundation Assessment Letter.pdf](/files/P6%20Foundation%20Assessment%20Letter.pdf) |
 | 5 Jul  | [2022-147 P6 Preliminary Oral Assessment 2022.pdf](/files/2022-147%20P6%20Preliminary%20Oral%20Assessment%202022.pdf) |
 | 30 Jun |  [2022-146 P3 VIA Project Consent Form.pdf](/files/2022-146%20P3%20VIA%20Project%20Consent%20Form.pdf) |
-| 28 Jun | [2022-142 Calendar Updates for Semester 2 2022.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-142%20Calendar%20Updates%20for%20Semester%202%202022.pdf) |
+| 28 Jun | [2022-142 Calendar Updates for Semester 2 2022.pdf](/files/2022-142%20Calendar%20Updates%20for%20Semester%202%202022.pdf) |
 | 27 Jun | [2022-132 P5 NE Show\_Consent Form.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-132%20P5%20NE%20Show_Consent%20Form.pdf) |
 | 3 Jun | [2022-127 P3 Home Based Learning.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-127%20P3%20Home%20Based%20Learning.pdf)  
 [2022-124 Primary 5 VIA Workshop.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-124%20Primary%205%20VIA%20Workshop%20after%20school%20on%2030%20June%202022%20pdf.pdf)  
