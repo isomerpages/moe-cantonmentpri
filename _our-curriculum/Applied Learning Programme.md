@@ -39,7 +39,7 @@ Every department in the school infuses thinking routines into their curriculum t
 
 <figure>  
 <img src="/images/alp5.png">  
-<figcaption> Creative thinking during Science lessons - Think and explore the different types of materials for the boat making activity </figcaption>  
+<figcaption> Creative thinking during Science lessons - Think and explore the different <br> types of materials for the boat making activity </figcaption>  
 </figure>
 
 <u><strong> Level 2 - School based and school wide projects / programmes </strong></u><br>
