@@ -22,3 +22,12 @@ Thinking skills and dispositions are practiced through four levels:
 <u><strong> Level 1 – Classroom pedagogy and instruction </strong></u><br>
 Every department in the school infuses thinking routines into their curriculum to help students make their thinking visible during idea exploration, idea organisation and idea synthesis.
 
+<figure>  
+<img src="/images/alp1.png">  
+<figcaption> Use of Thinking Routines & Perspective Thinking in English Language </figcaption>  
+</figure>
+
+<figure>  
+<img src="![](/images/alp3.png)">  
+<figcaption> Mathematical Reasoning during the Primary 2 Math Trail </figcaption>  
+</figure>
