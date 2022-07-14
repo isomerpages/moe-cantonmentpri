@@ -95,3 +95,22 @@ f)    Primary 6: Fort Canning Trail
 All Primary 5 students are strongly encouraged to attend the NE show in July annually so that it evokes a sense of patriotism amongst students, instill the significance of National Day and to develop a commitment towards the nation and the community.
 
 ![](/images/CCE9.jpg)
+
+<u><strong> Values-In Action (VIA) </strong></u><br>
+* The Values-In Action (VIA) projects aims to help our students
+* identify and understand community issues.
+* make a difference and improve the lives of others.
+* reflect on their VIA experiences, reinforce their learning and internalize the values.
+* take ownership of their own learning through collectively thinking about and proposing how they can contribute to the community.
+
+Examples of our VIA projects involve joint-collaboration by Character-Citizenship Education (CCE), Environmental Education committees and external organisation such as Pearl’s Hill Care Home and Terra Village where learning opportunities and platforms are created for the students to clean up their school premises, create upcycled products and demonstrate their love, care and concern for the school, community and country.
+
+![](/images/CCE10.jpg)
+
+### Useful Links For Parents
+
+[Cyber-Wellness (CW)](https://www.moe.gov.sg/programmes/cyber-wellness) <br>
+[Sexuality Education](https://go.gov.sg/sexuality-education-cps) <br>
+[Education and Career Guidance (ECG) – Skillsfuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) <br>
+[Singapore Kindness Movement (SKM)](https://www.kindness.sg/) <br>
+[MOE Edusave Awards](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards)
