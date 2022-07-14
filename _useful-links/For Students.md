@@ -4,15 +4,27 @@ permalink: /useful-links/for-students
 description: ""
 ---
 <div>  
-<a href="https://workspace.google.com/dashboard">
-<figure>
-<img src="/images/Gmail.jpg"
-		      style="width:25%">
-</a>
-<figcaption> Student ICON Email </figcaption>
-</figure>  
+<div style="float: left">  
+<a href="https://workspace.google.com/dashboard">  
+<img src="/images/Gmail.jpg" 
+     style="width:40%">
+</a>  
+</div>  
+<div></div>  
+</div>
 
+Student ICON Email
 
+<p></p>
 
+<div>  
+<div style="float: left">  
+<a href="https://vle.learning.moe.edu.sg/login">  
+<img src="/images/SLS%20Icon.png" 
+     style="width:40%">
+</a>  
+</div>  
+<div></div>  
+</div>
 
-
+Student Learning Space
