@@ -84,3 +84,34 @@ eZhishi
 </div>
 
 School Library Book Search
+
+If you get an error when logging in to any of above websites, clear your browser history, try accessing from a different web browsers such as Firefox, Chrome, Edge or Safari or on another device  
+
+### Password Reset
+
+Try the forgot password button on these websites. If it does not work you can:  
+  
+SLS/ICON - Approach your form or subject teachers. Send a WhatsApp to 65119555 ([click here](http://wa.me/6565119555)) to request for a password reset. <br>
+KooBits - Approach your Maths teachers <br>
+eZhishi - Approach your Chinese language teachers  
+  
+##### Password Policy
+
+| Student ICON Email/School laptop | SLS |
+|---|---|
+| 1. Must be 8-24 characters long<br>2. at least 1 lowercase letter(s). <br>3. at least 1 numeric character(s)<br>4. at least 1 uppercase letter(s)<br>5. at least 2 alphabetic character(s)<br>6. not be one of 3 previous passwords<br>7. not match or contain first name or last name<br>8. not match or contain user ID<br>9. Password expires every 90 (Sec/JC)/360 (Pri) days. Users will be alerted via email 7 days before the expiry date.<br>10. Maximum of 5 login attempts are allowed. | 1. Minimum 8 characters<br>2. Contain at least 1 number<br>3. Can be all small letters |
+| | |
+
+### Student ICON
+
+[ICON website](https://workspace.google.com/dashboard) (Works only on web browser. Mobile app or computer software sync not available until further notice)  
+
+With student ICON, you can use:
+
+| Google Suite | Zoom | Microsoft Pro Plus |
+|---|---|---|
+| Access certain Google websites such as Gmail, Slides. | Basic Zoom Account <br><br>On the Zoom website, click Sign in with Google and follow the steps | Word, Excel, PowerPoint, OneNote and Publisher which can be installed on 5 of your home desktop/laptop (PC/Mac), smartphone and tablets.<br><br>Minecraft Education |
+| [Student ICON Privacy Policy](https://workspace.google.com/terms/education_terms_japan.html) | [Zoom Privacy Policy](https://zoom.us/docs/en-us/schools-privacy-statement.html) | [Microsoft Pro Plus Privacy Policy](https://portal.office.com/commerce/mosa.aspx) |
+| [Network Status](https://www.google.com/appsstatus) | [Network Status](https://status.zoom.us/) | [Network Status](https://status.office365.com/) |
+| | | |
+
