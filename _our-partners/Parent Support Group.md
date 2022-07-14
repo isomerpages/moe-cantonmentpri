@@ -43,3 +43,8 @@ Parent volunteers support the running of events, programmes and committees in th
 <img src="/images/psg4.jpeg">  
 <figcaption> International Friendship Day </figcaption>  
 </figure>
+
+<figure>  
+<img src="/images/psg5.jpeg">  
+<figcaption> Caring for the Community Activity at Tanjong Pagar </figcaption>  
+</figure>
