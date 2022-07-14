@@ -13,10 +13,8 @@ description: ""
 | 3 Jun | [2022-127 P3 Home Based Learning.pdf](/files/2022-127%20P3%20Home%20Based%20Learning.pdf) <br> [2022-124 Primary 5 VIA Workshop.pdf](/files/2022-124%20Primary%205%20VIA%20Workshop%20after%20school%20on%2030%20June%202022%20pdf.pdf) <br> [2022-126 P4 VIA.pdf](/files/2022-126%20P4%20VIA.pdf) |
 | 1 Jun | [2022-123 P5 Camp.pdf](/files/2022-123%20P5%20Camp.pdf) |
 | 23 May | [2022-114 Consent Form for P6 Remedial Semester 2.pdf](/files/2022-114%20Consent%20Form%20for%20P6%20Remedial%20%20Semester%202.pdf) <br> [2022-113 Consent Form for P5 Remedial Semester 2.pdf](/files/2022-113%20Consent%20Form%20for%20P5%20Remedial%20Semester%202.pdf) |
+| 5 May | [2022-110 PCTC May 2022.pdf](/files/2022-110%20PCTC%20May%202022.pdf) <br> [2022-109 10 May Adjusted Recess Timing.pdf](/files/2022-109%2010%20May%20Adjusted%20Recess%20Timing.pdf) |
 
-|  5 May | [2022-110 PCTC May 2022.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-110%20PCTC%20May%202022.pdf)  
-[2022-109 10 May Adjusted Recess Timing.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-109%2010%20May%20Adjusted%20Recess%20Timing.pdf)  
- |
 | 19 Apr | [2022-103 SA1 2022 Letter to Parents P6 Oral.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-103%20SA1%202022%20Letter%20to%20Parents%20P6%20Oral.pdf)  
 [2022-102 SA1 2022 Letter to Parents P4 Oral.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-102%20SA1%202022%20Letter%20to%20Parents%20P4%20Oral.pdf)  
  |
