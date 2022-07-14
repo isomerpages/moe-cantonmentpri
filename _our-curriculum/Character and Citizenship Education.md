@@ -50,3 +50,20 @@ Total Defence Day is held on 15 February each year to commemorate the fall of Si
 
 <u><strong> International Friendship Day </strong></u><br>
 International Friendship Day is celebrated in schools on the third Friday of Term Two. This is a day dedicated to the understanding and appreciation of Singapore's relations with her neighbours, and helps students understand the importance of mutual respect and to maintain social cohesion in our multi-cultural society.
+
+![](/images/CCE4.jpg)
+
+<u><strong> Racial Harmony Day </strong></u><br>
+Racial Harmony Day, which is commemorated on 21 July, marks the anniversary of the 1964 race riots. On this day, students reflect on and celebrate Singapore as a harmonious society built on the rich diversity of cultures. The commemoration reminds all students that it takes collaborative effort from all of us to promote social cohesion.
+
+![](/images/CCE5.jpg)
+
+<u><strong> National Day </strong></u><br>
+National Day marks our separation from Malaysia in 1965, and our emergence as an independent country. Since 1998, schools commemorate National Day for students to reflect on the historical importance and solemnity of National Day.
+
+![](/images/CCE6.jpg)
+
+<u><strong> Interdisciplinary Project Work (IPW) </strong></u><br>
+IPW is an authentic learning experience for our Primary 1 to 5 students whereby they synthesize the knowledge and skills that they have learnt from various subjects and apply them in real-life situations. This learning experience also aims to help students internalise the NE Dispositions and acquire the 21st century competencies, SEL Competencies, school values and life skills to prepare them for lifelong learning and the challenges ahead.
+
+![](/images/CCE7.jpg)
