@@ -2,10 +2,10 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Character and Citizenship Education.md
       - English.md
       - Maths.md
       - Science.md
       - Mother Tongue.md
       - PE Art and Music.md
       - ICT.md
+      - Character and Citizenship Education.md
