@@ -2,5 +2,6 @@ collections:
   e-open-house:
     output: true
     order:
+      - Signature Programmes/.keep
       - Principal's Welcome Address.md
       - Year Head's Address.md
