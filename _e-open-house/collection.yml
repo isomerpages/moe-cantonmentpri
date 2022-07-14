@@ -2,4 +2,5 @@ collections:
   e-open-house:
     output: true
     order:
+      - Year Head's Address.md
       - Principal's Welcome Address.md
