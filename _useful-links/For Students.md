@@ -33,7 +33,7 @@ Student Learning Space
 
 <div>  
 <div style="float: left">  
-<a href="https://vle.learning.moe.edu.sg/login">  
+<a href="https://member.koobits.com/">  
 <img src="/images/Koobits.jpg" 
      style="width:40%">
 </a>  
@@ -42,3 +42,17 @@ Student Learning Space
 </div>
 
 KooBits
+
+<p></p>
+
+<div>  
+<div style="float: left">  
+<a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">  
+<img src="/images/Myskillsfuture.jpg" 
+     style="width:40%">
+</a>  
+</div>  
+<div></div>  
+</div>
+
+MySkillsFuture
