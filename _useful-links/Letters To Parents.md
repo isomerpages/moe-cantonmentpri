@@ -16,11 +16,9 @@ description: ""
 | 5 May | [2022-110 PCTC May 2022.pdf](/files/2022-110%20PCTC%20May%202022.pdf) <br> [2022-109 10 May Adjusted Recess Timing.pdf](/files/2022-109%2010%20May%20Adjusted%20Recess%20Timing.pdf) |
 | 19 Apr | [2022-103 SA1 2022 Letter to Parents P6 Oral.pdf](/files/2022-103%20SA1%202022%20Letter%20to%20Parents%20P6%20Oral.pdf) <br> [2022-102 SA1 2022 Letter to Parents P4 Oral.pdf](/files/2022-102%20SA1%202022%20Letter%20to%20Parents%20P4%20Oral.pdf) |
 | 12 Apr | [2022-098 Consent form for Science Busking 2022.pdf](/files/2022-098%20Consent%20form%20for%20Science%20Busking%202022.pdf) |
+| 28 Mar | [2022-084 P3 SS Virtual Learning Journey to Chinatown.pdf](/files/2022-084%20P3%20SS%20Virtual%20Learning%20Journey%20to%20Chinatown.pdf) <br> [2022-085 P4 SS Virtual Learning Journey to Kampong Glam.pdf](/files/2022-085%20P4%20SS%20Virtual%20Learning%20Journey%20to%20Kampong%20Glam.pdf) |
 
 
-| 28 Mar | [2022-084 P3 SS Virtual Learning Journey to Chinatown.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-084%20P3%20SS%20Virtual%20Learning%20Journey%20to%20Chinatown.pdf)  
-[2022-085 P4 SS Virtual Learning Journey to Kampong Glam.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-085%20P4%20SS%20Virtual%20Learning%20Journey%20to%20Kampong%20Glam.pdf)  
- |
 | 25 Mar | [2022-082 Revised Dismissal Time for all Students.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-082%20Revised%20Dismissal%20Time%20for%20all%20Students.pdf)  
 [2022-078 Montfort Care Parenting Wshop for April\_Triple P.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-078%20Montfort%20Care%20Parenting%20Wshop%20for%20April_Triple%20P.pdf) |
 | 11 Mar  | [2022-073\_Nominations for Most Inspiring MT teachers 2022.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-073_Nominations%20for%20Most%20Inspiring%20MT%20teachers%202022.pdf) |
