@@ -11,9 +11,8 @@ description: ""
 | 28 Jun | [2022-142 Calendar Updates for Semester 2 2022.pdf](/files/2022-142%20Calendar%20Updates%20for%20Semester%202%202022.pdf) |
 | 27 Jun | [2022-132 P5 NE Show\_Consent Form.pdf](/files/2022-132%20P5%20NE%20Show_Consent%20Form.pdf) |
 | 3 Jun | [2022-127 P3 Home Based Learning.pdf](/files/2022-127%20P3%20Home%20Based%20Learning.pdf) <br> [2022-124 Primary 5 VIA Workshop.pdf](/files/2022-124%20Primary%205%20VIA%20Workshop%20after%20school%20on%2030%20June%202022%20pdf.pdf) <br> [2022-126 P4 VIA.pdf](/files/2022-126%20P4%20VIA.pdf) |
+| 1 Jun | [2022-123 P5 Camp.pdf](/files/2022-123%20P5%20Camp.pdf) |
 
-
-| 1 Jun | [2022-123 P5 Camp.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-123%20P5%20Camp.pdf) |
 | 23 May | [2022-114 Consent Form for P6 Remedial Semester 2.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-114%20Consent%20Form%20for%20P6%20Remedial%20%20Semester%202.pdf)   
 [2022-113 Consent Form for P5 Remedial Semester 2.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-113%20Consent%20Form%20for%20P5%20Remedial%20Semester%202.pdf)  
  |
