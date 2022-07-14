@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Student Leadership.md
       - English.md
       - Maths.md
       - Science.md
@@ -10,3 +9,4 @@ collections:
       - PE Art and Music.md
       - ICT.md
       - Character and Citizenship Education.md
+      - Student Leadership.md
