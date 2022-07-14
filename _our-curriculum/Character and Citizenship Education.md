@@ -78,3 +78,20 @@ IPW is an authentic learning experience for our Primary 1 to 5 students whereby 
 |  Primary 4 | Life on a River  | Social Studies /Art / Music  | <u><strong> Social Studies </strong></u><br> Understand the history of Singapore River. Appreciate how the Singapore River has changed over time. <br><br><br><u><strong> Art </strong></u><br> Understand and making of collage art.<br> Appreciate art work drawn by Singapore Pioneer Artist. <br><br><u><strong> Music </strong></u><br> Create a piece of music to describe the scene of Singapore River in 1965.<br><br><u><strong> Final Product </strong></u><br>Students will form a storyline set in the past to describe the Singapore River and create music to show how it would sound like. |
 |  Primary 5 | Design a poster to educate the people on water conservation.(PPT Poster) | Social Studies / Science / ICT (PPT)  | <u><strong> Social Studies </strong></u><br> Learn about the Singapore Water Story<br> State the importance of water <br> List the ways we can conserve water <br><br><u><strong> Science </strong></u><br> Recognise the importance of water cycle. Show concern for water as a limited natural resource and the need for water conservation. <br><br><u><strong> ICT </strong></u><br> Recognise copyright regulations when using information from the internet (e.g. using with attribution pictures/ songs with creative commons licensing)<br><br>1.    What is Copyright?<br><br><u><strong> Final Product </strong></u><br> Students create a poster to educate people about the importance of water conservation. |
 | | | | |
+
+**Social Studies Learning Journeys** <br>
+The field-based learning journey provide opportunities for students to acquire knowledge and understand the significance of heritage places or places of interest
+
+a)   Primary 1: Changi Airport <br>
+b)   Primary 2: Chinatown Heritage Trail <br>
+c)   Primary 3: Vegetable Farm <br>
+d)   Primary 4: Kampong Glam Heritage Trail <br>
+e)   Primary 5: Little India Heritage Trail <br>
+f)    Primary 6: Fort Canning Trail
+
+![](/images/CCE8.jpg)
+
+<u><strong> Primary 5 NE Show </strong></u><br>
+All Primary 5 students are strongly encouraged to attend the NE show in July annually so that it evokes a sense of patriotism amongst students, instill the significance of National Day and to develop a commitment towards the nation and the community.
+
+![](/images/CCE9.jpg)
