@@ -2,9 +2,9 @@ collections:
   e-open-house:
     output: true
     order:
-      - Curriculum & Experiential/.keep
       - Principal's Welcome Address.md
       - Year Head's Address.md
       - Signature Programmes/.keep
       - Signature Programmes/Applied Learning Programme.md
       - Signature Programmes/Performing Arts for Values & Excellence.md
+      - Curriculum & Experiential/.keep
