@@ -6,7 +6,7 @@ description: ""
 <div>  
 <div style="float: left">  
 <a href="https://workspace.google.com/dashboard">  
-<img style="width:40%" src="/images/Gmail.jpg">
+<img src="/images/Gmail.jpg" style="width:40%">
 </a>  
 </div>  
 <div></div>  
@@ -19,7 +19,7 @@ Student ICON Email
 <div>  
 <div style="float: left">  
 <a href="https://vle.learning.moe.edu.sg/login">  
-<img style="width:30%" src="/images/SLS%20Icon.png">
+<img src="/images/SLS%20Icon.png" style="width:30%">
 </a>  
 </div>  
 <div></div>  
@@ -32,7 +32,7 @@ Student Learning Space
 <div>  
 <div style="float: left">  
 <a href="https://member.koobits.com/">  
-<img style="width:40%" src="/images/Koobits.jpg">
+<img src="/images/Koobits.jpg" style="width:40%">
 </a>  
 </div>  
 <div></div>  
@@ -45,7 +45,7 @@ KooBits
 <div>  
 <div style="float: left">  
 <a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">  
-<img style="width:40%" src="/images/Myskillsfuture.jpg">
+<img src="/images/Myskillsfuture.jpg" style="width:40%">
 </a>  
 </div>  
 <div></div>  
@@ -58,7 +58,7 @@ MySkillsFuture
 <div>  
 <div style="float: left">  
 <a href="https://www.ezhishi.net/Contents/">  
-<img style="width:40%" src="/images/Ezhishi.jpg">
+<img src="/images/Ezhishi.jpg" style="width:40%">
 </a>  
 </div>  
 <div></div>  
@@ -71,7 +71,7 @@ eZhishi
 <div>  
 <div style="float: left">  
 <a href="https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">  
-<img style="width:40%" src="/images/Spydus.jpg">
+<img src="/images/Spydus.jpg" style="width:40%">
 </a>  
 </div>  
 <div></div>  
@@ -135,8 +135,7 @@ Cyber Wellness 2021 is about&nbsp;**Safe Searching On The Internet**&nbsp;. The 
 
 ### Links
 
-[School e-Resource Repository (SERR)](https://schoolibrary.spydus.com.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)  
-
+[School e-Resource Repository (SERR)](https://schoolibrary.spydus.com.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) <br>
 The SERR is a virtual school library that has been set up to support HBL and encourage wider reading by students for the long term.&nbsp;It seeks to support wide and extensive reading in schools across various subjects and levels by providing easy access to online resources.&nbsp;
 
 [NLB Resources for Children and Teens](https://childrenandteens.nlb.gov.sg/)
