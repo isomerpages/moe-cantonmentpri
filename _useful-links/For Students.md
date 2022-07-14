@@ -56,3 +56,17 @@ KooBits
 </div>
 
 MySkillsFuture
+
+<p></p>
+
+<div>  
+<div style="float: left">  
+<a href="https://www.ezhishi.net/Contents/">  
+<img src="/images/Ezhishi.jpg" 
+     style="width:40%">
+</a>  
+</div>  
+<div></div>  
+</div>
+
+eZhishi
