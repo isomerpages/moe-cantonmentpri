@@ -22,7 +22,7 @@ Our Learning for Life Programme (LLP) focusing on Music and the Performing Arts 
 It is our belief that valuable experiences provided in the curriculum as well as school wide programmes can bring our students with different nationalities and social backgrounds together, build relationships that are for life, promote bonds of trust and respect that will deepen our national identity. Achievements through the performing arts experiences will shift mindsets in broadening the definition of success.
 
 <img src="/images/llp2.png" 
-     style="width:80%">
+     style="width:70%">
 
 <u><strong>Tier 1: </strong></u><br>
 The CPS Music curriculum addresses the key requirements of the MOE Music syllabus. At the same time it is customised based on the 3”E” (Explore, Equip and Enhance) approach to ensure that it is age appropriate for our students. Our distinctive Music curriculum: 
@@ -31,7 +31,7 @@ The CPS Music curriculum addresses the key requirements of the MOE Music syllabu
 * gives our students a voice as they create music and have opportunities to perform on different platforms.
 
 <img src="/images/llp3.jpg" 
-     style="width:80%">
+     style="width:70%">
 		 
 Students from all levels perform or lead the school in music performances as well as compose songs and music pieces through the curriculum. In view of Covid-19, the school pressed on in providing students opportunities to perform as we believe in embracing all learners. Class and individual performances were recorded and shared during pre-assemblies, recesses, Prize-giving Day and online platforms to celebrate our students’ talents. A repository of students' performances is showcased on a regular basis on our school’s google site, ‘The Virtual Stage’, to reaffirm students of their efforts.
 
