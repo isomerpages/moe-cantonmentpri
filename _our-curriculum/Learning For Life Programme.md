@@ -60,13 +60,13 @@ Students with aptitude in the Performing Arts are given opportunities to hone th
 * PAVE LLP Ambassadors Programme – selected students with aptitude in the performing arts were trained in the various performing art forms and given the opportunities to lead the school in school events, competitions and community outreaches.
 
 <img src="/images/llp9.jpg" 
-     style="width:80%">
+     style="width:60%">
 		 
 <img src="/images/llp10.png" 
-     style="width:80%">
+     style="width:60%">
 		 
 <img src="/images/llp11.png" 
-     style="width:80%">
+     style="width:60%">
 		 
 <img src="/images/llp12.png" 
-     style="width:80%">
+     style="width:60%">
