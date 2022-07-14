@@ -23,5 +23,5 @@ The above framework guides student leadership development in 3 areas:
 * Leadership of Others
 * Leadership of the School Community
 
-<u><strong> Tier 1: Leaders of Self </stong></u><br>
+<u><strong> Tier 1: Leaders of Self </strong></u><br>
 The first tier is to develop the student body to be leaders of self. This involves all students going through lessons and discussions on the “7 Habits of Happy Kids” espoused from the “7 Habits of Highly Effective People”. Our Primary 1 and 2 students attend weekly “Lead” lessons while Primary 3 to 6 students get opportunities to discuss and learn more about the 7 Habits through Assembly and FTGP lessons. We aspire to have students who can manage themselves and navigate peer relationships effectively.
