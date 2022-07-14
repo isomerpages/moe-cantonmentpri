@@ -28,6 +28,6 @@ Every department in the school infuses thinking routines into their curriculum t
 </figure>
 
 <figure>  
-<img src="![](/images/alp3.png)">  
+<img src="/images/alp3.png">  
 <figcaption> Mathematical Reasoning during the Primary 2 Math Trail </figcaption>  
 </figure>
