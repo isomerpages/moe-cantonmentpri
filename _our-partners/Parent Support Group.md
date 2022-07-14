@@ -48,3 +48,17 @@ Parent volunteers support the running of events, programmes and committees in th
 <img src="/images/psg5.jpeg">  
 <figcaption> Caring for the Community Activity at Tanjong Pagar </figcaption>  
 </figure>
+
+### Useful Links For Parents
+[Parent Kit](https://www.moe.gov.sg/parentkit)[](https://www.moe.gov.sg/parentkit)
+
+### Join us as a PSG member
+We encourage parents who are not in the Parent Support Group (PSG) to join us as a PSG member. As a PSG member, you are playing an active role in partnering our school to make CPS a safe, vibrant and caring place for our children to learn.
+
+For more information on the programs and activities, please email our PSG coordinators: 
+
+[Ms Caroline Selva](https://form.gov.sg/#!/5dc12b9f1b03c20019122fac) or [Mdm Nurhiza Mohamed](https://form.gov.sg/#!/5dc124691b03c20019122cb2)  
+[  
+](https://form.gov.sg/#!/5dc124691b03c20019122cb2)
+
+To join us, you may register at: [https://tinyurl.com/CPSPSG-signup](https://tinyurl.com/CPSPSG-signup)
