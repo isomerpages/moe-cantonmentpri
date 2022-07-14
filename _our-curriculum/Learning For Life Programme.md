@@ -42,3 +42,20 @@ Students from all levels perform or lead the school in music performances as wel
      style="width:80%">
 
 In building the capacity of teachers, PAVE was strategically set as one of the key learning areas in 2021 and teachers use the Professional Learning Community to infuse PAVE in the different subject disciplines. Teachers shared the lessons that they have carried out during the annual CPS Learning Festival. Students are exhilarated to experience the seamless integration of PAVE in the different subjects.
+
+<img src="/images/llp6.png" 
+     style="width:80%">
+
+<img src="/images/llp7.png" 
+     style="width:80%">
+
+<img src="/images/llp8.png" 
+     style="width:80%">
+		 
+<u><strong> Tier 2 & 2+ </strong></u><br>
+Students with aptitude in the Performing Arts are given opportunities to hone their performing skills and serve the community.
+* Singapore Youth Festival - Performing Arts CCAs
+* Gems Jam (talent competition)- Tiered categories in different talent areas such as dance, singing, instrumental, Song Composing and Performing Arts in the Classroom
+* Values In Action - community outreach video e.g., National Day Celebrations at Vanguard Care Homes including Pearl's Hill Care Home.
+* PAVE LLP Ambassadors Programme – selected students with aptitude in the performing arts were trained in the various performing art forms and given the opportunities to lead the school in school events, competitions and community outreaches.
+
