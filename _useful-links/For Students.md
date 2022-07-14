@@ -70,3 +70,17 @@ MySkillsFuture
 </div>
 
 eZhishi
+
+<p></p>
+
+<div>  
+<div style="float: left">  
+<a href="https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">  
+<img src="/images/Spydus.jpg" 
+     style="width:40%">
+</a>  
+</div>  
+<div></div>  
+</div>
+
+School Library Book Search
