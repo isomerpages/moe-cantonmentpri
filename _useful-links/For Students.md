@@ -115,3 +115,7 @@ With student ICON, you can use:
 | [Network Status](https://www.google.com/appsstatus) | [Network Status](https://status.zoom.us/) | [Network Status](https://status.office365.com/) |
 | | | |
 
+[Student iCON Onboarding Guide.pdf](/files/Student%20iCON%20Onboarding%20Guide.pdf) <br>
+[ICON Login.pdf](/files/ICON%20Login.pdf)
+
+Error messages you may encounter
