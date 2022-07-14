@@ -6,8 +6,7 @@ description: ""
 <div>  
 <div style="float: left">  
 <a href="https://workspace.google.com/dashboard">  
-<img src="/images/Gmail.jpg" 
-     style="width:40%">
+<img style="width:40%" src="/images/Gmail.jpg">
 </a>  
 </div>  
 <div></div>  
@@ -20,8 +19,7 @@ Student ICON Email
 <div>  
 <div style="float: left">  
 <a href="https://vle.learning.moe.edu.sg/login">  
-<img src="/images/SLS%20Icon.png" 
-     style="width:30%">
+<img style="width:30%" src="/images/SLS%20Icon.png">
 </a>  
 </div>  
 <div></div>  
@@ -34,8 +32,7 @@ Student Learning Space
 <div>  
 <div style="float: left">  
 <a href="https://member.koobits.com/">  
-<img src="/images/Koobits.jpg" 
-     style="width:40%">
+<img style="width:40%" src="/images/Koobits.jpg">
 </a>  
 </div>  
 <div></div>  
@@ -48,8 +45,7 @@ KooBits
 <div>  
 <div style="float: left">  
 <a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">  
-<img src="/images/Myskillsfuture.jpg" 
-     style="width:40%">
+<img style="width:40%" src="/images/Myskillsfuture.jpg">
 </a>  
 </div>  
 <div></div>  
@@ -62,8 +58,7 @@ MySkillsFuture
 <div>  
 <div style="float: left">  
 <a href="https://www.ezhishi.net/Contents/">  
-<img src="/images/Ezhishi.jpg" 
-     style="width:40%">
+<img style="width:40%" src="/images/Ezhishi.jpg">
 </a>  
 </div>  
 <div></div>  
@@ -76,8 +71,7 @@ eZhishi
 <div>  
 <div style="float: left">  
 <a href="https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">  
-<img src="/images/Spydus.jpg" 
-     style="width:40%">
+<img style="width:40%" src="/images/Spydus.jpg">
 </a>  
 </div>  
 <div></div>  
@@ -91,7 +85,7 @@ If you get an error when logging in to any of above websites, clear your browser
 
 Try the forgot password button on these websites. If it does not work you can:  
   
-SLS/ICON - Approach your form or subject teachers. Send a WhatsApp to 65119555 ([click here](http://wa.me/6565119555)) to request for a password reset. <br>
+SLS/ICON -&nbsp;Approach&nbsp;your form or subject teachers. Send a WhatsApp to 65119555&nbsp;([click here](http://wa.me/6565119555))&nbsp;to request for a password reset.&nbsp;<br>
 KooBits - Approach your Maths teachers <br>
 eZhishi - Approach your Chinese language teachers  
   
@@ -104,7 +98,7 @@ eZhishi - Approach your Chinese language teachers
 
 ### Student ICON
 
-[ICON website](https://workspace.google.com/dashboard) (Works only on web browser. Mobile app or computer software sync not available until further notice)  
+[ICON website](https://workspace.google.com/dashboard)&nbsp;(Works only on web browser. Mobile app or computer software sync not available until further notice)  
 
 With student ICON, you can use:
 
@@ -132,9 +126,17 @@ Error messages you may encounter
 [Cyber Wellness for Students](https://cantonmentpscw2021.weebly.com/) <br>
 [Cyberwellness Holiday Tips for Students](/files/Cyberwellness%20Holiday%20Tips%20for%20Students.pdf)
 
-Cyber Wellness 2021 is about **Safe Searching On The Internet** . The following online activities and posters were created by us, students from Cantonment Primary School. We hope you have fun and learn something useful. Remember to take responsibility when you are in the digital space. You can play a part to make the internet a wonderful place to be in! Kindly use [this link](https://cantonmentpscw2021.weebly.com/) to try the games.  
+Cyber Wellness 2021 is about&nbsp;**Safe Searching On The Internet**&nbsp;. The following&nbsp;online activities&nbsp;and posters were created by us, students from&nbsp;Cantonment Primary School.&nbsp;We hope you have fun and learn something useful. Remember to take responsibility when you are in the digital space. You can play a part to make the internet a wonderful place to be in!&nbsp;Kindly use&nbsp;[this link](https://cantonmentpscw2021.weebly.com/)&nbsp;to try the games.  
 
 [Team A - Safe Searching Tips](https://docs.google.com/presentation/d/1bf_8Iv8qqlHxrDNV0WOIvV3TGmsC1JSTPKlYAaMqWG4/edit#slide=id.p) <br>
 [Team B - Case Study](https://docs.google.com/presentation/d/1P_mBtgN117IHPnE8XPHm1ogt_a8aMiUr7wVG66aHPh4/edit#slide=id.p) <br>
 [Team C - Safe Searching Tips](https://docs.google.com/presentation/d/1i3YrKUP5IrwK9KJSmr_BhyYyuBhvtDqR6InHe590VhA/edit#slide=id.gd09a16fa10_10_0) <br>
 [Team D - Case Study](https://docs.google.com/presentation/d/13OhaZUOIsp0oI-zrc6Vo3khmEExLqnz5oyQLtnSa0DE/edit#slide=id.gd09d1c1a26_0_77)
+
+### Links
+
+[School e-Resource Repository (SERR)](https://schoolibrary.spydus.com.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)  
+
+The SERR is a virtual school library that has been set up to support HBL and encourage wider reading by students for the long term.&nbsp;It seeks to support wide and extensive reading in schools across various subjects and levels by providing easy access to online resources.&nbsp;
+
+[NLB Resources for Children and Teens](https://childrenandteens.nlb.gov.sg/)
