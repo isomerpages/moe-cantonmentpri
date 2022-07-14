@@ -32,3 +32,13 @@ The CPS Music curriculum addresses the key requirements of the MOE Music syllabu
 
 <img src="/images/llp3.jpg" 
      style="width:80%">
+		 
+Students from all levels perform or lead the school in music performances as well as compose songs and music pieces through the curriculum. In view of Covid-19, the school pressed on in providing students opportunities to perform as we believe in embracing all learners. Class and individual performances were recorded and shared during pre-assemblies, recesses, Prize-giving Day and online platforms to celebrate our students’ talents. A repository of students' performances is showcased on a regular basis on our school’s google site, ‘The Virtual Stage’, to reaffirm students of their efforts.
+
+<img src="/images/llp4.jpg" 
+     style="width:80%">
+
+<img src="/images/llp5.jpg" 
+     style="width:80%">
+
+In building the capacity of teachers, PAVE was strategically set as one of the key learning areas in 2021 and teachers use the Professional Learning Community to infuse PAVE in the different subject disciplines. Teachers shared the lessons that they have carried out during the annual CPS Learning Festival. Students are exhilarated to experience the seamless integration of PAVE in the different subjects.
