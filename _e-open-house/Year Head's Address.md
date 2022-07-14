@@ -6,6 +6,6 @@ description: ""
 </insert audio>
 
 <img src="/images/YH.jpg" 
-     style="width:50%">  
+     style="width:40%">  
 	
 </insert video>
