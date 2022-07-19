@@ -73,3 +73,19 @@ Registration Links:
 [Online submission of consent for Immunisation and medical information](https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal) <br>
 [HPB consent form for immunisation for P1 students](/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P1%20Students.pdf) <br>
 [HPB consent form for immunisation for P5 students](/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P5%20Students.pdf)
+
+**Enhancement of Childhood Vaccination Subsidies** <br>
+It is important that students get the recommended vaccinations to reduce the risk of infections and complications that can result from the infections. Vaccinations also reduce the risk of outbreaks occurring in school and in the community.  
+  
+Please refer to the attached letter and booklet from MOH and HPB for updates on the revised National Childhood Immunisation Schedule (NCIS), and the enhancement of childhood vaccination subsidies.
+
+[MOH Press Release](https://www.moh.gov.sg/news-highlights/details/enhanced-subsidies-for-nationally-recommended-vaccinations-and-childhood-developmental-screening) <br>
+[ParentsBookletNCIS.pdf](/files/ParentsBookletNCIS.pdf) <br>
+[Letter for parents via schools_primary.pdf](/files/Letter%20for%20parents%20via%20schools_primary.pdf)
+
+**Covid Vaccination** <br>
+Parents/guardians of all eligible students aged 12 and above as at 1 June 2021 will receive the SMS invites to schedule students’ vaccination appointments from 1 June 2021.  Students whose 12th birthday fall after 1 June 2021 will be invited for vaccination at a later date.
+
+[Infographic on Student Vaccination Exercise.pdf](/files/Infographic%20on%20Student%20Vaccination%20Exercise.pdf) <br>
+[Parent Kit on Student Vaccination Exercise.pdf](/files/Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf) <br>
+[Posters in All Languages](https://www.moe.gov.sg/-/media/files/parent-kit/vaccination-for-students.pdf)
