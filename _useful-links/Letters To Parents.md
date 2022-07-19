@@ -47,3 +47,6 @@ description: ""
 [MOE Cyber Wellness Guide](https://www.moe.gov.sg/programmes/cyber-wellness) <br>
 [Cyber Wellness Holiday Tips for Parents](/files/Cyberwellness%20Holiday%20Tips%20for%20Parents.pdf) <br>
 [MOE Parent Kit](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
+
+### P4 Subject Based Banding
+[English](/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf)     [Chinese](/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf)     [Malay](/files/MOE_SBB_ML_revised%201%20Mar%202018.pdf)     [Tamil](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
