@@ -28,11 +28,8 @@ description: ""
 | 4 Feb  | [2022-044 P3 CCA Virtual Experience and Application 2022.pdf](/files/2022-044%20P3%20CCA%20Virtual%20Experience%20and%20Application%202022.pdf) |
 | 28 Jan  | [2022-038 Semester 1 Training for CCA Leaders.pdf](/files/2022-038%20Semester%201%20Training%20for%20CCA%20Leaders.pdf) |
 | 26 Jan | [2022-036 Montfort Care Parenting Wshop for Feb_26 Jan.pdf](/files/2022-036%20Montfort%20Care%20Parenting%20Wshop%20for%20Feb_26%20Jan.pdf) <br> [2022-037 Chinese New Year Eve Celebrations and Early Dismissal.pdf](/files/2022-037%20Chinese%20New%20Year%20Eve%20Celebrations%20and%20Early%20Dismissal.pdf) |
-
-
-| 6 Jan |  [2022-020 CCA Commencement for P4-6 Students 2022.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-020%20CCA%20Commencement%20for%20P4-6%20Students%202022.pdf) |
-| 5 Jan | [2022-018 Code For Fun P5.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-018%20Code%20For%20Fun%20P5.pdf)  
- |
-| 29 Dec | [2022-013 Joint Advisory on PUDO at Cantonment Pri School.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-013%20Joint%20Advisory%20on%20PUDO%20at%20Cantonment%20Pri%20School.pdf)  
- |
-| 23 Dec | [2022-001 Primary 1 Orientation Day and Touch-Base Meeting.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-001%20Primary%201%20Orientation%20Day%20and%20Touch-Base%20Meeting.pdf) |
+| 6 Jan | [2022-020 CCA Commencement for P4-6 Students 2022.pdf](/files/2022-020%20CCA%20Commencement%20for%20P4-6%20Students%202022.pdf) |
+| 5 Jan | [2022-018 Code For Fun P5.pdf](/files/2022-018%20Code%20For%20Fun%20P5.pdf) |
+| 29 Dec | [2022-013 Joint Advisory on PUDO at Cantonment Pri School.pdf](/files/2022-013%20Joint%20Advisory%20on%20PUDO%20at%20Cantonment%20Pri%20School.pdf) |
+| 23 Dec | [2022-001 Primary 1 Orientation Day and Touch-Base Meeting.pdf](/files/2022-001%20Primary%201%20Orientation%20Day%20and%20Touch-Base%20Meeting.pdf) |
+| | |
