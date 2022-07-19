@@ -2,8 +2,8 @@ collections:
   useful-links:
     output: true
     order:
-      - Financial Assistance.md
       - Calendar.md
       - For Students.md
       - Letters To Parents.md
       - School Facebook.md
+      - Financial Assistance.md
