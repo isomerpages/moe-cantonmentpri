@@ -89,3 +89,17 @@ Parents/guardians of all eligible students aged 12 and above as at 1 June 2021 
 [Infographic on Student Vaccination Exercise.pdf](/files/Infographic%20on%20Student%20Vaccination%20Exercise.pdf) <br>
 [Parent Kit on Student Vaccination Exercise.pdf](/files/Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf) <br>
 [Posters in All Languages](https://www.moe.gov.sg/-/media/files/parent-kit/vaccination-for-students.pdf)
+
+##### PayNow
+Dear Parents
+
+With the increasing digitalisation of government services, MOE would like to encourage all parents to register their children’s bank account with PayNow using the children’s BC/NRIC number. The activation of PayNow will facilitate the prompt disbursement of monies for the child, and avoid delays through the filling in and processing of forms or from physical visits to banks for the deposit of cheques.  For a start, MOE will be using PayNow (BC/NRIC) as a means to disburse Edusave award monies starting from the upcoming Edusave award exercise in Dec 2020.
+
+To register for PayNow for your children with their BC/NRIC number, you can refer to the attached guide on PayNow or visit the website of the Association of Banks in Singapore (link provided) for more information. Please approach your bank if you need further assistance to register for PayNow for your children. Alternatively, if you are using your children’s bank accounts with POSB/DBS or OCBC, you can fill in the online form (link provided) for MOE to help you to set up PayNow arrangements for these accounts.
+
+Thank you.   
+  
+[More information on PayNow](https://www.abs.org.sg/PayNow) <br>
+[Online form to set up PayNow](https://go.gov.sg/paynowregister) <br>
+[Guide on PayNow Registration.pdf](/files/Guide%20on%20PayNow%20Registration.pdf) <br>
+[FAQs for PayNow.pdf](/files/FAQs%20for%20PayNow.pdf)
