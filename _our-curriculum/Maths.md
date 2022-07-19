@@ -46,7 +46,7 @@ Students make connections between what they learn in theory and real-life.
 
 <figure>  
 <img src="/images/maths4.png"
-		 style="width:60%">
+		 style="width:50%">
 <figcaption> With the knowledge learnt about nets of solid figures, students calculated the capacity of a milk carton. </figcaption> 
 </figure>
 
@@ -61,9 +61,19 @@ Students make use of an application enabled robotic ball to draw different shape
 
 <figure>  
 <img src="/images/maths.jpg"
-		 style="width:40%">
+		 style="width:30%">
 <figcaption> Using the properties of the shapes students have learnt, they use the robotic ball application on the mobile device to command the robotic ball to draw out the shapes they are learning. </figcaption> 
 </figure>
+
+<div>  
+<div style="float: left">  
+<img src="/images/maths.jpg"
+		 style="width:30%">
+</div>  
+<div></div>  
+</div>
+
+Using the properties of the shapes students have learnt, they use the robotic ball application on the mobile device to command the robotic ball to draw out the shapes they are learning.
 
 ------------
 
