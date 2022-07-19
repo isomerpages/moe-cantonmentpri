@@ -85,18 +85,14 @@ This programme is offered to selected Primary 4 to 6 students.
 ### Useful Links
 
 <u><strong> Koobits </strong></u><br>
-Students can access Koobits Learning Portals via [member.koobits.com](http://member.koobits.com/)
-
-Portal Introduction: [https://www.youtube.com/watch?v=yhMbiJqGHHo](https://www.youtube.com/watch?v=yhMbiJqGHHo)
-
-FAQs & guides: [support.koobits.com](http://support.koobits.com/)
-
-User name: _same as student’s SLS user name_
-
+Students can access Koobits Learning Portals via [member.koobits.com](http://member.koobits.com/) <br>
+Portal Introduction: [https://www.youtube.com/watch?v=yhMbiJqGHHo](https://www.youtube.com/watch?v=yhMbiJqGHHo) <br>
+FAQs & guides: [support.koobits.com](http://support.koobits.com/) <br>
+User name: _same as student’s SLS user name_ <br>
 Password (default): koobits
 
 <u><strong> Maths Olympiad Competitions </strong></u><br>
-Singapore-Asia Pacific Mathematical Olympiad for Primary Schools (SMOPS) <br>
+Singapore-Asia Pacific Mathematical Olympiad for Primary Schools (SMOPS) <br> 
 [https://apmops.hci.edu.sg/details/smops](https://apmops.hci.edu.sg/details/smops)
 
 RI Primary Mathematics World Contest (RIPMWC) <br>
