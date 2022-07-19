@@ -21,16 +21,12 @@ description: ""
 | 11 Mar  | [2022-073_Nominations for Most Inspiring MT teachers 2022.pdf](/files/2022-073_Nominations%20for%20Most%20Inspiring%20MT%20teachers%202022.pdf) |
 | 4 Mar | [2022-068 Travel Declaration for March Holidays.pdf](/files/2022-068%20Travel%20Declaration%20for%20March%20Holidays.pdf) |
 | 28 Feb  | [2022-066 English Week 2022.pdf](/files/2022-066%20English%20Week%202022.pdf) |
+| 25 Feb  | [2022-064 P6 SS LJ to Kampong Glam.pdf](/files/2022-064%20P6%20SS%20LJ%20to%20Kampong%20Glam.pdf) <br> [2022-063 P5 SS LJ to Little India.pdf](/files/2022-063%20P5%20SS%20LJ%20to%20Little%20India.pdf) <br> [2022-062 Toy Making Workshop Consent form.pdf](/files/2022-062%20Toy%20Making%20Workshop%20Consent%20form.pdf) |
+| 18 Feb | [2022-046 Leader in Me.pdf](/files/2022-046%20Leader%20in%20Me.pdf) |
+| 15 Feb | [2022-052 MOEs Centrally Provisioned Digital Tools.pdf](/files/2022-052%20MOEs%20Centrally%20Provisioned%20Digital%20Tools.pdf) |
+| 14 Feb | [2022-050 MOE Sexuality Education P5 P6 .pdf](/files/2022-050%20MOE%20Sexuality%20Education%20%20P5%20%20P6%20.pdf) <br> [2022-047_GEP Dates for Parents.pdf](/files/2022-047_GEP%20Dates%20for%20Parents.pdf) |
 
-| 25 Feb  | [2022-064 P6 SS LJ to Kampong Glam.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-064%20P6%20SS%20LJ%20to%20Kampong%20Glam.pdf)  
-[2022-063 P5 SS LJ to Little India.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-063%20P5%20SS%20LJ%20to%20Little%20India.pdf)  
-[2022-062 Toy Making Workshop Consent form.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-062%20Toy%20Making%20Workshop%20Consent%20form.pdf)  
- |
-| 18 Feb | [2022-046 Leader in Me.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-046%20Leader%20in%20Me.pdf) |
-| 15 Feb | [2022-052 MOEs Centrally Provisioned Digital Tools.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-052%20MOEs%20Centrally%20Provisioned%20Digital%20Tools.pdf) |
-| 14 Feb | [2022-050 MOE Sexuality Education P5 P6 .pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-050%20MOE%20Sexuality%20Education%20%20P5%20%20P6%20.pdf)  
-[2022-047\_GEP Dates for Parents.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-047_GEP%20Dates%20for%20Parents.pdf)  
- |
+
 | 4 Feb  | [2022-044 P3 CCA Virtual Experience and Application 2022.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-044%20P3%20CCA%20Virtual%20Experience%20and%20Application%202022.pdf) |
 | 28 Jan  | [2022-038 Semester 1 Training for CCA Leaders.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-038%20Semester%201%20Training%20for%20CCA%20Leaders.pdf) |
 | 26 Jan | [2022-036 Montfort Care Parenting Wshop for Feb\_26 Jan.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/Letters/2022-036%20Montfort%20Care%20Parenting%20Wshop%20for%20Feb_26%20Jan.pdf)  
