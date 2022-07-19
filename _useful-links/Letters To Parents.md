@@ -33,3 +33,17 @@ description: ""
 | 29 Dec | [2022-013 Joint Advisory on PUDO at Cantonment Pri School.pdf](/files/2022-013%20Joint%20Advisory%20on%20PUDO%20at%20Cantonment%20Pri%20School.pdf) |
 | 23 Dec | [2022-001 Primary 1 Orientation Day and Touch-Base Meeting.pdf](/files/2022-001%20Primary%201%20Orientation%20Day%20and%20Touch-Base%20Meeting.pdf) |
 | | |
+
+### Touch Base Meeting
+[Principal's Welcome Video Message](https://www.canva.com/design/DAE0o4G3XqU/y38KHLRz1DBkttTyCNeyvg/watch?utm_content=DAE0o4G3XqU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) <br>
+[2022 P1 TBM.pdf](/files/2022%20P1%20TBM.pdf) <br>
+[2022 P2 TBM.pdf](/files/2022%20P2%20TBM.pdf) <br>
+[2022 P3 TBM.pdf](/files/2022%20P3%20TBM.pdf) <br>
+[2022 P4 TBM.pdf](/files/2022%20P4%20TBM.pdf) <br>
+[2022 P5 TBM.pdf](/files/2022%20P5%20TBM.pdf) <br>
+[2022 P6 TBM.pdf](/files/2022%20P6%20TBM.pdf)
+
+### Cyberwellness 
+[MOE Cyber Wellness Guide](https://www.moe.gov.sg/programmes/cyber-wellness) <br>
+[Cyber Wellness Holiday Tips for Parents](/files/Cyberwellness%20Holiday%20Tips%20for%20Parents.pdf) <br>
+[MOE Parent Kit](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
