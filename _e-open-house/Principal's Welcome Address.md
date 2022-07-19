@@ -6,4 +6,4 @@ description: ""
 </insert audio>
 
 <img src="/images/Mrs%20Mano.jpg" 
-     style="width:60%">
+     style="width:30%">
