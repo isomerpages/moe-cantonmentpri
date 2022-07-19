@@ -22,19 +22,19 @@ Students have a glimpse of what engineers or scientists experience in their work
 
 <figure>  
 <img src="/images/maths1.png" 
-     style="width:60%"> 
-<figcaption> Ancient mathematicians measure the shadows and applied ratio concept to calculate the height of the Great Pyramid. </figcaption>  
+     style="width:50%"> 
+<figcaption> Ancient mathematicians measure the shadows and applied ratio concept <br> to calculate the height of the Great Pyramid. </figcaption>  
 </figure>
 
 <figure>  
 <img src="/images/maths2.png"
-		 style="width:50%">
+		 style="width:40%">
 <figcaption> Students apply equivalent ratio to calculate the height of the school building. </figcaption>  
 </figure>
 
 <figure>  
 <img src="/images/maths3.jpg"
-		 style="width:50%">
+		 style="width:30%">
 <figcaption> Fieldwork – taking measurement. </figcaption> 
 </figure>
 
