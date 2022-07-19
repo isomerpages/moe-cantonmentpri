@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Upload Student Photo.md
       - Calendar.md
       - For Students.md
       - Letters To Parents.md
