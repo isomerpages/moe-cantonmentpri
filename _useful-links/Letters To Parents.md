@@ -103,3 +103,13 @@ Thank you. 
 [Online form to set up PayNow](https://go.gov.sg/paynowregister) <br>
 [Guide on PayNow Registration.pdf](/files/Guide%20on%20PayNow%20Registration.pdf) <br>
 [FAQs for PayNow.pdf](/files/FAQs%20for%20PayNow.pdf)
+
+##### Parent Kit
+[Parent kit | Ministry of Education (moe.gov.sg)](https://www.moe.gov.sg/parentkit)
+
+##### Parents Engagement Group
+Meetup @ Cantonment Primary School <br>
+[www.meetup.com/CantonmentPrimarySchool](http://www.meetup.com/CantonmentPrimarySchool)
+
+##### School Photos
+During school events and activities, the school may take photographs and video images of staff, students and parents. These images may be used by the school for publicity purposes in platforms such as its website, publications, social media channels and other official communication avenues. Thank you.
