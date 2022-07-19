@@ -14,8 +14,9 @@ sections:
       background: /images/e24f73442_454.jpg
       button: Contact Us
       url: /contact-us/
-      key_highlights:
-        - title: Announcements
-          description: ""
-          url: /announcements/
+  - infobar:
+      title: Announcements
+      subtitle: Check out the latest
+      button: Click here for more
+      url: /announcements
 ---
