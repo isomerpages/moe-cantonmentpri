@@ -6,7 +6,7 @@ description: ""
 <div>  
 <div style="float: left">  
 <a href="https://workspace.google.com/dashboard">  
-<img src="/images/Gmail.jpg" style="width:40%">
+<img style="width:40%" src="/images/Gmail.jpg">
 </a>  
 </div>  
 <div></div>  
@@ -19,7 +19,7 @@ Student ICON Email
 <div>  
 <div style="float: left">  
 <a href="https://vle.learning.moe.edu.sg/login">  
-<img src="/images/SLS%20Icon.png" style="width:30%">
+<img style="width:30%" src="/images/SLS%20Icon.png">
 </a>  
 </div>  
 <div></div>  
@@ -32,7 +32,7 @@ Student Learning Space
 <div>  
 <div style="float: left">  
 <a href="https://member.koobits.com/">  
-<img src="/images/Koobits.jpg" style="width:40%">
+<img style="width:40%" src="/images/Koobits.jpg">
 </a>  
 </div>  
 <div></div>  
@@ -45,7 +45,7 @@ KooBits
 <div>  
 <div style="float: left">  
 <a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">  
-<img src="/images/Myskillsfuture.jpg" style="width:40%">
+<img style="width:30%" src="/images/Myskillsfuture.jpg">
 </a>  
 </div>  
 <div></div>  
@@ -58,7 +58,7 @@ MySkillsFuture
 <div>  
 <div style="float: left">  
 <a href="https://www.ezhishi.net/Contents/">  
-<img src="/images/Ezhishi.jpg" style="width:40%">
+<img style="width:30%" src="/images/Ezhishi.jpg">
 </a>  
 </div>  
 <div></div>  
@@ -71,7 +71,7 @@ eZhishi
 <div>  
 <div style="float: left">  
 <a href="https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">  
-<img src="/images/Spydus.jpg" style="width:40%">
+<img style="width:40%" src="/images/Spydus.jpg">
 </a>  
 </div>  
 <div></div>  
