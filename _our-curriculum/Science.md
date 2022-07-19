@@ -54,11 +54,11 @@ Outstanding Science students are provided the opportunity to participate in loca
 [http://www.stevespanglerscience.com/](http://www.stevespanglerscience.com/)
 
 **Science competitions** <br>
-*Singapore Science Buskers* <br>
+<u> Singapore Science Buskers </u><br>
 [https://www.science.edu.sg/whats-on/competitions/singapore-science-buskers](https://www.science.edu.sg/whats-on/competitions/singapore-science-buskers)
 
-*Sony Creative Science Award* <br>
+<u> Sony Creative Science Award </u><br>
 [https://www.science.edu.sg/for-schools/competitions/sony-creative-science-award](https://www.science.edu.sg/for-schools/competitions/sony-creative-science-award)
 
-*NUS High Olympiad* <br>
+<u> NUS High Olympiad </u><br>
 [https://www.nushigh.edu.sg/news-n-events/primary-school-competitions/singapore-primary-science-olympiad/introduction](https://www.nushigh.edu.sg/news-n-events/primary-school-competitions/singapore-primary-science-olympiad/introduction)
