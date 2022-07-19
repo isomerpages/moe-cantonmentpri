@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Parents Gateway.md
       - Calendar.md
       - For Students.md
       - Letters To Parents.md
@@ -12,3 +11,4 @@ collections:
       - Admissions for Returning Singaporeans.md
       - Update Student Address.md
       - Upload Student Photo.md
+      - Parents Gateway.md
