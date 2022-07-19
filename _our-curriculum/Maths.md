@@ -95,11 +95,6 @@ Students make use of an application enabled robotic ball to draw different shape
 
 Using the properties of the shapes students have learnt, they use the robotic ball application on the mobile device to command the robotic ball to draw out the shapes they are learning.
 
-<br>
-<br>
-<br>
-<br>
-
 ------------
 
 <u><strong> Enrichment </strong></u> <br>
@@ -113,7 +108,7 @@ This programme is offered to selected Primary 4 to 6 students.
 
 ### Useful Links
 
-**Koobits** <br>
+<u><strong> Koobits </strong></u><br>
 Students can access Koobits Learning Portals via [member.koobits.com](http://member.koobits.com/)
 
 Portal Introduction: [https://www.youtube.com/watch?v=yhMbiJqGHHo](https://www.youtube.com/watch?v=yhMbiJqGHHo)
@@ -124,7 +119,7 @@ User name: _same as student’s SLS user name_
 
 Password (default): koobits
 
-**Maths Olympiad Competitions** <br>
+<u><strong> Maths Olympiad Competitions </strong></u><br>
 Singapore-Asia Pacific Mathematical Olympiad for Primary Schools (SMOPS) <br>
 [https://apmops.hci.edu.sg/details/smops](https://apmops.hci.edu.sg/details/smops)
 
