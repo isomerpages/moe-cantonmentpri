@@ -2,9 +2,9 @@ collections:
   useful-links:
     output: true
     order:
-      - Transfer In From Another School.md
       - Calendar.md
       - For Students.md
       - Letters To Parents.md
       - School Facebook.md
       - Financial Assistance.md
+      - Transfer In From Another School.md
