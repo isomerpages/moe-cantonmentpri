@@ -55,9 +55,9 @@ description: ""
 [PSLE 2022_Parent Engagement.pdf](/files/PSLE%202022_Parent%20Engagement.pdf)
 
 ### Cantonment Times Newsletter
-[2019 Semester 1](https://cantonmentpri-moe-edu-sg-admin.cwp.sg/qql/slot/u535/Useful%20Links/For%20Parents/Cantonment%20Times%202019_Sem1_2906.pdf)  
-[2019 Semester 2](https://cantonmentpri-moe-edu-sg-admin.cwp.sg/qql/slot/u535/Useful%20Links/For%20Parents/Cantonment%20Times%202019%20Sem%202.pdf)  
-[2020 Semester 1](https://cantonmentpri-moe-edu-sg-admin.cwp.sg/qql/slot/u535/Useful%20Links/For%20Parents/Cantonment%20Times%202020%20Sem%201.pdf)  
-[2020 Semester 2](https://cantonmentpri-moe-edu-sg-admin.cwp.sg/qql/slot/u535/Others/Announcements/Cantonment%20Times%20Newsletter%20Sem%202%202020.pdf)  
-[2021 Semester 1](https://cantonmentpri-moe-edu-sg-admin.cwp.sg/qql/slot/u535/Useful%20Links/For%20Parents/Cantonment%20Primary%20School%20Semester%201%202021%20Newsletter.pdf)  
-[2021 Semester 2.pdf](https://cantonmentpri.moe.edu.sg/qql/slot/u535/Useful%20Links/For%20Parents/2021%20Semester%202.pdf)
+[2019 Semester 1](/files/Cantonment%20Times%202019_Sem1_2906.pdf) <br>
+[2019 Semester 2](/files/Cantonment%20Times%202019%20Sem%202.pdf) <br>
+[2020 Semester 1](/files/Cantonment%20Times%202020%20Sem%201.pdf) <br>
+<2020 Semester 2> file size too big <br> 
+<2021 Semester 1> file size too big <br>
+<2021 Semester 2.pdf> file size too big
