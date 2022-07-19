@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Update Student Address.md
       - Calendar.md
       - For Students.md
       - Letters To Parents.md
@@ -10,3 +9,4 @@ collections:
       - Financial Assistance.md
       - Transfer In From Another School.md
       - Admissions for Returning Singaporeans.md
+      - Update Student Address.md
