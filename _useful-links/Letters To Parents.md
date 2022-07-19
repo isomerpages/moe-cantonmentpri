@@ -61,3 +61,15 @@ description: ""
 <2020 Semester 2> file size too big <br> 
 <2021 Semester 1> file size too big <br>
 <2021 Semester 2.pdf> file size too big
+
+##### HPB Resources For Parents
+<Parents Newsletter - Edition 1 002.pdf> file size too big
+
+Registration Links:  
+[](https://go.gov.sg/cotmprisch1)[https://go.gov.sg/cotmprisch1](https://go.gov.sg/cotmprisch1) <br>
+[https://go.gov.sg/healworkshopspsg](https://go.gov.sg/healworkshopspsg)
+
+##### Immunisation
+[Online submission of consent for Immunisation and medical information](https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal) <br>
+[HPB consent form for immunisation for P1 students](/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P1%20Students.pdf) <br>
+[HPB consent form for immunisation for P5 students](/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P5%20Students.pdf)
