@@ -20,43 +20,23 @@ Some examples of such learning experiences include:
 
 Students have a glimpse of what engineers or scientists experience in their work.  This involves making visible their thinking process followed by questioning and discussion before reaching a solution.
 
-<div>  
-<div style="float: left">  
+<figure>  
 <img src="/images/maths1.png" 
      style="width:60%"> 
-</div>  
-<div></div>  
-</div>
+<figcaption> Ancient mathematicians measure the shadows and applied ratio concept to calculate the height of the Great Pyramid. </figcaption>  
+</figure>
 
-<center> Ancient mathematicians measure the shadows and applied ratio concept to calculate the height of the Great Pyramid. </center>
-
----------------
-
+<figure>  
 <img src="/images/maths2.png"
 		 style="width:50%">
-	
-<center> Students apply equivalent ratio to calculate the height of the school building. </center>
+<figcaption> Students apply equivalent ratio to calculate the height of the school building. </figcaption>  
+</figure>
 
------------------
-<br>
-
-<div>
-<div style= "float: left">
+<figure>  
 <img src="/images/maths3.jpg"
-		 style="width:80%">
-	</div>
-	<div> </div>
-	</div>
-
-Fieldwork – taking measurement.
-
-<br> 
-<br>
-<br>
-<br> 
-<br>
-<br>
-<br>
+		 style="width:50%">
+<figcaption> Fieldwork – taking measurement. </figcaption> 
+</figure>
 
 --------
 
@@ -64,17 +44,11 @@ Fieldwork – taking measurement.
 
 Students make connections between what they learn in theory and real-life.
 
-<div>
-<div style= "float: left">
+<figure>  
 <img src="/images/maths4.png"
 		 style="width:60%">
-	</div>
-	<div> </div>
-	</div>
-	
-With the knowledge learnt about nets of solid figures, students calculated the capacity of a milk carton.
-
--------------- 
+<figcaption> With the knowledge learnt about nets of solid figures, students calculated the capacity of a milk carton. </figcaption> 
+</figure>
 
 <img src="/images/maths5.jpg"
 		 style="width:50%">
@@ -85,21 +59,11 @@ With the knowledge learnt about nets of solid figures, students calculated the c
 
 Students make use of an application enabled robotic ball to draw different shapes.
 
-<div>
-<div style= "float: left">
+<figure>  
 <img src="/images/maths.jpg"
 		 style="width:40%">
-	</div>
-	<div> </div>
-	</div>
-
-Using the properties of the shapes students have learnt, they use the robotic ball application on the mobile device to command the robotic ball to draw out the shapes they are learning.
-
-<br>
-<br>
-<br>
-<br>
-<br>
+<figcaption> Using the properties of the shapes students have learnt, they use the robotic ball application on the mobile device to command the robotic ball to draw out the shapes they are learning. </figcaption> 
+</figure>
 
 ------------
 
