@@ -95,6 +95,12 @@ Students make use of an application enabled robotic ball to draw different shape
 
 Using the properties of the shapes students have learnt, they use the robotic ball application on the mobile device to command the robotic ball to draw out the shapes they are learning.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ------------
 
 <u><strong> Enrichment </strong></u> <br>
