@@ -14,10 +14,12 @@ sections:
       background: /images/e24f73442_454.jpg
       button: Contact Us
       url: /contact-us/
-  - infobar:
+  - infopic:
       title: P5 Camp
-      subtitle: Announcement
-      button: Login Link
-      url: https://forms.moe.edu.sg/auth
+      subtitle: "Announcement:"
       description: Login below with your child's BC Number
+      button: LOGIN LINK
+      url: https://forms.moe.edu.sg/auth
+      image: /images/82614379_2544498959140380_4939166966825877504_n.jpg
+      alt: Image alt text
 ---
