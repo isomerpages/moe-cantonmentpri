@@ -15,8 +15,9 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infobar:
-      title: Announcements
-      subtitle: Check out the latest
-      button: Click here for more
-      url: /announcements
+      title: P5 Camp
+      subtitle: Announcement
+      button: Login Link
+      url: https://forms.moe.edu.sg/auth
+      description: Login below with your child's BC Number
 ---
