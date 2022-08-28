@@ -6,9 +6,9 @@ links:
     collection: our-curriculum
   - title: Our Partners
     collection: our-partners
-  - title: Feedback
-    url: https://forms.cwp.gov.sg/cantonmentpri/FormSIVRN
-  - title: E-Open House
-    collection: e-open-house
   - title: Useful Links
     collection: useful-links
+  - title: E-Open House
+    collection: e-open-house
+  - title: Feedback
+    url: https://forms.cwp.gov.sg/cantonmentpri/FormSIVRN
