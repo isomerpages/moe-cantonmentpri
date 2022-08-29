@@ -3,4 +3,4 @@ title: Calendar
 permalink: /useful-links/calendar
 description: ""
 ---
-[Add Google Calendar](https://calendar.google.com/calendar/u/0/r?cid=moe.edu.sg_4ce90ju9s26q0hp8kakteaue9g@group.calendar.google.com)
+<iframe src="https://calendar.google.com/calendar/embed?src=moe.edu.sg_4ce90ju9s26q0hp8kakteaue9g%40group.calendar.google.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
