@@ -37,4 +37,9 @@ contacts:
       - email: cantonment_ps@moe.edu.sg
       - other: ""
     title: Email
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Find teachers' contact <a href="/our-school/our-staff/">here</a>
+    title: Teachers
 ---
