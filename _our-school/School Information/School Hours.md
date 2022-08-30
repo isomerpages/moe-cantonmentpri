@@ -18,6 +18,7 @@ third_nav_title: School Information
 
   
 ##### All days except Tuesday
+
 | Level | Recess |
 |---|---|
 | Primary 1 | 9:00 to 9.30 am |
@@ -38,6 +39,7 @@ third_nav_title: School Information
 | Primary 4 | 10.10 to 10.30 am | 12.40 to 1 pm     |
 | Primary 5 | 10.50 to 11.10 am | 1.20 to 1.40 pm   |
 | Primary 6 | 10:30 to 10.50 am | 1 to 1.20 pm      |
+|
   
 ### 3. Dismissal at the gates
 
