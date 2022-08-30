@@ -126,5 +126,5 @@ Parents will be able to do the following through the app (SingPass login require
 * Give consent for your child's activities anytime, anywhere.
 * Receive official announcements directly from schools.
 * Keep track of upcoming activities for multiple children.
-* Travel Declaration [New declaration](/files/Quick-Guide-to-Travel-Declaration-on-PG.pdf) [Amend declaration](/files/Amending%20Travel%20Declarations%20on%20PG.pdf) 
+* Travel Declaration <br>[New travel declaration](/files/Quick-Guide-to-Travel-Declaration-on-PG.pdf) <br> [Amend travel declaration](/files/Amending%20Travel%20Declarations%20on%20PG.pdf) 
 * Update contact details for Parents
