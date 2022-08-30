@@ -10,7 +10,6 @@ third_nav_title: School Information
 |---|---|---|
 | Monday, Wednesday to Friday | 7.45 am | 1.30 pm |
 | Tuesday | 7.45 am | 3.00 pm |
-| | | 
 
 ### 2. Recess and Lunch Timings 
 
@@ -27,13 +26,12 @@ third_nav_title: School Information
 ##### Tuesdays
 | Level | Recess | Lunch |
 |---|---|---|
-| Primary 1  | 9:00 to 9.30 am | 11:30 to 12 pm |
-| Primary 2 | 9.30 to 9.50 am | 12 to 12.20 pm |
-| Primary 3 | 9.50 to 10:10 am | 12:20 to 12:40 pm 
+| Primary 1 | 9:00 to 9.30 am     | 11:30 to 12 pm |
+| Primary 2 | 9.30 to 9.50 am    | 12 to 12.20 pm |
+| Primary 3 | 9.50 to 10:10 am   | 12:20 to 12:40 pm | 
 | Primary 4 | 10:10 to 10.30 am | 12:40 to 1 pm |
-| Primary 5 | 10.50 to 11:10 am | 1.20 to 1:40 pm |
+| Primary 5 | 10.50 to 11:10 am  | 1.20 to 1:40 pm |
 | Primary 6 | 10:30 to 10.50 am | 1 to 1:20 pm |
-|
 
 ### 3. Dismissal at the gates
 
