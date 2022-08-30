@@ -13,7 +13,7 @@ Press the "WA" link on your phone to start a chat
 | Name | Role | Phone | Email | WhatsApp |
 |---|---|---|---|---|
 | Mrs Manokara S | Principal |  |
-| Mrs Audrea Chin Meng Tsing | Vice Principal |   |
+| Mrs Audrea Chin | Vice Principal |   |
 | Ms Cheng Shin Miin | Vice Principal |   |
 |   |   |   |   |   |
 | Mdm Ganesh | School Staff Developer |  65119643 | [Email](https://form.gov.sg/5dc1306d5bec6f0012034966) |  [WA](https://wa.me/6565119643) |
