@@ -40,6 +40,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Find teachers' contact <a href="/our-school/our-staff/">here</a>
-    title: Teachers
+      - other: Find their contact <a href="/our-school/our-staff/">here</a>
+    title: Teachers/Staff
 ---
