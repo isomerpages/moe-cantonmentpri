@@ -107,9 +107,12 @@ Thank you. 
 ##### Parent Kit
 [Parent kit | Ministry of Education (moe.gov.sg)](https://www.moe.gov.sg/parentkit)
 
-<details>
-<Summary>Parent Gateway</Summary>
-	
+#### School Photos
+During school events and activities, the school may take photographs and video images of staff, students and parents. These images may be used by the school for publicity purposes in platforms such as its website, publications, social media channels and other official communication avenues. Thank you.
+
+
+##### Parent Gateway
+
 [Parents Gateway](https://pg.moe.edu.sg/) is a one-stop [Android](https://play.google.com/store/apps/details?id=com.moe.pgp)/ [iOS](https://apps.apple.com/sg/app/parents-gateway/id1267198708) app that strengthens school-home partnership to support our children in their education journey.
 	
 Parents will be able to do the following through the app
@@ -120,4 +123,3 @@ Parents will be able to do the following through the app
 * Keep track of upcoming activities for multiple children.
 * Travel Declaration
 * Update contact details for Parents
-</details>
