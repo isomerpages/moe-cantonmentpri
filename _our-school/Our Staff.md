@@ -12,9 +12,9 @@ Press the "WA" link on your phone to start a chat
 
 | Name | Role | Phone | Email | WhatsApp |
 |---|---|---|---|---|
-| Mrs Manokara S | Principal | 65119555 | |
-| Mrs Audrea Chin Meng Tsing | Vice Principal | 65119555   |
-| Ms Cheng Shin Miin | Vice Principal | 65119555 |   |
+| Mrs Manokara S | Principal |  |
+| Mrs Audrea Chin Meng Tsing | Vice Principal |   |
+| Ms Cheng Shin Miin | Vice Principal |   |
 |   |   |   |   |   |
 | Mdm Ganesh | School Staff Developer |  65119643 | [Email](https://form.gov.sg/5dc1306d5bec6f0012034966) |  [WA](https://wa.me/6565119643) |
 | Mr Ameen | Assistant Year Head P5-6  |  64999423 | [Email](https://form.gov.sg/5dc126385f93b50019043da0) |  [WA](https://wa.me/6564999423) |
