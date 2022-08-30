@@ -51,8 +51,8 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-cantonmentpri-staging.netlify.app
 prod: https://moe-cantonmentpri-prod.netlify.app
-shareicon: ""
-is_government: false
+shareicon: /images/isomer-logo.svg
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
