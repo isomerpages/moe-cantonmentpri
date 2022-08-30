@@ -107,9 +107,6 @@ Thank you. 
 ##### Parent Kit
 [Parent kit | Ministry of Education (moe.gov.sg)](https://www.moe.gov.sg/parentkit)
 
-##### School Photos
-During school events and activities, the school may take photographs and video images of staff, students and parents. These images may be used by the school for publicity purposes in platforms such as its website, publications, social media channels and other official communication avenues. Thank you.
-
 <details>
 <Summary>Parent Gateway</Summary>
 	
