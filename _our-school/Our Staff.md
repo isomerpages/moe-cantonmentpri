@@ -1,11 +1,16 @@
 ---
 title: Our Staff
-permalink: /our-school/our-staff
+permalink: /our-school/our-staff/
 description: ""
 ---
 ### Principal & Key Personnel
 
-| Name | Role | Phone | Email (Click on "Email" to send an email to the teacher) | WhatsApp((Press WA link on your phone to start a chat) |
+Click on "Email" to send an email to the teacher
+
+Press the "WA" link on your phone to start a chat
+
+
+| Name | Role | Phone | Email | WhatsApp |
 |---|---|---|---|---|
 | Mrs Manokara S | Principal | 65119555 | |
 | Mrs Audrea Chin Meng Tsing | Vice Principal | 65119555   |
