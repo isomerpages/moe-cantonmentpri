@@ -120,11 +120,11 @@ During school events and activities, the school may take photographs and video i
 
 [Parents Gateway](https://pg.moe.edu.sg/) is a one-stop [Android](https://play.google.com/store/apps/details?id=com.moe.pgp)/ [iOS](https://apps.apple.com/sg/app/parents-gateway/id1267198708) app that strengthens school-home partnership to support our children in their education journey.
 	
-Parents will be able to do the following through the app
+Parents will be able to do the following through the app (SingPass login required)
 
 * Access all your official school announcements and consent forms at your fingertips.
 * Give consent for your child's activities anytime, anywhere.
 * Receive official announcements directly from schools.
 * Keep track of upcoming activities for multiple children.
-* Travel Declaration
+* Travel Declaration [New declaration](/files/Quick-Guide-to-Travel-Declaration-on-PG.pdf) [Amend declaration](/files/Amending%20Travel%20Declarations%20on%20PG.pdf) 
 * Update contact details for Parents
