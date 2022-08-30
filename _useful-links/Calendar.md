@@ -3,7 +3,6 @@ title: Calendar
 permalink: /useful-links/calendar/
 description: ""
 ---
-Terms: <br>
 PH: Public Holiday <br>
 SH: Schoool Holiday<br>
 SCC - KidzTreehouse Student Care Centre
