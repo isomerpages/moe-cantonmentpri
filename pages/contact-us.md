@@ -13,13 +13,13 @@ locations:
         time: 7.30am - 5.30pm
         description: "For urgent enquiries you may also contact your child's form
           teachers. "
-    maps_link: ""
+    maps_link: http://www.onemap.gov.sg/main/v2/?lat=1.27547252623201&lng=103.839962631748
     title: Cantonment Primary School
 contacts:
   - content:
       - phone: +65 6511 9555
       - email: cantonment_ps@moe.edu.sg
-      - other: <a href="https://wa.me/6565119555">Click here to send a WhatsApp
-          message</a>
+      - other: Click <a href="https://wa.me/6565119555">here</a> to send a WhatsApp
+          message
     title: General Enquiries & Feedback
 ---
