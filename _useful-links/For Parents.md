@@ -3,6 +3,9 @@ title: For Parents
 permalink: /useful-links/for-parents/
 description: ""
 ---
+<details>
+	<summary> Letters To Parents</Summary>
+	
 | Date | Letter |
 |---|---|
 | 12 Jul | [P6 Standard Assessment Letter.pdf](/files/P6%20Standard%20Assessment%20Letter.pdf) <br> [P6 Foundation Assessment Letter.pdf](/files/P6%20Foundation%20Assessment%20Letter.pdf) |
@@ -33,6 +36,8 @@ description: ""
 | 29 Dec | [2022-013 Joint Advisory on PUDO at Cantonment Pri School.pdf](/files/2022-013%20Joint%20Advisory%20on%20PUDO%20at%20Cantonment%20Pri%20School.pdf) |
 | 23 Dec | [2022-001 Primary 1 Orientation Day and Touch-Base Meeting.pdf](/files/2022-001%20Primary%201%20Orientation%20Day%20and%20Touch-Base%20Meeting.pdf) |
 | | |
+
+</details>
 
 ### Touch Base Meeting
 [Principal's Welcome Video Message](https://www.canva.com/design/DAE0o4G3XqU/y38KHLRz1DBkttTyCNeyvg/watch?utm_content=DAE0o4G3XqU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) <br>
