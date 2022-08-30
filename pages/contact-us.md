@@ -18,8 +18,23 @@ locations:
 contacts:
   - content:
       - phone: +65 6511 9555
-      - email: cantonment_ps@moe.edu.sg
+      - email: ""
+      - other: ""
+    title: General Office
+  - content:
+      - phone: +65 6511 9556
+      - email: ""
+      - other: ""
+    title: Fax
+  - content:
+      - phone: ""
+      - email: ""
       - other: Click <a href="https://wa.me/6565119555">here</a> to send a WhatsApp
           message
-    title: General Enquiries & Feedback
+    title: WhatsApp
+  - content:
+      - phone: ""
+      - email: cantonment_ps@moe.edu.sg
+      - other: ""
+    title: Email
 ---
