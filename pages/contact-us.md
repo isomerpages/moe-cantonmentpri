@@ -14,7 +14,7 @@ locations:
         description: "For urgent enquiries you may also contact your child's form
           teachers. "
     maps_link: http://www.onemap.gov.sg/main/v2/?lat=1.27547252623201&lng=103.839962631748
-    title: Cantonment Primary School
+    title: Address
 contacts:
   - content:
       - phone: +65 6511 9555
