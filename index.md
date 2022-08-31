@@ -6,6 +6,5 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: Testing P1 registration
 sections:
-  - hero:
-      subtitle: lk
+  - hero: {}
 ---
