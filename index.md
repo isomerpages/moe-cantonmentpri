@@ -6,5 +6,6 @@ image: /images/ctmps_logo.png
 permalink: /
 notification: Testing P1 registration
 sections:
-  - hero: {}
+  - hero:
+      background: images/Front - Servant Leadership.jpg
 ---
