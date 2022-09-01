@@ -7,5 +7,5 @@ permalink: /
 notification: Testing P1 registration
 sections:
   - hero:
-      background: images/Front - Servant Leadership.jpg
+      background: images/Front - Servant Leadership.png
 ---
