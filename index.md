@@ -6,5 +6,5 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: Testing P1 registration
 sections:
-  - hero: {}
+  - hero: background: /images/Front - Servant Leadership.jpg
 ---
