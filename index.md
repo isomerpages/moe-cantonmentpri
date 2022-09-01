@@ -6,5 +6,5 @@ image: /images/ctmps_logo.png
 permalink: /
 notification: Testing P1 registration
 sections:
-  - hero:{}
+  - hero: {}
 ---
