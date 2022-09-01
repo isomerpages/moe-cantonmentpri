@@ -1,6 +1,6 @@
 title: Cantonment Primary School
 url: https://cantonmentpri.moe.edu.sg
-favicon: /images/ctmps.png
+favicon: /images//ctmps_logo.png
 colors:
   primary-color: "#0679c1"
   secondary-color: "#f57933"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-cantonmentpri-staging.netlify.app
 prod: https://moe-cantonmentpri-prod.netlify.app
-shareicon: /images/isomer-logo.svg
+shareicon: /images/ctmps_logo.png
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
