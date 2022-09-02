@@ -16,7 +16,43 @@ Press the "WA" link to start a WhatsApp chat
 | Vice Principal  | Ms Cheng Shin Miin |   
 |   |   |
 
+##### Head of Departments and Subject Heads
 
+| Name | Role | Phone | Email | WhatsApp |
+|---|---|---|---|---|
+| School Staff Developer | Mdm Ganesh |  65119643 | [Email](https://form.gov.sg/5dc1306d5bec6f0012034966) |  [WA](https://wa.me/6565119643) |
+| Assistant Year Head P5-6 | Mr Ameen |  64999423 | [Email](https://form.gov.sg/5dc126385f93b50019043da0) |  [WA](https://wa.me/6564999423) |
+| Assistant Year Head P3-4 | Ms Malinda Lim | 65119561 |  [Email](https://form.gov.sg/5dc12cb31b03c2001912301f) |  [WA](https://wa.me/6565119561) |
+| Year Head P1-2 | Ms So Bee Soon |  65119555 Ext 445 | [Email](https://form.gov.sg/5dc11d231b03c200191229f0) |  [WA](https://wa.me/6565119646) |
+| HOD Mathematics|  Mr Andy Fan |  65119555x 447 | [Email](https://form.gov.sg/5dc1301bb9014c0012b8c7ac) |  [WA](https://wa.me/6565119559) |
+| HOD Science | Ms Caroline |  65119555 x 446 | [Email](https://form.gov.sg/5dc12b9f1b03c20019122fac) | [WA](https://wa.me/6565119558) |
+| HOD CCE  | Mrs Samantha Kong | 65119587 | [Email](https://form.gov.sg/5dc130c7b9014c0012b8c7dc) |  [WA](https://wa.me/6565119587) |
+| HOD PAM/CCA | Mr Thomas Wong |  65119564 | [Email](https://form.gov.sg/5dc1243b5f93b50019043ce0) |  [WA](https://wa.me/6565119564) |
+| HOD Student Management | Mrs Jocelyn Chew  |  65119645 | [Email](https://form.gov.sg/5dc220d011ecd70012ef9051) |  [WA](https://wa.me/6565119557) |
+| SH English Language | Mr Azhar  |  65119586 | [Email](https://form.gov.sg/61c9eb126c60da00127bfaac) | [WA](https://wa.me/6565119586) |
+|  | Mr Shah Ally |  65119568 | [Email](https://form.gov.sg/5dc221dfc321c6001240b9a4) | [WA](https://wa.me/6565119568) |
+| SH Mathematics | Mrs Jocelyn Chew |  65119645 | [Email](https://form.gov.sg/5dc220d011ecd70012ef9051) | [WA](https://wa.me/6565119557) |
+|  | Mrs Tan Guat Hwa |  65119562 | [Email](https://form.gov.sg/61c9ebb4f46e8700121fb164) | [WA](https://wa.me/6565119562) |
+| SH Science | Mr Bunawar |  65119563 | [Email](https://form.gov.sg/5dc130e9b9014c0012b8c800) | [WA](https://wa.me/6565119563) |
+| SH Chinese Language | Mrs Tan Sze Mian |  65119585 | [Email](https://form.gov.sg/5dc12f9c5bec6f0012034925) | [WA](https://wa.me/6565119585) |
+| SH PE/CCA | Mdm Rachel Wong |  65119644 | [Email](https://form.gov.sg/5dc12e165bec6f001203487c) | [WA](https://wa.me/6565119644) |
+| SH NE/SS/IPW | Mrs Arun | 64999249 | [Email](https://form.gov.sg/5e0587cddf378700118edf8b) | [WA](https://wa.me/6564999249) |
+| SH ICT | Mr Johnny Chan |  65119588 | [Email](https://form.gov.sg/5db78593506fd6001264ff1f) | [WA](https://wa.me/6565119588) |
+|  | Ms Nurhiza |  65119578 | [Email](https://form.gov.sg/5dc124691b03c20019122cb2) | [WA](https://wa.me/6565119578) |
+|  |   |   |   |   |
+
+##### Lead and Senior Teachers
+
+| Role | Name | Phone | Email | WA |
+|---|---|---|---|---|
+|  LT Mathematics | Ms Aileen Poon |  64999419 | [Email](https://form.gov.sg/5dc261f0c321c6001240d3c0) | [WA](https://wa.me/6564999419) |
+| ST Chinese Language | Ms Li Lidan |  64999422 | [Email](https://form.gov.sg/5dc125051b03c20019122cfa) | [WA](https://wa.me/6564999422) |
+|  | Ms Seah Lay Keng |  64999410 | [Email](https://form.gov.sg/5dc12d155f93b5001904400d) | [WA](https://wa.me/6564999410) |
+| ST Music | Mr Wilson Kwa | 63036294 | [Email](https://form.gov.sg/5dc112571b03c200191225c5) | [WA](https://wa.me/6563036294) |
+| ST English Language | Mrs Yap Pui Mei |  64999241 | [Email](https://form.gov.sg/5dc12ddd5bec6f001203485f) | [WA](https://wa.me/6564999241) |
+| ST PE | Ms Cassandra Siua | 64999411 | [Email](https://form.gov.sg/5e0583cd8967b800114c11a7) | [WA](https://wa.me/6564999411) |
+| ST Science | Mdm Lim Wan Jo | 65119571 | [Email](https://form.gov.sg/5dc21e4cc321c6001240b7fe) | [WA](https://wa.me/6565119571) |
+|   |   |   |   |   |
 
 ##### Primary 1
 
@@ -186,42 +222,3 @@ Press the "WA" link to start a WhatsApp chat
 | Desktop Engineer | Mr Edzhan | 65119555 |  |
 | | Ms Priya | 65119555 |  |
 | | | | |
-
-##### Head of Departments and Subject Heads
-
-| Name | Role | Phone | Email | WhatsApp |
-|---|---|---|---|---|
-| School Staff Developer | Mdm Ganesh |  65119643 | [Email](https://form.gov.sg/5dc1306d5bec6f0012034966) |  [WA](https://wa.me/6565119643) |
-| Assistant Year Head P5-6 | Mr Ameen |  64999423 | [Email](https://form.gov.sg/5dc126385f93b50019043da0) |  [WA](https://wa.me/6564999423) |
-| Assistant Year Head P3-4 | Ms Malinda Lim | 65119561 |  [Email](https://form.gov.sg/5dc12cb31b03c2001912301f) |  [WA](https://wa.me/6565119561) |
-| Year Head P1-2 | Ms So Bee Soon |  65119555 Ext 445 | [Email](https://form.gov.sg/5dc11d231b03c200191229f0) |  [WA](https://wa.me/6565119646) |
-| HOD Mathematics|  Mr Andy Fan |  65119555x 447 | [Email](https://form.gov.sg/5dc1301bb9014c0012b8c7ac) |  [WA](https://wa.me/6565119559) |
-| HOD Science | Ms Caroline |  65119555 x 446 | [Email](https://form.gov.sg/5dc12b9f1b03c20019122fac) | [WA](https://wa.me/6565119558) |
-| HOD CCE  | Mrs Samantha Kong | 65119587 | [Email](https://form.gov.sg/5dc130c7b9014c0012b8c7dc) |  [WA](https://wa.me/6565119587) |
-| HOD PAM/CCA | Mr Thomas Wong |  65119564 | [Email](https://form.gov.sg/5dc1243b5f93b50019043ce0) |  [WA](https://wa.me/6565119564) |
-| HOD Student Management | Mrs Jocelyn Chew  |  65119645 | [Email](https://form.gov.sg/5dc220d011ecd70012ef9051) |  [WA](https://wa.me/6565119557) |
-| SH English Language | Mr Azhar  |  65119586 | [Email](https://form.gov.sg/61c9eb126c60da00127bfaac) | [WA](https://wa.me/6565119586) |
-|  | Mr Shah Ally |  65119568 | [Email](https://form.gov.sg/5dc221dfc321c6001240b9a4) | [WA](https://wa.me/6565119568) |
-| SH Mathematics | Mrs Jocelyn Chew |  65119645 | [Email](https://form.gov.sg/5dc220d011ecd70012ef9051) | [WA](https://wa.me/6565119557) |
-|  | Mrs Tan Guat Hwa |  65119562 | [Email](https://form.gov.sg/61c9ebb4f46e8700121fb164) | [WA](https://wa.me/6565119562) |
-| SH Science | Mr Bunawar |  65119563 | [Email](https://form.gov.sg/5dc130e9b9014c0012b8c800) | [WA](https://wa.me/6565119563) |
-| SH Chinese Language | Mrs Tan Sze Mian |  65119585 | [Email](https://form.gov.sg/5dc12f9c5bec6f0012034925) | [WA](https://wa.me/6565119585) |
-| SH PE/CCA | Mdm Rachel Wong |  65119644 | [Email](https://form.gov.sg/5dc12e165bec6f001203487c) | [WA](https://wa.me/6565119644) |
-| SH NE/SS/IPW | Mrs Arun | 64999249 | [Email](https://form.gov.sg/5e0587cddf378700118edf8b) | [WA](https://wa.me/6564999249) |
-| SH ICT | Mr Johnny Chan |  65119588 | [Email](https://form.gov.sg/5db78593506fd6001264ff1f) | [WA](https://wa.me/6565119588) |
-|  | Ms Nurhiza |  65119578 | [Email](https://form.gov.sg/5dc124691b03c20019122cb2) | [WA](https://wa.me/6565119578) |
-|  |   |   |   |   |
-
-##### Lead and Senior Teachers
-
-| Role | Name | Phone | Email | WA |
-|---|---|---|---|---|
-|  LT Mathematics | Ms Aileen Poon |  64999419 | [Email](https://form.gov.sg/5dc261f0c321c6001240d3c0) | [WA](https://wa.me/6564999419) |
-| ST Chinese Language | Ms Li Lidan |  64999422 | [Email](https://form.gov.sg/5dc125051b03c20019122cfa) | [WA](https://wa.me/6564999422) |
-|  | Ms Seah Lay Keng |  64999410 | [Email](https://form.gov.sg/5dc12d155f93b5001904400d) | [WA](https://wa.me/6564999410) |
-| ST Music | Mr Wilson Kwa | 63036294 | [Email](https://form.gov.sg/5dc112571b03c200191225c5) | [WA](https://wa.me/6563036294) |
-| ST English Language | Mrs Yap Pui Mei |  64999241 | [Email](https://form.gov.sg/5dc12ddd5bec6f001203485f) | [WA](https://wa.me/6564999241) |
-| ST PE | Ms Cassandra Siua | 64999411 | [Email](https://form.gov.sg/5e0583cd8967b800114c11a7) | [WA](https://wa.me/6564999411) |
-| ST Science | Mdm Lim Wan Jo | 65119571 | [Email](https://form.gov.sg/5dc21e4cc321c6001240b7fe) | [WA](https://wa.me/6565119571) |
-|   |   |   |   |   |
-
