@@ -225,10 +225,3 @@ Press the "WA" link to start a WhatsApp chat
 | ST Science | Mdm Lim Wan Jo | 65119571 | [Email](https://form.gov.sg/5dc21e4cc321c6001240b7fe) | [WA](https://wa.me/6565119571) |
 |   |   |   |   |   |
 
-
-
-| Column 1 | Column 2 | Column 3 | C5 | C6|
-| -------- | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| ST Science | Mdm Lim Wan Jo | 65119571 | [Email](https://form.gov.sg/5dc21e4cc321c6001240b7fe) | [WA](https://wa.me/6565119571) |
-
