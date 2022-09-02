@@ -180,11 +180,11 @@ Press the "WA" link to start a WhatsApp chat
 
 | Role | Name | Phone | Email |
 |---|---|---|---|
-| Ms Ooi Huishan | Senior School Counsellor | 64999242 | [Email](https://form.gov.sg/5dc2237811ecd70012ef9180) |
-| Mdm Jenny Wong | Allied Educator (LBS) | 65119555 | [Email](https://form.gov.sg/5dc2239f11ecd70012ef9195) |
+| Senior School Counsellor| Ms Ooi Huishan  | 64999242 | [Email](https://form.gov.sg/5dc2237811ecd70012ef9180) |
 | Ms Diana Ho | Student Welfare Officer   | 64999240 | [Email](https://form.gov.sg/5dc223ec11ecd70012ef91b4) |
-| Ms Ariela Yap | Allied Educator (LBS) | 64999243 | [Email](https://form.gov.sg/5ed48a3839b707001103884c) |
-| Ms Siti Norliza | Allied Educator (LBS) |   | [Email](https://form.gov.sg/62bcec6b3695530011cfd5a6) |
+| Allied Educator (LBS) || Mdm Jenny Wong  65119555 | [Email](https://form.gov.sg/5dc2239f11ecd70012ef9195) |
+| | Ms Ariela Yap | 64999243 | [Email](https://form.gov.sg/5ed48a3839b707001103884c) |
+| | Ms Siti Norliza |   | [Email](https://form.gov.sg/62bcec6b3695530011cfd5a6) |
 | | | | |
 
 ##### Other Teaching Staff
