@@ -200,7 +200,7 @@ Press the "WA" link to start a WhatsApp chat
 | Mdm Tan Kwa Hua | | [Email](https://form.gov.sg/62bcef9c72f5600012357d4e) | 
 | | | | |
 
-##### Executive & Administrative Staff
+##### Executive and Administrative Staff 
 
 | Role | Name | Phone | Email |
 |---|---|---|---|
@@ -214,11 +214,11 @@ Press the "WA" link to start a WhatsApp chat
 | Receptionist cum Admin | My Johnny Ang  | 65119555 | |
 | Operations Manager | Mr Low Leong Meng | 65119559 |[Email](https://form.gov.sg/60a2072f5308590011e54827) |
 | Operations Support Officer| Mdm Angeline Koh  | 65119555  | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
-| | Mr Ong Boon Tiong| 65119555 |  - |
-| | Mdm Fauziah | 65119555 | - |
-| | Mr Alvin Lee| 65119555 | - |
+| | Mr Ong Boon Tiong| 65119555 |   |
+| | Mdm Fauziah | 65119555 |  |
+| | Mr Alvin Lee| 65119555 |  |
 | Librarian | Ms Nurul Kamilah | 65119589 | [Email](https://form.gov.sg/5dc228ccc321c6001240bd52) |
 | Science Lab Technician | Ms Lissy | 65119555  |  |
-| Desktop Engineer | Mr Edzhan | 65119555 | - |
-| | Ms Priya | 65119555 | - |
+| Desktop Engineer | Mr Edzhan | 65119555 |  |
+| | Ms Priya | 65119555 |  |
 | | | | |
