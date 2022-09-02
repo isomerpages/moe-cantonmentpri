@@ -8,6 +8,7 @@ Click on "Email" to send an email to the teacher
 Press the "WA" link to start a WhatsApp chat
 
 ##### School Leaders
+
 | Role | Name |
 |---|---|
 | Principal | Mrs Manokara S  |  
@@ -187,6 +188,7 @@ Press the "WA" link to start a WhatsApp chat
 | | | | |
 
 ##### Head of Departments and Subject Heads
+
 | Name | Role | Phone | Email | WhatsApp |
 |---|---|---|---|---|
 | School Staff Developer | Mdm Ganesh |  65119643 | [Email](https://form.gov.sg/5dc1306d5bec6f0012034966) |  [WA](https://wa.me/6565119643) |
@@ -211,6 +213,7 @@ Press the "WA" link to start a WhatsApp chat
 |  |   |   |   |   |
 
 ##### Lead and Senior Teachers
+
 | Role | Name | Phone | Email | WA |
 |---|---|---|---|---|
 |  LT Mathematics | Ms Aileen Poon |  64999419 | [Email](https://form.gov.sg/5dc261f0c321c6001240d3c0) | [WA](https://wa.me/6564999419) |
