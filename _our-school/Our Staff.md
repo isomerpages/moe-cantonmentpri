@@ -180,11 +180,11 @@ Press the "WA" link to start a WhatsApp chat
 
 | Role | Name | Phone | Email |
 |---|---|---|---|
-| Senior School Counsellor| Ms Ooi Huishan  | 64999242 | [Email](https://form.gov.sg/5dc2237811ecd70012ef9180) |
-| Ms Diana Ho | Student Welfare Officer   | 64999240 | [Email](https://form.gov.sg/5dc223ec11ecd70012ef91b4) |
+| Senior School Counsellor| Ms Ooi Huishan | 64999242 | [Email](https://form.gov.sg/5dc2237811ecd70012ef9180) |
+| Student Welfare Officer | Ms Diana Ho | 64999240 | [Email](https://form.gov.sg/5dc223ec11ecd70012ef91b4) |
 | Allied Educator (LBS) | Mdm Jenny Wong | 65119555 | [Email](https://form.gov.sg/5dc2239f11ecd70012ef9195) |
 | | Ms Ariela Yap | 64999243 | [Email](https://form.gov.sg/5ed48a3839b707001103884c) |
-| | Ms Siti Norliza |   | [Email](https://form.gov.sg/62bcec6b3695530011cfd5a6) |
+| | Ms Siti Norliza || [Email](https://form.gov.sg/62bcec6b3695530011cfd5a6) |
 | | | | |
 
 ##### Other Teaching Staff
@@ -216,9 +216,9 @@ Press the "WA" link to start a WhatsApp chat
 | Mdm Angeline Koh | Operations Support Officer | 65119555  | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
 | Mr Ong Boon Tiong | Operations Support Officer | 65119555 |  - |
 | Mdm Fauziah | Operations Support Officer | 65119555 | - |
-| Mr Alvin Lee | Adjunct Operations Support Officer | 65119555 | - |
+| Mr Alvin Lee | Operations Support Officer | 65119555 | - |
 | Ms Nurul Kamilah | Librarian | 65119589 | [Email](https://form.gov.sg/5dc228ccc321c6001240bd52) |
-| Ms Lissy | Science Lab Technician  | 65119555  | [Email](https://form.gov.sg/5dc2294b11ecd70012ef93bb) |
+| Ms Lissy | Science Lab Technician  | 65119555  |  |
 | Mr Edzhan | Desktop Engineer | 65119555 | - |
 | Ms Priya | Desktop Engineer | 65119555 | - |
 | | | | |
