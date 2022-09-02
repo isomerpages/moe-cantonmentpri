@@ -15,13 +15,6 @@ Press the "WA" link to start a WhatsApp chat
 | Vice Principal  | Ms Cheng Shin Miin |   
 |   |   |
 
-| Role | Name |
-|---|---|
-| Principal | Mrs Manokara S  |  
-| Vice Principal | Mrs Audrea Chin  |   
-| Vice Principal  | Ms Cheng Shin Miin |   
-|   |   |
-
 ##### Head of Departments and Subject Heads
 | Name | Role | Phone | Email | WhatsApp |
 |---|---|---|---|---|
