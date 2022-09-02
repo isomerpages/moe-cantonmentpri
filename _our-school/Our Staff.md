@@ -3,19 +3,21 @@ title: Our Staff
 permalink: /our-school/our-staff/
 description: ""
 ---
-### Principal & Key Personnel
-
 Click on "Email" to send an email to the teacher
 
-Press the "WA" link on your phone to start a chat
+Press the "WA" link to start a WhatsApp chat
 
+##### School Leaders
+| Role | Name | 3454 | 3453| 5434534534 |
+|---|---|---|---|---|
+| Principal | Mrs Manokara S  |  |
+| Vice Principal | Mrs Audrea Chin  |   |
+| Vice Principal  | Ms Cheng Shin Miin |   |
+|   |   |   |   |   |
 
+##### Head of Departments and Subject Heads
 | Name | Role | Phone | Email | WhatsApp |
 |---|---|---|---|---|
-| Mrs Manokara S | Principal |  |
-| Mrs Audrea Chin | Vice Principal |   |
-| Ms Cheng Shin Miin | Vice Principal |   |
-|   |   |   |   |   |
 | Mdm Ganesh | School Staff Developer |  65119643 | [Email](https://form.gov.sg/5dc1306d5bec6f0012034966) |  [WA](https://wa.me/6565119643) |
 | Mr Ameen | Assistant Year Head P5-6  |  64999423 | [Email](https://form.gov.sg/5dc126385f93b50019043da0) |  [WA](https://wa.me/6564999423) |
 | Ms Malinda Lim | Assistant Year Head P3-4 |  65119561 |  [Email](https://form.gov.sg/5dc12cb31b03c2001912301f) |  [WA](https://wa.me/6565119561) |
@@ -26,7 +28,7 @@ Press the "WA" link on your phone to start a chat
 | Mrs Samantha Kong | HOD CCE  |  65119587 | [Email](https://form.gov.sg/5dc130c7b9014c0012b8c7dc) |  [WA](https://wa.me/6565119587) |
 | Mr Thomas Wong | HOD PAM/CCA |  65119564 | [Email](https://form.gov.sg/5dc1243b5f93b50019043ce0) |  [WA](https://wa.me/6565119564) |
 | Mrs Jocelyn Chew | HOD Student Management |  65119645 | [Email](https://form.gov.sg/5dc220d011ecd70012ef9051) |  [WA](https://wa.me/6565119557) |
-|   |   |   |   |   |
+|  |   |   |   |   |
 | Mr Azhar  | SH English Language |  65119586 | [Email](https://form.gov.sg/61c9eb126c60da00127bfaac) | [WA](https://wa.me/6565119586) |
 | Mr Shah Ally | SH English Language  |  65119568 | [Email](https://form.gov.sg/5dc221dfc321c6001240b9a4) | [WA](https://wa.me/6565119568) |
 | Mrs Jocelyn Chew | SH Mathematics  |  65119645 | [Email](https://form.gov.sg/5dc220d011ecd70012ef9051) | [WA](https://wa.me/6565119557) |
@@ -38,6 +40,10 @@ Press the "WA" link on your phone to start a chat
 | Mr Johnny Chan | SH ICT  |  65119588 | [Email](https://form.gov.sg/5db78593506fd6001264ff1f) | [WA](https://wa.me/6565119588) |
 | Ms Nurhiza | SH ICT  |  65119578 | [Email](https://form.gov.sg/5dc124691b03c20019122cb2) | [WA](https://wa.me/6565119578) |
 |  |   |   |   |   |
+
+##### Lead and Senior Teachers
+| Role | Name | Phone | Email | WA |
+|---|---|---|---|---|
 | Ms Aileen Poon |  LT Mathematics |  64999419 | [Email](https://form.gov.sg/5dc261f0c321c6001240d3c0) | [WA](https://wa.me/6564999419) |
 |   |   |   |   |   |
 | Ms Li Lidan | ST Chinese Language |  64999422 | [Email](https://form.gov.sg/5dc125051b03c20019122cfa) | [WA](https://wa.me/6564999422) |
@@ -48,7 +54,7 @@ Press the "WA" link on your phone to start a chat
 | Mdm Lim Wan Jo | ST Science |  65119571 | [Email](https://form.gov.sg/5dc21e4cc321c6001240b7fe) | [WA](https://wa.me/6565119571) |
 |   |   |   |   |   |
 
-### Primary 1
+##### Primary 1
 
 | Classs | Name | Phone | Email | WA |
 |---|---|---|---|---|
@@ -69,11 +75,10 @@ Press the "WA" link on your phone to start a chat
 |   | Mr Nur Muhammad | 63036296 | [Email](https://form.gov.sg/5dc129795f93b50019043ed1) | [WA](https://wa.me/6563036296) |
 | | | | | |
 
-### Primary 2
+##### Primary 2
 
-|  |  |  |  |  |
-|---|---|---|---|---|
 | Class | Name | Phone | Email  | WA |
+|---|---|---|---|---|
 | 2 Care | Mdm Mubina | 63036293 | [Email](https://form.gov.sg/5dc10e9d1b03c2001912244d) | [WA](https://wa.me/6563036293)  |
 |  | Mr Wilson Kwa | 63036294 | [Email](https://form.gov.sg/5dc112571b03c200191225c5) | [WA](https://wa.me/6563036294) |
 | 2 Graciousness | Mrs Joanna Siasat | 63036295 | [Email](https://form.gov.sg/5fe170580ffe9700112ca150) | [WA](https://wa.me/6563036295) |
@@ -96,7 +101,7 @@ Press the "WA" link on your phone to start a chat
 |   | Ms Liyu Min Yi | 65119584 | [Email](https://form.gov.sg/5e05880edf378700118edf96) |  |
 | | | | | |
 
-### Primary 3
+##### Primary 3
 
 | Class | Name | Phone | Email | WA |
 | --- | --- | --- | --- | --- |
@@ -113,7 +118,7 @@ Press the "WA" link on your phone to start a chat
 |   | Mr Bunawar | 65119563 | [Email](https://form.gov.sg/5dc130e9b9014c0012b8c800) | [WA](https://wa.me/6565119563) |
 | | | | | |
 
-### Primary 4
+##### Primary 4
 
 | Class | Name | Phone | Email | WA| 
 |---|---|---|---|---|
@@ -134,7 +139,7 @@ Press the "WA" link on your phone to start a chat
 | | Mr Thomas Wong | 65119564 | [Email](https://form.gov.sg/5dc1243b5f93b50019043ce0) | [WA](https://wa.me/6565119564) | 
 |  | | | | |
 
-### Primary 5
+##### Primary 5
 
 | Class | Name | Phone | Email | WA |
 | --- | --- | --- | --- | --- |
@@ -152,7 +157,7 @@ Press the "WA" link on your phone to start a chat
 |   | Mr Jason Tan  | 64999244 | [Email](https://form.gov.sg/5dc2210811ecd70012ef9069) | [WA](https://wa.me/6564999244) |
 | | | | | |
 
-### Primary 6
+##### Primary 6
 
 | Class | Name | Phone | Email | WA | 
 |---|---|---|---|---|
@@ -171,7 +176,18 @@ Press the "WA" link on your phone to start a chat
 | | Ms Aileen Poon | 64999419 | [Email](https://form.gov.sg/5dc261f0c321c6001240d3c0) | [WA](https://wa.me/6564999419) | 
 | | | | | |
 
-### Other Teaching Staff
+##### Allied Educators
+
+| Role | Name | Phone | Email |
+|---|---|---|---|
+| Ms Ooi Huishan | Senior School Counsellor | 64999242 | [Email](https://form.gov.sg/5dc2237811ecd70012ef9180) |
+| Mdm Jenny Wong | Allied Educator (LBS) | 65119555 | [Email](https://form.gov.sg/5dc2239f11ecd70012ef9195) |
+| Ms Diana Ho | Student Welfare Officer   | 64999240 | [Email](https://form.gov.sg/5dc223ec11ecd70012ef91b4) |
+| Ms Ariela Yap | Allied Educator (LBS) | 64999243 | [Email](https://form.gov.sg/5ed48a3839b707001103884c) |
+| Ms Siti Norliza | Allied Educator (LBS) |   | [Email](https://form.gov.sg/62bcec6b3695530011cfd5a6) |
+| | | | |
+
+##### Other Teaching Staff
 
 | Name | Phone | Email | WA | 
 |---|---|---|---|
@@ -184,18 +200,7 @@ Press the "WA" link on your phone to start a chat
 | Mdm Tan Kwa Hua | | [Email](https://form.gov.sg/62bcef9c72f5600012357d4e) | 
 | | | | |
 
-### Allied Educators
-
-| Name | Role | Phone | Email |
-|---|---|---|---|
-| Ms Ooi Huishan | Senior School Counsellor | 64999242 | [Email](https://form.gov.sg/5dc2237811ecd70012ef9180) |
-| Mdm Jenny Wong | Allied Educator (LBS) | 65119555 | [Email](https://form.gov.sg/5dc2239f11ecd70012ef9195) |
-| Ms Diana Ho | Student Welfare Officer   | 64999240 | [Email](https://form.gov.sg/5dc223ec11ecd70012ef91b4) |
-| Ms Ariela Yap | Allied Educator (LBS) | 64999243 | [Email](https://form.gov.sg/5ed48a3839b707001103884c) |
-| Ms Siti Norliza | Allied Educator (LBS) |   | [Email](https://form.gov.sg/62bcec6b3695530011cfd5a6) |
-| | | | |
-
-### Executive & Administrative Staff
+##### Executive & Administrative Staff
 
 | Name | Role | Phone | Email |
 |---|---|---|---|
