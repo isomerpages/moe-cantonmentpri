@@ -122,20 +122,3 @@ Error messages you may encounter
 | ![](/images/Why%20you%20need%20your%20phone.png) | ![](/images/Verify%20its%20you.png) | ![](/images/Wrong%20Pasword.png) |
 | Inform your teacher who will help you with this | Students are to enter their own/parent/guardians' handphone number that can receive SMS. Enter the code you get via SMS to proceed | Your Google account is locked for a random amount of time. Might be minutes to hours. Do not request for password reset for this. |
 | | | |
-
-### Cyberwellness
-
-[MOE Cyber Wellness Guide](https://www.moe.gov.sg/programmes/cyber-wellness)  <br>
-[Cyber Wellness for Students](https://cantonmentpscw2021.weebly.com/) <br>
-[Cyberwellness Holiday Tips for Students](/files/Cyberwellness%20Holiday%20Tips%20for%20Students.pdf)
-
-Cyber Wellness 2021 is about&nbsp;**Safe Searching On The Internet**&nbsp;. The following&nbsp;online activities&nbsp;and posters were created by us, students from&nbsp;Cantonment Primary School.&nbsp;We hope you have fun and learn something useful. Remember to take responsibility when you are in the digital space. You can play a part to make the internet a wonderful place to be in!&nbsp;Kindly use&nbsp;[this link](https://cantonmentpscw2021.weebly.com/)&nbsp;to try the games.  
-
-[Team A - Safe Searching Tips](https://docs.google.com/presentation/d/1bf_8Iv8qqlHxrDNV0WOIvV3TGmsC1JSTPKlYAaMqWG4/edit#slide=id.p) <br>
-[Team B - Case Study](https://docs.google.com/presentation/d/1P_mBtgN117IHPnE8XPHm1ogt_a8aMiUr7wVG66aHPh4/edit#slide=id.p) <br>
-[Team C - Safe Searching Tips](https://docs.google.com/presentation/d/1i3YrKUP5IrwK9KJSmr_BhyYyuBhvtDqR6InHe590VhA/edit#slide=id.gd09a16fa10_10_0) <br>
-[Team D - Case Study](https://docs.google.com/presentation/d/13OhaZUOIsp0oI-zrc6Vo3khmEExLqnz5oyQLtnSa0DE/edit#slide=id.gd09d1c1a26_0_77)
-
-### Links
-
-[NLB Resources for Children and Teens](https://childrenandteens.nlb.gov.sg/)
