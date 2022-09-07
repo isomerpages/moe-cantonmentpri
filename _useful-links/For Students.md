@@ -6,7 +6,7 @@ description: ""
 <div>  
 <div style="float: left">  
 <a href="https://workspace.google.com/dashboard">  
-<img src="/images/Gmail.jpg" style="width:40%">
+<img style="width:40%" src="/images/Gmail.jpg">
 </a>  
 </div>  
 <div></div>  
@@ -19,7 +19,7 @@ Student ICON Email
 <div>  
 <div style="float: left">  
 <a href="https://vle.learning.moe.edu.sg/login">  
-<img src="/images/SLS%20Icon.png" style="width:30%">
+<img style="width:30%" src="/images/SLS%20Icon.png">
 </a>  
 </div>  
 <div></div>  
@@ -32,7 +32,7 @@ Student Learning Space
 <div>  
 <div style="float: left">  
 <a href="https://member.koobits.com/">  
-<img src="/images/Koobits.jpg" style="width:40%">
+<img style="width:40%" src="/images/Koobits.jpg">
 </a>  
 </div>  
 <div></div>  
@@ -45,7 +45,7 @@ KooBits
 <div>  
 <div style="float: left">  
 <a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">  
-<img src="/images/Myskillsfuture.jpg" style="width:30%">
+<img style="width:30%" src="/images/Myskillsfuture.jpg">
 </a>  
 </div>  
 <div></div>  
@@ -58,7 +58,7 @@ MySkillsFuture
 <div>  
 <div style="float: left">  
 <a href="https://www.ezhishi.net/Contents/">  
-<img src="/images/Ezhishi.jpg" style="width:40%">
+<img style="width:40%" src="/images/Ezhishi.jpg">
 </a>  
 </div>  
 <div></div>  
@@ -71,7 +71,7 @@ eZhishi
 <div>  
 <div style="float: left">  
 <a href="https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">  
-<img src="/images/Spydus.jpg" style="width:40%">
+<img style="width:40%" src="/images/Spydus.jpg">
 </a>  
 </div>  
 <div></div>  
@@ -80,6 +80,17 @@ eZhishi
 School Library Book Search
 
 
+| [Student Learning Space](https://vle.learning.moe.edu.sg/login) | [ICON Email](https://workspace.google.com/dashboard) | [MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) |[KooBits](https://member.koobits.com/)| [eZhishi](https://www.ezhishi.net/Contents/)| [School Library Search](https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)|
+| -------- | -------- | -------- | -------- | -------- | -------- |
+|**For password resets, contact:**|
+| Your teachers |Your teachers | Form teachers| Maths teacher | Chinese language teachers | |
+|
+
+You can also send a WhatsApp message to the General Office ([65119555](http://wa.me/6565119555)) if you need a password reset after school hours. 
+
+Write your username in page 23 of your students handbook
+
+If you get an error when logging in to any of above websites, clear your browser history, try accessing from a different web browsers such as Firefox, Chrome, Edge or Safari or on another device before trying to reset your password.
   
 ##### Password Policy
 
@@ -125,4 +136,5 @@ Cyber Wellness 2021 is about&nbsp;**Safe Searching On The Internet**&nbsp;. The 
 [Team D - Case Study](https://docs.google.com/presentation/d/13OhaZUOIsp0oI-zrc6Vo3khmEExLqnz5oyQLtnSa0DE/edit#slide=id.gd09d1c1a26_0_77)
 
 ### Links
+
 [NLB Resources for Children and Teens](https://childrenandteens.nlb.gov.sg/)
