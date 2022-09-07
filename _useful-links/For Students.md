@@ -102,15 +102,15 @@ If you get an error when logging in to any of above websites, clear your browser
 
 ### Student ICON
 
-[ICON website](https://workspace.google.com/dashboard)&nbsp;(Works only on web browser. Mobile app or computer software sync not available until further notice)  
-
-With student ICON, you can use:
+With [Student ICON](https://workspace.google.com/dashboard), you can use:
 
 | Google Suite | Zoom | Microsoft Pro Plus |
 |---|---|---|
 | Access certain Google websites such as Gmail, Slides. | Basic Zoom Account <br><br>On the Zoom website, click Sign in with Google and follow the steps | Word, Excel, PowerPoint, OneNote and Publisher which can be installed on 5 of your home desktop/laptop (PC/Mac), smartphone and tablets.<br><br>Minecraft Education |
 | [Student ICON Privacy Policy](https://workspace.google.com/terms/education_terms_japan.html) | [Zoom Privacy Policy](https://zoom.us/docs/en-us/schools-privacy-statement.html) | [Microsoft Pro Plus Privacy Policy](https://portal.office.com/commerce/mosa.aspx) |
 |
+
+Works only on web browsers. Mobile app or computer software sync not available until further notice
 
 [Student iCON Onboarding Guide.pdf](/files/Student%20iCON%20Onboarding%20Guide.pdf) <br>
 [ICON Login.pdf](/files/ICON%20Login.pdf)
