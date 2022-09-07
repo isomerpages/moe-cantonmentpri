@@ -1,6 +1,6 @@
 ---
 title: English
-permalink: /our-curriculum/english
+permalink: /our-curriculum/english/
 description: ""
 ---
 ### Vision
@@ -89,8 +89,8 @@ Download the resource booklet for a wealth of reading resources and materials by
 
 **National Library Board (NLB) website** <br>
 Access [National Library Board (NLB) website](https://www.nlb.gov.sg/)  for its NLB catalogue & a list of eResources for primary school students. One of the highly recommended resources is Tumblebook library which has a collection of animated, talking picture books. Young children will love reading the electronic picture books which come with animation, sound, music & narration.
-
- [https://www.nlb.gov.sg/](https://www.nlb.gov.sg/)
+ 
+ [NLB Resources for Children and Teens](https://childrenandteens.nlb.gov.sg/)
 
 **Dolch Sight Vocabulary Words** <br>
 Mrs Perkins' Dolch Words is a [website](https://www.mrsperkins.com/)  dedicated for the teaching of Dolch sight words to young children. Besides word lists, there are also flash cards, worksheets & slides for parents to go through with their children.
