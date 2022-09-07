@@ -3,9 +3,11 @@ title: Our Staff
 permalink: /our-school/our-staff/
 description: ""
 ---
-Click on "Email" to send an email to the teacher
+##### General Office: 
+Email: cantonment_ps@moe.edu.sg  <br>
+Phone/WhatsApp: [65119555](https://wa.me/6565119555)
 
-Press the "WA" link to start a WhatsApp chat
+Click on "Email" to send an email to the teacher or click on "WA" to start a WhatsApp chat with them.
 
 ##### School Leaders
 
