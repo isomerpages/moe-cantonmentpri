@@ -6,7 +6,7 @@ description: ""
 <div>  
 <div style="float: left">  
 <a href="https://workspace.google.com/dashboard">  
-<img style="width:40%" src="/images/Gmail.jpg">
+<img src="/images/Gmail.jpg" style="width:40%">
 </a>  
 </div>  
 <div></div>  
@@ -19,7 +19,7 @@ Student ICON Email
 <div>  
 <div style="float: left">  
 <a href="https://vle.learning.moe.edu.sg/login">  
-<img style="width:30%" src="/images/SLS%20Icon.png">
+<img src="/images/SLS%20Icon.png" style="width:30%">
 </a>  
 </div>  
 <div></div>  
@@ -32,7 +32,7 @@ Student Learning Space
 <div>  
 <div style="float: left">  
 <a href="https://member.koobits.com/">  
-<img style="width:40%" src="/images/Koobits.jpg">
+<img src="/images/Koobits.jpg" style="width:40%">
 </a>  
 </div>  
 <div></div>  
@@ -45,7 +45,7 @@ KooBits
 <div>  
 <div style="float: left">  
 <a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">  
-<img style="width:30%" src="/images/Myskillsfuture.jpg">
+<img src="/images/Myskillsfuture.jpg" style="width:30%">
 </a>  
 </div>  
 <div></div>  
@@ -58,7 +58,7 @@ MySkillsFuture
 <div>  
 <div style="float: left">  
 <a href="https://www.ezhishi.net/Contents/">  
-<img style="width:40%" src="/images/Ezhishi.jpg">
+<img src="/images/Ezhishi.jpg" style="width:40%">
 </a>  
 </div>  
 <div></div>  
@@ -71,7 +71,7 @@ eZhishi
 <div>  
 <div style="float: left">  
 <a href="https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">  
-<img style="width:40%" src="/images/Spydus.jpg">
+<img src="/images/Spydus.jpg" style="width:40%">
 </a>  
 </div>  
 <div></div>  
@@ -79,27 +79,7 @@ eZhishi
 
 School Library Book Search
 
-If you get an error when logging in to any of above websites, clear your browser history, try accessing from a different web browsers such as Firefox, Chrome, Edge or Safari or on another device  
 
-| [Student Learning Space](https://vle.learning.moe.edu.sg/login) | [ICON Email](https://workspace.google.com/dashboard) | [MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) |[KooBits](https://member.koobits.com/)| [eZhishi](https://www.ezhishi.net/Contents/)| [School Library Search](https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)|
-| -------- | -------- | -------- | -------- | -------- | -------- |
-|**For password resets, contact:**|
-| Your teachers |Your teachers | Form teachers| Maths teacher | Chinese language teachers | |
-|
-
-You can also send a WhatsApp message to the General Office ([65119555](http://wa.me/6565119555)) if you need a password reset after school hours. 
-
-You can find your username in page 23 of your students handbook
-
-If you get an error when logging in to any of above websites, clear your browser history, try accessing from a different web browsers such as Firefox, Chrome, Edge or Safari or on another device before trying to reset your password.
-
-### Password Reset
-
-Try the forgot password button on these websites. If it does not work you can:  
-  
-SLS/ICON -&nbsp;Approach&nbsp;your form or subject teachers. Send a WhatsApp to 65119555&nbsp;([click here](http://wa.me/6565119555))&nbsp;to request for a password reset.&nbsp;<br>
-KooBits - Approach your Maths teachers <br>
-eZhishi - Approach your Chinese language teachers  
   
 ##### Password Policy
 
@@ -118,8 +98,7 @@ With student ICON, you can use:
 |---|---|---|
 | Access certain Google websites such as Gmail, Slides. | Basic Zoom Account <br><br>On the Zoom website, click Sign in with Google and follow the steps | Word, Excel, PowerPoint, OneNote and Publisher which can be installed on 5 of your home desktop/laptop (PC/Mac), smartphone and tablets.<br><br>Minecraft Education |
 | [Student ICON Privacy Policy](https://workspace.google.com/terms/education_terms_japan.html) | [Zoom Privacy Policy](https://zoom.us/docs/en-us/schools-privacy-statement.html) | [Microsoft Pro Plus Privacy Policy](https://portal.office.com/commerce/mosa.aspx) |
-| [Network Status](https://www.google.com/appsstatus) | [Network Status](https://status.zoom.us/) | [Network Status](https://status.office365.com/) |
-| | | |
+|
 
 [Student iCON Onboarding Guide.pdf](/files/Student%20iCON%20Onboarding%20Guide.pdf) <br>
 [ICON Login.pdf](/files/ICON%20Login.pdf)
@@ -146,8 +125,4 @@ Cyber Wellness 2021 is about&nbsp;**Safe Searching On The Internet**&nbsp;. The 
 [Team D - Case Study](https://docs.google.com/presentation/d/13OhaZUOIsp0oI-zrc6Vo3khmEExLqnz5oyQLtnSa0DE/edit#slide=id.gd09d1c1a26_0_77)
 
 ### Links
-
-[School e-Resource Repository (SERR)](https://schoolibrary.spydus.com.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) <br>
-The SERR is a virtual school library that has been set up to support HBL and encourage wider reading by students for the long term.&nbsp;It seeks to support wide and extensive reading in schools across various subjects and levels by providing easy access to online resources.&nbsp;
-
 [NLB Resources for Children and Teens](https://childrenandteens.nlb.gov.sg/)
