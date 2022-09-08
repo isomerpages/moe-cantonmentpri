@@ -3,83 +3,6 @@ title: For Students
 permalink: /useful-links/for-students/
 description: ""
 ---
-<div>  
-<div style="float: left">  
-<a href="https://workspace.google.com/dashboard">  
-<img src="/images/Gmail.jpg" style="width:40%">
-</a>  
-</div>  
-<div></div>  
-</div>
-
-Student ICON Email
-
-<p></p>
-
-<div>  
-<div style="float: left">  
-<a href="https://vle.learning.moe.edu.sg/login">  
-<img src="/images/SLS%20Icon.png" style="width:30%">
-</a>  
-</div>  
-<div></div>  
-</div>
-
-Student Learning Space
-
-<p></p>
-
-<div>  
-<div style="float: left">  
-<a href="https://member.koobits.com/">  
-<img src="/images/Koobits.jpg" style="width:40%">
-</a>  
-</div>  
-<div></div>  
-</div>
-
-KooBits
-
-<p></p>
-
-<div>  
-<div style="float: left">  
-<a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">  
-<img src="/images/Myskillsfuture.jpg" style="width:30%">
-</a>  
-</div>  
-<div></div>  
-</div>
-
-MySkillsFuture
-
-<p></p>
-
-<div>  
-<div style="float: left">  
-<a href="https://www.ezhishi.net/Contents/">  
-<img src="/images/Ezhishi.jpg" style="width:40%">
-</a>  
-</div>  
-<div></div>  
-</div>
-
-eZhishi
-
-<p></p>
-
-<div>  
-<div style="float: left">  
-<a href="https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">  
-<img src="/images/Spydus.jpg" style="width:40%">
-</a>  
-</div>  
-<div></div>  
-</div>
-
-School Library Book Search
-
-
 | [Student Learning Space](https://vle.learning.moe.edu.sg/login) | [ICON Email](https://workspace.google.com/dashboard) | [MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) |[KooBits](https://member.koobits.com/)| [eZhishi](https://www.ezhishi.net/Contents/)| [School Library Search](https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)|
 | -------- | -------- | -------- | -------- | -------- | -------- |
 |![](/images/SLS%20Icon.png)|![](/images/Gmail.jpg)|![](/images/Myskillsfuture.jpg)|![](/images/Koobits.jpg)|![](/images/Ezhishi.jpg)|![](/images/Spydus.jpg)|
@@ -89,7 +12,7 @@ School Library Book Search
 
 You can also send a WhatsApp message to the General Office ([65119555](http://wa.me/6565119555)) if you need a password reset after school hours. 
 
-Write your username in page 23 of your students handbook
+Find your username in page 23 of your students handbook
 
 If you get an error when logging in to any of above websites, clear your browser history, try accessing from a different web browsers such as Firefox, Chrome, Edge or Safari or on another device before trying to reset your password.
   
