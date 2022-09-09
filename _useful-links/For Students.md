@@ -33,7 +33,7 @@ With [Student ICON](https://workspace.google.com/dashboard), you can use:
 | [Student ICON Privacy Policy](https://workspace.google.com/terms/education_terms_japan.html) | [Zoom Privacy Policy](https://zoom.us/docs/en-us/schools-privacy-statement.html) | [Microsoft Pro Plus Privacy Policy](https://portal.office.com/commerce/mosa.aspx) |
 |
 
-Google Suite works only on web browsers. Mobile app or computer software sync not available until further notice
+Google Suite only works on web browsers. Mobile app or computer software sync not available until further notice
 
 [Student iCON Onboarding Guide.pdf](/files/Student%20iCON%20Onboarding%20Guide.pdf) <br>
 [ICON Login.pdf](/files/ICON%20Login.pdf)
