@@ -3,6 +3,7 @@ title: Calendar
 permalink: /useful-links/calendar/
 description: ""
 ---
+T1W1 - Refers to Term 1 and Week 1 etc<br>
 PH: Public Holiday <br>
 SH: Schoool Holiday<br>
 SCC - KidzTreehouse Student Care Centre
