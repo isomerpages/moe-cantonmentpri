@@ -30,8 +30,8 @@ Revolving Transport Pte Ltd
 
 Phone: <br>
 Office: [64797597](tel:64797597)<br>
-Shirley [81262310](tel:81262310)<br>
-Yoyo [98660836](tel:98660836)
+Shirley: [81262310](tel:81262310)<br>
+Yoyo: [98660836](tel:98660836)
 
 Email: [emltpt08@gmail.com](mailto:emltpt08@gmail.com)  
   
