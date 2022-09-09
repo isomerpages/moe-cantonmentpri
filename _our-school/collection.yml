@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - School Identity.md
       - School Hours.md
       - School Identity/.keep
       - School Identity/School Vision.md
