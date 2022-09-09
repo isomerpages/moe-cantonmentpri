@@ -72,3 +72,9 @@ For school based dentist appointments, please call 62253582. If you need to vis
 | Health Promotion Board, School Dental Centre, 3 Second Hospital Avenue, Singapore 168937|Proceed straight to Singapore General Hospital A&E, Outram Road, Singapore 169608| 
 |[View Map](http://www.onemap.gov.sg/main/v2/?lat=1.27960538581892&lng=103.838346361748)|[View Map](http://www.onemap.gov.sg/main/v2/?lat=1.27964383970221&lng=103.835541764663)|
 | call [64353782](tel:+6564353782)|call [62223322](tel:+6562223322)|
+
+| 8 am to 4 pm | After 4pm |
+| -------- | -------- |
+| Health Promotion Board, School Dental Centre, 3 Second Hospital Avenue, Singapore 168937|Proceed straight to Singapore General Hospital A&E, Outram Road, Singapore 169608| 
+|[View Map](http://www.onemap.gov.sg/main/v2/?lat=1.27960538581892&lng=103.838346361748)|[View Map](http://www.onemap.gov.sg/main/v2/?lat=1.27964383970221&lng=103.835541764663)|
+| call [64353782](tel:+6564353782)|call [62223322](tel:+6562223322)|
