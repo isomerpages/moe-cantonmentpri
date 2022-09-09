@@ -12,7 +12,7 @@ Monday to Friday: 8.30 a.m. to 3.30 p.m. <br> Lunch Break: 11.30 a.m. to 12.30 p
 
 Email: [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com) <br> 
 Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/) <br>
-For enquiry:  call [62259241](tel:62259241) or [WhatsApp](https://wa.me/6590239270) to 90239270
+Phone: [62259241](tel:62259241) or [WhatsApp](https://wa.me/6590239270) to 90239270
 
 **Booklist For 2022** <br>
 [2022 P1.pdf](/files/2022%20P1.pdf) <br>
@@ -44,7 +44,7 @@ Bibi&Baba Private Limited<br>
 [Website](https://www.schooluniforms.sg/cantonment-primary-school)<br>
 Order name tags at [https://tinyurl.com/cpsnametag](https://tinyurl.com/cpsnametag)
 
-Phone: [62719248](tel:62719248) (Office) <br>
+Phone: [62719248](tel:62719248) <br>
 
 Office/Retail: <br>
 213 Henderson Road<br>
@@ -61,8 +61,7 @@ School based Student Care Centre
 Website: [www.kidztreehouse.com.sg](http://www.kidztreehouse.com.sg/)[  
 ](https://kidztreehouse.com.sg/cps/) <br>
 Email: [cps@kowabunga.com.sg](mailto:cps@kowabunga.com.sg) <br>
-
-For enquiry: [68505171](tel:+6568505171) / [81272236](tel:+6581272236)
+Phone: [68505171](tel:+6568505171) / [81272236](tel:+6581272236)
 
 ### Dental Clinic @ CPS
  
@@ -74,4 +73,4 @@ For school based dentist appointments, please call 62253582. If you need to vis
 | -------- | -------- |
 | Health Promotion Board, School Dental Centre, 3 Second Hospital Avenue, Singapore 168937|Proceed straight to Singapore General Hospital A&E, Outram Road, Singapore 169608| 
 |[View Map](http://www.onemap.gov.sg/main/v2/?lat=1.27960538581892&lng=103.838346361748)|[View Map](http://www.onemap.gov.sg/main/v2/?lat=1.27964383970221&lng=103.835541764663)|
-| call [64353782](tel:+6564353782)|call [62223322](tel:+6562223322)|
+| Phone: [64353782](tel:+6564353782)|Phone: [62223322](tel:+6562223322)|
