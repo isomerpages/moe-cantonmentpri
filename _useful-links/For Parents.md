@@ -3,8 +3,6 @@ title: For Parents
 permalink: /useful-links/for-parents/
 description: ""
 ---
-
-
 ### Touch Base Meeting
 [Principal's Welcome Video Message](https://www.canva.com/design/DAE0o4G3XqU/y38KHLRz1DBkttTyCNeyvg/watch?utm_content=DAE0o4G3XqU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) <br>
 [2022 P1 TBM.pdf](/files/2022%20P1%20TBM.pdf) <br>
@@ -15,11 +13,12 @@ description: ""
 [2022 P6 TBM.pdf](/files/2022%20P6%20TBM.pdf)
 
 ##### Cyberwellness 
-[MOE Cyber Wellness Guide](https://www.moe.gov.sg/programmes/cyber-wellness) <br>
+[MOE Cyber Wellness Guide](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness) <br>
 [Cyber Wellness Holiday Tips for Parents](/files/Cyberwellness%20Holiday%20Tips%20for%20Parents.pdf) <br>
 [MOE Parent Kit](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
 
 ##### P4 Subject Based Banding
+[Website](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)  
 [English](/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf)     [Chinese](/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf)     [Malay](/files/MOE_SBB_ML_revised%201%20Mar%202018.pdf)     [Tamil](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
 ##### PSLE Scoring and Secondary 1 Posting
@@ -33,19 +32,14 @@ description: ""
 <2021 Semester 1> file size too big <br>
 <2021 Semester 2.pdf> file size too big
 
-##### HPB Resources For Parents
-<Parents Newsletter - Edition 1 002.pdf> file size too big
+#### Health Promotion Board Resources 
 
-Registration Links:  
-[](https://go.gov.sg/cotmprisch1)[https://go.gov.sg/cotmprisch1](https://go.gov.sg/cotmprisch1) <br>
-[https://go.gov.sg/healworkshopspsg](https://go.gov.sg/healworkshopspsg)
-
-##### Immunisation
+##### School Based Health Check
 [Online submission of consent for Immunisation and medical information](https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal) <br>
 [HPB consent form for immunisation for P1 students](/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P1%20Students.pdf) <br>
 [HPB consent form for immunisation for P5 students](/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P5%20Students.pdf)
 
-**Enhancement of Childhood Vaccination Subsidies** <br>
+##### Enhancement of Childhood Vaccination Subsidies
 It is important that students get the recommended vaccinations to reduce the risk of infections and complications that can result from the infections. Vaccinations also reduce the risk of outbreaks occurring in school and in the community.  
   
 Please refer to the attached letter and booklet from MOH and HPB for updates on the revised National Childhood Immunisation Schedule (NCIS), and the enhancement of childhood vaccination subsidies.
@@ -54,7 +48,7 @@ Please refer to the attached letter and booklet from MOH and HPB for updates on 
 [ParentsBookletNCIS.pdf](/files/ParentsBookletNCIS.pdf) <br>
 [Letter for parents via schools_primary.pdf](/files/Letter%20for%20parents%20via%20schools_primary.pdf)
 
-**Covid Vaccination** <br>
+##### Covid Vaccination
 Parents/guardians of all eligible students aged 12 and above as at 1 June 2021 will receive the SMS invites to schedule students’ vaccination appointments from 1 June 2021.  Students whose 12th birthday fall after 1 June 2021 will be invited for vaccination at a later date.
 
 [Infographic on Student Vaccination Exercise.pdf](/files/Infographic%20on%20Student%20Vaccination%20Exercise.pdf) <br>
@@ -127,6 +121,5 @@ Parents will be able to do the following through the app (SingPass login require
 | 5 Jan | [2022-018 Code For Fun P5.pdf](/files/2022-018%20Code%20For%20Fun%20P5.pdf) |
 | 29 Dec | [2022-013 Joint Advisory on PUDO at Cantonment Pri School.pdf](/files/2022-013%20Joint%20Advisory%20on%20PUDO%20at%20Cantonment%20Pri%20School.pdf) |
 | 23 Dec | [2022-001 Primary 1 Orientation Day and Touch-Base Meeting.pdf](/files/2022-001%20Primary%201%20Orientation%20Day%20and%20Touch-Base%20Meeting.pdf) |
-| | |
 
 </details>
