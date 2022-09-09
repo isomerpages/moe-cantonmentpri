@@ -21,7 +21,7 @@ Click on "Email" to send an email to the teacher or click on "WA" to start a Wha
 
 ##### Head of Departments and Subject Heads
 
-| Name | Role | Phone | Email | WhatsApp |
+| Role | Name | Phone | Email | WhatsApp |
 |---|---|---|---|---|
 | School Staff Developer | Mdm Ganesh |  65119643 | [Email](https://form.gov.sg/5dc1306d5bec6f0012034966) |  [WA](https://wa.me/6565119643) |
 | Assistant Year Head P5-6 | Mr Ameen |  64999423 | [Email](https://form.gov.sg/5dc126385f93b50019043da0) |  [WA](https://wa.me/6564999423) |
