@@ -89,7 +89,7 @@ Parents will be able to do the following through the app (SingPass login require
 * Travel Declaration <br>[New travel declaration](/files/Quick-Guide-to-Travel-Declaration-on-PG.pdf) <br> [Amend travel declaration](/files/Amending%20Travel%20Declarations%20on%20PG.pdf) 
 * Update contact details for Parents
 
-<details>
+##### Letters to parents
 	
 | Date | Letter |
 |---|---|
@@ -120,5 +120,13 @@ Parents will be able to do the following through the app (SingPass login require
 | 5 Jan | [2022-018 Code For Fun P5.pdf](/files/2022-018%20Code%20For%20Fun%20P5.pdf) |
 | 29 Dec | [2022-013 Joint Advisory on PUDO at Cantonment Pri School.pdf](/files/2022-013%20Joint%20Advisory%20on%20PUDO%20at%20Cantonment%20Pri%20School.pdf) |
 | 23 Dec | [2022-001 Primary 1 Orientation Day and Touch-Base Meeting.pdf](/files/2022-001%20Primary%201%20Orientation%20Day%20and%20Touch-Base%20Meeting.pdf) |
+
+<Details>
+	
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
 
 </details>
