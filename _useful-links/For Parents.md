@@ -34,13 +34,11 @@ description: ""
 
 #### Health Promotion Board  
 
-<details> 
-	<summary>School Based Health Check</summary>
+##### School Based Health Check
 	
 [Online submission of consent for Immunisation and medical information](https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal) <br>
 [HPB consent form for immunisation for P1 students](/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P1%20Students.pdf) <br>
 [HPB consent form for immunisation for P5 students](/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P5%20Students.pdf)
-	</details>
 	
 ##### Enhancement of Childhood Vaccination Subsidies
 It is important that students get the recommended vaccinations to reduce the risk of infections and complications that can result from the infections. Vaccinations also reduce the risk of outbreaks occurring in school and in the community.  
@@ -125,13 +123,13 @@ Parents will be able to do the following through the app (SingPass login require
 | 23 Dec | [2022-001 Primary 1 Orientation Day and Touch-Base Meeting.pdf](/files/2022-001%20Primary%201%20Orientation%20Day%20and%20Touch-Base%20Meeting.pdf) |
 
 <Details>
-
-	Theses are letters 
+	<summary>LEtters</summary>
+	
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
 
-asdsafas
-	
+
+
 </details>
