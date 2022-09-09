@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - School Hours.md
-      - School Information/.keep
-      - School Information/School Vision.md
-      - School Information/School Mission.md
-      - School Information/School Logo.md
-      - School Information/School Values.md
+      - School Identity/.keep
+      - School Identity/School Vision.md
+      - School Identity/School Mission.md
+      - School Identity/School Logo.md
+      - School Identity/School Values.md
       - School Services.md
       - Our Staff.md
