@@ -7,7 +7,7 @@ description: ""
 | -------- | -------- | -------- | -------- | -------- | -------- |
 |![](/images/SLS%20Icon.png)|![](/images/Gmail.jpg)|![](/images/Myskillsfuture.jpg)|![](/images/Koobits.jpg)|![](/images/Ezhishi.jpg)|![](/images/Spydus.jpg)|
 |**For password resets, contact:**|
-| Your teachers |Your teachers | Form teachers| Maths teacher | Chinese language teachers | |
+| Form/subject teachers |Form/subject teachers | Form teachers| Maths teacher | Chinese language teachers | |
 |
 
 You can also send a WhatsApp message to the General Office ([65119555](http://wa.me/6565119555)) if you need a password reset after school hours. 
@@ -33,7 +33,7 @@ With [Student ICON](https://workspace.google.com/dashboard), you can use:
 | [Student ICON Privacy Policy](https://workspace.google.com/terms/education_terms_japan.html) | [Zoom Privacy Policy](https://zoom.us/docs/en-us/schools-privacy-statement.html) | [Microsoft Pro Plus Privacy Policy](https://portal.office.com/commerce/mosa.aspx) |
 |
 
-Google Suite only on web browsers. Mobile app or computer software sync not available until further notice
+Google Suite works only on web browsers. Mobile app or computer software sync not available until further notice
 
 [Student iCON Onboarding Guide.pdf](/files/Student%20iCON%20Onboarding%20Guide.pdf) <br>
 [ICON Login.pdf](/files/ICON%20Login.pdf)
