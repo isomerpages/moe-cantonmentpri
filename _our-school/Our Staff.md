@@ -5,7 +5,7 @@ description: ""
 ---
 ##### General Office: 
 Email: cantonment_ps@moe.edu.sg  <br>
-Phone/WhatsApp: [65119555](https://wa.me/6565119555)
+Phone/WhatsApp: tel:+6565119555 / [WA](https://wa.me/6565119555)
 
 Click on "Email" to send an email to the teacher or click on "WA" to start a WhatsApp chat with them.
 
