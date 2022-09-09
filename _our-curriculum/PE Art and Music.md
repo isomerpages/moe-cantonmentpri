@@ -1,6 +1,6 @@
 ---
 title: PE Art and Music
-permalink: /our-curriculum/pe-art-and-music
+permalink: /our-curriculum/pe-art-and-music/
 description: ""
 ---
 ### Vision
@@ -108,26 +108,20 @@ The aim of the PAM Fiesta is to promote the love for the arts and a healthy life
 		 
 ### CCA
 
-| S/N | CCA | Description |
-|---|---|---|
-| **SPORTS & GAMES** |  |  |
-| 1 | Badminton | Students will:<br>• learn skills and techniques related to the sport;<br>• learn to play the sport at various levels progressively to nurture their talent and develop their interest and passion for it;<br>• participate in different levels of competition to gain experience and exposure. |
-| 2 | Basketball (boys) |  |
-| 3 | Basketball (girls) |  |
-| 4 | Football |  |
-| 5 | Hockey |  |
-| 6 | Softball |  |
-| 7 | Volleyball |  |
-| 8 | Wushu | Students will:<br>• learn and practice different movements and formations in Wushu; <br>• appreciate Wushu as a traditional martial art form; <br>• participate in different levels of competition to gain experience and exposure. |
-| **CLUBS AND SOCIETIES** |  |  |
-| 9 | Infocomm & Robotics Club | Students will:<br>• be equipped with skills in various digital media and infocomm technology;<br>• learn the design, construction, operation, and application of simple robots;<br>• participate in competitions to gain experience and exposure. |
-| 10 | Science Club | Students will:<br>• learn more about Science outside the syllabus and learn how to apply their knowledge of science in their daily life through the activities;<br>• learn more about life science through basic gardening like weeding, watering, pruning to ensure that the plants grow healthily;<br>• develop a deeper appreciation of nature and foster a greater social interaction and bonding among the students in the CCA. |
-| 11 | Creative Design Club | Students will:<br>• develop their appreciation for Art and artistic skills through authentic experiences provided through exposure to Art history and techniques;<br>• be given different avenues to showcase their artistic talent and be enrolled in competitions. |
-| **PERFORMING ARTS** |  |  |
-| 12 | Guitar Ensemble | Students will:<br>• develop an understanding and appreciation of the guitar as an instrument;<br>• develop their skills in guitar playing;<br>• participate in different levels of competition to gain experience and exposure. |
-| 13 | International Dance | Students will:<br>• learn to appreciate different forms of dance to nurture their talent and develop their interest and passion for dance;<br>• be given different avenues to showcase their dances and be enrolled in competitions. |
-| 14 | Choir | Students will:<br>• develop their appreciation for the Arts and maximize their potential in performing Arts through singing a variety of songs chorally in harmony;<br>• be given different avenues to showcase their singing talent and be enrolled in competitions. |
-| **UNIFORMED GROUPS** |  |  |
-| 15 | Scouts | Students will:<br>• learn to work in environments that are intellectually and physically challenging; <br>• work in teams to overcome challenges and solve problems; <br>• be engaged in activities that are fun and encourage self-discovery. |
-| 16 | Red Cross | Students will:<br>• learn first-aid skills and knowledge;<br>• develop a sense of social responsibility;<br>• network with Red Cross members from other schools. |
-| | | |
+| CCA | Description |
+|---------|------------|
+| **SPORTS & GAMES** |  |  
+| Badminton<br>Basketball (boys)<br>Basketball (girls)<br>Football<br>Hockey<br>Softball<br>Volleyball<br><br>| Students will:<br>• learn skills and techniques related to the sport;<br>• learn to play the sport at various levels progressively to nurture their talent and develop their interest and passion for it;<br>• participate in different levels of competition to gain experience and exposure. |
+| Wushu | Students will:<br>• learn and practice different movements and formations in Wushu; <br>• appreciate Wushu as a traditional martial art form; <br>• participate in different levels of competition to gain experience and exposure. |
+| **CLUBS AND SOCIETIES** |  |
+| Infocomm & Robotics Club | Students will:<br>• be equipped with skills in various digital media and infocomm technology;<br>• learn the design, construction, operation, and application of simple robots;<br>• participate in competitions to gain experience and exposure. |
+| Science Club | Students will:<br>• learn more about Science outside the syllabus and learn how to apply their knowledge of science in their daily life through the activities;<br>• learn more about life science through basic gardening like weeding, watering, pruning to ensure that the plants grow healthily;<br>• develop a deeper appreciation of nature and foster a greater social interaction and bonding among the students in the CCA. |
+| Creative Design Club | Students will:<br>• develop their appreciation for Art and artistic skills through authentic experiences provided through exposure to Art history and techniques;<br>• be given different avenues to showcase their artistic talent and be enrolled in competitions. |
+| **PERFORMING ARTS** |  |
+| Guitar Ensemble | Students will:<br>• develop an understanding and appreciation of the guitar as an instrument;<br>• develop their skills in guitar playing;<br>• participate in different levels of competition to gain experience and exposure. |
+| International Dance | Students will:<br>• learn to appreciate different forms of dance to nurture their talent and develop their interest and passion for dance;<br>• be given different avenues to showcase their dances and be enrolled in competitions. |
+| Choir | Students will:<br>• develop their appreciation for the Arts and maximize their potential in performing Arts through singing a variety of songs chorally in harmony;<br>• be given different avenues to showcase their singing talent and be enrolled in competitions. |
+| **UNIFORMED GROUPS** |  |
+| Scouts | Students will:<br>• learn to work in environments that are intellectually and physically challenging; <br>• work in teams to overcome challenges and solve problems; <br>• be engaged in activities that are fun and encourage self-discovery. |
+| Red Cross | Students will:<br>• learn first-aid skills and knowledge;<br>• develop a sense of social responsibility;<br>• network with Red Cross members from other schools. |
+|
