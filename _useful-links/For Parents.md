@@ -32,13 +32,16 @@ description: ""
 <2021 Semester 1> file size too big <br>
 <2021 Semester 2.pdf> file size too big
 
-#### Health Promotion Board Resources 
+#### Health Promotion Board  
 
-##### School Based Health Check
+<details> 
+	<summary>School Based Health Check</summary>
+	
 [Online submission of consent for Immunisation and medical information](https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal) <br>
 [HPB consent form for immunisation for P1 students](/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P1%20Students.pdf) <br>
 [HPB consent form for immunisation for P5 students](/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P5%20Students.pdf)
-
+	</details>
+	
 ##### Enhancement of Childhood Vaccination Subsidies
 It is important that students get the recommended vaccinations to reduce the risk of infections and complications that can result from the infections. Vaccinations also reduce the risk of outbreaks occurring in school and in the community.  
   
