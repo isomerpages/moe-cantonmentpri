@@ -122,11 +122,13 @@ Parents will be able to do the following through the app (SingPass login require
 | 23 Dec | [2022-001 Primary 1 Orientation Day and Touch-Base Meeting.pdf](/files/2022-001%20Primary%201%20Orientation%20Day%20and%20Touch-Base%20Meeting.pdf) |
 
 <Details>
-	
+
+	Theses are letters 
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
 
-
+asdsafas
+	
 </details>
