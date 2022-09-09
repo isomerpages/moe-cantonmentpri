@@ -1,6 +1,6 @@
 ---
 title: School Services
-permalink: /our-school/school-services
+permalink: /our-school/school-services/
 description: ""
 ---
 ### Bookshop
@@ -62,29 +62,12 @@ Website: [www.kidztreehouse.com.sg](http://www.kidztreehouse.com.sg/)[
 For enquiry: 68505171 / 81272236
 
 ### Dental Clinic @ CPS
+ 
+For school based dentist appointments, please call 62253582. If you need to visit the dentist on other dates, contact Dental Centre at [64353782](tel:+6564353782).
 
-Opening dates in June. <br>
-2 <br>
-13 <br>
-14 <br>
-15 <br>
-27 <br>
-28 <br>
-29 <br>
-30 (Open during morning)  
-  
-For school based dentist appointments, please call 62253582. If you need to visit the dentist on other dates, contact Dental Centre below.
-
-For emergencies such as dental trauma, facial/gum swelling or toothache:  
-  
-Between 8 am to 4 pm call 64353782 <br>
-Health Promotion Board <br>
-School Dental Centre <br>
-3 Second Hospital Avenue <br>
-Singapore 168937  
-  
-After 4 pm <br>
-Proceed straight to Singapore General Hospital A&E <br>
-Outram Road <br>
-Singapore 169608 <br> 
-Tel: 62223322
+##### For emergencies such as dental trauma, facial/gum swelling or toothache:  
+| 8 am to 4 pm | After 4pm |
+| -------- | -------- |
+| Health Promotion Board, School Dental Centre, 3 Second Hospital Avenue, Singapore 168937|Proceed straight to Singapore General Hospital A&E, Outram Road, Singapore 169608| 
+|[View Map](http://www.onemap.gov.sg/main/v2/?lat=1.27960538581892&lng=103.838346361748)|[View Map](http://www.onemap.gov.sg/main/v2/?lat=1.27964383970221&lng=103.835541764663)|
+| call [64353782](tel:+6564353782)|call [62223322](tel:+6562223322)|
