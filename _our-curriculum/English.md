@@ -88,39 +88,25 @@ Download the resource booklet for a wealth of reading resources and materials by
 [https://www.schoolbag.edu.sg/docs/default-source/default-document-library/nlb-cpdd\_joy-of-reading-2.pdf?sfvrsn=0](https://www.schoolbag.edu.sg/docs/default-source/default-document-library/nlb-cpdd_joy-of-reading-2.pdf?sfvrsn=0)
 
 **National Library Board (NLB) website** <br>
-Access [National Library Board (NLB) website](https://www.nlb.gov.sg/)  for its NLB catalogue & a list of eResources for primary school students. One of the highly recommended resources is Tumblebook library which has a collection of animated, talking picture books. Young children will love reading the electronic picture books which come with animation, sound, music & narration.
+Access [National Library Board (NLB)](https://www.nlb.gov.sg/)  for its NLB catalogue and a list of eResources for primary [school students]((https://childrenandteens.nlb.gov.sg/). One of the highly recommended resources is Tumblebook library which has a collection of animated, talking picture books. Young children will love reading the electronic picture books which come with animation, sound, music & narration.
  
- [NLB Resources for Children and Teens](https://childrenandteens.nlb.gov.sg/)
-
 **Dolch Sight Vocabulary Words** <br>
-Mrs Perkins' Dolch Words is a [website](https://www.mrsperkins.com/)  dedicated for the teaching of Dolch sight words to young children. Besides word lists, there are also flash cards, worksheets & slides for parents to go through with their children.
-
-[https://mrsperkins.com/](https://mrsperkins.com/)
+[Mrs Perkins' Dolch Words](https://www.mrsperkins.com/)  dedicated for the teaching of Dolch sight words to young children. Besides word lists, there are also flash cards, worksheets & slides for parents to go through with their children.
 
 **Games and activities - LearnEnglish Kids** <br>
 [LearnEnglish Kids](https://learnenglishkids.britishcouncil.org/en) has lots of free online games, songs, stories and activities for children to have fun while learning English.
 
-[https://learnenglishkids.britishcouncil.org/](https://learnenglishkids.britishcouncil.org/)
-
  **Learning Chocolate** <br>
 This is an interactive [website](https://www.learningchocolate.com/) to help with learning English vocabulary which is very helpful for beginners.
 
-[https://www.learningchocolate.com/](https://www.learningchocolate.com/)
-
  **Starfall** <br>
-This [website](https://www.starfall.com/)  is good for elementary or beginning language students. It has many reading activities that students can read and follow along while the story is being read to them.
-
-[https://www.starfall.com/h/](https://www.starfall.com/h/)  
+[Starfall](https://www.starfall.com/)  is good for elementary or beginning language students. It has many reading activities that students can read and follow along while the story is being read to them.
 
  **Reading** <br>
 [TumbleBooks](https://www.tumblebooklibrary.com/Default.aspx?ReturnUrl=%2f)  is a good resources for parents to use with the child. It has lots of reading materials and learning resources that parent and child can use together.
 
-[https://www.tumblebooklibrary.com/Default.aspx?ReturnUrl=%2f](https://www.tumblebooklibrary.com/Default.aspx?ReturnUrl=%2f)
-
  **Free Rice** <br>
 A fun [website](https://freerice.com/categories/english-vocabulary)  to help students learn English vocabulary, grammar, math and a variety of subjects.
-
-[https://freerice.com/categories/english-vocabulary](https://freerice.com/categories/english-vocabulary)
 
 **Epic books** <br>
 Inspiring the next generation to develop a love of reading and learning.
