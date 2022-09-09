@@ -4,7 +4,7 @@ permalink: /our-school/our-staff/
 description: ""
 ---
 ##### General Office: 
-Email: cantonment_ps@moe.edu.sg  <br>
+Email: mailto:cantonment_ps@moe.edu.sg  <br>
 Phone/WhatsApp: 65119555 / [WA](https://wa.me/6565119555)
 
 
