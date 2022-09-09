@@ -7,11 +7,12 @@ description: ""
 
 Pacific Bookstores Pte Ltd
 
-Operating Hours: Monday to Friday: 8.30 a.m. to 3.30 p.m. <br> Lunch Break: 11.30 a.m. to 12.30 p.m.  
+Operating Hours:  <br> 
+Monday to Friday: 8.30 a.m. to 3.30 p.m. <br> Lunch Break: 11.30 a.m. to 12.30 p.m.  
 
 Email: [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com) <br> 
 Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/) <br>
-For enquiry:  62259241 or WhatsApp to [90239270](https://wa.me/6590239270) by clicking this [link](https://wa.me/6565119568)
+For enquiry:  call [62259241](tel:62259241) or [WhatsApp]((https://wa.me/6590239270) to 90239270
 
 **Booklist For 2022** <br>
 [2022 P1.pdf](/files/2022%20P1.pdf) <br>
@@ -27,8 +28,10 @@ For enquiry:  62259241 or WhatsApp to [90239270](https://wa.me/6590239270) by
 
 Revolving Transport Pte Ltd
 
-Tel: 6479-7597 (Office) <br>
-Contact person: Shirley 8126-2310; Yoyo 98660836
+Phone: <br>
+Office: [64797597](tel:64797597)<br>
+Shirley [81262310](tel:81262310)<br>
+Yoyo [98660836](tel:98660836)
 
 Email: [emltpt08@gmail.com](mailto:emltpt08@gmail.com)  
   
@@ -37,29 +40,29 @@ Email: [emltpt08@gmail.com](mailto:emltpt08@gmail.com)
 
 ### School Uniform
 
-Bibi&Baba Private Limited       
+Bibi&Baba Private Limited<br>
+[Website](https://www.schooluniforms.sg/cantonment-primary-school)<br>
+Order name tags at [https://tinyurl.com/cpsnametag](https://tinyurl.com/cpsnametag)
+
+Phone: [62719248](tel:62719248) (Office) <br>
 
 Office/Retail: <br>
-213, Henderson Road, #01-12, Singapore 159553 
+213 Henderson Road<br>
+#01-12<br>
+Singapore 159553 <br>
+[View Map](http://www.onemap.gov.sg/main/v2/?lat=1.2810501453068&lng=103.818745227338)
 
-Opening Hours: Mon-Fri 9 am-6 pm; Sat 9 am-1 pm
-
-Tel: 62719248 (Office) <br>
-Location: <img src="/images/Uniform%20Vendor%20Map.jpg" 
-     style="width: 40%">
-
-Website: [https://www.schooluniforms.sg/cantonment-primary-school/](https://www.schooluniforms.sg/cantonment-primary-school)
-
-\* Name tag orders are available online @ [https://tinyurl.com/cpsnametag](https://tinyurl.com/cpsnametag)
+Opening Hours: <br>
+Mon-Fri 9 am-6 pm<br>
+Sat 9 am-1 pm
 
 ### Kidz Treehouse International Pte Ltd
-
 School based Student Care Centre
-
-Email: [cps@kowabunga.com.sg](mailto:cps@kowabunga.com.sg) <br>
 Website: [www.kidztreehouse.com.sg](http://www.kidztreehouse.com.sg/)[  
 ](https://kidztreehouse.com.sg/cps/) <br>
-For enquiry: 68505171 / 81272236
+Email: [cps@kowabunga.com.sg](mailto:cps@kowabunga.com.sg) <br>
+
+For enquiry: [68505171](tel:+6568505171) / [81272236](tel:+6581272236)
 
 ### Dental Clinic @ CPS
  
