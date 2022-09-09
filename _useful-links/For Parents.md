@@ -90,7 +90,6 @@ Parents will be able to do the following through the app (SingPass login require
 * Update contact details for Parents
 
 <details>
-	<summary> Letters To Parents</Summary>
 	
 | Date | Letter |
 |---|---|
