@@ -110,8 +110,3 @@ The parent kit has useful tips, strategies and resources on various cyber issues
 The following online activities and posters were created by our CPS students. We hope you have fun and learn something useful.
 
 **[Cyber Wellness 2021 Online Activities](https://cantonmentpscw2021.weebly.com/)**
-
-[Team A - Safe Searching Tips](https://docs.google.com/presentation/d/1bf_8Iv8qqlHxrDNV0WOIvV3TGmsC1JSTPKlYAaMqWG4/edit#slide=id.p) <br>
-[Team B - Case Study](https://docs.google.com/presentation/d/1P_mBtgN117IHPnE8XPHm1ogt_a8aMiUr7wVG66aHPh4/edit#slide=id.p) <br>
-[Team C - Safe Searching Tips](https://docs.google.com/presentation/d/1i3YrKUP5IrwK9KJSmr_BhyYyuBhvtDqR6InHe590VhA/edit#slide=id.gd09a16fa10_10_0) <br>
-[Team D - Case Study](https://docs.google.com/presentation/d/13OhaZUOIsp0oI-zrc6Vo3khmEExLqnz5oyQLtnSa0DE/edit#slide=id.gd09d1c1a26_0_77)
