@@ -12,7 +12,7 @@ Monday to Friday: 8.30 a.m. to 3.30 p.m. <br> Lunch Break: 11.30 a.m. to 12.30 p
 
 Email: [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com) <br> 
 Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/) <br>
-For enquiry:  call [62259241](tel:62259241) or [WhatsApp]((https://wa.me/6590239270) to 90239270
+For enquiry:  call [62259241](tel:62259241) or [WhatsApp](https://wa.me/6590239270) to 90239270
 
 **Booklist For 2022** <br>
 [2022 P1.pdf](/files/2022%20P1.pdf) <br>
