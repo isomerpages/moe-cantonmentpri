@@ -3,12 +3,11 @@ title: Our Staff
 permalink: /our-school/our-staff/
 description: ""
 ---
+Click on "Email" to send an email to the teacher or click on "WA" to start a WhatsApp chat with them.
+
 ##### General Office: 
 Email: [cantonment_ps@moe.edu.sg](mailto:cantonment_ps@moe.edu.sg)  <br>
 Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
-
-
-Click on "Email" to send an email to the teacher or click on "WA" to start a WhatsApp chat with them.
 
 ##### School Leaders
 
@@ -185,7 +184,7 @@ Click on "Email" to send an email to the teacher or click on "WA" to start a Wha
 |---|---|---|---|
 | Senior School Counsellor| Ms Ooi Huishan | 64999242 | [Email](https://form.gov.sg/5dc2237811ecd70012ef9180) |
 | Student Welfare Officer | Ms Diana Ho | 64999240 | [Email](https://form.gov.sg/5dc223ec11ecd70012ef91b4) |
-| Allied Educator (LBS) | Mdm Jenny Wong | 65119555 | [Email](https://form.gov.sg/5dc2239f11ecd70012ef9195) |
+| Allied Educator (Learning & Behavioural Support) | Mdm Jenny Wong | 65119555 | [Email](https://form.gov.sg/5dc2239f11ecd70012ef9195) |
 | | Ms Ariela Yap | 64999243 | [Email](https://form.gov.sg/5ed48a3839b707001103884c) |
 | | Ms Siti Norliza || [Email](https://form.gov.sg/62bcec6b3695530011cfd5a6) |
 | | | | |
@@ -197,10 +196,8 @@ Click on "Email" to send an email to the teacher or click on "WA" to start a Wha
 | Mr Lim YiQuan (Jobb) | 65119584 | [Email](https://form.gov.sg/61c9efe6b3479f00124dbdf2) | [WA](https://wa.me/6565119584) | 
 | Mdm Lim Yen Tong Rie | 65119555 Ext 450 |
 | Mr Hirman Md Khamis | 65119555 Ext 449 | [Email](https://form.gov.sg/61c9f02f454c2200125a1841) | | 
-| Ms Wu Jiayue | | [Email](https://form.gov.sg/61c9ef7b2e385400128aed55) | |
 | Mr Low Kiat | | | | 
 | Mrs Joy Loke | | [Email](https://form.gov.sg/5dc115a75f93b500190437b2) | 
-| Mdm Tan Kwa Hua | | [Email](https://form.gov.sg/62bcef9c72f5600012357d4e) | 
 | | | | |
 
 ##### Executive and Administrative Staff 
