@@ -3,10 +3,9 @@ title: Vision, Mission, Values
 permalink: /our-school/vision-mission-values/
 description: ""
 ---
-
 ### Vision 
 
-<center> <i> "Concerned Citizens, Innovative Thinkers, Passionate Learners" </i> </center>
+<center> <i> Concerned Citizens, Innovative Thinkers, Passionate Learners </i> </center>
 
 Citizenship is important in a 21st century global economy. We recognise the need to nurture our students to have a sense of belonging to their home country. We want to bring our students up to be rooted to Singapore, to have a strong sense of civic consciousness, to be informed, and to take an active role in bettering the lives of others around them. 
 
