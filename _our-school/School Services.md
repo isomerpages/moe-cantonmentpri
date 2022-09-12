@@ -65,12 +65,20 @@ Phone: [68505171](tel:+6568505171) / [81272236](tel:+6581272236)
 
 ### Dental Clinic @ CPS
  
-For school based dentist appointments, please call 62253582. If you need to visit the dentist on other dates, contact Dental Centre at [64353782](tel:+6564353782).
+##### Opening Hours <br>
+8 am-5.30 pm <br>
+Lunch Hour 1-2 pm
+
+##### Appointments
+
+| At school based clinic | At Dental Centre |
+| -------- | -------- | 
+| Call/WhatsApp/SMS: [87646337](https://wa.me/6587646337)| Call [64353782](tel:+6564353782)     |
 
 ##### For emergencies such as dental trauma, facial/gum swelling or toothache:  
 
 | 8 am to 4 pm | After 4pm |
 | -------- | -------- |
-| Health Promotion Board, School Dental Centre, 3 Second Hospital Avenue, Singapore 168937|Proceed straight to Singapore General Hospital A&E, Outram Road, Singapore 169608| 
-|[View Map](http://www.onemap.gov.sg/main/v2/?lat=1.27960538581892&lng=103.838346361748)|[View Map](http://www.onemap.gov.sg/main/v2/?lat=1.27964383970221&lng=103.835541764663)|
-| Phone: [64353782](tel:+6564353782)|Phone: [62223322](tel:+6562223322)|
+| School Dental Centre<br> 3 Second Hospital Avenue<br> Singapore 168937|Proceed to Hospital A&E| 
+|[View Map](http://www.onemap.gov.sg/main/v2/?lat=1.27960538581892&lng=103.838346361748)||
+| Phone: [64353782](tel:+6564353782)||
