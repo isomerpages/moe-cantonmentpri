@@ -71,7 +71,7 @@ Lunch Hour 1-2 pm
 
 ##### Appointments
 
-| At school based clinic | At Dental Centre |
+| At school based clinic | At School Dental Centre |
 | -------- | -------- | 
 | Call/WhatsApp/SMS: [87646337](https://wa.me/6587646337)| Call [64353782](tel:+6564353782)     |
 
