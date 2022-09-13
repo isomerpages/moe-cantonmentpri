@@ -3,9 +3,7 @@ title: For Students
 permalink: /useful-links/for-students/
 description: ""
 ---
-| | | | | | | 
-| -------- | -------- | -------- | -------- | -------- | -------- |
-| [Student Learning Space](https://vle.learning.moe.edu.sg/login) | [ICON Email](https://workspace.google.com/dashboard) | [MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) |[KooBits](https://member.koobits.com/)| [eZhishi](https://www.ezhishi.net/Contents/)| [School Library Search](https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)|
+
 
 <img style="width:16.6%" src="/images/SLS%20Icon.png" align=left><a href="https://workspace.google.com/dashboard">
 <img style="width:16.6%" src="/images/Gmail.jpg" align=left>
