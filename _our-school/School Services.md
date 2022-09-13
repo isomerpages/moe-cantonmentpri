@@ -59,6 +59,7 @@ Sat 9 am-1 pm
 ### Canteen
 
 View [menu](files/Canteen%20Menu.pdf)
+[2022 P6 TBM.pdf](/files/2022%20P6%20TBM.pdf)
 
 ### Kidz Treehouse International Pte Ltd
 School based Student Care Centre
