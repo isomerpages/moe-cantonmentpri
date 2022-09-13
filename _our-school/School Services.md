@@ -38,7 +38,7 @@ Email: [emltpt08@gmail.com](mailto:emltpt08@gmail.com)
 [Infor Sheet on School Bus Services 2022.pdf](/files/Infor%20Sheet%20on%20School%20Bus%20Services%202022.pdf) <br>
 [CPS New Bus Registration Form for 2022.doc](https://cantonmentpri.moe.edu.sg/qql/slot/u535/About%20Us/Bookshop/CPS%20New%20Bus%20Registration%20Form%20for%202022.doc)
 
-### School Uniform
+### Uniform
 
 Bibi&Baba Private Limited<br>
 [Website](https://www.schooluniforms.sg/cantonment-primary-school)<br>
@@ -55,6 +55,10 @@ Singapore 159553 <br>
 Opening Hours: <br>
 Mon-Fri 9 am-6 pm<br>
 Sat 9 am-1 pm
+
+### Canteen
+
+View [menu](files/Canteen%20Menu.pdf)
 
 ### Kidz Treehouse International Pte Ltd
 School based Student Care Centre
