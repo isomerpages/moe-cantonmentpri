@@ -5,7 +5,11 @@ description: ""
 ---
 | [Student Learning Space](https://vle.learning.moe.edu.sg/login) | [ICON Email](https://workspace.google.com/dashboard) | [MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) |[KooBits](https://member.koobits.com/)| [eZhishi](https://www.ezhishi.net/Contents/)| [School Library Search](https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)|
 | -------- | -------- | -------- | -------- | -------- | -------- |
-|![](/images/SLS%20Icon.png)|![](/images/Gmail.jpg)|![](/images/Myskillsfuture.jpg)|![](/images/Koobits.jpg)|![](/images/Ezhishi.jpg)|![](/images/Spydus.jpg)|
+|<p><a href="https://vle.learning.moe.edu.sg/login">
+<img style="width:100%" src="/images/SLS%20Icon.png">
+</a></p>|<p><a href="https://workspace.google.com/dashboard">
+<img style="width:100%" src="/images/Gmail.jpg">
+</a></p>|![](/images/Myskillsfuture.jpg)|![](/images/Koobits.jpg)|![](/images/Ezhishi.jpg)|![](/images/Spydus.jpg)|
 |**For password resets, contact:**|
 | Form/subject teachers |Form/subject teachers | Form teachers| Maths teacher | Chinese language teachers | |
 |
