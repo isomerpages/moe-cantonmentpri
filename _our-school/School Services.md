@@ -64,8 +64,11 @@ Email: [cps@kowabunga.com.sg](mailto:cps@kowabunga.com.sg) <br>
 Phone: [68505171](tel:+6568505171) / [81272236](tel:+6581272236)
 
 ### Dental Clinic @ CPS
- 
-Opening Hours <br>
+
+Opening Dates: <br>
+19-23 Sept
+
+Opening Hours: <br>
 Mondays-Fridays<br>
 8 am-5.30 pm <br>
 Lunch Hour 1-2 pm
