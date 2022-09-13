@@ -4,7 +4,7 @@ permalink: /useful-links/for-students/
 description: ""
 ---
 
-
+<a href="https://vle.learning.moe.edu.sg/login">
 <img style="width:16.6%" src="/images/SLS%20Icon.png" align=left><a href="https://workspace.google.com/dashboard">
 <img style="width:16.6%" src="/images/Gmail.jpg" align=left>
 <a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">
