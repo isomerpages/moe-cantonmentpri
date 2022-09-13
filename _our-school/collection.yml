@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - School Hours.md
-      - Vision, Mission, Values.md
       - School Services.md
+      - Vision, Mission, Values.md
       - Our Staff.md
