@@ -7,8 +7,6 @@ links:
   - title: Our Partners
     collection: our-partners
   - title: Useful Links
-    collection: useful-links
-  - title: Useful Links
     url: /useful-links/calendar/
     sublinks:
       - title: Calender
