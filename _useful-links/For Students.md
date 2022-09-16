@@ -3,7 +3,6 @@ title: For Students
 permalink: /useful-links/for-students/
 description: ""
 ---
-
 <a href="https://vle.learning.moe.edu.sg/login">
 <img style="width:16.6%" src="/images/SLS%20Icon.png" align=left><a href="https://workspace.google.com/dashboard">
 <img style="width:16.6%" src="/images/Gmail.jpg" align=left>
@@ -19,8 +18,9 @@ description: ""
 
 <br><br><br><br>
 
-| For password resets, contact: |  |  |  |  |
-|---|---|---|---|---|
+| For password resets, contact: |  |  |  |  |  |
+|---|---|---|---|---|---|
+|Student Learning Space|Student ICON|MySkillsFuture|KooBits|eZhishi|School Library Search|
 | Form/subject teachers | Form/subject teachers | Form teachers | Maths teacher | Chinese language teachers |
 |  
 
