@@ -24,14 +24,6 @@ description: ""
 ##### PSLE Scoring and Secondary 1 Posting
 [PSLE 2022_Parent Engagement.pdf](/files/PSLE%202022_Parent%20Engagement.pdf)
 
-##### Cantonment Times Newsletter
-[2019 Semester 1](/files/Cantonment%20Times%202019_Sem1_2906.pdf) <br>
-[2019 Semester 2](/files/Cantonment%20Times%202019%20Sem%202.pdf) <br>
-[2020 Semester 1](/files/Cantonment%20Times%202020%20Sem%201.pdf) <br>
-<2020 Semester 2> file size too big <br> 
-<2021 Semester 1> file size too big <br>
-<2021 Semester 2.pdf> file size too big
-
 #### Health Promotion Board  
 
 ##### School Based Health Check
