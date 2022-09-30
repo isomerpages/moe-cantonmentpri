@@ -47,8 +47,7 @@ Special programmes are organised to give opportunity for students to practice th
 
 Enjoy our students’ submissions from ThinkHub in the video below. Our students unleashed their creativity on fruit.
 
-</insert video>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTZenAjBTq9yRmxmY8ug-wnnuANU6Q3CHIgtTNGKoNP5nzl07C_vbIm-QY5VWdZl7lVDuxn6jAWSMcX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTZenAjBTq9yRmxmY8ug-wnnuANU6Q3CHIgtTNGKoNP5nzl07C_vbIm-QY5VWdZl7lVDuxn6jAWSMcX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="280" allowfullscreen="true"></iframe>
 
 <u><strong> Level 3 – School based enrichment programmes for selected students </strong></u><br>
 Students who demonstrate potential are selected for various enrichment programmes the school offers such as Olympiad training programmes, E2K Math, E2K Science and the various leadership training programmes. These programmes serve to stretch students’ thinking in curriculum and co-curriculum areas.
