@@ -26,12 +26,6 @@ description: ""
 | Form/subject teachers | Form/subject teachers | Form teachers | Maths teacher | Chinese language teachers |
 |  
 	
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-
 You can also send a WhatsApp message to the General Office ([65119555](http://wa.me/6565119555)) if you need a password reset after school hours. 
 
 Find your username in page 23 of your students handbook
