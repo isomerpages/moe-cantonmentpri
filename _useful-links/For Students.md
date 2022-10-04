@@ -20,12 +20,14 @@ description: ""
 
 <br><br><br><br>
 	
-| For password resets, contact: |  |  |  |  |  |
+| |  |  |  |  |  |
 |---|---|---|---|---|---|
 |[Student Learning Space](https://vle.learning.moe.edu.sg/login)|[Student ICON](https://workspace.google.com/dashboard)|[MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)|[KooBits](https://member.koobits.com/)|[eZhishi](https://www.ezhishi.net/Contents/)|[School Library Search](https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)|
+| For password resets, contact: |  |  |  |  |  |
 | Form/subject teachers | Form/subject teachers | Form teachers | Maths teacher | Chinese language teachers |
 |  
 	
+
 You can also send a WhatsApp message to the General Office ([65119555](http://wa.me/6565119555)) if you need a password reset after school hours. 
 
 Find your username in page 23 of your students handbook
