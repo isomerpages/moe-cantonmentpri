@@ -4,17 +4,18 @@ permalink: /useful-links/for-students/
 description: ""
 ---
 <a href="https://vle.learning.moe.edu.sg/login">
-<img style="width:16.6%" src="/images/SLS%20Icon.png" align=left><a href="https://workspace.google.com/dashboard">
-<img style="width:16.6%" src="/images/Gmail.jpg" align=left>
+<img style="width:16.6%" src="/images/SLS%20Icon.png" align=left></a>
+<a href="https://workspace.google.com/dashboard">
+<img style="width:16.6%" src="/images/Gmail.jpg" align=left></a>
 <a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">
-<img style="width:16.6%" src="/images/Myskillsfuture.jpg" align=left>
+<img style="width:16.6%" src="/images/Myskillsfuture.jpg" align=left></a>
 <a href="https://member.koobits.com/">
-<img style="width:16.6%" src="/images/Koobits.jpg" align=left>
+<img style="width:16.6%" src="/images/Koobits.jpg" align=left></a>
 <a href="https://www.ezhishi.net/Contents/">
-<img style="width:16.6%" src="/images/Ezhishi.jpg" align=left>
+<img style="width:16.6%" src="/images/Ezhishi.jpg" align=left></a>
 <a href="https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">
-<img style="width:16.60%" src="/images/Spydus.jpg" align=left>
-</a
+<img style="width:16.60%" src="/images/Spydus.jpg" align=left></a>
+
 
 
 <br><br><br><br>
