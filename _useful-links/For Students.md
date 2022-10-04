@@ -14,6 +14,7 @@ description: ""
 <img style="width:16.6%" src="/images/Ezhishi.jpg" align=left>
 <a href="https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">
 <img style="width:16.60%" src="/images/Spydus.jpg" align=left>
+</a
 
 
 <br><br><br><br>
