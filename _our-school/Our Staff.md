@@ -15,7 +15,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 |---|---|
 | Principal | Mrs Manokara S  |  
 | Vice Principal | Mrs Audrea Chin  |   
-| Vice Principal  | Ms Cheng Shin Miin |   
+| | Ms Cheng Shin Miin |   
 |   |   |
 
 ##### Head of Departments and Subject Heads
@@ -32,7 +32,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | HOD PAM/CCA | Mr Thomas Wong |  65119564 | [Email](https://form.gov.sg/5dc1243b5f93b50019043ce0) |  [WA](https://wa.me/6565119564) |
 | HOD Student Management | Mrs Jocelyn Chew  |  65119645 | [Email](https://form.gov.sg/5dc220d011ecd70012ef9051) |  [WA](https://wa.me/6565119557) |
 | SH English Language | Mr Azhar  |  65119586 | [Email](https://form.gov.sg/61c9eb126c60da00127bfaac) | [WA](https://wa.me/6565119586) |
-|  | Mr Shah Ally |  65119568 | [Email](https://form.gov.sg/5dc221dfc321c6001240b9a4) | [WA](https://wa.me/6565119568) |
+|  | Mr Shah |  65119568 | [Email](https://form.gov.sg/5dc221dfc321c6001240b9a4) | [WA](https://wa.me/6565119568) |
 | SH Mathematics | Mrs Jocelyn Chew |  65119645 | [Email](https://form.gov.sg/5dc220d011ecd70012ef9051) | [WA](https://wa.me/6565119557) |
 |  | Mrs Tan Guat Hwa |  65119562 | [Email](https://form.gov.sg/61c9ebb4f46e8700121fb164) | [WA](https://wa.me/6565119562) |
 | SH Science | Mr Bunawar |  65119563 | [Email](https://form.gov.sg/5dc130e9b9014c0012b8c800) | [WA](https://wa.me/6565119563) |
@@ -152,7 +152,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | 5 Integrity  | Mr Jerome Chong  | 65119566  | [Email](https://form.gov.sg/5dc2222511ecd70012ef90ed) | [WA](https://wa.me/6565119566) |
 |   | Mdm Shakila Banu | 64999246 | [Email](https://form.gov.sg/5dc12ce07dc06400122afa1c)  | [WA](https://wa.me/6564999246) |
 | 5 Resilience  | Mdm Sujatha | 65119569  | [Email](https://form.gov.sg/5e05835ddf378700118edee0) | [WA](https://wa.me/6565119569) |  
-| | Mr Shah Ally | 65119568 | [Email](https://form.gov.sg/5dc221dfc321c6001240b9a4)  | [WA](https://wa.me/6565119568) |
+| | Mr Shah | 65119568 | [Email](https://form.gov.sg/5dc221dfc321c6001240b9a4)  | [WA](https://wa.me/6565119568) |
 |   | Mrs Jocelyn Chew  | 65119645 | [Email](https://form.gov.sg/5dc220d011ecd70012ef9051) | [WA](https://wa.me/6565119557) |
 | 5 Respect | Mrs Yap Pui Mei | 64999241  | [Email](https://form.gov.sg/5dc12ddd5bec6f001203485f) | [WA](https://wa.me/6564999241) |
 |   | Mr Jason Tan  | 64999244 | [Email](https://form.gov.sg/5dc2210811ecd70012ef9069) | [WA](https://wa.me/6564999244) |
@@ -186,6 +186,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Allied Educator | Mdm Jenny Wong | 65119555 | [Email](https://form.gov.sg/5dc2239f11ecd70012ef9195) |
 | | Ms Ariela Yap | 64999243 | [Email](https://form.gov.sg/5ed48a3839b707001103884c) |
 | | Ms Siti Norliza || [Email](https://form.gov.sg/62bcec6b3695530011cfd5a6) |
+| | Mr Randal Lui| |[Email](https://form.gov.sg/630d924e93b6890012683016)|
 | | | | |
 
 ##### Other Teaching Staff
@@ -197,7 +198,14 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Mr Hirman Md Khamis | 65119555 Ext 449 | [Email](https://form.gov.sg/61c9f02f454c2200125a1841) | | 
 | Mr Low Kiat | | | | 
 | Mrs Joy Loke | | [Email](https://form.gov.sg/5dc115a75f93b500190437b2) | 
-| | | | |
+|Mdm Tan Kwa Hua 	 | |[Email](https://form.gov.sg/62bcef9c72f5600012357d4e) | |
+|Mdm Huang Wenjian | |[Email](https://form.gov.sg/630d942608b16f00132943c2)| |
+|Mdm Rossenah Binte Kamis| |[Email](https://form.gov.sg/630d94792c1e910013ba2d49)| |
+|Mr Albert Wong| |[Email](https://form.gov.sg/630d951329f49e00134a4f40) | |
+|Mdm Florence Teo| |[Email](https://form.gov.sg/630d956a08b16f0013295956)| |
+|Mr Lim Eng Guan| |[Email](https://form.gov.sg/630d95fdf87eed0012c9a5f2) | |
+| 
+
 
 ##### Executive and Administrative Staff 
 
