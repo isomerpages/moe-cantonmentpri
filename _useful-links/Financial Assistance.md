@@ -3,9 +3,9 @@ title: Financial Assistance
 permalink: /useful-links/financial-assistance/
 description: ""
 ---
-Parents/guardians who wish to apply for any of the below programmes may obtain an application form from the General Office or download from the links. Please submit the completed application form, together with all compulsory and supporting documents indicated in the forms, to the General Office.  
+Parents/guardians who wish to apply for any of the below programmes may obtain an application form from the General Office or download from the links. Please submit the completed application form, together with all compulsory and supporting documents indicated in the forms to the General Office.  
   
-If you have any enquiries or need assistance, please contact the General Office at 65119555.  
+If you have any enquiries or need assistance, please contact the General Office at [65119555](https://wa.me/6565119555)
   
 <u><strong> MOE Financial Assistance Scheme (FAS) </strong></u><br>
 [Official Website](https://www.moe.gov.sg/financial-matters/financial-assistance) <br>
@@ -40,4 +40,4 @@ The NEU PC Plus Programme offers Singaporean/PR students from low income househo
 Contact General Office for application form or download from official website
 
 <u><strong> Digital Access Programme (Home Access) </strong></u><br>
-Low-income families with school-going children can apply for broadband at a subsidsed rate. Apply [here](http://www.digitalaccess.gov.sg/)
+Low-income families with school-going children can [apply](http://www.digitalaccess.gov.sg/) for broadband at a subsidsed rate.
