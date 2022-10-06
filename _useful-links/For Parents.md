@@ -5,12 +5,12 @@ description: ""
 ---
 ### Touch Base Meeting
 [Principal's Welcome Video Message](https://www.canva.com/design/DAE0o4G3XqU/y38KHLRz1DBkttTyCNeyvg/watch?utm_content=DAE0o4G3XqU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) <br>
-[2022 P1 TBM.pdf](/files/2022%20P1%20TBM.pdf) <br>
-[2022 P2 TBM.pdf](/files/2022%20P2%20TBM.pdf) <br>
-[2022 P3 TBM.pdf](/files/2022%20P3%20TBM.pdf) <br>
-[2022 P4 TBM.pdf](/files/2022%20P4%20TBM.pdf) <br>
-[2022 P5 TBM.pdf](/files/2022%20P5%20TBM.pdf) <br>
-[2022 P6 TBM.pdf](/files/2022%20P6%20TBM.pdf)
+[2022 P1 TBM.pdf](/files/TBM/2022%20P1%20TBM.pdf) <br>
+[2022 P2 TBM.pdf](/files/TBM/2022%20P2%20TBM.pdf) <br>
+[2022 P3 TBM.pdf](/files/TBM/2022%20P3%20TBM.pdf) <br>
+[2022 P4 TBM.pdf](/files/TBM/2022%20P4%20TBM.pdf) <br>
+[2022 P5 TBM.pdf](/files/TBM/2022%20P5%20TBM.pdf) <br>
+[2022 P6 TBM.pdf](/files/TBM/2022%20P6%20TBM.pdf)
 
 ##### Cyberwellness 
 [MOE Cyber Wellness Guide](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness) <br>
