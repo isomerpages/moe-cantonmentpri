@@ -70,7 +70,7 @@ Phone: [68505171](tel:+6568505171) / [81272236](tel:+6581272236)
 ### Dental Clinic @ CPS
 
 Opening Dates: <br>
-19-23 Sept
+3-7,21 and 31 Oct
 
 Opening Hours: <br>
 Mondays-Fridays<br>
