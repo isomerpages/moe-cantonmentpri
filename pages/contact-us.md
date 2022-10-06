@@ -45,6 +45,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <a href="https://www.facebook.com/cantonmentpri/">Facebook Page</a>
+      - other: <a href="https://www.facebook.com/cantonmentpri/">Facebook</a>
     title: Social Media
 ---
