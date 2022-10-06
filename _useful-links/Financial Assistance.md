@@ -12,7 +12,7 @@ Singapore Citizens in financial need can get assistance from MOE on school fees 
 (Note: For next year’s application or renewal, please refer to the school’s announcement on the exact dates of the application period and availability of forms.)  
 
 [Official Website]([https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance) <br>
-[Online](https://go.gov.sg/moe-efas) or [hardcopy](files/FAS/MOE FAS Application Form 2023.pdf)
+[Online](https://go.gov.sg/moe-efas) or [hardcopy](/files/FAS/MOE FAS Application Form 2023.pdf)
 
 <u><strong> The Straits Times School Pocket Money Fund (STSPMF) </strong></u><br> 
 [Official Website](https://www.spmf.org.sg/)  
