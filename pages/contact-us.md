@@ -42,4 +42,9 @@ contacts:
       - email: ""
       - other: Find our contact <a href="/our-school/our-staff/">here</a>
     title: Teachers/Staff
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <a href="https://www.facebook.com/cantonmentpri/">Facebook Page</a>
+    title: Social Media
 ---
