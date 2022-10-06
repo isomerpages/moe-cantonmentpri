@@ -9,7 +9,7 @@ If you have any enquiries or need assistance, please contact the General Office 
   
 <u><strong> MOE Financial Assistance Scheme (FAS) </strong></u><br>
 [Official Website](https://www.moe.gov.sg/financial-matters/financial-assistance) <br>
-[Apply online](https://go.gov.sg/moe-efas) or [submit hardcopy to school]((files/FAS/MOE%20FAS%20Application%20Form%202023.pdf)
+[Apply online](https://go.gov.sg/moe-efas) or [submit hardcopy to school](files/FAS/MOE%20FAS%20Application%20Form%202023.pdf)
 
 Singapore Citizens in financial need can get assistance from MOE on school fees and other expenses. <br>
 (Note: For next year’s application or renewal, please refer to the school’s announcement on the exact dates of the application period and availability of forms.)  
@@ -27,7 +27,6 @@ Singapore Citizens in financial need can get assistance from MOE on school fees 
 
 <u><strong> The Straits Times School Pocket Money Fund (STSPMF) </strong></u><br> 
 [Official Website](https://www.spmf.org.sg/)  
-[MOE FAS Application Form 2021.pdf](/files/MOE%20FAS%20Application%20Form%202021.pdf) (Deadline 14 Feb)  
   
 <u><strong> CDAC – SFCCA Bursary </strong></u><br>
 [Official Website](https://www.cdac.org.sg/developing-students/assistance-support/cdac-sfcca-bursary/) <br>
