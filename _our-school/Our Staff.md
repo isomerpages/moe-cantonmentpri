@@ -196,7 +196,6 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Mr Lim YiQuan (Jobb) | 65119584 | [Email](https://form.gov.sg/61c9efe6b3479f00124dbdf2) | [WA](https://wa.me/6565119584) | 
 | Mdm Lim Yen Tong Rie | 65119555 Ext 450 |
 | Mr Hirman Md Khamis | 65119555 Ext 449 | [Email](https://form.gov.sg/61c9f02f454c2200125a1841) | | 
-| Mr Low Kiat | | | | 
 | Mrs Joy Loke | | [Email](https://form.gov.sg/5dc115a75f93b500190437b2) | 
 |Mdm Tan Kwa Hua 	 | |[Email](https://form.gov.sg/62bcef9c72f5600012357d4e) | |
 |Mdm Huang Wenjian | |[Email](https://form.gov.sg/630d942608b16f00132943c2)| |
