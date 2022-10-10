@@ -6,7 +6,7 @@ description: ""
 <a href="https://vle.learning.moe.edu.sg/login">
 <img style="width:10%" src="/images/SLS%20Icon.png" align=left></a>
 <a href="https://workspace.google.com/dashboard">
-<img style="width:16.6%" src="/images/Gmail.jpg" align=left></a>
+<img style="width:13%" src="/images/Gmail.jpg" align=left></a>
 <a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">
 <img style="width:16.6%" src="/images/Myskillsfuture.jpg" align=left></a>
 <a href="https://member.koobits.com/">
@@ -18,7 +18,7 @@ description: ""
 
 
 
-<br><br><br><br>
+<br><br>
 	
 | |  |  |  |  |  |
 |---|---|---|---|---|---|
