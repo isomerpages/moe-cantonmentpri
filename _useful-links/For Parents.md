@@ -123,4 +123,4 @@ Parents will be able to do the following through the app (SingPass login require
 |15 Sep|[2022-195 P1 Learning Journey to Zoo.pdf](/files/2022-195%20P1%20Learning%20Journey%20to%20Zoo.pdf)|
 |28 Sep |[2022-199 Adjustments to Recess Timings (PSLE Days and Children’s Day Celebrations).pdf](/files/2022-199%20Adjustments%20to%20Recess%20Timings%20(PSLE%20Days%20and%20Children’s%20Day%20Celebrations).pdf)|
 |3 Oct |[2022-200 P3 SA2 Oral Assessment 2022](/files/2022-200%20P3%20SA2%20Oral%20Assessment%202022)<br><br>[2022-200 P4 SA2 Oral Assessment 2022](/files/2022-200%20P4%20SA2%20Oral%20Assessment%202022)<br><br>[2022-200 P5 SA2 Oral Assessment 2022](/files/2022-200%20P5%20SA2%20Oral%20Assessment%202022)<br><br>|
-|5 Oct |[2022-202 Application for MOE FAS 2023.pdf](/files/2022-202%20Application%20for%20MOE%20FAS%202023.pdf)|
+|5 Oct |[2022-202 Application for MOE FAS 2023.pdf](/files/2022-202%20Application%20for%20MOE%20FAS%202023.pdf)<br><br>[2022-201_PG Letter on SBB for P4s](/files/2022-201_PG%20Letter%20on%20SBB%20for%20P4s)|
