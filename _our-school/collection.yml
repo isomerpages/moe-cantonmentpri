@@ -1,0 +1,8 @@
+collections:
+  our-school:
+    output: true
+    order:
+      - School Hours.md
+      - School Services.md
+      - Vision, Mission, Values.md
+      - Our Staff.md

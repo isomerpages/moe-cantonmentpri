@@ -1,0 +1,14 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - English.md
+      - Maths.md
+      - Science.md
+      - Mother Tongue.md
+      - PE Art and Music.md
+      - ICT.md
+      - Character and Citizenship Education.md
+      - Student Leadership.md
+      - Applied Learning Programme.md
+      - Learning For Life Programme.md
