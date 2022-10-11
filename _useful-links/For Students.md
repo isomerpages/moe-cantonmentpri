@@ -20,9 +20,8 @@ description: ""
 
 <br><br>
 	
-| |  |  |  |  |  |
-|---|---|---|---|---|---|
 |[Student Learning Space](https://vle.learning.moe.edu.sg/login)|[Student ICON](https://workspace.google.com/dashboard)|[MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)|[KooBits](https://member.koobits.com/)|[eZhishi](https://www.ezhishi.net/Contents/)|[School Library Search](https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)|
+|---|---|---|---|---|---|
 | For password resets, contact: |  |  |  |  |  |
 | Form/subject teachers | Form/subject teachers | Form teachers | Maths teacher | Chinese language teachers |
 |  
