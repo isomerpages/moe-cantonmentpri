@@ -112,16 +112,15 @@ Parents will be able to do the following through the app (SingPass login require
 |18 Jul |[2022-158 Terra Village Invitation_all parents.pdf](/files/2022-158%20Terra%20Village%20Invitation_all%20parents.pdf)|
 |20 Jul |[2022-164 Calendar Updates for Semester 2 2022.pdf](/files/2022-164%20Calendar%20Updates%20for%20Semester%202%202022.pdf)<br>[2022-165GEP Letter.pdf](/files/2022-165%20GEP%20Letter.pdf)|
 |22 Jul |[2022-162 Details for National Day Observance Ceremony 2022.pdf](/files/2022-162%20Details%20for%20National%20Day%20Observance%20Ceremony%202022.pdf)|
-|25 Jul |[2022-166 Parents Nomination for JSA Selection Trials 2022.pdf](/files/2022-166%20Parents%20Nomination%20for%20JSA%20Selection%20Trials%202022)|
+|25 Jul |[2022-166 Parents Nomination for JSA Selection Trials 2022.pdf](/files/2022-166%20Parents%20Nomination%20for%20JSA%20Selection%20Trials%202022)<br><br>[Primary 1 Assessment Letter.pdf](/files/Primary%201%20Assessment%20Letter.pdf)<br><br>[Primary 2 Assessment Letter.pdf](/files/Primary%202%20Assessment%20Letter.pdf)<br><br>[Primary 3 Assessment Letter.pdf](/files/Primary%203%20Assessment%20Letter.pdf)<br><br>[Primary 4 Assessment Letter.pdf](/files/Primary%204%20Assessment%20Letter.pdf)<br><br>[Primary 5 Assessment Letter.pdf](/files/Primary%205%20Assessment%20Letter.pdf)<br><br>[Primary 5F Assessment Letter.pdf](/files/Primary%205F%20Assessment%20Letter.pdf)|
 |1 Aug|[2022-175 Terra Village - SMM to all parents.pdf](/files/2022-175%20Terra%20Village%20-%20SMM%20to%20all%20parents.pdf)|
 |5 Aug|[2022-179 Primary 6 Assessment Letter Prelim.pdf](/files/2022-179%20Primary%206%20Assessment%20Letter%20Prelim.pdf)|
 |12 Aug|[2022-186 Primary 6 Pre-PSLE Study Break.pdf](/files/2022-186%20Primary%206%20Pre-PSLE%20Study%20Break.pdf)|
-|25 Aug|[](/files/)|
+|25 Aug|	 **Safe Management Measures - Masks**<br><br>Dear Parents/Guardians,<br>With further relaxation of the Safe Management Measures announced on 24 August, mask-wearing will be optional in both indoor and outdoor settings with effect from Monday, 29 August. These changes apply to MOE schools as well. However, please remind your child that it is still mandatory to put on his/her mask if he/she takes the public transport.<br><br>As we strive towards living with COVID, let us continue to practise good personal hygiene and exercise social responsibility. Together, we can make the school a safer place for all students.<br><br>Thank you for your partnership.<br><br>Cantonment Primary School|
 |12 Sep |[2022-192 Road Safety Challenge for P3 - P5 Students.pdf](/files/2022-192%20Road%20Safety%20Challenge%20for%20P3%20-%20P5%20Students.pdf)|
 |13 Sep |[2022-194 Calendar Updates for Term 4 2022.pdf](/files/2022-194%20Calendar%20Updates%20for%20Term%204%202022.pdf)|
 |14 Sep |[2022-196 PSLE Letter to Parents (Reporting_ Dismissal times) 14 Sept 2022.pdf](/files/2022-196%20PSLE%20Letter%20to%20Parents%20(Reporting_Dismissal%20times)%2014%20Sept%202022.pdf)|
 |15 Sep|[2022-195 P1 Learning Journey to Zoo.pdf](/files/2022-195%20P1%20Learning%20Journey%20to%20Zoo.pdf)|
-|21 Sep |[](/files/)|
 |28 Sep |[2022-199 Adjustments to Recess Timings (PSLE Days and Children’s Day Celebrations).pdf](/files/2022-199%20Adjustments%20to%20Recess%20Timings%20(PSLE%20Days%20and%20Children’s%20Day%20Celebrations).pdf)|
-|3 Oct |[](/files/)|
+|3 Oct |[2022-200 P3 SA2 Oral Assessment 2022](/files/2022-200%20P3%20SA2%20Oral%20Assessment%202022)<br><br>[2022-200 P4 SA2 Oral Assessment 2022](/files/2022-200%20P4%20SA2%20Oral%20Assessment%202022)<br><br>[2022-200 P5 SA2 Oral Assessment 2022](/files/2022-200%20P5%20SA2%20Oral%20Assessment%202022)<br><br>|
 |5 Oct |[2022-202 Application for MOE FAS 2023.pdf](/files/2022-202%20Application%20for%20MOE%20FAS%202023.pdf)|
