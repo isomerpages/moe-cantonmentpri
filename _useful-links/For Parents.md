@@ -127,5 +127,3 @@ Parents will be able to do the following through the app (SingPass login require
 |28 Sep ||
 |3 Oct ||
 |5 Oct ||
-|11 Oct|[2022-203 Types of programmes for Mother Tongue Languages in Primary 3 2023.pdf](/files/2022-203%20Types%20of%20programmes%20for%20Mother%20Tongue%20Languages%20in%20Primary%203%202023.pdf)|
-|||
