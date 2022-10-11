@@ -109,21 +109,19 @@ Parents will be able to do the following through the app (SingPass login require
 | 30 Jun |  [2022-146 P3 VIA Project Consent Form.pdf](/files/2022-146%20P3%20VIA%20Project%20Consent%20Form.pdf) |
 | 5 Jul  | [2022-147 P6 Preliminary Oral Assessment 2022.pdf](/files/2022-147%20P6%20Preliminary%20Oral%20Assessment%202022.pdf) |
 | 12 Jul | [P6 Standard Assessment Letter.pdf](/files/P6%20Standard%20Assessment%20Letter.pdf) <br> [P6 Foundation Assessment Letter.pdf](/files/P6%20Foundation%20Assessment%20Letter.pdf) |
-|18 Jul ||
-|20 Jul ||
-|21 Jul ||
-|22 Jul ||
-|25 Jul ||
-|1 Aug||
-|5 Aug||
-|12 Aug||
-|25 Aug||
-|26 Aug||
-|12 Sep ||
-|13 Sep ||
-|15 Sep||
-|16 Sep ||
-|21 Sep ||
-|28 Sep ||
-|3 Oct ||
-|5 Oct ||
+|18 Jul |[2022-158 Terra Village Invitation_all parents.pdf](/files/2022-158%20Terra%20Village%20Invitation_all%20parents.pdf)|
+|20 Jul |[2022-164 Calendar Updates for Semester 2 2022.pdf](/files/2022-164%20Calendar%20Updates%20for%20Semester%202%202022.pdf)<br>[2022-165GEP Letter.pdf](/files/2022-165%20GEP%20Letter.pdf)|
+|22 Jul |[2022-162 Details for National Day Observance Ceremony 2022.pdf](/files/2022-162%20Details%20for%20National%20Day%20Observance%20Ceremony%202022.pdf)|
+|25 Jul |[2022-166 Parents Nomination for JSA Selection Trials 2022.pdf](/files/2022-166%20Parents%20Nomination%20for%20JSA%20Selection%20Trials%202022)|
+|1 Aug|[2022-175 Terra Village - SMM to all parents.pdf](/files/2022-175%20Terra%20Village%20-%20SMM%20to%20all%20parents.pdf)|
+|5 Aug|[2022-179 Primary 6 Assessment Letter Prelim.pdf](/files/2022-179%20Primary%206%20Assessment%20Letter%20Prelim.pdf)|
+|12 Aug|[2022-186 Primary 6 Pre-PSLE Study Break.pdf](/files/2022-186%20Primary%206%20Pre-PSLE%20Study%20Break.pdf)|
+|25 Aug|[](/files/)|
+|12 Sep |[2022-192 Road Safety Challenge for P3 - P5 Students.pdf](/files/2022-192%20Road%20Safety%20Challenge%20for%20P3%20-%20P5%20Students.pdf)|
+|13 Sep |[2022-194 Calendar Updates for Term 4 2022.pdf](/files/2022-194%20Calendar%20Updates%20for%20Term%204%202022.pdf)|
+|14 Sep |[2022-196 PSLE Letter to Parents (Reporting_ Dismissal times) 14 Sept 2022.pdf](/files/2022-196%20PSLE%20Letter%20to%20Parents%20(Reporting_Dismissal%20times)%2014%20Sept%202022.pdf)|
+|15 Sep|[2022-195 P1 Learning Journey to Zoo.pdf](/files/2022-195%20P1%20Learning%20Journey%20to%20Zoo.pdf)|
+|21 Sep |[](/files/)|
+|28 Sep |[2022-199 Adjustments to Recess Timings (PSLE Days and Children’s Day Celebrations).pdf](/files/2022-199%20Adjustments%20to%20Recess%20Timings%20(PSLE%20Days%20and%20Children’s%20Day%20Celebrations).pdf)|
+|3 Oct |[](/files/)|
+|5 Oct |[2022-202 Application for MOE FAS 2023.pdf](/files/2022-202%20Application%20for%20MOE%20FAS%202023.pdf)|
