@@ -109,3 +109,23 @@ Parents will be able to do the following through the app (SingPass login require
 | 30 Jun |  [2022-146 P3 VIA Project Consent Form.pdf](/files/2022-146%20P3%20VIA%20Project%20Consent%20Form.pdf) |
 | 5 Jul  | [2022-147 P6 Preliminary Oral Assessment 2022.pdf](/files/2022-147%20P6%20Preliminary%20Oral%20Assessment%202022.pdf) |
 | 12 Jul | [P6 Standard Assessment Letter.pdf](/files/P6%20Standard%20Assessment%20Letter.pdf) <br> [P6 Foundation Assessment Letter.pdf](/files/P6%20Foundation%20Assessment%20Letter.pdf) |
+|18 Jul ||
+|20 Jul ||
+|21 Jul ||
+|22 Jul ||
+|25 Jul ||
+|1 Aug||
+|5 Aug||
+|12 Aug||
+|25 Aug||
+|26 Aug||
+|12 Sep ||
+|13 Sep ||
+|15 Sep||
+|16 Sep ||
+|21 Sep ||
+|28 Sep ||
+|3 Oct ||
+|5 Oct ||
+|14 Oct||
+|||
