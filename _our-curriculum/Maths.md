@@ -1,6 +1,6 @@
 ---
 title: Maths
-permalink: /our-curriculum/maths
+permalink: /our-curriculum/maths/
 description: ""
 ---
 ### Vision
@@ -12,7 +12,9 @@ We seek to support students to acquire mathematical concepts and skills through 
 ### Signature Programmes
 
 <u><strong> Experiential Learning </strong></u><br>
-Student centric and vibrant learning experiences are part of our school’s Mathematics curriculum to help students see the meaning and relevance of what they learn. Students are provided with authentic problem-solving situations and they work in groups to solve problems. As students explore and challenge their own assumptions with the guidance of the teachers, students are able to appreciate the connect between conceptual understanding and application.  Through working collaboratively, students also developed their critical thinking skills, as well as 21st century competencies.
+Student centric and vibrant learning experiences are part of our school’s Mathematics curriculum to help students see the meaning and relevance of what they learn.
+
+Our lessons provide authentic problem-solving situations. Students work in groups to solve problems. As students explore and challenge their own assumptions, they see the value of being able to connect between conceptual understanding and application.  They also develop their critical thinking skills, as well as 21st century competencies.
 
 Some examples of such learning experiences include:
 
@@ -52,10 +54,12 @@ Students make connections between what they learn in theory and real-life.
 
 <img src="/images/maths5.jpg"
 		 style="width:50%">
+		 <figcaption>Students explored if the capacity is really 1 litre as stated in the packaging. </figcaption> 
+</figure>
 		 
 ---------------
 
-(c)          **Properties of shapes** 
+(c)          **Infusing ICT to learn property of shapes** 
 
 Students make use of an application enabled robotic ball to draw different shapes.
 
@@ -67,7 +71,7 @@ Students make use of an application enabled robotic ball to draw different shape
 <div></div>  
 </div>
 
-Using the properties of the shapes students have learnt, they use the robotic ball application on the mobile device to command the robotic ball to draw out the shapes they are learning.
+As the teacher tells the properties of a particular shape, the students use the robotic ball application on their mobile device to command the robotic ball to draw out the shapes.
 
 <br>
 <br>
@@ -86,11 +90,10 @@ This programme is offered to selected Primary 4 to 6 students.
 ### Useful Links
 
 <u><strong> Koobits </strong></u><br>
-Students can access Koobits Learning Portals via [member.koobits.com](http://member.koobits.com/) <br>
+Students can access Koobits Learning Portals via [member.koobits.com](http://member.koobits.com/) <br><br>
 Portal Introduction: [https://www.youtube.com/watch?v=yhMbiJqGHHo](https://www.youtube.com/watch?v=yhMbiJqGHHo) <br>
 FAQs & guides: [support.koobits.com](http://support.koobits.com/) <br>
 User name: _same as student’s SLS user name_ <br>
-Password (default): koobits
 
 <u><strong> Maths Olympiad Competitions </strong></u><br>
 Singapore-Asia Pacific Mathematical Olympiad for Primary Schools (SMOPS) <br> 
