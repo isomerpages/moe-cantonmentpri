@@ -92,7 +92,6 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 |   | Ms Jaslin Yeo | 64999416 | [Email](https://form.gov.sg/60deacf6967a9000129466b5) | [WA](https://wa.me/6564999414) |
 | 2 Respect | Ms Cheong Mun See  | 64999414 | [Email](https://form.gov.sg/5dc1252c5f93b50019043d41) | [WA](https://wa.me/6564999414) |
 |   | Mdm Ganesh  | 65119643  | [Email](https://form.gov.sg/5dc1306d5bec6f0012034966) | [WA](https://wa.me/6565119643) |
-|   | Mr Huang Yao Tian | 64999413 | [Email](https://form.gov.sg/61c9ed123cff100012cef300) | [WA](https://wa.me/6564999413) |
 | 2 Harmony | Mrs Donica Goh | 63036291 | [Email](https://form.gov.sg/5dc1174b5f93b5001904386d) | [WA](https://wa.me/6563036291) |
 |   | Ms Nicole Ooi | 6511955 Ext 488 | [Email](https://form.gov.sg/61cd6a0cb3479f00129cb069) | [WA](https://wa.me/6565119642) |
 | 2 Compassion | Mr Jared Goh | 65119581 | [Email](https://form.gov.sg/5e42c22f228e6f0011eaede8) | [WA](https://wa.me/6565119581) |
