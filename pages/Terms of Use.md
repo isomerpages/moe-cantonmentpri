@@ -3,23 +3,23 @@ title: Terms of Use
 permalink: /terms-of-use/
 description: ""
 ---
-Thank you for visiting https://cantonmentpri.moe.edu.sg/. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.
+Thank you for visiting [www.cantonmentpri.moe.edu.sg/](https://www.cantonmentpri.moe.edu.sg/). By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.
 
-General
+##### General
 
 1. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
 
-Proprietary Rights
+##### Proprietary Rights
 
 2. This website is maintained by CPS - Cantonment Primary School.
 
 4. The materials located on this website including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by CPS.
 
-Privacy Policy
+##### Privacy Policy
 
-4. Click here to review this website Privacy Statement.
+4. Click here to review this website [Privacy Statement](/privacy).
 
-Restrictions on use of Materials
+##### Restrictions on use of Materials
 
 5. Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of CPS.
 
@@ -33,23 +33,23 @@ Disclaimer of Warranties and Liability
 
 8. CPS shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the website, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the website.
 
-Right of Access
+##### Right of Access
 
 9. CPS reserves all rights to deny or restrict access to this website to any particular person, or to block access from a particular Internet address to this website, at any time, without ascribing any reasons whatsoever.
 
-Links from this website to other websites
+##### Links from this website to other websites
 
 10. This website contains hyperlinks to websites which are not maintained by CPS. CPS is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
 
 11. Hyperlinks to other websites are provided as a convenience. In no circumstances shall CPS be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
 
-Links to this website from other websites
+##### Links to this website from other websites
 
 12. Except as set forth below, caching and links to, and the framing of this website or any of the Contents are prohibited.
 
 13. You must secure permission from CPS prior to hyperlinking to, or framing, this website or any of the Contents, or engaging in similar activities. CPS reserves the right to impose conditions when permitting any hyperlinking to, or framing of this website or any of the 
 
-Contents.
+##### Contents
 
 14. Your linking to, or framing any part of this website or its Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this website or any of the Contents.
 
