@@ -12,9 +12,7 @@ We seek to support students to acquire mathematical concepts and skills through 
 ### Signature Programmes
 
 <u><strong> Experiential Learning </strong></u><br>
-Student centric and vibrant learning experiences are part of our school’s Mathematics curriculum to help students see the meaning and relevance of what they learn.
-
-Our lessons provide authentic problem-solving situations. Students work in groups to solve problems. As students explore and challenge their own assumptions, they see the value of being able to connect between conceptual understanding and application.  They also develop their critical thinking skills, as well as 21st century competencies.
+Student centric and vibrant learning experiences are part of our school’s Mathematics curriculum to help students see the meaning and relevance of what they learn. Students are provided with authentic problem-solving situations and they work in groups to solve problems. As students explore and challenge their own assumptions with the guidance of the teachers, students are able to appreciate the connect between conceptual understanding and application.  Through working collaboratively, students also developed their critical thinking skills, as well as 21st century competencies.
 
 Some examples of such learning experiences include:
 
@@ -59,7 +57,7 @@ Students make connections between what they learn in theory and real-life.
 		 
 ---------------
 
-(c)          **Infusing ICT to learn property of shapes** 
+(c)          **Properties of shapes** 
 
 Students make use of an application enabled robotic ball to draw different shapes.
 
@@ -70,8 +68,7 @@ Students make use of an application enabled robotic ball to draw different shape
 </div>  
 <div></div>  
 </div>
-
-As the teacher tells the properties of a particular shape, the students use the robotic ball application on their mobile device to command the robotic ball to draw out the shapes.
+Using the properties of the shapes students have learnt, they use the robotic ball application on the mobile device to command the robotic ball to draw out the shapes they are learning. 
 
 <br>
 <br>
