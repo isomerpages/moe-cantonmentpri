@@ -7,7 +7,8 @@ description: ""
 Avid readers, Eloquent speakers, Inspired writers 
 
 ### Mission
-The CPS English Department is committed to building an English classroom that will produce young communicators who can articulate their ideas well; verbally and written and to encourage a love for the language.
+
+The CPS  English Department is committed to building an English classroom that will produce young communicators who can articulate their ideas well; verbally and written and to encourage a love for the language.
 
 For our students to grow and become successful members of our society, they must have a strong foundation in the English Language. We recognise that at the primary level, it is important that our students develop mastery in their basic skills in listening, speaking, reading and writing. We shall nurture our students to develop a love for the language by recognising its power and using it responsibly.
 
@@ -66,7 +67,7 @@ This programme is a 5-year English Language Oracy Programme (ELOP) which provid
 <u><strong> Character Alive Programme </strong></u><br>
 In CPS, we celebrate reading in a big way. We strive to make reading fun for the students by having Characters come Alive during our annual English Language Week. This activity arouses students’ curiosity in interesting characters found in stories. We actively encourage all students to discover the fun in exploring the different genres of literature. Students are given an opportunity to dress up as a character in their favourite story book and have a fun-filled day.
 
- <u><strong> Our Time To Enjoy Reading (OTTER) Programme </strong></u> <br>
+ <u><strong>Our Time To Enjoy Reading (OTTER) Programme </strong></u> <br>
 We want our students in CPS to enjoy reading. This programme aims to provide our students with the opportunity to read books of various genres. Through book sharing, students are introduced to a variety of titles to pique their curiosity in wanting to read different texts. Apart from developing literacy skills through reading, students will also gain a deeper understanding of the world and different cultures around them.
 
 <u><strong> Collaboration with Parents </strong></u><br>

@@ -1,10 +1,10 @@
 ---
 title: Science
-permalink: /our-curriculum/science
+permalink: /our-curriculum/science/
 description: ""
 ---
 ### Vision
-Future-ready passionate learner of Science
+Every student a future-ready passionate learner of Science
 
 ### Signature Programmes
 
@@ -44,21 +44,14 @@ Outstanding Science students are provided the opportunity to participate in loca
 ### Useful Links For Parents
 
 **Singapore Science Centre** <br>
-[http://www.science.edu.sg/Pages/SCBHome.aspx](http://www.science.edu.sg/Pages/SCBHome.aspx)
+[http://www.science.edu.sg](http://www.science.edu.sg)
 
 **British Broadcasting Corporation** <br>
 [http://www.bbc.co.uk/science](http://www.bbc.co.uk/science) <br>
 [http://www.bbc.com/earth/uk](http://www.bbc.com/earth/uk)
 
-**USA Steve Spangler** <br>
-[http://www.stevespanglerscience.com/](http://www.stevespanglerscience.com/)
-
 **Science competitions** <br>
-<u> Singapore Science Buskers </u><br>
-[https://www.science.edu.sg/whats-on/competitions/singapore-science-buskers](https://www.science.edu.sg/whats-on/competitions/singapore-science-buskers)
-
-<u> Sony Creative Science Award </u><br>
-[https://www.science.edu.sg/for-schools/competitions/sony-creative-science-award](https://www.science.edu.sg/for-schools/competitions/sony-creative-science-award)
-
-<u> NUS High Olympiad </u><br>
-[https://www.nushigh.edu.sg/news-n-events/primary-school-competitions/singapore-primary-science-olympiad/introduction](https://www.nushigh.edu.sg/news-n-events/primary-school-competitions/singapore-primary-science-olympiad/introduction)
+[Singapore Science Buskers](https://www.science.edu.sg/whats-on/competitions/singapore-science-buskers)
+<br>
+[Sony Creative Science Award](https://www.science.edu.sg/for-schools/competitions/sony-creative-science-award)
+<br>[NUS High Olympiad](https://www.nushigh.edu.sg/news-n-events/primary-school-competitions/singapore-primary-science-olympiad/introduction)

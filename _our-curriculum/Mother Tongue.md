@@ -1,13 +1,13 @@
 ---
 title: Mother Tongue
-permalink: /our-curriculum/mother-tongue
+permalink: /our-curriculum/mother-tongue/
 description: ""
 ---
 ### Vision
 Active Learners and Proficient Communicators
 
 ### Mission
-Our Mother Tongue Language department seeks to
+Our Mother Tongue Language department seeks to 
 * nurture students to be confident and effective communicators in the Mother Tongue Languages (MTL).
 * immerse students in rich culture and heritage through the MTLs
 * instill the joy of learning the Mother Tongue Languages through authentic and engaging approaches
@@ -22,7 +22,7 @@ In line with our school’s Learning for Life Programme (PAVE), drama is used as
 ![](/images/chinese.jpg)
 
 <u><strong> MTL Fortnight and Cultural Camp </strong></u><br>
-MTL fortnight and Cultural Camp aims to provide an authentic learning opportunity for students to understand and appreciate Mother Tongue culture, to heighten the use of mother tongue languages beyond the classrooms and to develop our students’ interest in the learning of the language. Fortnightly activities are conducted collaboratively amongst the CL, ML and TL departments. Students are given the exposure to cultures of the various ethnic groups.
+MTL fortnight and Cultural Camp aims to provide an authentic learning opportunity for students to understand and appreciate Mother Tongue culture, to heighten the use of mother tongue languages beyond the classrooms and to develop our students’ interest in the learning of the language. Fortnightly activities are conducted collaboratively amongst the CL, ML and TL departments. Students are given the exposure to cultures of the various ethnic groups. 
 
 <img src="/images/fortnight.jpg" 
      style="width:50%">
@@ -40,7 +40,6 @@ Students’ learning is deepened as students use ICT regularly in the MTL lesson
 
 <u><strong> MTL Reading Programme </strong></u><br>
 MTL reading programme activities are catered to all Primary 1 to Primary 5 students. The objective of this programme is to promote a love of reading and to cultivate good reading habits amongst students.
-
 ![](/images/mtl%20reading.jpg)
 
 The MTL Cultural Corner has also been set up in the school’s library to showcase the rich culture and heritage of the different ethnic groups. This corner is used to deepen students’ understanding of different cultures through meaningful and engaging activities incorporated in the curriculum.
@@ -59,8 +58,6 @@ Online English-Chinese Dictionary: [http://www.iciba.com/](http://www.iciba.com
 Online Chinese Dictionary: [http://www.zdic.net/](http://www.zdic.net/)
 
 Online Picture Story Books: [http://www.qbaobei.com/plans/huibenzaixian/](http://www.qbaobei.com/plans/huibenzaixian/)
-
-Online Malay Dictionary: [http://prpm.dbp.gov.my/](http://prpm.dbp.gov.my/)
 
 Animated stories for kids (TL): <br>
 [https://www.youtube.com/watch?v=06CoXN1G3a8](https://www.youtube.com/watch?v=06CoXN1G3a8) <br>
