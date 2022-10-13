@@ -55,9 +55,7 @@ Students who demonstrate potential are selected for various enrichment programme
 <u><strong> Level 4 – External platforms / competitions for selected students </strong></u><br>
 External platforms and competitions give students a wider audience to present their ideas and/or solutions and learn from others.
 
-![](/images/alp6.png)
-
 <figure>  
-<img src="/images/alp7.png">  
+<img src="/images/alp6.png">  
 <figcaption> Examples of our students’ submissions for the Sony Creative Science Award</figcaption>  
 </figure>
