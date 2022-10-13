@@ -24,7 +24,7 @@ Every department in the school infuses thinking routines into their curriculum t
 
 <figure>  
 <img src="/images/alp1.png">  
-<figcaption> Use of Thinking Routines & Perspective Thinking in English Language </figcaption>  
+<figcaption> Use of Thinking Routines in English Language </figcaption>  
 </figure>
 
 <figure>  
@@ -39,7 +39,7 @@ Every department in the school infuses thinking routines into their curriculum t
 
 <figure>  
 <img src="/images/alp5.png">  
-<figcaption> Creative thinking during Science lessons - Think and explore the different <br> types of materials for the boat making activity </figcaption>  
+<figcaption> Creative thinking during Science lessons </figcaption>  
 </figure>
 
 <u><strong> Level 2 - School based and school wide projects / programmes </strong></u><br>
@@ -59,5 +59,5 @@ External platforms and competitions give students a wider audience to present th
 
 <figure>  
 <img src="/images/alp7.png">  
-<figcaption> Examples of our students’ submissions for the Sony Creative Science Award-Students think <br> and explore how a closed circuit is formed through their toy/ product making project </figcaption>  
+<figcaption> Examples of our students’ submissions for the Sony Creative Science Award</figcaption>  
 </figure>
