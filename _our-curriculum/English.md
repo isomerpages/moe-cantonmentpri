@@ -7,9 +7,8 @@ description: ""
 Avid readers, Eloquent speakers, Inspired writers 
 
 ### Mission
-*To equip pupils with skills for effective communication and to encourage a love for the language*
 
-The CPS- English Department is committed to building an English classroom that will produce young communicators who can articulate their ideas well; verbally and written and to encourage a love for the language.
+The CPS  English Department is committed to building an English classroom that will produce young communicators who can articulate their ideas well; verbally and written and to encourage a love for the language.
 
 For our students to grow and become successful members of our society, they must have a strong foundation in the English Language. We recognise that at the primary level, it is important that our students develop mastery in their basic skills in listening, speaking, reading and writing. We shall nurture our students to develop a love for the language by recognising its power and using it responsibly.
 
