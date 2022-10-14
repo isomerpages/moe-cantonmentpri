@@ -216,7 +216,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Administrative Executive | Ms Siti Mariam | 65119646  | [Email](https://form.gov.sg/62bcead53695530011cfb783) |
 | | Mr Soffian  |  65119662 | [Email](https://form.gov.sg/62bce9f59277300012d2890f) |
 | ICT Manager | Mr Puvan | 65119555 | [Email](https://form.gov.sg/5dc227cb11ecd70012ef9354) |
-| Receptionist cum Admin | My Johnny Ang  | 65119555 | |
+| Receptionist cum Admin | Mr Johnny Ang  | 65119555 | |
 | Operations Manager | Mr Frank Low | 65119559 |[Email](https://form.gov.sg/60a2072f5308590011e54827) |
 | Operations Support Officer| Mdm Angeline Koh  | 65119555  | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
 | | Mr Ong Boon Tiong| 65119555 |   |
