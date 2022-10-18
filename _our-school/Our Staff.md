@@ -213,7 +213,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | | Mr Mark Tham | 65119642 | [Email](https://form.gov.sg/5ff659754b11630012b4c936) |
 | Corporate Support Officer | Mrs Mala Gunassaharan | 65119560 | [Email](https://form.gov.sg/5dc226b511ecd70012ef92ed) |
 | | Mdm Peggy Tan | 65119557 | [Email](https://form.gov.sg/5dc226e511ecd70012ef9302) |
-| Administrative Executive | Ms Siti Mariam | 65119646  | [Email](https://form.gov.sg/62bcead53695530011cfb783) |
+| | Ms Siti Mariam | 65119646  | [Email](https://form.gov.sg/62bcead53695530011cfb783) |
 | | Mr Soffian  |  65119662 | [Email](https://form.gov.sg/62bce9f59277300012d2890f) |
 | ICT Manager | Mr Puvan | 65119555 | [Email](https://form.gov.sg/5dc227cb11ecd70012ef9354) |
 | Receptionist cum Admin | Mr Johnny Ang  | 65119555 | |
@@ -221,7 +221,6 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Operations Support Officer| Mdm Angeline Koh  | 65119555  | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
 | | Mr Ong Boon Tiong| 65119555 |   |
 | | Mdm Fauziah | 65119555 |  |
-| | Mr Alvin Lee| 65119555 |  |
 | Librarian | Ms Nurul Kamilah | 65119589 | [Email](https://form.gov.sg/5dc228ccc321c6001240bd52) |
 | Science Lab Technician | Ms Lissy | 65119555  |  |
 | Desktop Engineer | Mr Edzhan | 65119555 |  |
