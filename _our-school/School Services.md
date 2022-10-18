@@ -66,6 +66,10 @@ Website: [www.kidztreehouse.com.sg](http://www.kidztreehouse.com.sg/)[
 Email: [cps@kowabunga.com.sg](mailto:cps@kowabunga.com.sg) <br>
 Phone: [68505171](tel:+6568505171) / [81272236](tel:+6581272236)
 
+Submit these forms to the general office<br>
+[Student Care Registration Form 2022](/files/services/Student%20Care%20Registration%20Form%202022.pdf)<br>
+[Student Care Fee Assistance Form 2022](/files/services/Student%20Care%20Fee%20Assistance%20Form%202022.pdf)
+
 ### Dental Clinic @ CPS
 
 The Health Promotion Board’s School Dental Service (SDS) provides free basic dental services in school dental clinics and mobile dental clinics for Primary and Secondary students to promote good oral health for life. Annually, all Primary 1, Primary 2, Primary 4, Primary 6,  Secondary 1 and Secondary 3 students who are enrolled in the school dental programme will be screened and treated by SDS. Students in other levels who require dental services may visit the school dental clinics or mobile dental clinics for free consultation and treatment. Services are provided by dentists, dental therapists or advanced students in oral health therapy under close supervision.
