@@ -31,9 +31,9 @@ Revolving Transport Pte Ltd
 Phone<br>
 Office: [64797597](tel:64797597)<br>
 Kenneth: [88110102](tel:88110102)<br>
-
 Email: [emltpt08@gmail.com](mailto:emltpt08@gmail.com)  
-  
+ 
+ Please submit application form to the General Office:
 [Infor Sheet on School Bus Services 2022.pdf](/files/Infor%20Sheet%20on%20School%20Bus%20Services%202022.pdf) <br>
 [CPS New Bus Registration Form for 2022.doc](https://cantonmentpri.moe.edu.sg/qql/slot/u535/About%20Us/Bookshop/CPS%20New%20Bus%20Registration%20Form%20for%202022.doc)
 
@@ -66,7 +66,9 @@ Website: [www.kidztreehouse.com.sg](http://www.kidztreehouse.com.sg/)[
 Email: [cps@kowabunga.com.sg](mailto:cps@kowabunga.com.sg) <br>
 Phone: [68505171](tel:+6568505171) / [81272236](tel:+6581272236)
 
-Submit these forms to the general office<br>
+[2022 Centre Closure Dates](/files/services/2022%20Centre%20Closure%20Dates.pdf)
+
+Please submit application form to the General Office:<br>
 [Student Care Registration Form 2022](/files/services/Student%20Care%20Registration%20Form%202022.pdf)<br>
 [Student Care Fee Assistance Form 2022](/files/services/Student%20Care%20Fee%20Assistance%20Form%202022.pdf)
 
