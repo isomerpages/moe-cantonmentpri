@@ -126,3 +126,4 @@ Parents will be able to do the following through the app (SingPass login require
 |5 Oct |[2022-202 Application for MOE FAS 2023.pdf](/files/2022-202%20Application%20for%20MOE%20FAS%202023.pdf)<br><br>[2022-201_PG Letter on SBB for P4s](/files/2022-201_PG%20Letter%20on%20SBB%20for%20P4s.pdf)|
 |14 Oct|[2022-203 Types of programmes for Mother Tongue Languages in Primary 3 2023.pdf](/files/2022-203%20Types%20of%20programmes%20for%20Mother%20Tongue%20Languages%20in%20Primary%203%202023.pdf)|
 |21 Oct|[2022-210 Deepavali Celebrations](/files/2022-210%20Deepavali%20Celebrations.pdf)<br>[2022-207 Parent-Child-Teacher-Conference 2022](/files/2022-207%20Parent-Child-Teacher-Conference%202022.pdf)<br>[PG Mobile App (Meetings Feature) User Guide](/files/PG%20Mobile%20App%20(Meetings%20Feature)%20User%20Guide.pdf)<br>
+|25 Oct|[2022-209 P6 Social Etiqutte Workshop cum Graduation Party.pdf](/files/2022-209%20P6%20Social%20Etiqutte%20Workshop%20cum%20Graduation%20Party.pdf)|
