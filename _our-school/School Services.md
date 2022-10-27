@@ -69,7 +69,7 @@ Phone: [68505171](tel:+6568505171) / [81272236](tel:+6581272236)
 [2022 Centre Closure Dates](/files/services/2022%20Centre%20Closure%20Dates.pdf)
 
 Please submit application form to the General Office:<br>
-[Student Care Registration Form](/files/services/SCC%20Registration%20Form.pdf)<br>
+[Student Care Centre Registration Form](/files/services/SCC%20Registration%20Form.pdf)<br>
 [Student Care Fee Assistance Form](/files/services/Student%20Care%20Fee%20Assistance%20Form%202022.pdf)
 
 ### Dental Clinic @ CPS
