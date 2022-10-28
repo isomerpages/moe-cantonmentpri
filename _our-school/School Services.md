@@ -12,7 +12,7 @@ Monday to Friday: 8.30 a.m. to 3.30 p.m. <br> Lunch Break: 11.30 a.m. to 12.30 p
 
 Email: [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com) <br> 
 Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/) <br>
-Phone: [62259241](tel:62259241) or [WhatsApp](https://wa.me/6590239270) to 90239270
+Phone: [62259241](tel:62259241)
 
 **Booklist For 2022** <br>
 [2022 P1.pdf](/files/2022%20P1.pdf) <br>
@@ -31,11 +31,11 @@ Revolving Transport Pte Ltd
 Phone<br>
 Office: [64797597](tel:64797597)<br>
 Kenneth: [88110102](tel:88110102)<br>
-Email: [emltpt08@gmail.com](mailto:emltpt08@gmail.com)  
+Email: [emltransport9277@gmail.com](mailto:emltransport9277@gmail.com)  
  
  Please submit application form to the General Office: <br>
-[Infor Sheet on School Bus Services 2022.pdf](/files/Infor%20Sheet%20on%20School%20Bus%20Services%202022.pdf) <br>
-[CPS New Bus Registration Form for 2022.doc](https://cantonmentpri.moe.edu.sg/qql/slot/u535/About%20Us/Bookshop/CPS%20New%20Bus%20Registration%20Form%20for%202022.doc)
+[Infor Sheet on School Bus Services 2023](/files/services/Infor%20Sheet%20on%20School%20Bus%20Services%20(2023).pdf) <br>
+[CPS New Bus Registration Form for 2023](/files/services/CPS%20New%20Bus%20Registration%20Form%20for%202023.pdf)
 
 ### School Uniform
 
