@@ -34,8 +34,8 @@ Kenneth: [88110102](tel:88110102)<br>
 Email: [emltransport9277@gmail.com](mailto:emltransport9277@gmail.com)  
  
  Please submit application form to the General Office: <br>
-[Infor Sheet on School Bus Services 2023](/files/Infor%20Sheet%20on%20School%20Bus%20Services%20(2023).pdf) <br>
-[CPS New Bus Registration Form for 2023](/files/CPS%20New%20Bus%20Registration%20Form%20for%202023.pdf)
+[Infor Sheet on School Bus Services 2023](/files/services/Infor%20Sheet%20on%20School%20Bus%20Services%20(2023).pdf) <br>
+[CPS New Bus Registration Form for 2023](/files/services/CPS%20New%20Bus%20Registration%20Form%20for%202023.pdf)
 
 ### School Uniform
 
