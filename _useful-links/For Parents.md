@@ -3,6 +3,13 @@ title: For Parents
 permalink: /useful-links/for-parents/
 description: ""
 ---
+
+##### Ministry Websites
+[Ministry of Education](https://www.moe.gov.sg/)<br>
+[Singapore Examinations and Assessment Board](https://www.seab.gov.sg/)<br>
+[Parent kit](https://www.moe.gov.sg/parentkit)<br>
+[Schoolbag.sg](https://www.schoolbag.edu.sg/)<br>
+
 ### Touch Base Meeting
 [Principal's Welcome Video Message](https://www.canva.com/design/DAE0o4G3XqU/y38KHLRz1DBkttTyCNeyvg/watch?utm_content=DAE0o4G3XqU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) <br>
 [2022 P1 TBM.pdf](/files/tbm/2022%20P1%20TBM.pdf) <br>
@@ -61,9 +68,6 @@ Thank you. 
 [Online form to set up PayNow](https://go.gov.sg/paynowregister) <br>
 [Guide on PayNow Registration.pdf](/files/Guide%20on%20PayNow%20Registration.pdf) <br>
 [FAQs for PayNow.pdf](/files/FAQs%20for%20PayNow.pdf)
-
-##### Parent Kit
-[Parent kit | Ministry of Education (moe.gov.sg)](https://www.moe.gov.sg/parentkit)
 
 ##### Parent Gateway
 
