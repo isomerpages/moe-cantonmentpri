@@ -3,6 +3,13 @@ title: For Parents
 permalink: /useful-links/for-parents/
 description: ""
 ---
+
+##### Ministry Websites
+[Ministry of Education](https://www.moe.gov.sg/)<br>
+[Singapore Examinations and Assessment Board](https://www.seab.gov.sg/)<br>
+[Parent kit](https://www.moe.gov.sg/parentkit)<br>
+[Schoolbag.sg](https://www.schoolbag.edu.sg/)<br>
+
 ### Touch Base Meeting
 [Principal's Welcome Video Message](https://www.canva.com/design/DAE0o4G3XqU/y38KHLRz1DBkttTyCNeyvg/watch?utm_content=DAE0o4G3XqU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) <br>
 [2022 P1 TBM.pdf](/files/tbm/2022%20P1%20TBM.pdf) <br>
@@ -49,25 +56,18 @@ Parents/guardians of all eligible students aged 12 and above as at 1 June 2021 
 [Posters in All Languages](https://www.moe.gov.sg/-/media/files/parent-kit/vaccination-for-students.pdf)
 
 ##### PayNow
-Dear Parents
 
-With the increasing digitalisation of government services, MOE would like to encourage all parents to register their children’s bank account with PayNow using the children’s BC/NRIC number. The activation of PayNow will facilitate the prompt disbursement of monies for the child, and avoid delays through the filling in and processing of forms or from physical visits to banks for the deposit of cheques.  For a start, MOE will be using PayNow (BC/NRIC) as a means to disburse Edusave award monies starting from the upcoming Edusave award exercise in Dec 2020.
+With the increasing digitalisation of government services, MOE would like to encourage all parents to register their children’s bank account with PayNow using the children’s BC/NRIC number. The activation of PayNow will facilitate the prompt disbursement of monies for the child, and avoid delays through the filling in and processing of forms or from physical visits to banks for the deposit of cheques. 
 
 To register for PayNow for your children with their BC/NRIC number, you can refer to the attached guide on PayNow or visit the website of the Association of Banks in Singapore (link provided) for more information. Please approach your bank if you need further assistance to register for PayNow for your children. Alternatively, if you are using your children’s bank accounts with POSB/DBS or OCBC, you can fill in the online form (link provided) for MOE to help you to set up PayNow arrangements for these accounts.
-
-Thank you.   
   
 [More information on PayNow](https://www.abs.org.sg/PayNow) <br>
-[Online form to set up PayNow](https://go.gov.sg/paynowregister) <br>
 [Guide on PayNow Registration.pdf](/files/Guide%20on%20PayNow%20Registration.pdf) <br>
 [FAQs for PayNow.pdf](/files/FAQs%20for%20PayNow.pdf)
 
-##### Parent Kit
-[Parent kit | Ministry of Education (moe.gov.sg)](https://www.moe.gov.sg/parentkit)
-
 ##### Parent Gateway
 
-[Parents Gateway](https://pg.moe.edu.sg/) is a one-stop [Android](https://play.google.com/store/apps/details?id=com.moe.pgp)/ [iOS](https://apps.apple.com/sg/app/parents-gateway/id1267198708) app that strengthens school-home partnership to support our children in their education journey.
+[Parents Gateway](https://pg.moe.edu.sg/) is a one-stop [Android](https://play.google.com/store/apps/details?id=com.moe.pgp)/[iOS](https://apps.apple.com/sg/app/parents-gateway/id1267198708) app that strengthens school-home partnership to support our children in their education journey.
 	
 Parents will be able to do the following through the app (SingPass login required)
 
