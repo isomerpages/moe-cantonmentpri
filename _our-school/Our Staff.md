@@ -183,7 +183,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Senior School Counsellor| Ms Ooi Huishan | 64999242 | [Email](https://form.gov.sg/5dc2237811ecd70012ef9180) |
 | Student Welfare Officer | Ms Diana Ho | 64999240 | [Email](https://form.gov.sg/5dc223ec11ecd70012ef91b4) |
 | Allied Educator | Mdm Jenny Wong | 65119555 | [Email](https://form.gov.sg/5dc2239f11ecd70012ef9195) |
-| | Ms Ariela Yap | 64999243 | [Email](https://form.gov.sg/5ed48a3839b707001103884c) |
+| | Ms Ariela Yap | 65119565 | [Email](https://form.gov.sg/5ed48a3839b707001103884c) |
 | | Ms Siti Norliza || [Email](https://form.gov.sg/62bcec6b3695530011cfd5a6) |
 | | Mr Randal Lui| |[Email](https://form.gov.sg/630d924e93b6890012683016)|
 | | | | |
@@ -196,7 +196,6 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Mdm Lim Yen Tong Rie | 65119555 Ext 450 |
 | Mr Hirman Md Khamis | 65119555 Ext 449 | [Email](https://form.gov.sg/61c9f02f454c2200125a1841) | | 
 | Mrs Joy Loke | | [Email](https://form.gov.sg/5dc115a75f93b500190437b2) | 
-|Mdm Tan Kwa Hua 	 | |[Email](https://form.gov.sg/62bcef9c72f5600012357d4e) | |
 |Mdm Huang Wenjian | |[Email](https://form.gov.sg/630d942608b16f00132943c2)| |
 |Mdm Rossenah Binte Kamis| |[Email](https://form.gov.sg/630d94792c1e910013ba2d49)| |
 |Mr Albert Wong| |[Email](https://form.gov.sg/630d951329f49e00134a4f40) | |
