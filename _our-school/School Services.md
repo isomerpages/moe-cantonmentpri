@@ -14,6 +14,9 @@ Email: [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com) <br>
 Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/) <br>
 Phone: [62259241](tel:62259241)
 
+**Booklist For 2023** <br>
+[P1 2023](/files/Booklist/P1.pdf)<br>
+
 **Booklist For 2022** <br>
 [2022 P1.pdf](/files/2022%20P1.pdf) <br>
 [2022 P2.pdf](/files/2022%20P2.pdf) <br>
