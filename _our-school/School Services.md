@@ -15,17 +15,14 @@ Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/) <br>
 Phone: [62259241](tel:62259241)
 
 **Booklist For 2023** <br>
-[P1 2023](/files/Booklist/P1.pdf)<br>
-
-**Booklist For 2022** <br>
-[2022 P1.pdf](/files/2022%20P1.pdf) <br>
-[2022 P2.pdf](/files/2022%20P2.pdf) <br>
-[2022 P3.pdf](/files/2022%20P3.pdf) <br>
-[2022 P4.pdf](/files/2022%20P4.pdf) <br>
-[2022 P5 FDN.pdf](/files/2022%20P5%20FDN.pdf) <br>
-[2022 P5 STD.pdf](/files/2022%20P5%20STD.pdf) <br>
-[2022 P6 FDN.pdf](/files/2022%20P6%20FDN.pdf) <br>
-[2022 P6 STD.pdf](/files/2022%20P6%20STD.pdf)
+[P1](/files/Booklist/P1.pdf)<br>
+[P2](/files/Booklist/P2.pdf)<br>
+[P3](/files/Booklist/P3.pdf)<br>
+[P4](/files/Booklist/P4.pdf)<br>
+[P5 Standard](/files/Booklist/P5%20Standard.pdf)<br>
+[P5 Foundation](/files/Booklist/P5%20Foundation.pdf)<br>
+[P6 Standard](/files/Booklist/P6%20Standard.pdf)<br>
+[P6 Foundation](/files/Booklist/P6%20Foundation.pdf)<br>
 
 ### Bus Transport
 
