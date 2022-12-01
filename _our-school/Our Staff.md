@@ -14,9 +14,9 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Role | Name |
 |---|---|
 | Principal | Mrs Manokara S  |  
-| Vice Principal | Mrs Audrea Chin  |   
+| Vice Principal (Acad) | Mrs Audrea Chin  |   
 | | Ms Cheng Shin Miin |   
-|   |   |
+| Vice Principal (Admin) | Mr Loh Siang Kiang |
 
 ##### Head of Departments and Subject Heads
 
@@ -201,7 +201,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 |Mr Albert Wong| |[Email](https://form.gov.sg/630d951329f49e00134a4f40) | |
 |Mdm Florence Teo| |[Email](https://form.gov.sg/630d956a08b16f0013295956)| |
 |Mr Lim Eng Guan| |[Email](https://form.gov.sg/630d95fdf87eed0012c9a5f2) | |
-| 
+
 
 
 ##### Executive and Administrative Staff 
@@ -220,6 +220,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Operations Support Officer| Mdm Angeline Koh  | 65119555  | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
 | | Mr Ong Boon Tiong| 65119555 |   |
 | | Mdm Fauziah | 65119555 |  |
+| | Mr Rajoo | 65119555 |  |
 | Librarian | Ms Nurul Kamilah | 65119589 | [Email](https://form.gov.sg/5dc228ccc321c6001240bd52) |
 | Science Lab Technician | Ms Lissy | 65119555  |  |
 | Desktop Engineer | Mr Edzhan | 65119555 |  |
