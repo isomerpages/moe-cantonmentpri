@@ -7,5 +7,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: images/Front - Servant Leadership.jpg
+      background: images/Front.jpg
 ---

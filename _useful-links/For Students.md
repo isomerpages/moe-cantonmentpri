@@ -45,5 +45,3 @@ Error messages you may encounter
 | ![](/images/Why%20you%20need%20your%20phone.png) | ![](/images/Verify%20its%20you.png) | ![](/images/Wrong%20Pasword.png) |
 | Inform your teacher who will help you with this | Students are to enter their own/parent/guardians' handphone number that can receive SMS. Enter the code you get via SMS to proceed | Your Google account is locked for a random amount of time. Might be minutes to hours. Do not request for password reset for this. |
 | | | |
-
-[Primary 6 Games Day Briefing](https://drive.google.com/file/d/1G9EAws9GGcTxybhuOIL4ZmYQDhY9wzn0/view?usp=sharing)
