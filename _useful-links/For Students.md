@@ -13,7 +13,7 @@ description: ""
 
 You can also send a WhatsApp message to the General Office ([65119555](http://wa.me/6565119555)) if you need a password reset after school hours. 
 
-Find your username in page 23 of your students handbook
+Find your username in page 2 of your students handbook
 
 If you get an error when logging in to any of above websites, clear your browser history, try accessing from a different web browsers such as Firefox, Chrome, Edge or Safari or on another device before trying to reset your password.
   
