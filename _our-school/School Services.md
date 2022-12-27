@@ -66,8 +66,6 @@ Website: [www.kidztreehouse.com.sg](http://www.kidztreehouse.com.sg/)[
 Email: [cps@kowabunga.com.sg](mailto:cps@kowabunga.com.sg) <br>
 Phone: [68505171](tel:+6568505171) / [81272236](tel:+6581272236)
 
-[2022 Centre Closure Dates](/files/services/2022%20Centre%20Closure%20Dates.pdf)
-
 Please submit application form to the General Office:<br>
 [Student Care Centre Registration Form](/files/services/SCC%20Registration%20Form.pdf)<br>
 [Student Care Fee Assistance Form](/files/services/Student%20Care%20Fee%20Assistance%20Form%202022.pdf)
@@ -79,8 +77,7 @@ The Health Promotion Board’s School Dental Service (SDS) provides free basic d
 To enrol your child/ward in school dental programme, please submit the consent form electronically via Child Consent Portal [https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/). You may also refer to the Child Consent Portal website to learn more about School Dental Service
 
 ##### Opening Dates:
-3,4,14,15,16(PM only), 17, 30 Nov <br>
-1,2 Dec
+
 
 ##### Opening Hours: 
 8 am-5.30 pm <br>
