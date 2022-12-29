@@ -4,7 +4,7 @@ permalink: /our-school/school-Information/school-hours/
 description: ""
 ---
 
-### 1. School Hours
+### School Hours
 
 
 | Day | Start Time | End Time |
@@ -14,7 +14,7 @@ description: ""
 
   
 
-### 2. Recess and Lunch Timings
+### Recess and Lunch Timings
 
   
 ##### All days except Tuesday
@@ -41,7 +41,7 @@ description: ""
 | Primary 6 | 10:30 to 10.50 am | 1 to 1.20 pm      |
 
   
-### 3. Dismissal at the gates
+### Dismissal at the gates
 
 To promote the safe and efficient dismissal of all students, the students will be dismissed by level at designated school gates. 
 
