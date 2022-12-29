@@ -89,7 +89,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | 2 Resilience |Mdm Toh Hong Yee|64999238| [Email](https://form.gov.sg/61c9ee4347f7c60013119d0a)| [WA](https://wa.me/6564999238)|
 | |Ms Lau Kai Jing|64999231| [Email](https://form.gov.sg/5dc115231b03c200191226b6)| [WA](https://wa.me/6564999231)|
 | 2 Respect |Ms Karen John|64999230| [Email](https://form.gov.sg/5dc12c811b03c20019123004)| [WA](https://wa.me/6564999230)|
-| |Ms Chua Jingyi|63036299| [Email](https://form.gov.sg/61cd69393cff1000121db933)| [WA](https://wa.me/6563036299)|
+| |Ms Chua Jing Yi|63036299| [Email](https://form.gov.sg/61cd69393cff1000121db933)| [WA](https://wa.me/6563036299)|
 | 2 Harmony |Mdm Gloria Tan|63036298| [Email](https://form.gov.sg/61fb200c07aa770012cc998c)| [WA](https://wa.me/6563036298)|
 | |Ms Liyu Min Yi|65119555x441| [Email](https://form.gov.sg/5e05880edf378700118edf96)| |
 | 2 Compassion |Mdm Khloe Goh|64999232| [Email](https://form.gov.sg/5dc11de15f93b50019043a85)| [WA](https://wa.me/6564999232)|
