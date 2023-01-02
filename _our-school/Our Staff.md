@@ -24,7 +24,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 |---|---|---|---|---|
 | HOD Mathematics|  Mr Andy Fan |  65119555 x 447 | [Email](https://form.gov.sg/5dc1301bb9014c0012b8c7ac) |  [WA](https://wa.me/6565119559) |
 | HOD Science | Ms Caroline M. Selva |  65119555 x 446 | [Email](https://form.gov.sg/5dc12b9f1b03c20019122fac) | [WA](https://wa.me/6565119558) |
-| HOD PAM/CCA | Mr Wilbert Tan | 65119587	|   | [WA](https://wa.me/6565119587) |
+| HOD PAM/CCA | Mr Wilbert Tan | 65119587	| [Email](https://form.gov.sg/63aaf2f7acde1200127ffe63)  | [WA](https://wa.me/6565119587) |
 | Year Head P12 | Ms So Bee Soon |  65119555 x 445 | [Email](https://form.gov.sg/5dc11d231b03c200191229f0) |  [WA](https://wa.me/6565119646) |
 | Year Head P56 | Mrs Chen Yi Fang | 65119645 | [Email](https://form.gov.sg/63ad7eb1fce97a0012cdbad1) | |
 | SH English Language | Mr Azhar  |  65119586 | [Email](https://form.gov.sg/61c9eb126c60da00127bfaac) | [WA](https://wa.me/6565119586) |
@@ -112,7 +112,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | 3 Resilience |Ms Sangeetha|64999248| [Email](https://form.gov.sg/5ed48b24f2ec2d00118d4083)| [WA](https://wa.me/6564999248)|
 | |Mr Tarmizi|64999417| [Email](https://form.gov.sg/60deacf6967a9000129466b5)| [WA](https://wa.me/6564999416)|
 | 3 Respect |Mr Caleb Lim|64999402| [Email](https://form.gov.sg/5dc1248a1b03c20019122cc3)| [WA](https://wa.me/6564999402)|
-| |Ms Amira || [Email](https://form.gov.sg/63ad7dda793e870011303c18)| [WA]()|
+| |Ms Amira | 65119580 | [Email](https://form.gov.sg/63ad7dda793e870011303c18)| [WA](https://wa.me/6565119580)|
 | 3 Harmony |Ms Yvonne Koh|64999401| [Email](https://form.gov.sg/5dc1240c5f93b50019043cc5)| [WA](https://wa.me/6564999401)|
 | |Mr Kevin Yang|64999424| [Email](https://form.gov.sg/5dc118d45f93b500190438ed)| [WA](https://wa.me/6564999424)|
 | 3 Compassion |Ms Kaylen Ang|64999243| [Email](https://form.gov.sg/5dc115e95f93b500190437c3)| [WA](https://wa.me/6564999243)|
@@ -151,7 +151,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | |Mr Ameen|64999423| [Email](https://form.gov.sg/5dc126385f93b50019043da0)| [WA](https://wa.me/6564999423)|
 | |Ms Aileen Poon|64999419| [Email](https://form.gov.sg/5dc261f0c321c6001240d3c0)| [WA](https://wa.me/6564999419)|
 | 5 Respect |Mrs Joy Loke|64999415| [Email](https://form.gov.sg/5dc115a75f93b500190437b2)| |
-| |Mrs Ang Yongling|| [Email](https://form.gov.sg/63aaf3a42ffb140011f3b460)| |
+| |Mrs Ang Yongling| 65119584 | [Email](https://form.gov.sg/63aaf3a42ffb140011f3b460)| |
 | |Mr Andy Fan|65119555 x 447| [Email](https://form.gov.sg/5dc1301bb9014c0012b8c7ac)| [WA](https://wa.me/6565119559)|
 | 5 Harmony |Ms Gladys Tan|64999428| [Email](https://form.gov.sg/5dc12d515f93b5001904401a)| [WA](https://wa.me/6564999428)|
 | |Mrs Tan Sze Mian|65119585| [Email](https://form.gov.sg/5dc12f9c5bec6f0012034925)| [WA](https://wa.me/6565119585)|
@@ -194,6 +194,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Mdm Ponnappan Manju ||||
 | Mdm Lim Yen Tong ||||
 | Mdm Anne Poon ||||
+| Mr Kenneth Goh |65119578|[Email](https://form.gov.sg/5f6d5a5b0748bd00119e1b40)||
 
 ##### Executive and Administrative Staff 
 
@@ -208,10 +209,9 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Receptionist cum Admin | Ms Agnes Tan | 65119555 | |
 | ICT Manager | Mr Puvan | 65119555 | [Email](https://form.gov.sg/5dc227cb11ecd70012ef9354) |
 | Operations Manager | Mr Frank Low | 65119559 |[Email](https://form.gov.sg/60a2072f5308590011e54827) |
-| Operations Support Officer| Mdm Angeline Koh  | 65119555  | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
+| Operations Support Officer| Mdm Angeline Koh  | 65119558  | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
 | | Mr Ong Boon Tiong| 65119555 |   |
 | | Mdm Fauziah | 65119555 |  |
-| | Mr Rajoo | 65119555 |  |
 | Librarian | Ms Nurul Kamilah | 65119589 | [Email](https://form.gov.sg/5dc228ccc321c6001240bd52) |
 | Science Lab Technician | Ms Lissy | 65119555 |  |
 | Desktop Engineer | Mr Edzhan | 65119555 |  |
