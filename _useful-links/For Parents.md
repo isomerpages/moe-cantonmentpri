@@ -76,3 +76,4 @@ Parents will be able to do the following through the app (SingPass login require
 | Date | Letter |
 |---|---|
 | 30 Dec | [2023-003 Code For Fun](/files/Letters/2023-003 Code For Fun (CFF).pdf)|
+|30 Dec | [2023-002 SwimSafer Programme for Primary 5 Students 2023](/files/Letters/2023-002 SwimSafer Programme for Primary 5 Students 2023.pdf) |
