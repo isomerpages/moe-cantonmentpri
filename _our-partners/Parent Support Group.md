@@ -55,6 +55,6 @@ Parent volunteers support the running of events, programmes and committees in th
 ### Join us as a PSG member
 We encourage parents who are not in the Parent Support Group (PSG) to join us as a PSG member. As a PSG member, you are playing an active role in partnering our school to make CPS a safe, vibrant and caring place for our children to learn.
 
-For more information on the programs and activities, please email our PSG coordinator teachers: [Ms Caroline Selva](https://form.gov.sg/#!/5dc12b9f1b03c20019122fac) or [Mrs Chen Yi Fang](https://form.gov.sg/63ad7eb1fce97a0012cdbad1)  
+For more information on the programs and activities, please email our PSG coordinator teachers: [Ms Caroline M. Selva](https://form.gov.sg/#!/5dc12b9f1b03c20019122fac) or [Mrs Chen Yi Fang](https://form.gov.sg/63ad7eb1fce97a0012cdbad1)  
 
-To join us, you may register at: [https://tinyurl.com/CPSPSG-signup](https://tinyurl.com/CPSPSG-signup)
+To join us, you may register at: [https://tinyurl.com/CPSPSGregistration](https://tinyurl.com/CPSPSGregistration)
