@@ -25,8 +25,8 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | HOD Mathematics|  Mr Andy Fan |  65119555 x 447 | [Email](https://form.gov.sg/5dc1301bb9014c0012b8c7ac) |  [WA](https://wa.me/6565119559) |
 | HOD Science | Ms Caroline M. Selva |  65119555 x 446 | [Email](https://form.gov.sg/5dc12b9f1b03c20019122fac) | [WA](https://wa.me/6565119558) |
 | HOD PAM/CCA | Mr Wilbert Tan | 65119587	| [Email](https://form.gov.sg/63aaf2f7acde1200127ffe63)  | [WA](https://wa.me/6565119587) |
-| Year Head P12 | Ms So Bee Soon |  65119555 x 445 | [Email](https://form.gov.sg/5dc11d231b03c200191229f0) |  [WA](https://wa.me/6565119646) |
-| Year Head P56 | Mrs Chen Yi Fang | 65119645 | [Email](https://form.gov.sg/63ad7eb1fce97a0012cdbad1) | |
+| Year Head P12 | Ms So Bee Soon |  65119555 x 445 | [Email](https://form.gov.sg/5dc11d231b03c200191229f0) | [WA](https://wa.me/6565119646) |
+| Year Head P56 | Mrs Chen Yi Fang | 65119645 | [Email](https://form.gov.sg/63ad7eb1fce97a0012cdbad1) | [WA](https://wa.me/6565119645) |
 | SH English Language | Mr Azhar  |  65119586 | [Email](https://form.gov.sg/61c9eb126c60da00127bfaac) | [WA](https://wa.me/6565119586) |
 | SH Chinese Language | Mrs Tan Sze Mian |  65119585 | [Email](https://form.gov.sg/5dc12f9c5bec6f0012034925) | [WA](https://wa.me/6565119585) |
 | SH Malay Language | Mr Nur Muhammad | 63036296 | [Email](https://form.gov.sg/5dc129795f93b50019043ed1) | [WA](https://wa.me/6563036296) |
@@ -141,7 +141,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Class | Name | Phone | Email | WA |
 | --- | --- | --- | --- | --- |
 | 5 Care |Mr David Sim|64999412| [Email](https://form.gov.sg/5dc114db1b03c2001912269c)| [WA](https://wa.me/6564999412)|
-| |Mrs Chen Yi Fang | 65119645 | [Email](https://form.gov.sg/63ad7eb1fce97a0012cdbad1)||
+| |Mrs Chen Yi Fang | 65119645 | [Email](https://form.gov.sg/63ad7eb1fce97a0012cdbad1)| [WA](https://wa.me/6565119645)|
 | 5 Graciousness |Mr Daniel Ying|64999421| [Email](https://form.gov.sg/5dc130995bec6f0012034970)| [WA](https://wa.me/6564999421)|
 | |Mrs Tan Guat Hwa|65119562| [Email](https://form.gov.sg/61c9ebb4f46e8700121fb164)| [WA](https://wa.me/6565119562)|
 | |Mr Boo Choon Kwang| 64999413 | [Email]()| |
@@ -193,7 +193,6 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Mr Binhan Bin Sukur ||[Email](https://form.gov.sg/63aaf68dbf59760012571736)||
 | Mdm Ponnappan Manju ||||
 | Mdm Lim Yen Tong ||||
-| Mdm Anne Poon ||||
 | Mr Kenneth Goh |65119578|[Email](https://form.gov.sg/5f6d5a5b0748bd00119e1b40)||
 
 ##### Executive and Administrative Staff 
