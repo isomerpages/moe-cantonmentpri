@@ -83,3 +83,6 @@ Parents will be able to do the following through the app (SingPass login require
 |---|---|
 | 30 Dec | [2023-003 Code For Fun](/files/Letters/2023-003 Code For Fun (CFF).pdf)|
 |30 Dec | [2023-002 SwimSafer Programme for Primary 5 Students 2023](/files/Letters/2023-002 SwimSafer Programme for Primary 5 Students 2023.pdf) |
+|6 Jan|[2023-010 Commencement of CCA for P4-P6 Students](/files/Letters/2023-010 Commencement of CCA for P4-P6 Students.pdf)|
+|13 Jan|[2023-28 Invitation to participate in CNY Lou Hei organised by CPS Parent Support Group](/files/Letters/2023-28 Invitation to participate in CNY Lou Hei organised by CPS Parent Support Group.pdf)|
+|18 Jan|[2023-030 Lunar New Year Celebrations](/files/Letters/2023-030 Lunar New Year Celebrations.pdf)|
