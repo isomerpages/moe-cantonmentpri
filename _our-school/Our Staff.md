@@ -190,9 +190,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 
 | Name | Phone | Email | WA | 
 |---|---|---|---|
-| Mr Binhan Bin Sukur ||[Email](https://form.gov.sg/63aaf68dbf59760012571736)||
-| Mdm Ponnappan Manju ||||
-| Mdm Lim Yen Tong ||||
+| Mdm Ponnappan Manju ||[Email](https://form.gov.sg/63bd0d81c8dde40011378d0d)||
 | Mr Kenneth Goh |65119578|[Email](https://form.gov.sg/5f6d5a5b0748bd00119e1b40)||
 
 ##### Executive and Administrative Staff 
@@ -205,7 +203,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | | Mdm Peggy Tan | 65119557 | [Email](https://form.gov.sg/5dc226e511ecd70012ef9302) |
 | | Ms Siti Mariam | 65119646  | [Email](https://form.gov.sg/62bcead53695530011cfb783) |
 | | Mr Soffian  |  65119662 | [Email](https://form.gov.sg/62bce9f59277300012d2890f) |
-| Receptionist cum Admin | Ms Agnes Tan | 65119555 | |
+| Receptionist cum Admin | Ms Aisah | 65119555 | |
 | ICT Manager | Mr Puvan | 65119555 | [Email](https://form.gov.sg/5dc227cb11ecd70012ef9354) |
 | Operations Manager | Mr Frank Low | 65119559 |[Email](https://form.gov.sg/60a2072f5308590011e54827) |
 | Operations Support Officer| Mdm Angeline Koh  | 65119558  | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
@@ -214,5 +212,4 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Librarian | Ms Nurul Kamilah | 65119589 | [Email](https://form.gov.sg/5dc228ccc321c6001240bd52) |
 | Science Lab Technician | Ms Lissy | 65119555 |  |
 | Desktop Engineer | Mr Edzhan | 65119555 |  |
-| | Ms Priya | 65119555 |  |
 | | | | |

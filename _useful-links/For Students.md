@@ -21,7 +21,7 @@ If you get an error when logging in to any of above websites, clear your browser
 
 | Student ICON Email/School laptop | SLS |
 |---|---|
-| 1. Must be 8-24 characters long<br>2. at least 1 lowercase letter(s). <br>3. at least 1 numeric character(s)<br>4. at least 1 uppercase letter(s)<br>5. at least 2 alphabetic character(s)<br>6. not be one of 3 previous passwords<br>7. not match or contain first name or last name<br>8. not match or contain user ID<br>9. Password expires every 90 (Sec/JC)/360 (Pri) days. Users will be alerted via email 7 days before the expiry date.<br>10. Maximum of 5 login attempts are allowed. | 1. Minimum 8 characters<br>2. Contain at least 1 number<br>3. Can be all small letters |
+| 1. Must be 8-24 characters long<br>2. at least 1 lowercase letter(s). <br>3. at least 1 numeric character(s)<br>4. at least 1 uppercase letter(s)<br>5. at least 2 alphabetic character(s)<br>6. not be one of 3 previous passwords<br>7. not match or contain first name or last name<br>8. not match or contain user ID<br>9. Password expires every 90 (Sec/JC)/360 (Pri) days. Users will be alerted via email 7 days before the expiry date.<br>10. Maximum of 5 login attempts are allowed. | 1. Minimum 12 characters<br>2. Contain at least 1 number<br>3. Can be all small letters |
 | | |
 
 ### Student ICON
