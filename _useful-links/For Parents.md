@@ -86,3 +86,6 @@ Parents will be able to do the following through the app (SingPass login require
 |6 Jan|[2023-010 Commencement of CCA for P4-P6 Students](/files/Letters/2023-010 Commencement of CCA for P4-P6 Students.pdf)|
 |13 Jan|[2023-28 Invitation to participate in CNY Lou Hei organised by CPS Parent Support Group](/files/Letters/2023-28 Invitation to participate in CNY Lou Hei organised by CPS Parent Support Group.pdf)|
 |18 Jan|[2023-030 Lunar New Year Celebrations](/files/Letters/2023-030 Lunar New Year Celebrations.pdf)|
+|19 Jan|[2023-039 Primary 3 CCA Experience 2023](/files/Letters/2023-039 Primary 3 CCA Experience 2023.pdf)|
+|25 Jan|[2023-016 P4 Road Safety Programme](/files/Letters/2023-016 P4 Road Safety Programme.pdf)|
+|26 Jan|[2023-038 Sexuality Education letter](/files/Letters/2023-038 Sexuality Education letter.pdf)|
