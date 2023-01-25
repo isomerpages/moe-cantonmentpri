@@ -110,7 +110,7 @@ Examples of our VIA projects involve joint-collaboration by Character-Citizenshi
 ### Useful Links For Parents
 
 [Cyber-Wellness (CW)](https://www.moe.gov.sg/programmes/cyber-wellness) <br>
-[Sexuality Education](https://go.gov.sg/sexuality-education-cps) <br>
+[Sexuality Education](/files/Sexuality Education.pdf) <br>
 [Education and Career Guidance (ECG) – Skillsfuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) <br>
 [Singapore Kindness Movement (SKM)](https://www.kindness.sg/) <br>
 [MOE Edusave Awards](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards)
