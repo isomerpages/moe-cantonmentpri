@@ -10,7 +10,8 @@ Pacific Bookstores Pte Ltd
 Opening Hours:  <br> 
 | For Students | For Parents |
 |---|---|
-| Monday to Friday: 8.30 am to 3.30 pm<br> Lunch Break: 11.30 am to 12.30 pm | Monday, Wednesday to Friday:	2 to 3 pm |
+| Monday to Friday: 8.30 am to 3.30 pm<br><br> Lunch Break: 11.30 am to 12.30 pm | Monday, Wednesday to Friday:	2 to 3 pm |
+|||
 
 
 Email: [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com) <br> 
