@@ -15,7 +15,7 @@ Opening Hours:  <br>
 
 | For Students | For Parents |
 | -------- | -------- | 
-| Call/WhatsApp/SMS: [87646337](https://wa.me/6587646337)| Call [64353782](tel:+6564353782)     |
+| Monday to Friday: 8.30 am to 3.30 pm Lunch Break: 11.30 am to 12.30 pm | Monday, Wednesday to Friday:	2 to 3 pm |
 
 
 Email: [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com) <br> 
