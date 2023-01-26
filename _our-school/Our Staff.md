@@ -34,8 +34,8 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | LH Science | Mr Bunawar |  65119563 | [Email](https://form.gov.sg/5dc130e9b9014c0012b8c800) | [WA](https://wa.me/6565119563) |
 | SH Physical Education/CCA | Mdm Rachel Wong |  65119644 | [Email](https://form.gov.sg/5dc12e165bec6f001203487c) | [WA](https://wa.me/6565119644) |
 | SH Student Management | Mr Tarmizi | 64999417 | [Email](https://form.gov.sg/60deacf6967a9000129466b5) | [WA](https://wa.me/6564999416) |
-| SH NE/SS/IPW | Mrs Arun | 64999249 | [Email](https://form.gov.sg/5e0587cddf378700118edf8b) | [WA](https://wa.me/6564999249) |
-| SH CCE | Ms Huang Yinqi  | 64999237 | [Email](https://form.gov.sg/5dc11eb01b03c20019122a8b) | [WA](https://wa.me/6564999237) |
+| SH CCE | Mrs Arun | 64999249 | [Email](https://form.gov.sg/5e0587cddf378700118edf8b) | [WA](https://wa.me/6564999249) |
+| | Ms Huang Yinqi  | 64999237 | [Email](https://form.gov.sg/5dc11eb01b03c20019122a8b) | [WA](https://wa.me/6564999237) |
 | SH ICT | Mr Johnny Chan |  65119588 | [Email](https://form.gov.sg/5db78593506fd6001264ff1f) | [WA](https://wa.me/6565119588) |
 |  | Mr Shah |  65119568 | [Email](https://form.gov.sg/5dc221dfc321c6001240b9a4) | [WA](https://wa.me/6565119568) |
 | Asistant Year Head P12 | Mdm Adeline Ong | 65119582 | [Email](https://form.gov.sg/5dc11e7f1b03c20019122a73) | [WA](https://wa.me/6565119582) |
