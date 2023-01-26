@@ -9,6 +9,12 @@ description: ""
 [Singapore Examinations and Assessment Board](https://www.seab.gov.sg/)<br>
 [Parent kit](https://www.moe.gov.sg/parentkit)<br>
 [Schoolbag.sg](https://www.schoolbag.edu.sg/)<br>
+[Secondary Direct School Admissions](https://www.moe.gov.sg/secondary/dsa)<br>
+
+### Admission
+[Singaporean and PR Students](https://form.gov.sg/62561c0cf319210013a4d4dc)<br>
+[Returning Singaporeans](/useful-links/admissions-for-returning-singaporeans)<br>
+[Foreign Students](https://www.moe.gov.sg/international-students)<br>
 
 ### Touch Base Meeting
 [P1](/files/TBM/P1 TBM.pdf)<br>
