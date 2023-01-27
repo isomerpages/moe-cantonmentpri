@@ -101,8 +101,11 @@ The curriculum also includes the basics of emerging technologies such as artific
 <figcaption> Primary 5 students during CFF lesson </figcaption>  
 </figure>
 
-### Useful Links For Parents
+#
+## Useful Links For Parents
 
+[MOE Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
+ 
 **[MOE Cyber Wellness Parent Kit](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)** <br>
 The parent kit has useful tips, strategies and resources on various cyber issues. 
 
