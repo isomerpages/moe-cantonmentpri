@@ -11,6 +11,9 @@ description: ""
 [Schoolbag.sg](https://www.schoolbag.edu.sg/)<br>
 [Secondary Direct School Admissions](https://www.moe.gov.sg/secondary/dsa)<br>
 
+### Update Student Particulars
+[Update student/parent particulars - Requires SingPass login](https://pg.moe.edu.sg/forms/sdf)
+
 ### Admission
 [Singaporean and PR Students](https://form.gov.sg/62561c0cf319210013a4d4dc)<br>
 [Returning Singaporeans](/useful-links/admissions-for-returning-singaporeans)<br>
