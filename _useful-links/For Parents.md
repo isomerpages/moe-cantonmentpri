@@ -11,6 +11,9 @@ description: ""
 [Schoolbag.sg](https://www.schoolbag.edu.sg/)<br>
 [Secondary Direct School Admissions](https://www.moe.gov.sg/secondary/dsa)<br>
 
+### Update Student Particulars
+[Update student/parent particulars - Requires SingPass login](https://pg.moe.edu.sg/forms/sdf)
+
 ### Admission
 [Singaporean and PR Students](https://form.gov.sg/62561c0cf319210013a4d4dc)<br>
 [Returning Singaporeans](/useful-links/admissions-for-returning-singaporeans)<br>
@@ -95,3 +98,4 @@ Parents will be able to do the following through the app (SingPass login require
 |19 Jan|[2023-039 Primary 3 CCA Experience 2023](/files/Letters/2023-039 Primary 3 CCA Experience 2023.pdf)|
 |25 Jan|[2023-016 P4 Road Safety Programme](/files/Letters/2023-016 P4 Road Safety Programme.pdf)|
 |26 Jan|[2023-038 Sexuality Education letter](/files/Letters/2023-038 Sexuality Education letter.pdf)|
+|10 Feb|[2023-061 P1 Assessment Letter](/files/Letters/2023-061 P1 Assessment Letter.pdf)<br> [2023-061 P2 Assessment Letter](/files/Letters/2023-061 P2 Assessment Letter.pdf)<br>[2023-061 P3 Assessment Letter](/files/Letters/2023-061 P3 Assessment Letter.pdf)<br>[2023-061 P4 Assessment Letter](/files/Letters/2023-061 P4 Assessment Letter.pdf)<br>[2023-061 P5 Assessment Letter (Fdn)](/files/Letters/2023-061 P5 Assessment Letter (Fdn).pdf)<br>[2023-061 P5 Assessment Letter (Std)](/files/Letters/2023-061 P5 Assessment Letter (Std).pdf)<br>[2023-061 P6 Assessment Letter](/files/Letters/2023-061 P6 Assessment Letter.pdf)|
