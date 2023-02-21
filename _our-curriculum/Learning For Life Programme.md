@@ -1,6 +1,6 @@
 ---
 title: Learning For Life Programme
-permalink: /our-curriculum/learning-for-life-programme
+permalink: /our-curriculum/learning-for-life-programme/
 description: ""
 ---
 Performing Arts for Values and Excellence (PAVE)
