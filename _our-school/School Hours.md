@@ -33,7 +33,7 @@ description: ""
 
 | Level | Recess | Lunch |
 |---|---|---|
-| Primary 1 | 9.00 to 9.30 am   | 11.30 to 12 pm  and 2.30 to 3 pm  |
+| Primary 1 | 9.00 to 9.30 am   | 11.30 to 12 pm  and 2.30 to 3 pm (Snack Time) |
 | Primary 2 | 9.30 to 9.50 am   | 12 to 12.20 pm    |
 | Primary 3 | 9.50 to 10.10 am  | 12.20 to 12.40 pm |
 | Primary 4 | 10.10 to 10.30 am | 12.40 to 1 pm     |
