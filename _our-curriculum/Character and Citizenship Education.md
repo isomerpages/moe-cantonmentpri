@@ -1,6 +1,6 @@
 ---
 title: Character and Citizenship Education
-permalink: /our-curriculum/character-and-citizenship-education
+permalink: /our-curriculum/character-and-citizenship-education/
 description: ""
 ---
 ### Vision
