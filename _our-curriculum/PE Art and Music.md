@@ -125,3 +125,9 @@ The aim of the PAM Fiesta is to promote the love for the arts and a healthy life
 | Scouts | Students will:<br>• learn to work in environments that are intellectually and physically challenging; <br>• work in teams to overcome challenges and solve problems; <br>• be engaged in activities that are fun and encourage self-discovery. |
 | Red Cross | Students will:<br>• learn first-aid skills and knowledge;<br>• develop a sense of social responsibility;<br>• network with Red Cross members from other schools. |
 |
+
+### SwimSafer
+
+[SwimSafer Website](https://members.myactivesg.com/swimsafer/)<br>
+[Swimsafer Practical Assessment](/files/SwimSafer/Swimsafer Practical Assessment.pdf)<br>
+[SwimSafer2.0 User Manual for Parents](/files/SwimSafer/SwimSafer2.0 User Manual for Parents.pdf)<br>
