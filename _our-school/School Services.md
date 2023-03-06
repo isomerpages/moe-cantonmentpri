@@ -81,7 +81,7 @@ The Health Promotion Board’s School Dental Service (SDS) provides free basic d
 To enrol your child/ward in school dental programme, please submit the consent form electronically via Child Consent Portal [https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/). You may also refer to the Child Consent Portal website to learn more about School Dental Service
 
 ##### Opening Dates:
-5-8, 9(morning only), 10, 20-24 Feb
+6-7, 8 (AM only), 9-10, 20-24 March
 
 ##### Opening Hours: 
 8 am-5.30 pm <br>
