@@ -194,6 +194,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Mr Kenneth Goh |65119578|[Email](https://form.gov.sg/5f6d5a5b0748bd00119e1b40)||
 | Mr Lim Eng Guan ||[Email](https://form.gov.sg/630d95fdf87eed0012c9a5f2)||
 | Ms Celia See Bee Keow ||[Email](https://form.gov.sg/63f567e62413ea001179c005)||
+|Ms Herda Dolfata |63036297|[Email](https://form.gov.sg/64192075e9bde3001380c678)|[WA](https://wa.me/6563036297)|
 |
 
 ##### Executive and Administrative Staff 
