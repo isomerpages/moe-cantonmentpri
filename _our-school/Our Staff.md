@@ -33,7 +33,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | SH Malay Language | Mr Nur Muhammad | 63036296 | [Email](https://form.gov.sg/5dc129795f93b50019043ed1) | [WA](https://wa.me/6563036296) |
 | LH Mathematics | Mrs Tan Guat Hwa |  65119562 | [Email](https://form.gov.sg/61c9ebb4f46e8700121fb164) | [WA](https://wa.me/6565119562) |
 | LH Science | Mr Bunawar |  65119563 | [Email](https://form.gov.sg/5dc130e9b9014c0012b8c800) | [WA](https://wa.me/6565119563) |
-| SH Physical Education/CCA | Mdm Rachel Wong |  65119644 | [Email](https://form.gov.sg/5dc12e165bec6f001203487c) | [WA](https://wa.me/6565119644) |
+| SH Physical Education/CCA | Mdm Rachel Wong | | | |
 | SH Student Management | Mr Tarmizi | 64999417 | [Email](https://form.gov.sg/60deacf6967a9000129466b5) | [WA](https://wa.me/6564999416) |
 | SH CCE | Mrs Arun | 64999249 | [Email](https://form.gov.sg/5e0587cddf378700118edf8b) | [WA](https://wa.me/6564999249) |
 | | Ms Huang Yinqi  | 64999237 | [Email](https://form.gov.sg/5dc11eb01b03c20019122a8b) | [WA](https://wa.me/6564999237) |
@@ -72,7 +72,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | |Mr Joshua Goh|63036292| [Email](https://form.gov.sg/5dc11d611b03c20019122a14)| [WA](https://wa.me/6563036292)|
 | 1 Respect |Ms Judith Ogawa|64999236| [Email](https://form.gov.sg/5e058457df378700118edef4)|[WA](https://wa.me/6564999418) |
 | |Mdm Adeline Ong|65119582| [Email](https://form.gov.sg/5dc11e7f1b03c20019122a73)| [WA](https://wa.me/6565119582)|
-| | Ms Mohana | 64999418 | [Email](https://form.gov.sg/5dc114a05f93b5001904374c) | |
+| | Ms Mohana | 64999418 | [Email](https://form.gov.sg/5dc114a05f93b5001904374c) |[wa](https://wa.me/6564999418) |
 | 1 Harmony |Mrs Donica Goh|63036291| [Email](https://form.gov.sg/5dc1174b5f93b5001904386d)| [WA](https://wa.me/6563036291)|
 | |Mrs Jasmin Han |65119577| [Email](https://form.gov.sg/5dc118535f93b500190438be)| [WA](https://wa.me/6565119577)|
 | | | | | |
@@ -106,7 +106,6 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | |Ms Arun|64999249| [Email](https://form.gov.sg/5e0587cddf378700118edf8b)| [WA](https://wa.me/6564999249)|
 | |Mr Johnny Chan|65119588| [Email](https://form.gov.sg/5db78593506fd6001264ff1f)| [WA](https://wa.me/6565119588)|
 | 3 Graciousness |Mrs Jenny Tham|64999404| [Email](https://form.gov.sg/62bce8f2375a2d00124a9ffe)| [WA](https://wa.me/6564999404)|
-| |Mdm Rachel Wong|65119644| [Email](https://form.gov.sg/5dc12e165bec6f001203487c)| [WA](https://wa.me/6565119644)|
 | |Mdm Ng Jie Ling|64999426| [Email](https://form.gov.sg/5dc1145f1b03c2001912266e)| [WA](https://wa.me/6564999426)|
 | 3 Integrity |Ms Li Lidan|64999422| [Email](https://form.gov.sg/5dc125051b03c20019122cfa)| [WA](https://wa.me/6564999422)|
 | |Mr Jared Goh |65119581| [Email](https://form.gov.sg/5e42c22f228e6f0011eaede8)| [WA](https://wa.me/6565119581)|
@@ -195,6 +194,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Mr Kenneth Goh |65119578|[Email](https://form.gov.sg/5f6d5a5b0748bd00119e1b40)||
 | Mr Lim Eng Guan ||[Email](https://form.gov.sg/630d95fdf87eed0012c9a5f2)||
 | Ms Celia See Bee Keow ||[Email](https://form.gov.sg/63f567e62413ea001179c005)||
+|Ms Herda Dolfata |63036297|[Email](https://form.gov.sg/64192075e9bde3001380c678)|[WA](https://wa.me/6563036297)|
 |
 
 ##### Executive and Administrative Staff 
@@ -207,7 +207,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | | Mdm Peggy Tan | 65119557 | [Email](https://form.gov.sg/5dc226e511ecd70012ef9302) |
 | | Ms Siti Mariam | 65119646  | [Email](https://form.gov.sg/62bcead53695530011cfb783) |
 | | Mr Soffian  |  65119662 | [Email](https://form.gov.sg/62bce9f59277300012d2890f) |
-| Receptionist cum Admin | Ms Agnes Tan | 65119555 | |
+| Receptionist cum Admin | Mdm Agnes Tan | 65119555 | |
 | ICT Manager | Mr Puvan | 65119555 | [Email](https://form.gov.sg/5dc227cb11ecd70012ef9354) |
 | Operations Manager | Mr Frank Low | 65119559 |[Email](https://form.gov.sg/60a2072f5308590011e54827) |
 | Operations Support Officer| Mdm Angeline Koh  | 65119558  | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
