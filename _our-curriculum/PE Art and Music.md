@@ -111,7 +111,7 @@ The aim of the PAM Fiesta is to promote the love for the arts and a healthy life
 | CCA | Description |
 |---------|------------|
 | **SPORTS & GAMES** |  |  
-| Badminton<br>Basketball (boys)<br>Basketball (girls)<br>Football<br>Hockey<br>Softball<br>Volleyball<br><br>| Students will:<br>• learn skills and techniques related to the sport;<br>• learn to play the sport at various levels progressively to nurture their talent and develop their interest and passion for it;<br>• participate in different levels of competition to gain experience and exposure. |
+| Badminton<br>Basketball (boys)<br>Basketball (girls)<br>Football<br>Hockey<br>Volleyball<br><br>| Students will:<br>• learn skills and techniques related to the sport;<br>• learn to play the sport at various levels progressively to nurture their talent and develop their interest and passion for it;<br>• participate in different levels of competition to gain experience and exposure. |
 | Wushu | Students will:<br>• learn and practice different movements and formations in Wushu; <br>• appreciate Wushu as a traditional martial art form; <br>• participate in different levels of competition to gain experience and exposure. |
 | **CLUBS AND SOCIETIES** |  |
 | Infocomm & Robotics Club | Students will:<br>• be equipped with skills in various digital media and infocomm technology;<br>• learn the design, construction, operation, and application of simple robots;<br>• participate in competitions to gain experience and exposure. |
@@ -123,7 +123,6 @@ The aim of the PAM Fiesta is to promote the love for the arts and a healthy life
 | Choir | Students will:<br>• develop their appreciation for the Arts and maximize their potential in performing Arts through singing a variety of songs chorally in harmony;<br>• be given different avenues to showcase their singing talent and be enrolled in competitions. |
 | **UNIFORMED GROUPS** |  |
 | Scouts | Students will:<br>• learn to work in environments that are intellectually and physically challenging; <br>• work in teams to overcome challenges and solve problems; <br>• be engaged in activities that are fun and encourage self-discovery. |
-| Red Cross | Students will:<br>• learn first-aid skills and knowledge;<br>• develop a sense of social responsibility;<br>• network with Red Cross members from other schools. |
 |
 
 ### SwimSafer
