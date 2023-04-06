@@ -16,7 +16,6 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Principal | Mrs Manokara S  |  
 | Vice Principal (Acad) | Ms Cheng Shin Miin |   
 | Vice Principal (Admin) | Mr Loh Siang Kiang |
-|
 
 ##### Head of Departments and Subject Heads
 
