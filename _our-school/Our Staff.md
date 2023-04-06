@@ -14,8 +14,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Role | Name |
 |---|---|
 | Principal | Mrs Manokara S  |  
-| Vice Principal (Acad) | Mrs Audrea Chin  |   
-| | Ms Cheng Shin Miin |   
+| Vice Principal (Acad) | Ms Cheng Shin Miin |   
 | Vice Principal (Admin) | Mr Loh Siang Kiang |
 |
 
