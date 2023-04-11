@@ -23,7 +23,6 @@ Singapore Citizens in financial need can get assistance from MOE on school fees 
 | School Attire     | Free     | Free     |
 | School Meal Subsidy     | $2.00 per meal for 7 meals per school week     | $2.60 per meal for 7 meals per school week     |
 | Transport Subsidy (either school bus or public transport)     | 60% subsidy of monthly school bus fares for students taking school bus <br><br>or<br><br> $15 transport subsidy per month from the month of approval, up to a total of $180 transport subsidy per annum for students taking public transport. | 65% subsidy of monthly school bus fares for students taking school bus<br><br>or<br><br>$17 transport subsidy per month from the month of approval, up to a total of $204 transport subsidy per annum for students taking public transport.|
-|
 
 <u><strong> The Straits Times School Pocket Money Fund (STSPMF) </strong></u><br> 
 [Official Website](https://www.spmf.org.sg/)  
@@ -32,12 +31,10 @@ Singapore Citizens in financial need can get assistance from MOE on school fees 
 [Official Website](https://www.cdac.org.sg/developing-students/assistance-support/cdac-sfcca-bursary/) <br>
 The CDAC – SFCCA Bursary aims to help needy students to cope with schooling expenses, including transport, meals and take part in enrichment and holiday programmes organised by CDAC.
 
-<u><strong> NEU PC Plus Programme </strong></u><br> 
-The NEU PC Plus Programme offers Singaporean/PR students from low income households the opportunity to own a new computer with broadband internet at a subsidised rate or free by performing Community Involvment Programme (CIP) hours in school. Currently CIP hours are waived.
-  
-[Official Website](https://www.imda.gov.sg/programme-listing/neu-pc-plus) <br>
-[Computer Models](https://www.imda.gov.sg/-/media/Imda/Files/Programme/NEU-PC-Plus/NEW-PCs-and-BB.pdf?la=en&hash=262A92F6F4F5068375837BF43E824BB8) <br>
-Contact General Office for application form or download from official website
+<u><strong> DigitalAccess@Home </strong></u><br> 
+DigitalAccess@Home provides subsidised broadband and laptops/tablets to lower-income households to support their lifestyle needs, including school, work and social activities.
 
-<u><strong> Digital Access Programme (Home Access) </strong></u><br>
-Low-income families with school-going children can [apply](http://www.digitalaccess.gov.sg/) for broadband at a subsidsed rate.
+Low-income households living in HDB flats with at least one Singapore Citizen are eligible to apply for DigitalAccess@Home.
+
+[Official Website](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home) <br>
+[Online Application Form](https://eservice.imda.gov.sg/das/singpasslogin?strParam=login&notprotected=true)
