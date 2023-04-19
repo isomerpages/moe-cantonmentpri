@@ -100,4 +100,11 @@ Parents will be able to do the following through the app (SingPass login require
 |26 Jan|[2023-038 Sexuality Education letter](/files/Letters/2023-038 Sexuality Education letter.pdf)|
 |10 Feb|[2023-061 P1 Assessment Letter](/files/Letters/2023-061 P1 Assessment Letter.pdf)<br> [2023-061 P2 Assessment Letter](/files/Letters/2023-061 P2 Assessment Letter.pdf)<br>[2023-061 P3 Assessment Letter](/files/Letters/2023-061 P3 Assessment Letter.pdf)<br>[2023-061 P4 Assessment Letter](/files/Letters/2023-061 P4 Assessment Letter.pdf)<br>[2023-061 P5 Assessment Letter (Fdn)](/files/Letters/2023-061 P5 Assessment Letter (Fdn).pdf)<br>[2023-061 P5 Assessment Letter (Std)](/files/Letters/2023-061 P5 Assessment Letter (Std).pdf)<br>[2023-061 P6 Assessment Letter](/files/Letters/2023-061 P6 Assessment Letter.pdf)|
 |23 Feb|[2023-080 P5 SwimSafer Programme Assessment](/files/Letters/2023-080 P5 SwimSafer Programme Assessment.pdf)|
+|3 Mar|[2023-087 P5 VIA Workshop on 20 March 2023](/files/Letters/2023-087 P5 VIA Workshop on 20 March 2023 signed.pdf)|
 |6 Mar|[2023-091 Pri 3 Urban Farming](/files/Letters/2023-091 Pri 3 Urban Farming.pdf)<br>[2023-087 World Water Day](/files/Letters/2023-087 World Water Day.pdf)|
+|20 Mar|[2023 - 101 Letter to parents - Earth Hour PG Letter](/files/Letters/2023 - 101 Letter to parents - Earth Hour PG Letter.pdf)|
+|21 Mar|[2023-102 SS LJ P1-P6](/files/Letters/2023-102 SS LJ P1-P6.pdf)|
+|31 Mar|[2023-112 Amendment to chapter number of topics covered for P3 WA1 and WA2](/files/Letters/2023-112 Amendment to chapter number of topics covered for P3 WA1 and WA2.pdf)|
+|4 Apr|[P4 NAPFA 2023_Letter to Parents](/files/Letters/P4 NAPFA 2023_Letter to Parents.pdf)|
+|11 Apr|[2023-118 1st Recycling Drive 2023](/files/Letters/2023-118 1st Recycling Drive 2023.pdf)|
+|18 Apr|[P5 Camp 2023](/files/Letters/P5 Camp 2023.pdf)|
