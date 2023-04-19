@@ -182,13 +182,13 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Student Welfare Officer | Ms Diana Ho | 64999240 | [Email](https://form.gov.sg/5dc223ec11ecd70012ef91b4) |
 | Special Educational Needs Officer | Mdm Jenny Wong | 65119567 | [Email](https://form.gov.sg/5dc2239f11ecd70012ef9195) |
 | | Ms Ariela Yap | 65119565 | [Email](https://form.gov.sg/5ed48a3839b707001103884c) |
+| | Ms Marie Liang | |[Email](https://form.gov.sg/643f4267cdf7590012369787) |
 | | | | |
 
 ##### Other Teaching Staff
 
 | Name | Phone | Email | WA | 
 |---|---|---|---|
-| Mdm Ponnappan Manju ||[Email](https://form.gov.sg/63bd0d81c8dde40011378d0d)||
 | Mr Kenneth Goh |65119578|[Email](https://form.gov.sg/5f6d5a5b0748bd00119e1b40)||
 | Mr Lim Eng Guan ||[Email](https://form.gov.sg/630d95fdf87eed0012c9a5f2)||
 | Ms Celia See Bee Keow ||[Email](https://form.gov.sg/63f567e62413ea001179c005)||
@@ -205,7 +205,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | | Mdm Peggy Tan | 65119557 | [Email](https://form.gov.sg/5dc226e511ecd70012ef9302) |
 | | Ms Siti Mariam | 65119646  | [Email](https://form.gov.sg/62bcead53695530011cfb783) |
 | | Mr Soffian  |  65119662 | [Email](https://form.gov.sg/62bce9f59277300012d2890f) |
-| Receptionist cum Admin | Mdm Agnes Tan | 65119555 | |
+| Receptionist cum Admin | Mrs S. Priemal | 65119555 | |
 | ICT Manager | Mr Puvan | 65119555 | [Email](https://form.gov.sg/5dc227cb11ecd70012ef9354) |
 | Operations Manager | Mr Frank Low | 65119559 |[Email](https://form.gov.sg/60a2072f5308590011e54827) |
 | Operations Support Officer| Mdm Angeline Koh  | 65119558  | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
@@ -214,5 +214,4 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Librarian | Ms Nurul Kamilah | 65119589 | [Email](https://form.gov.sg/5dc228ccc321c6001240bd52) |
 | Science Lab Technician | Ms Lissy | 65119555 |  |
 | Desktop Engineer | Mr Edzhan | 65119555 |  |
-| | Ms Victoria | 65119555 |  |
 | | | | |
