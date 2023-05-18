@@ -80,9 +80,6 @@ The Health Promotion Board’s School Dental Service (SDS) provides free basic d
 
 To enrol your child/ward in school dental programme, please submit the consent form electronically via Child Consent Portal [https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/). You may also refer to the Child Consent Portal website to learn more about School Dental Service
 
-##### Opening Dates:
-3,4, 17-21 April
-
 ##### Opening Hours: 
 8 am-5.30 pm <br>
 Lunch Hour 1-2 pm
@@ -93,10 +90,15 @@ Lunch Hour 1-2 pm
 | -------- | -------- | 
 | Call/WhatsApp/SMS: [87646337](https://wa.me/6587646337)| Call [64353782](tel:+6564353782)     |
 
-##### For emergencies such as dental trauma, facial/gum swelling or toothache:  
+##### During Clinic Closure
+When the school dental clinic is closed, please contact or leave a message at [87646337](tel:+6587646337)
 
-| 8 am to 4 pm | After 4pm |
+In the event of any urgent cases (non-emergency), please contact the buddy clinics to make appointments.
+
+| Gan Eng Seng Primary School | Radin Mas Primary School |
 | -------- | -------- |
-| School Dental Centre<br> 3 Second Hospital Avenue<br> Singapore 168937|Proceed to Hospital A&E| 
-|[View Map](http://www.onemap.gov.sg/main/v2/?lat=1.27960538581892&lng=103.838346361748)||
-| Phone: [64353782](tel:+6564353782)||
+| Phone: [87647603](tel:+6587647603)|Phone: [89092397](tel:+6589092397)|
+
+For dental emergencies (e.g. dental trauma, facial/gum swelling, toothache), please contact HPB Student Dental Centre:<br>
+Phone: [64353782](tel:+6564353782)<br>
+Email: [contact_YPS@hpb.gov.sg](mailto:contact_YPS@hpb.gov.sg)
