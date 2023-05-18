@@ -99,6 +99,6 @@ In the event of any urgent cases (non-emergency), please contact the buddy clini
 | -------- | -------- |
 | Phone: [87647603](tel:+6587647603)|Phone: [89092397](tel:+6589092397)|
 
-For dental emergencies (e.g. dental trauma, facial/gum swelling, toothache), please contact HPB Student Dental Centre:<>br 
+For dental emergencies (e.g. dental trauma, facial/gum swelling, toothache), please contact HPB Student Dental Centre:<br>
 Phone: [64353782](tel:+6564353782)<br>
 Email: [contact_YPS@hpb.gov.sg](mailto:contact_YPS@hpb.gov.sg)
