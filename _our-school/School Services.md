@@ -89,10 +89,7 @@ To enrol your child/ward in school dental programme, please submit the consent f
 Lunch Hour 1-2 pm
 
 ##### Appointments
-
-| At school based clinic | At School Dental Centre |
-| -------- | -------- | 
-| Call/WhatsApp/SMS: [87646337](https://wa.me/6587646337)| Call [64353782](tel:+6564353782)     |
+Call/WhatsApp/SMS: [87646337](https://wa.me/6587646337)
 
 ##### During Clinic Closure
 When the school dental clinic is closed or to arrange for an appointment, please contact or leave a message at [87646337](tel:+6587646337)
