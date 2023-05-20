@@ -95,7 +95,7 @@ Lunch Hour 1-2 pm
 | Call/WhatsApp/SMS: [87646337](https://wa.me/6587646337)| Call [64353782](tel:+6564353782)     |
 
 ##### During Clinic Closure
-When the school dental clinic is closed, please contact or leave a message at [87646337](tel:+6587646337)
+When the school dental clinic is closed or to arrange for an appointment, please contact or leave a message at [87646337](tel:+6587646337)
 
 In the event of any urgent cases (non-emergency), please contact the buddy clinics to make appointments.
 
