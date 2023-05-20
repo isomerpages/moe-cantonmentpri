@@ -56,13 +56,6 @@ Please refer to the attached letter and booklet from MOH and HPB for updates on 
 [ParentsBookletNCIS.pdf](/files/ParentsBookletNCIS.pdf) <br>
 [Letter for parents via schools_primary.pdf](/files/Letter%20for%20parents%20via%20schools_primary.pdf)
 
-##### Covid Vaccination
-Parents/guardians of all eligible students aged 12 and above as at 1 June 2021 will receive the SMS invites to schedule students’ vaccination appointments from 1 June 2021.  Students whose 12th birthday fall after 1 June 2021 will be invited for vaccination at a later date.
-
-[Infographic on Student Vaccination Exercise.pdf](/files/Infographic%20on%20Student%20Vaccination%20Exercise.pdf) <br>
-[Parent Kit on Student Vaccination Exercise.pdf](/files/Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf) <br>
-[Posters in All Languages](https://www.moe.gov.sg/-/media/files/parent-kit/vaccination-for-students.pdf)
-
 ##### PayNow
 
 With the increasing digitalisation of government services, MOE would like to encourage all parents to register their children’s bank account with PayNow using the children’s BC/NRIC number. The activation of PayNow will facilitate the prompt disbursement of monies for the child, and avoid delays through the filling in and processing of forms or from physical visits to banks for the deposit of cheques. 
