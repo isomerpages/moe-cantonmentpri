@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Open House 2023.md
       - Calendar.md
       - For Students.md
       - For Parents.md
