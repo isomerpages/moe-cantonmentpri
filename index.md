@@ -10,11 +10,4 @@ sections:
       background: images/Front.jpg
       button: Open House
       url: https://cantonmentpri.moe.edu.sg/openhouse/
-      key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
 ---
