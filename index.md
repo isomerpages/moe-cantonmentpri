@@ -8,4 +8,6 @@ notification: ""
 sections:
   - hero:
       background: images/Front.jpg
+      button: Open House
+      url: https://cantonmentpri.moe.edu.sg/openhouse/
 ---
