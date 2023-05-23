@@ -8,4 +8,13 @@ notification: ""
 sections:
   - hero:
       background: images/Front.jpg
+      button: Open House
+      url: openhouse
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
 ---
