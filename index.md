@@ -8,8 +8,4 @@ notification: ""
 sections:
   - hero:
       background: images/Front.jpg
-      key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
 ---
