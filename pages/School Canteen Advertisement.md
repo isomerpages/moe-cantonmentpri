@@ -24,7 +24,7 @@ description: ""
 
 * Address: Cantonment Primary School, 1 Cantonment Close S088256
 * Contact No: 6511 9555
-* Email: cantonment_ps@moe.edu.sg
+* Email: [cantonment_ps@moe.edu.sg](mailto:cantonment_ps@moe.edu.sg)
 * Contact Person: Mr Mark Tham 
 
 **How to get there?**
