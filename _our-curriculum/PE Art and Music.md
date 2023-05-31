@@ -107,5 +107,5 @@ The aim of the PAM Fiesta is to promote the love for the arts and a healthy life
 
 [SwimSafer Website](https://members.myactivesg.com/swimsafer/)<br>
 [Swimsafer Practical Assessment](/files/SwimSafer/Swimsafer Practical Assessment.pdf)<br>
-[SwimSafer Briefing for Parents](/files/SwimSafer/Swimsafer Briefing for Parents.pdf)<br>
+[SwimSafer Briefing for Parents](/files/SwimSafer/swimsafer briefing for parents.pdf)<br>
 [SwimSafer2.0 User Manual for Parents](/files/SwimSafer/SwimSafer2.0 User Manual for Parents.pdf)<br>
