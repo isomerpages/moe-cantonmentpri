@@ -11,11 +11,9 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 7.30am - 5.30pm
-        description: |-
-          
-          School Holidays:
+        description: "School Holidays:"
       - days: Mon - Fri
-        time: 8am-5pm
+        time: 8am - 5pm
         description: ""
     maps_link: http://www.onemap.gov.sg/main/v2/?lat=1.27547252623201&lng=103.839962631748
     title: Address
