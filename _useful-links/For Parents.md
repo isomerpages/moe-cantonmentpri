@@ -106,4 +106,3 @@ Parents will be able to do the following through the app (SingPass login require
 |18 May|[2023-149 Sony Creative Science Award - Science Kit Distribution](/files/Letters/2023-149 Sony Creative Science Award - Science Kit Distribution.pdf)|
 |31 May|[2023-156 Primary 3 Values-In-Action (VIA) Project Organic Farming](/files/Letters/2023-156 Primary 3 Values-In-Action (VIA) Project Organic Farming.pdf)|
 |31 May|[2023-158 CCA Schedule Semester 2](/files/Letters/2023-158 CCA Schedule Semester 2.pdf)|
-||[](/files/Letters/.pdf)|
