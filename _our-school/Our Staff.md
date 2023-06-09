@@ -39,7 +39,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 |  | Mr Shah |  65119568 | [Email](https://form.gov.sg/5dc221dfc321c6001240b9a4) | [WA](https://wa.me/6565119568) |
 | Asistant Year Head Lower Primary (P12) | Mdm Adeline Ong | 65119582 | [Email](https://form.gov.sg/5dc11e7f1b03c20019122a73) | [WA](https://wa.me/6565119582) |
 | Asistant Year Head Middle Primary (P34)| Ms Malinda Lim| 65119643 | [Email](https://form.gov.sg/5dc12cb31b03c2001912301f) | [WA](https://wa.me/6565119643) | 
-| Asistant Year Head Upper Primary (P56) | Mr Ameen | 64999423 | [Email](https://form.gov.sg/5dc126385f93b50019043da0) | [WA](https://wa.me/6564999423) |
+| Asistant Year Head Upper Primary (P56) |&nbsp;Mr Ameen | 64999423 | [Email](https://form.gov.sg/5dc126385f93b50019043da0) | [WA](https://wa.me/6564999423) |
 |  |   |   |   |   |
 
 ##### Lead and Senior Teachers
@@ -53,7 +53,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | ST Science | Mdm Lim Wan Jo | 65119571 | [Email](https://form.gov.sg/5dc21e4cc321c6001240b7fe) | [WA](https://wa.me/6565119571) |
 | ST Physical Education | Ms Cassandra Siua | 64999411 | [Email](https://form.gov.sg/5e0583cd8967b800114c11a7) | [WA](https://wa.me/6564999411) |
 | ST Lower Primary  | Mrs Jocelyn Lee | 65119583 | [Email](https://form.gov.sg/5dc11e395f93b50019043aa9)  | [WA](https://wa.me/6565119583) |
-| ST Educational Support  | Mr Jerome Chong  | 65119566  | [Email](https://form.gov.sg/5dc2222511ecd70012ef90ed) | [WA](https://wa.me/6565119566) |
+| ST Educational Support  | Mr Jerome Chong&nbsp; | 65119566&nbsp; | [Email](https://form.gov.sg/5dc2222511ecd70012ef90ed) | [WA](https://wa.me/6565119566) |
 |   |   |   |   |   |
 
 ##### Primary 1
@@ -178,7 +178,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 
 | Role | Name | Phone | Email |
 |---|---|---|---|
-| Senior School Counsellor| Ms Ooi Huishan | 64999242 | [Email](https://form.gov.sg/5dc2237811ecd70012ef9180) |
+| Senior School&nbsp;Counsellor| Ms Ooi Huishan | 64999242 | [Email](https://form.gov.sg/5dc2237811ecd70012ef9180) |
 | Student Welfare Officer | Ms Diana Ho | 64999240 | [Email](https://form.gov.sg/5dc223ec11ecd70012ef91b4) |
 | Special Educational Needs Officer | Mdm Jenny Wong | 65119567 | [Email](https://form.gov.sg/5dc2239f11ecd70012ef9195) |
 | | Ms Ariela Yap | 65119565 | [Email](https://form.gov.sg/5ed48a3839b707001103884c) |
@@ -201,17 +201,16 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 |---|---|---|---|
 | Administration Manager | Mr Raymond Moo | 65119553 | [Email](https://form.gov.sg/5dc2265cc321c6001240bc4b) |
 | | Mr Mark Tham | 65119642 | [Email](https://form.gov.sg/5ff659754b11630012b4c936) |
-| Corporate Support Officer | Mrs Mala Gunassaharan | 65119560 | [Email](https://form.gov.sg/5dc226b511ecd70012ef92ed) |
+| Corporate&nbsp;Support Officer | Mrs Mala Gunassaharan | 65119560 | [Email](https://form.gov.sg/5dc226b511ecd70012ef92ed) |
 | | Mdm Peggy Tan | 65119557 | [Email](https://form.gov.sg/5dc226e511ecd70012ef9302) |
-| | Ms Siti Mariam | 65119646  | [Email](https://form.gov.sg/62bcead53695530011cfb783) |
-| | Mr Soffian  |  65119662 | [Email](https://form.gov.sg/62bce9f59277300012d2890f) |
 | Receptionist cum Admin | Mrs S. Priemal | 65119555 | |
 | ICT Manager | Mr Puvan | 65119555 | [Email](https://form.gov.sg/5dc227cb11ecd70012ef9354) |
 | Operations Manager | Mr Frank Low | 65119559 |[Email](https://form.gov.sg/60a2072f5308590011e54827) |
-| Operations Support Officer| Mdm Angeline Koh  | 65119558  | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
-| | Mr Ong Boon Tiong| 65119555 |   |
+| Operations Support Officer| Mdm Angeline Koh  | 65119558&nbsp; | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
+| | Mr Ong Boon Tiong| 65119555 | &nbsp; |
 | | Mdm Fauziah | 65119555 |  |
 | Librarian | Ms Nurul Kamilah | 65119589 | [Email](https://form.gov.sg/5dc228ccc321c6001240bd52) |
-| Science Lab Technician | Ms Lissy | 65119555 |  |
+| Science Lab Technician&nbsp;| Ms Lissy | 65119555&nbsp;|  |
 | Desktop Engineer | Mr Edzhan | 65119555 |  |
+| | Mr Haneef| 65119555 | |
 | | | | |
