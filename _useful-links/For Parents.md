@@ -18,6 +18,10 @@ description: ""
 [Returning Singaporeans](/useful-links/admissions-for-returning-singaporeans)<br>
 [Foreign Students](https://www.moe.gov.sg/international-students)<br>
 
+### Cantonment Times
+[Semester 1 2023 Newsletter](/files/Times/2023Semester1.pdf)<br>
+
+
 ### Touch Base Meeting
 [P1](/files/TBM/P1 TBM.pdf)<br>
 [P2](/files/TBM/P2 TBM.pdf)<br>
@@ -106,4 +110,7 @@ Parents will be able to do the following through the app (SingPass login require
 |18 May|[2023-149 Sony Creative Science Award - Science Kit Distribution](/files/Letters/2023-149 Sony Creative Science Award - Science Kit Distribution.pdf)|
 |31 May|[2023-156 Primary 3 Values-In-Action (VIA) Project Organic Farming](/files/Letters/2023-156 Primary 3 Values-In-Action (VIA) Project Organic Farming.pdf)|
 |31 May|[2023-158 CCA Schedule Semester 2](/files/Letters/2023-158 CCA Schedule Semester 2.pdf)|
-||[](/files/Letters/.pdf)|
+||[2023-156 Primary 3 Values-In-Action (VIA) Project Organic Farming](/files/Letters/2023-156 Primary 3 Values-In-Action (VIA) Project Organic Farming.pdf)|
+|23 Jun|[2023-165 Cessation of Canteen Stalls](/files/Letters/2023-165 Cessation of Canteen Stalls.pdf)|
+|28 Jun|[2023-131-NE SHOW 2023](/files/Letters/2023-131-NE SHOW 2023)|
+|30 Jun|[2023-105 P1 Learning Journey to the Zoo](/files/Letters/2023-105_P1 Learning Journey to the Zoo.pdf)|
