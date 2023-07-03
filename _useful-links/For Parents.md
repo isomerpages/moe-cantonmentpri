@@ -19,7 +19,7 @@ description: ""
 [Foreign Students](https://www.moe.gov.sg/international-students)<br>
 
 ### Cantonment Times
-[Semester 1 2023 Newsletter](/files/Times/2023Semester1.pdf)<br>
+[Semester 1 2023 Newsletter](/files/Times/2023semester1.pdf)<br>
 
 
 ### Touch Base Meeting
