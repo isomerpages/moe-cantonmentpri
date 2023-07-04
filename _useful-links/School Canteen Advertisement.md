@@ -5,9 +5,9 @@ description: ""
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Rice Stall    | 20 Jun 2023     | Mixed rice is acceptable.    |
-| Chinese Noodles Stall | 20 Jun 2023 | Variety of noodle.|
-| Western Food Stall | 20 Jun 2023 | Nil|
+| Chinese Rice Stall    | 31 Aug 2023     | Mixed rice is acceptable.    |
+| Chinese Noodles Stall | 31 Aug 2023 | Variety of noodle.|
+| Western Food Stall | 31 Aug 2023 | Nil|
 
 
 **Application Procedure**
