@@ -39,8 +39,8 @@ description: ""
 [Website](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)  
 [English](/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf)&nbsp;&nbsp; &nbsp;&nbsp;[Chinese](/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf)&nbsp;&nbsp; &nbsp;&nbsp;[Malay](/files/MOE_SBB_ML_revised%201%20Mar%202018.pdf)&nbsp;&nbsp; &nbsp;&nbsp;[Tamil](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
-##### PSLE Scoring and Secondary 1 Posting
-[PSLE 2022_Parent Engagement.pdf](/files/PSLE%202022_Parent%20Engagement.pdf)
+##### PSLE Parent Engagement
+[PSLE 2023_Parent Engagement](/files/psle%20parent%20engagement.pdf)
 
 #### Health Promotion Board  
 
