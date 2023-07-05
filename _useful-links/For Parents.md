@@ -39,8 +39,8 @@ description: ""
 [Website](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)  
 [English](/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf)&nbsp;&nbsp; &nbsp;&nbsp;[Chinese](/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf)&nbsp;&nbsp; &nbsp;&nbsp;[Malay](/files/MOE_SBB_ML_revised%201%20Mar%202018.pdf)&nbsp;&nbsp; &nbsp;&nbsp;[Tamil](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
-##### PSLE Scoring and Secondary 1 Posting
-[PSLE 2022_Parent Engagement.pdf](/files/PSLE%202022_Parent%20Engagement.pdf)
+##### PSLE Parent Engagement
+[PSLE 2023_Parent Engagement](/files/psle%20parent%20engagement.pdf)
 
 #### Health Promotion Board  
 
@@ -59,9 +59,13 @@ Please refer to the attached letter and booklet from MOH and HPB for updates on 
 [ParentsBookletNCIS.pdf](/files/ParentsBookletNCIS.pdf) <br>
 [Letter for parents via schools_primary.pdf](/files/Letter%20for%20parents%20via%20schools_primary.pdf)
 
+##### eGIRO
+[School fees](https://www.moe.gov.sg/financial-matters/fees)<br>
+[Apple for eGIRO](https://www.moe.gov.sg/financial-matters/fees/egiro)
+
 ##### PayNow
 
-With the increasing digitalisation of government services, MOE would like to encourage all parents to register their children’s bank account with PayNow using the children’s BC/NRIC number.&nbsp;The activation of PayNow will facilitate the prompt disbursement of monies for the child, and avoid delays through the filling in and processing of forms or from physical visits to banks for the deposit of cheques.&nbsp;
+MOE would like to encourage all parents to register their children’s bank account with PayNow using the children’s BC/NRIC number.&nbsp;The activation of PayNow will facilitate the prompt disbursement of monies for the child.
 
 To register for PayNow for your children with their BC/NRIC number, you can refer to the attached guide on PayNow or visit the website of the Association of Banks in Singapore (link provided) for more information. Please approach your bank if you need further assistance to register for PayNow for your children. Alternatively, if you are using your children’s bank accounts with POSB/DBS or OCBC, you can fill in the online form (link provided) for MOE to help you to set up PayNow arrangements for these accounts.
   
@@ -114,3 +118,5 @@ Parents will be able to do the following through the app (SingPass login require
 |23 Jun|[2023-165 Cessation of Canteen Stalls](/files/Letters/2023-165 Cessation of Canteen Stalls.pdf)|
 |28 Jun|[2023-131-NE SHOW 2023](/files/Letters/2023-131-NE SHOW 2023)|
 |30 Jun|[2023-105 P1 Learning Journey to the Zoo](/files/Letters/2023-105_P1 Learning Journey to the Zoo.pdf)|
+|5 Jul|[2023-179 P6 Preliminary Oral Assessemt 2023](/files/Letters/2023-179 P6 Preliminary Oral Assessemt 2023.pdf)|
+||[2023-180 Calendar Updates for Semester 2 2023](/files/Letters/2023-180 Calendar Updates for Semester 2 2023.pdf)|
