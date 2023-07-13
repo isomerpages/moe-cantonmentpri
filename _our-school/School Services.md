@@ -13,10 +13,6 @@ Opening Hours during School Days:
 | -------- | -------- | 
 | Monday to Friday: 8.30 am to 3.30 pm <br> Lunch Break: 11.30 am to 12.30 pm | Monday, Wednesday to Friday:	2 to 3 pm |
 
-*Please note that the bookshop is closed during the school holidays.
-
-The bookshop will be open on Wednesday, 21 Jun 2023, 8.30am to 3.30pm.
-
 Email:&nbsp;[sales@pacificbookstores.com](mailto:sales@pacificbookstores.com) <br> 
 Website:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/) <br>
 Phone: [62259241](tel:62259241)
