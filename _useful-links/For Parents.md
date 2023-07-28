@@ -121,4 +121,6 @@ Parents will be able to do the following through the app (SingPass login require
 |5 Jul|[2023-179 P6 Preliminary Oral Assessemt 2023](/files/Letters/2023-179 P6 Preliminary Oral Assessemt 2023.pdf)|
 ||[2023-180 Calendar Updates for Semester 2 2023](/files/Letters/2023-180 Calendar Updates for Semester 2 2023.pdf)|
 |14 Jul|Assessment Letter Semester 2 <br>[P1](/files/Letters/2023-181 P1.pdf)[P2](/files/Letters/2023-181 P2.pdf)[P3](/files/Letters/2023-181 P3.pdf)[P4](/files/Letters/2023-181 P4.pdf)[P5 Foundation](/files/Letters/2023-181 P5F.pdf)[P5 Standard](/files/Letters/2023-181 P5S.pdf)[P6 Foundation](/files/Letters/2023-181 P6F.pdf)[P6 Standard](/files/Letters/2023-181 P6S.pdf)|
-|
+|17 Jul|([2023-189_GEP Letter to Parents](/files/Letters/2023-189_GEP Letter to Parents.pdf)|
+|24 Jul|[2023-191 National Day Celebrations 8 August 2023](/files/Letters/2023-191 National Day Celebrations 8 August 2023.pdf)<br>[2023-190 Invitation to Terra Village 2023](/files/Letters/2023-190 Invitation to Terra Village 2023.pdf)|
+|31 Jul|[2023-195 SwimsaferAssessment](/files/Letters/2023-195 SwimsaferAssessment.pdf)|
