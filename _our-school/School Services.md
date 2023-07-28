@@ -70,8 +70,8 @@ Email:&nbsp;[cps@kowabunga.com.sg](mailto:cps@kowabunga.com.sg) <br>
 Phone:&nbsp;[68505171](tel:+6568505171) / [81272236](tel:+6581272236)
 
 Please submit application form to the General Office:<br>
-[Student Care Centre Registration Form](/files/services/SCC%20Registration%20Form.pdf)<br>
-[Student Care Fee Assistance Form](/files/services/Student%20Care%20Fee%20Assistance%20Form%202022.pdf)
+[Student Care Centre Registration Form](/files/services/SCC Registration Form.pdf)<br>
+[Student Care Fee Assistance Form](/files/services/Student Care Fee Assistance Form 2022.pdf)
 
 ### Dental Clinic @ CPS
 
