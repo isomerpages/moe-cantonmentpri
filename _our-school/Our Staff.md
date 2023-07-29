@@ -182,7 +182,6 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Student Welfare Officer | Ms Diana Ho | 64999240 | [Email](https://form.gov.sg/5dc223ec11ecd70012ef91b4) |
 | Special Educational Needs Officer | Mdm Jenny Wong | 65119567 | [Email](https://form.gov.sg/5dc2239f11ecd70012ef9195) |
 | | Ms Ariela Yap | 65119565 | [Email](https://form.gov.sg/5ed48a3839b707001103884c) |
-| | Ms Marie Liang | |[Email](https://form.gov.sg/643f4267cdf7590012369787) |
 | | | | |
 
 ##### Other Teaching Staff
