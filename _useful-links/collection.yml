@@ -2,10 +2,10 @@ collections:
   useful-links:
     output: true
     order:
-      - School Bus Advertisement.md
       - Calendar.md
       - For Students.md
       - For Parents.md
       - Financial Assistance.md
       - Admissions for Returning Singaporeans.md
       - School Canteen Advertisement.md
+      - School Bus Advertisement.md
