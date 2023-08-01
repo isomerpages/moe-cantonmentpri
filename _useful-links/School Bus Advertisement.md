@@ -8,13 +8,13 @@ description: ""
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 **Service Requirements**
-1. [Call for Proposal]()
-2. [Agreement for Appointment of School Bus Operator]()
+1. [Call for Proposal](/files/attachment 1 call for proposals by cantonment primary school (version june 2023).pdf)
+2. [Agreement for Appointment of School Bus Operator](/files/attachment 3&amp;4 agreement for appointment of school bus operator (version june 2023).pdf)
 
 
 **Application Procedure**
 
-1. Complete the [Call for Proposal - Annex A]()
+1. Complete the [Call for Proposal - Annex A](/files/attachment 2 call for proposal_cps - annex a (version june 2023).pdf)
 
 2. Submit the completed Call for Proposal – Annex A by closing date, 11 Aug 2023, to the School’s General Office.
 
@@ -27,4 +27,3 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **How to get there?**
 * Nearest MRT: Outram MRT (EW16/NE3/TE17) – 10 minutes walking distance
 * Bus number: 75, 167, 196 – 2 minutes walking distance
-
