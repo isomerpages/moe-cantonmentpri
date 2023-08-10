@@ -26,6 +26,9 @@ Singapore Citizens in financial need can get assistance from MOE on school fees 
 
 <u><strong> The Straits Times School Pocket Money Fund (STSPMF) </strong></u><br> 
 [Official Website](https://www.spmf.org.sg/)  
+Application forms are available from the school’s General Office. Please submit completed
+application forms, together with the relevant supporting documents, to the General Office
+by 11 September 2023.
   
 <u><strong> CDAC – SFCCA Bursary </strong></u><br>
 [Official Website](https://www.cdac.org.sg/developing-students/assistance-support/cdac-sfcca-bursary/) <br>
@@ -37,4 +40,4 @@ DigitalAccess@Home provides subsidised broadband and laptops/tablets to lower-in
 Low-income households living in HDB flats with at least one Singapore Citizen are eligible to apply for DigitalAccess@Home.
 
 [Official Website](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home) <br>
-[Online Application Form](https://eservice.imda.gov.sg/das/singpasslogin?strParam=login&notprotected=true)
+[Online Application Form](https://eservice.imda.gov.sg/das/singpasslogin?strParam=login¬protected=true)
