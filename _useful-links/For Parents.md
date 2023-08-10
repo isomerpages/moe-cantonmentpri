@@ -124,3 +124,5 @@ Parents will be able to do the following through the app (SingPass login require
 |17 Jul|([2023-189_GEP Letter to Parents](/files/Letters/2023-189_GEP Letter to Parents.pdf)|
 |24 Jul|[2023-191 National Day Celebrations 8 August 2023](/files/Letters/2023-191 National Day Celebrations 8 August 2023.pdf)<br>[2023-190 Invitation to Terra Village 2023](/files/Letters/2023-190 Invitation to Terra Village 2023.pdf)|
 |31 Jul|[2023-195 SwimsaferAssessment](/files/Letters/2023-195 SwimsaferAssessment.pdf)|
+|1 Aug|[2023-197 PSLE Oral Reporting and Dimissal Time](/files/Letters/2023-197 psle oral reporting and dimissal time.pdf)<br>[2023-196 PAM Fiesta 2023](/files/Letters/2023-196 pam fiesta 2023.pdf)|
+|7 Aug|[2023-199 Change in Recess Timings](/files/Letters/2023-199 change in recess timings.pdf)|
