@@ -120,7 +120,7 @@ Parents will be able to do the following through the app (SingPass login require
 |30 Jun|[2023-105 P1 Learning Journey to the Zoo](/files/Letters/2023-105_P1 Learning Journey to the Zoo.pdf)|
 |5 Jul|[2023-179 P6 Preliminary Oral Assessemt 2023](/files/Letters/2023-179 P6 Preliminary Oral Assessemt 2023.pdf)|
 ||[2023-180 Calendar Updates for Semester 2 2023](/files/Letters/2023-180 Calendar Updates for Semester 2 2023.pdf)|
-|14 Jul|Assessment Letter Semester 2 <br>[P1](/files/Letters/2023-181 P1.pdf)[P2](/files/Letters/2023-181 P2.pdf)[P3](/files/Letters/2023-181 P3.pdf)[P4](/files/Letters/2023-181 P4.pdf)[P5 Foundation](/files/Letters/2023-181 P5F.pdf)[P5 Standard](/files/Letters/2023-181 P5S.pdf)[P6 Foundation](/files/Letters/2023-181 P6F.pdf)[P6 Standard](/files/Letters/2023-181 P6S.pdf)|
+|14 Jul|Assessment Letter Semester 2 <br>[P1](/files/Letters/2023-181 p1.pdf)[P2](/files/Letters/2023-181 p2.pdf)[P3](/files/Letters/2023-181 p3.pdf)[P4](/files/Letters/2023-181 p4.pdf)[P5 Foundation](/files/Letters/2023-181 p5f.pdf)[P5 Standard](/files/Letters/2023-181 p5s.pdf)[P6 Foundation](/files/Letters/2023-181 p6f.pdf)[P6 Standard](/files/Letters/2023-181 p6s.pdf)|
 |17 Jul|([2023-189_GEP Letter to Parents](/files/Letters/2023-189_GEP Letter to Parents.pdf)|
 |24 Jul|[2023-191 National Day Celebrations 8 August 2023](/files/Letters/2023-191 National Day Celebrations 8 August 2023.pdf)<br>[2023-190 Invitation to Terra Village 2023](/files/Letters/2023-190 Invitation to Terra Village 2023.pdf)|
 |31 Jul|[2023-195 SwimsaferAssessment](/files/Letters/2023-195 SwimsaferAssessment.pdf)|
