@@ -25,7 +25,10 @@ Singapore Citizens in financial need can get assistance from MOE on school fees 
 | Transport Subsidy (either school bus or public transport)     | 60% subsidy of monthly school bus fares for students taking school bus <br><br>or<br><br> $15 transport subsidy per month from the month of approval, up to a total of $180 transport subsidy per annum for students taking public transport. | 65% subsidy of monthly school bus fares for students taking school bus<br><br>or<br><br>$17 transport subsidy per month from the month of approval, up to a total of $204 transport subsidy per annum for students taking public transport.|
 
 <u><strong> The Straits Times School Pocket Money Fund (STSPMF) </strong></u><br> 
-[Official Website](https://www.spmf.org.sg/)  
+[Official Website](https://www.spmf.org.sg/)<br>  
+[Letter to parents](/files/FAS/2023-198 application for the straits times school pocket money fund 2023.pdf)<br>
+[Application Form](/files/FAS/2023-198 annex a - 2024 stspmf application form for schools.pdf)<br>
+[Income Declaration](/files/FAS/2023-198 annex b - income declaration form.pdf)<br><br>
 Application forms are available from the school’s General Office. Please submit completed
 application forms, together with the relevant supporting documents, to the General Office
 by 11 September 2023.
