@@ -193,9 +193,9 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Ms Celia See Bee Keow ||[Email](https://form.gov.sg/63f567e62413ea001179c005)||
 |Ms Herda Dolfata |63036297|[Email](https://form.gov.sg/64192075e9bde3001380c678)|[WA](https://wa.me/6563036297)|
 |Miss Lee||[Email](https://form.gov.sg/64b8da90c3c8e30012e5db74)||
-|Mr Low Kim||[Email](https://form.gov.sg/64b8da3fc3c8e30012e5c07a)||
 |Mr Melvin Sim||[Email](https://form.gov.sg/64b8d9eac3c8e30012e5a50b)||
 |Mdm Siti Norlizan|64999234|[Email](https://form.gov.sg/64b8d5b3c599f700128d060e)||
+|Ms Wang Siyang||[Email](https://form.gov.sg/64e5896f5406110013410b57)||
 |
 
 ##### Executive and Administrative Staff 
