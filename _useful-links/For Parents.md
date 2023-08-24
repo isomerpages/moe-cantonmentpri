@@ -127,3 +127,4 @@ Parents will be able to do the following through the app (SingPass login require
 |1 Aug|[2023-197 PSLE Oral Reporting and Dimissal Time](/files/Letters/2023-197 psle oral reporting and dimissal time.pdf)<br>[2023-196 PAM Fiesta 2023](/files/Letters/2023-196 pam fiesta 2023.pdf)|
 |4 Aug|[2023-198 Application for The Straits Times School Pocket Money Fund 2023](/files/FAS/2023-198 application for the straits times school pocket money fund 2023.pdf)|
 |7 Aug|[2023-199 Change in Recess Timings](/files/Letters/2023-199 change in recess timings.pdf)|
+|23 Aug|[2023-207 Pre-PSLE Study Break for P6 Students](/files/Letters/2023-179 p6 preliminary oral assessemt 2023.pdf)<br>[2023-204 Calendar Updates for Semester 2](/files/Letters/2023-204 calendar updates for semester 2.pdf)|
