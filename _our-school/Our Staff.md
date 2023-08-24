@@ -196,6 +196,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 |Mr Melvin Sim||[Email](https://form.gov.sg/64b8d9eac3c8e30012e5a50b)||
 |Mdm Siti Norlizan|64999234|[Email](https://form.gov.sg/64b8d5b3c599f700128d060e)||
 |Ms Wang Siyang||[Email](https://form.gov.sg/64e5896f5406110013410b57)||
+|Mdm Noor Mala||[Email](https://form.gov.sg/64e6f812bab63100113a4114)||
 |
 
 ##### Executive and Administrative Staff 
