@@ -22,7 +22,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Role | Name | Phone | Email | WhatsApp |
 |---|---|---|---|---|
 | HOD Mathematics|  Mr Andy Fan |  65119555 x 447 | [Email](https://form.gov.sg/5dc1301bb9014c0012b8c7ac) |  [WA](https://wa.me/6565119559) |
-| HOD Science | Ms Caroline M. Selva |  65119555 x 446 | [Email](https://form.gov.sg/5dc12b9f1b03c20019122fac) | [WA](https://wa.me/6565119558) |
+| HOD Science | Ms Caroline M. Selva |  65119555 x 446 | [Email](https://form.gov.sg/5dc12b9f1b03c20019122fac) | [WA](https://wa.me/6565119560) |
 | HOD PAM/CCA | Mr Wilbert Tan | 65119587	| [Email](https://form.gov.sg/63aaf2f7acde1200127ffe63)  | [WA](https://wa.me/6565119587) |
 | Year Head Lower Primary (P12) | Ms So Bee Soon |   | [Email](https://form.gov.sg/5dc11d231b03c200191229f0) | [WA](https://wa.me/6565119646) |
 | Year Head Upper Primary (P56) | Mrs Chen Yi Fang | 65119645 | [Email](https://form.gov.sg/63ad7eb1fce97a0012cdbad1) | [WA](https://wa.me/6565119645) |
