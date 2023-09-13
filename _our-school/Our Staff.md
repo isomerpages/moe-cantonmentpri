@@ -207,12 +207,12 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | | Mr Mark Tham | 65119642 | [Email](https://form.gov.sg/5ff659754b11630012b4c936) |
 |Administrative Executive | Mdm Peggy Tan | 65119557 | [Email](https://form.gov.sg/5dc226e511ecd70012ef9302) |
 | Corporate&nbsp;Support Officer | Mrs Mala Gunassaharan | 65119560 | [Email](https://form.gov.sg/5dc226b511ecd70012ef92ed) |
-||Ms Rajes|||
-||Ms Christina Ong|||
+||Mdm K Rajeswary |65119662||
+||Ms Christina Ong|65119558||
 | Receptionist cum Admin | Mrs S. Priemal | 65119555 | |
 | ICT Manager | Mr Puvan | 65119555 | [Email](https://form.gov.sg/5dc227cb11ecd70012ef9354) |
 | Operations Manager | Mr Frank Low | 65119559 |[Email](https://form.gov.sg/60a2072f5308590011e54827) |
-| Operations Support Officer| Mdm Angeline Koh  | 65119558&nbsp; | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
+| Operations Support Officer| Mdm Angeline Koh  | 65119555 Ext 209 | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
 | | Mr Ong Boon Tiong| 65119555 | &nbsp; |
 | | Mdm Fauziah | 65119555 |  |
 | Librarian | Ms Nurul Kamilah | 65119589 | [Email](https://form.gov.sg/5dc228ccc321c6001240bd52) |
