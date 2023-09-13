@@ -46,10 +46,10 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 
 | Role | Name | Phone | Email | WA |
 |---|---|---|---|---|
+|  LT Mathematics | Ms Aileen Poon |  64999419 | [Email](https://form.gov.sg/5dc261f0c321c6001240d3c0) | [WA](https://wa.me/6564999419) |
 | ST English Language | Mrs Yap Pui Mei |  64999241 | [Email](https://form.gov.sg/5dc12ddd5bec6f001203485f) | [WA](https://wa.me/6564999241) |
 | ST Chinese Language | Ms Li Lidan |  64999422 | [Email](https://form.gov.sg/5dc125051b03c20019122cfa) | [WA](https://wa.me/6564999422) |
 |  | Ms Seah Lay Keng |  64999410 | [Email](https://form.gov.sg/5dc12d155f93b5001904400d) | [WA](https://wa.me/6564999410) |
-|  LT Mathematics | Ms Aileen Poon |  64999419 | [Email](https://form.gov.sg/5dc261f0c321c6001240d3c0) | [WA](https://wa.me/6564999419) |
 | ST Science | Mdm Lim Wan Jo | 65119571 | [Email](https://form.gov.sg/5dc21e4cc321c6001240b7fe) | [WA](https://wa.me/6565119571) |
 | ST Physical Education | Ms Cassandra Siua | 64999411 | [Email](https://form.gov.sg/5e0583cd8967b800114c11a7) | [WA](https://wa.me/6564999411) |
 | ST Lower Primary  | Mrs Jocelyn Lee | 65119583 | [Email](https://form.gov.sg/5dc11e395f93b50019043aa9)  | [WA](https://wa.me/6565119583) |
@@ -205,12 +205,14 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 |---|---|---|---|
 | Administration Manager | Mr Raymond Moo | 65119553 | [Email](https://form.gov.sg/5dc2265cc321c6001240bc4b) |
 | | Mr Mark Tham | 65119642 | [Email](https://form.gov.sg/5ff659754b11630012b4c936) |
+|Administrative Executive | Mdm Peggy Tan | 65119557 | [Email](https://form.gov.sg/5dc226e511ecd70012ef9302) |
 | Corporate&nbsp;Support Officer | Mrs Mala Gunassaharan | 65119560 | [Email](https://form.gov.sg/5dc226b511ecd70012ef92ed) |
-| | Mdm Peggy Tan | 65119557 | [Email](https://form.gov.sg/5dc226e511ecd70012ef9302) |
+||Mdm K Rajeswary |65119662||
+||Ms Christina Ong|65119558||
 | Receptionist cum Admin | Mrs S. Priemal | 65119555 | |
 | ICT Manager | Mr Puvan | 65119555 | [Email](https://form.gov.sg/5dc227cb11ecd70012ef9354) |
 | Operations Manager | Mr Frank Low | 65119559 |[Email](https://form.gov.sg/60a2072f5308590011e54827) |
-| Operations Support Officer| Mdm Angeline Koh  | 65119558&nbsp; | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
+| Operations Support Officer| Mdm Angeline Koh  | 65119555 Ext 209 | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
 | | Mr Ong Boon Tiong| 65119555 | &nbsp; |
 | | Mdm Fauziah | 65119555 |  |
 | Librarian | Ms Nurul Kamilah | 65119589 | [Email](https://form.gov.sg/5dc228ccc321c6001240bd52) |
