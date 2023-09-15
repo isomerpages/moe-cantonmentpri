@@ -24,8 +24,6 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | HOD Mathematics|  Mr Andy Fan |  65119555 x 447 | [Email](https://form.gov.sg/5dc1301bb9014c0012b8c7ac) |  [WA](https://wa.me/6565119559) |
 | HOD Science | Ms Caroline M. Selva |  65119555 x 446 | [Email](https://form.gov.sg/5dc12b9f1b03c20019122fac) | [WA](https://wa.me/6565119560) |
 | HOD PAM/CCA | Mr Wilbert Tan | 65119587	| [Email](https://form.gov.sg/63aaf2f7acde1200127ffe63)  | [WA](https://wa.me/6565119587) |
-| Year Head Lower Primary (P12) | Ms So Bee Soon |   | [Email](https://form.gov.sg/5dc11d231b03c200191229f0) | [WA](https://wa.me/6565119646) |
-| Year Head Upper Primary (P56) | Mrs Chen Yi Fang | 65119645 | [Email](https://form.gov.sg/63ad7eb1fce97a0012cdbad1) | [WA](https://wa.me/6565119645) |
 | SH English Language | Mr Azhar  |  65119586 | [Email](https://form.gov.sg/61c9eb126c60da00127bfaac) | [WA](https://wa.me/6565119586) |
 | SH Chinese Language | Mrs Tan Sze Mian |   | [Email](https://form.gov.sg/5dc12f9c5bec6f0012034925) | [WA](https://wa.me/6565119585) |
 | SH Malay Language | Mr Nur Muhammad | 63036296 | [Email](https://form.gov.sg/5dc129795f93b50019043ed1) | [WA](https://wa.me/6563036296) |
@@ -37,8 +35,10 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | | Ms Huang Yinqi  | 64999237 | [Email](https://form.gov.sg/5dc11eb01b03c20019122a8b) | [WA](https://wa.me/6564999237) |
 | SH ICT | Mr Johnny Chan |  65119588 | [Email](https://form.gov.sg/5db78593506fd6001264ff1f) | [WA](https://wa.me/6565119588) |
 |  | Mr Shah |  65119568 | [Email](https://form.gov.sg/5dc221dfc321c6001240b9a4) | [WA](https://wa.me/6565119568) |
-| Asistant Year Head Lower Primary (P12) | Mdm Adeline Ong | 65119582 | [Email](https://form.gov.sg/5dc11e7f1b03c20019122a73) | [WA](https://wa.me/6565119582) |
+| Year Head Lower Primary (P12) | Ms So Bee Soon |   | [Email](https://form.gov.sg/5dc11d231b03c200191229f0) | [WA](https://wa.me/6565119646) |
 |Year Head Middle Primary (P34)| Ms Malinda Lim| 65119643 | [Email](https://form.gov.sg/5dc12cb31b03c2001912301f) | [WA](https://wa.me/6565119643) | 
+| Year Head Upper Primary (P56) | Mrs Chen Yi Fang | 65119645 | [Email](https://form.gov.sg/63ad7eb1fce97a0012cdbad1) | [WA](https://wa.me/6565119645) |
+| Asistant Year Head Lower Primary (P12) | Mdm Adeline Ong | 65119582 | [Email](https://form.gov.sg/5dc11e7f1b03c20019122a73) | [WA](https://wa.me/6565119582) |
 | Asistant Year Head Upper Primary (P56) |&nbsp;Mr Ameen | 64999423 | [Email](https://form.gov.sg/5dc126385f93b50019043da0) | [WA](https://wa.me/6564999423) |
 |  |   |   |   |   |
 
