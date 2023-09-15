@@ -33,11 +33,13 @@ Revolving Transport Pte Ltd
 
 Phone<br>
 Office: [64797597](tel:64797597)<br>
-Mr Kenneth: [88110102](tel:88110102)<br>
+Ms Jeccy Low: [88110102](tel:88110102)<br>
 Email:&nbsp;[emltransport9277@gmail.com](mailto:emltransport9277@gmail.com)  
+
+[Pricing for 2024-2027](/files/services/bus%20service.pdf) 
  
  Please submit application form to the General Office: <br>
-[Infor Sheet on School Bus Services 2023](/files/services/Infor%20Sheet%20on%20School%20Bus%20Services%20(2023).pdf) <br>
+[Info Sheet on School Bus Services 2023](/files/services/Infor%20Sheet%20on%20School%20Bus%20Services%20(2023).pdf) <br>
 [CPS New Bus Registration Form for 2023](/files/services/CPS%20New%20Bus%20Registration%20Form%20for%202023.pdf)
 
 ### School Uniform
