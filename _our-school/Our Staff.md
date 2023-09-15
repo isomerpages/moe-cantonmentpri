@@ -38,7 +38,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | SH ICT | Mr Johnny Chan |  65119588 | [Email](https://form.gov.sg/5db78593506fd6001264ff1f) | [WA](https://wa.me/6565119588) |
 |  | Mr Shah |  65119568 | [Email](https://form.gov.sg/5dc221dfc321c6001240b9a4) | [WA](https://wa.me/6565119568) |
 | Asistant Year Head Lower Primary (P12) | Mdm Adeline Ong | 65119582 | [Email](https://form.gov.sg/5dc11e7f1b03c20019122a73) | [WA](https://wa.me/6565119582) |
-| Asistant Year Head Middle Primary (P34)| Ms Malinda Lim| 65119643 | [Email](https://form.gov.sg/5dc12cb31b03c2001912301f) | [WA](https://wa.me/6565119643) | 
+|Year Head Middle Primary (P34)| Ms Malinda Lim| 65119643 | [Email](https://form.gov.sg/5dc12cb31b03c2001912301f) | [WA](https://wa.me/6565119643) | 
 | Asistant Year Head Upper Primary (P56) |&nbsp;Mr Ameen | 64999423 | [Email](https://form.gov.sg/5dc126385f93b50019043da0) | [WA](https://wa.me/6564999423) |
 |  |   |   |   |   |
 
