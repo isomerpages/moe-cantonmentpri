@@ -108,7 +108,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | 3 Integrity |Ms Li Lidan|64999422| [Email](https://form.gov.sg/5dc125051b03c20019122cfa)| [WA](https://wa.me/6564999422)|
 | |Mr Jared Goh |65119581| [Email](https://form.gov.sg/5e42c22f228e6f0011eaede8)| [WA](https://wa.me/6565119581)|
 | 3 Resilience |Ms Sangeetha|64999248| [Email](https://form.gov.sg/5ed48b24f2ec2d00118d4083)| [WA](https://wa.me/6564999248)|
-| |Mr Tarmizi|64999417| | |
+| |Mr Tarmizi|64999417| |[WA](https://wa.me/6564999417) |
 | 3 Respect |Mr Caleb Lim|64999402| [Email](https://form.gov.sg/5dc1248a1b03c20019122cc3)| [WA](https://wa.me/6564999402)|
 | |Ms Amira | 65119580 | [Email](https://form.gov.sg/63ad7dda793e870011303c18)| [WA](https://wa.me/6565119580)|
 | 3 Harmony |Ms Yvonne Koh|64999401| [Email](https://form.gov.sg/5dc1240c5f93b50019043cc5)| [WA](https://wa.me/6564999401)|
