@@ -189,6 +189,7 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | Name | Phone | Email | WA | 
 |---|---|---|---|
 |Mdm Mubina|63036293|[Email](https://form.gov.sg/5dc10e9d1b03c2001912244d)|[WA](https://wa.me/6563036293)|
+|Ms Sim Bee Hoon|64999425|[Email](https://form.gov.sg/5dc22b7511ecd70012ef94be)|[WA](https://wa.me/6564999425)|
 | Mr Lim Eng Guan ||[Email](https://form.gov.sg/630d95fdf87eed0012c9a5f2)||
 |Ms Herda Dolfata |63036297|[Email](https://form.gov.sg/64192075e9bde3001380c678)|[WA](https://wa.me/6563036297)|
 |Miss Lee||[Email](https://form.gov.sg/64b8da90c3c8e30012e5db74)||
@@ -206,8 +207,8 @@ Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
 | | Mr Mark Tham | 65119642 | [Email](https://form.gov.sg/5ff659754b11630012b4c936) |
 |Administrative Executive | Mdm Peggy Tan | 65119557 | [Email](https://form.gov.sg/5dc226e511ecd70012ef9302) |
 | Corporate&nbsp;Support Officer | Mrs Mala Gunassaharan | 65119560 | [Email](https://form.gov.sg/5dc226b511ecd70012ef92ed) |
-||Mdm K Rajeswary |65119662||
-||Ms Christina Ong|65119558||
+||Mdm K Rajeswary |65119662|[Email](https://form.gov.sg/65095285356d470012fbc626)|
+||Ms Christina Ong|65119558|[Email](https://form.gov.sg/650952f507ce8a00119f05a4)|
 | Receptionist cum Admin | Mrs S. Priemal | 65119555 | |
 | ICT Manager | Mr Puvan | 65119555 | [Email](https://form.gov.sg/5dc227cb11ecd70012ef9354) |
 | Operations Manager | Mr Frank Low | 65119559 |[Email](https://form.gov.sg/60a2072f5308590011e54827) |
