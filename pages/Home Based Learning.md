@@ -12,7 +12,8 @@ please use the links below to access your child/guardian's HBL timetable.
 [Priamry 4](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaGELOHEpLMPYDj5pIZNL5q8xaHpR4xhB4pyJgqdvqpDso0-TIBUFcUoLiq45rokBL_Ab3nQ2-Xrbk/pubhtml)<br>
 [Priamry 5](https://docs.google.com/spreadsheets/d/e/2PACX-1vRyShYAiliBsmC8rpnkF8TL_HdhjbEVgPMGkzUv1bxbW2vhG0PZ7odsZMdWvgkEN0lHeoQnlgQmHmej/pubhtml)<br>
 
-<h6>Technical Support</h6>
+##### Technical Support
+
 If you get an error when logging in to SLS, clear your browser history and try again. You should try accessing from a different web browsers such as Firefox, Chrome, Edge or Safari or on another device.
 
 If this does not resolve the error, take a photo and send a WhatsApp to 65119555 or by clicking [here](https://wa.me/6565119555).
