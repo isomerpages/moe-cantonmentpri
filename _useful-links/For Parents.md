@@ -129,3 +129,7 @@ Parents will be able to do the following through the app (SingPass login require
 |7 Aug|[2023-199 Change in Recess Timings](/files/Letters/2023-199 change in recess timings.pdf)|
 |23 Aug|[2023-207 Pre-PSLE Study Break for P6 Students](/files/Letters/2023-179 p6 preliminary oral assessemt 2023.pdf)<br>[2023-204 Calendar Updates for Semester 2](/files/Letters/2023-204 calendar updates for semester 2.pdf)|
 |13 Sep|[2023-215 Adjustments to Lessons and Recess Timings on PSLE Days](/files/Letters/2023-215 adjustments to lessons and recess timings on psle days.pdf)|
+|22 Sep|[2023-216 Field Based Learning to S.E.A. Aquarium for P6](/files/Letters/2023-216 field based learning to sea aquarium for p6.pdf)|
+|27 Sep|[2023-222 P3 Year-End Oral Assessment 2023](/files/Letters/2023-222 p3 year-end oral assessment 2023.pdf)<br>[2023-222 P4 Year-End Oral Assessment 2023](/files/Letters/2023-222 p4 year-end oral assessment 2023.pdf)<br>[2023-222 P5 Year-End Oral Assessment 2023](/files/Letters/2023-222 p5 year-end oral assessment 2023.pdf)|
+|22 Sep|[2023-220 Calendar Updates for Term 4 2023](/files/Letters/2023-220 calendar updates for term 4 2023.pdf)|
+|9 Oct|[2023-230_P6_CPS_Share a Textbook Drive](/files/Letters/2023-230_P6_CPS_Share a Textbook Drive.pdf)|
