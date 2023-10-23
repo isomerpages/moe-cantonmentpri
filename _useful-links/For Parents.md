@@ -132,4 +132,7 @@ Parents will be able to do the following through the app (SingPass login require
 |22 Sep|[2023-216 Field Based Learning to S.E.A. Aquarium for P6](/files/Letters/2023-216 field based learning to sea aquarium for p6.pdf)|
 |27 Sep|[2023-222 P3 Year-End Oral Assessment 2023](/files/Letters/2023-222 p3 year-end oral assessment 2023.pdf)<br>[2023-222 P4 Year-End Oral Assessment 2023](/files/Letters/2023-222 p4 year-end oral assessment 2023.pdf)<br>[2023-222 P5 Year-End Oral Assessment 2023](/files/Letters/2023-222 p5 year-end oral assessment 2023.pdf)|
 |22 Sep|[2023-220 Calendar Updates for Term 4 2023](/files/Letters/2023-220 calendar updates for term 4 2023.pdf)|
-|9 Oct|[2023-230_P6_CPS_Share a Textbook Drive](/files/Letters/2023-230_P6_CPS_Share a Textbook Drive.pdf)|
+|4 Oct|[2023-224_P4 Subject Based Banding Information (2023)](/files/Letters/2023-224 p4 subject based banding information (2023).pdf)|
+|9 Oct|[2023-230_P6_CPS_Share a Textbook Drive](/files/Letters/2023-231_p1-p5 cps_share a textbook drive.pdf)|
+|16 Oct|[2023-233 Types on programmes for Mother Tongue Languages in Primary 3 2024](/files/Letters/2023-233 types on programmes for mother tongue languages in primary 3 2024.pdf)|
+|20 Oct|[P6 Social Etiquette Workshop and Graduation Lunch 2023](/files/Letters/p6 social etiquette workshop and graduation lunch 2023.pdf)|

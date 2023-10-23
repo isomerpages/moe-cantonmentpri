@@ -64,8 +64,8 @@ Sat 9 am-1 pm
 
 View [menu](/files/Canteen%20Menu.pdf)
 
-### Kidz Treehouse International Pte Ltd
-School based Student Care Centre<br>
+### School based Student Care Centre
+ Kidz Treehouse International Pte Ltd<br>
 Website:&nbsp;[www.kidztreehouse.com.sg](http://www.kidztreehouse.com.sg/)[  
 ](https://kidztreehouse.com.sg/cps/) <br>
 Email:&nbsp;[cps@kowabunga.com.sg](mailto:cps@kowabunga.com.sg) <br>
