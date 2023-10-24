@@ -40,51 +40,20 @@ Email:&nbsp;[emltransport9277@gmail.com](mailto:emltransport9277@gmail.com)
 |Up to 2|$|$|$|$|
 |2-4 KM|$|$|$|$|
 
-<div id="accordion">
-  <div class="card">
-    <div id="headingOne" class="card-header">
-      <h5 class="mb-0">
-        <button aria-controls="collapseOne" aria-expanded="true" data-target="#collapseOne" data-toggle="collapse" class="btn btn-link">
-          Collapsible Group Item #1
-        </button>
-      </h5>
-    </div>
+<details>
+<summary>1 Jan 2024-31 Dec 2025</summary>
+<p>| Distance | Up to 15- seater | |More than 15 Seater||
+|---|---|---|---|---|
+||1 Way|2 Way|1 Way|2 Way|
+|Up to 2|$|$|$|$|
+|2-4 KM|$|$|$|$|
+</p>
+</details>
 
-    <div data-parent="#accordion" aria-labelledby="headingOne" class="collapse show" id="collapseOne">
-      <div class="card-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-      </div>
-    </div>
-  </div>
-  <div class="card">
-    <div id="headingTwo" class="card-header">
-      <h5 class="mb-0">
-        <button aria-controls="collapseTwo" aria-expanded="false" data-target="#collapseTwo" data-toggle="collapse" class="btn btn-link collapsed">
-          Collapsible Group Item #2
-        </button>
-      </h5>
-    </div>
-    <div data-parent="#accordion" aria-labelledby="headingTwo" class="collapse" id="collapseTwo">
-      <div class="card-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-      </div>
-    </div>
-  </div>
-  <div class="card">
-    <div id="headingThree" class="card-header">
-      <h5 class="mb-0">
-        <button aria-controls="collapseThree" aria-expanded="false" data-target="#collapseThree" data-toggle="collapse" class="btn btn-link collapsed">
-          Collapsible Group Item #3
-        </button>
-      </h5>
-    </div>
-    <div data-parent="#accordion" aria-labelledby="headingThree" class="collapse" id="collapseThree">
-      <div class="card-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-      </div>
-    </div>
-  </div>
-</div>
+<details>
+<summary>1 Jan 2026-31 Dec 2027</summary>
+<p>this is price</p>
+</details>
  
  Please submit application form to the General Office: <br>
 [Info Sheet on School Bus Services 2023](/files/Services/Infor%20Sheet%20on%20School%20Bus%20Services%20(2023).pdf) <br>
