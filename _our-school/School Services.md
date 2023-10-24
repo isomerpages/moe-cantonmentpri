@@ -15,17 +15,11 @@ Opening Hours during School Days:
 
 Email:&nbsp;[sales@pacificbookstores.com](mailto:sales@pacificbookstores.com) <br> 
 Website:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/) <br>
-Phone: [62259241](tel:62259241)
+Phone: [69298012](tel:69298012)
 
-**Booklist For 2023** <br>
-[P1](/files/Booklist/P1.pdf)<br>
-[P2](/files/Booklist/P2.pdf)<br>
-[P3](/files/Booklist/P3.pdf)<br>
-[P4](/files/Booklist/P4.pdf)<br>
-[P5 Standard](/files/Booklist/P5%20Standard.pdf)<br>
-[P5 Foundation](/files/Booklist/P5%20Foundation.pdf)<br>
-[P6 Standard](/files/Booklist/P6%20Standard.pdf)<br>
-[P6 Foundation](/files/Booklist/P6%20Foundation.pdf)<br>
+**Booklist For 2024** <br>
+2024 P1 booklist will be distributed during P1 Orientation.
+
 
 ### Bus Transport
 
