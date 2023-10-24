@@ -17,8 +17,8 @@ Under the MSF-MOE collaboration, ComCare recipients with ComCare assistance endi
 
 **How to apply**
 * [Apply online](https://go.gov.sg/moe-efas)
-* Using the e-FAS form which is available on Parents Gateway (under Services tab – Financial Assistance).
-* Alternatively, you can [download](/files/FAS/.pdf) the MOE FAS application form attached or collect a copy at school. Submit the completed form directly to the school.
+* On Parent Gateway - Using the e-FAS form (under Services tab – Financial Assistance).
+* Alternatively, you can [download](/files/FAS/moe fas application form.pdf) the MOE FAS application form attached or collect a copy at school. Submit the completed form directly to the school.
 
 Note: If you have children in different government or government-aided schools, you just need to submit 1 application form to any of their schools. The school that receives the application form will inform you of the outcome.
 
