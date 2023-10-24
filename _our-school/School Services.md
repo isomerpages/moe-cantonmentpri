@@ -33,14 +33,6 @@ Email:&nbsp;[emltransport9277@gmail.com](mailto:emltransport9277@gmail.com)
 [Pricing for 2024-2027](/files/Services/bus%20service.pdf) 
 
 ###### Pricing
-| Distance | Up to 15- seater | |More than 15 Seater||
-|---|---|---|---|---|
-||1 Way|2 Way|1 Way|2 Way|
-|Up to 2|$180|$200|$160|$180|
-|2-4 KM|$240|$260|$190|$210|
-
-<br>
-<br>
 
 | Distance | Up to 15- seater | |More than 15 Seater||
 |---|---|---|---|---|
