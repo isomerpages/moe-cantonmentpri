@@ -42,20 +42,18 @@ Email:&nbsp;[emltransport9277@gmail.com](mailto:emltransport9277@gmail.com)
 |Up to 2|$180|$200|$160|$180|
 |2-4 KM|$240|$260|$190|$210|
 
-
 </details>
 <br>
 <details>
 <summary>2026 to 2027</summary>
 
-<br>
-	
+<br>	
+
 | Distance | Up to 15- seater | |More than 15 Seater||
 |---|---|---|---|---|
 ||1 Way|2 Way|1 Way|2 Way|
 |Up to 2|$200|$220|$180|$200|
 |2-4 KM|$160|$280|$210|$230|
-
 
 </details>
  
