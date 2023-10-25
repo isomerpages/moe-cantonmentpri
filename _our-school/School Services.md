@@ -30,11 +30,12 @@ Office: [64797597](tel:64797597)<br>
 Ms Jeccy Low: [88110102](tel:88110102)<br>
 Email:&nbsp;[emltransport9277@gmail.com](mailto:emltransport9277@gmail.com)  
 
-###### Pricing
-<details>
-<summary>2024 to 2025</summary>
+ Please submit application form to the General Office: <br>
+[Info Sheet on School Bus Services 2023](/files/Services/Infor%20Sheet%20on%20School%20Bus%20Services%20(2023).pdf) <br>
+[CPS New Bus Registration Form for 2023](/files/Services/CPS%20New%20Bus%20Registration%20Form%20for%202023.pdf)
 
-<br>
+###### Pricing
+###### 2024 to 2025
 	
 | Distance | Up to 15- seater | |More than 15 Seater||
 |---|---|---|---|---|
@@ -42,24 +43,14 @@ Email:&nbsp;[emltransport9277@gmail.com](mailto:emltransport9277@gmail.com)
 |Up to 2|$180|$200|$160|$180|
 |2-4 KM|$240|$260|$190|$210|
 
-</details>
-<br>
-<details>
-<summary>2026 to 2027</summary>
+###### 2026 to 2027
 
-<br>	
 
 | Distance | Up to 15- seater | |More than 15 Seater||
 |---|---|---|---|---|
 ||1 Way|2 Way|1 Way|2 Way|
 |Up to 2|$200|$220|$180|$200|
 |2-4 KM|$160|$280|$210|$230|
-
-</details>
- 
- Please submit application form to the General Office: <br>
-[Info Sheet on School Bus Services 2023](/files/Services/Infor%20Sheet%20on%20School%20Bus%20Services%20(2023).pdf) <br>
-[CPS New Bus Registration Form for 2023](/files/Services/CPS%20New%20Bus%20Registration%20Form%20for%202023.pdf)
 
 ### School Uniform
 
