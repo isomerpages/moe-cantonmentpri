@@ -30,16 +30,32 @@ Office: [64797597](tel:64797597)<br>
 Ms Jeccy Low: [88110102](tel:88110102)<br>
 Email:&nbsp;[emltransport9277@gmail.com](mailto:emltransport9277@gmail.com)  
 
-[Pricing for 2024-2027](/files/Services/bus%20service.pdf) 
- 
  Please submit application form to the General Office: <br>
 [Info Sheet on School Bus Services 2023](/files/Services/Infor%20Sheet%20on%20School%20Bus%20Services%20(2023).pdf) <br>
 [CPS New Bus Registration Form for 2023](/files/Services/CPS%20New%20Bus%20Registration%20Form%20for%202023.pdf)
 
+###### Pricing
+###### 2024 to 2025
+	
+| Distance | Up to 15- seater | |More than 15 Seater||
+|---|---|---|---|---|
+||1 Way|2 Way|1 Way|2 Way|
+|Up to 2|$180|$200|$160|$180|
+|2-4 KM|$240|$260|$190|$210|
+
+###### 2026 to 2027
+
+
+| Distance | Up to 15- seater | |More than 15 Seater||
+|---|---|---|---|---|
+||1 Way|2 Way|1 Way|2 Way|
+|Up to 2|$200|$220|$180|$200|
+|2-4 KM|$160|$280|$210|$230|
+
 ### School Uniform
 
 Bibi&amp;Baba Private Limited<br>
-[Website](https://www.schooluniforms.sg/cantonment-primary-school)<br>
+Website: [https://www.schooluniforms.sg/cantonment-primary-school](https://www.schooluniforms.sg/cantonment-primary-school)<br>
 Order name tags at&nbsp;[https://tinyurl.com/cpsnametag](https://tinyurl.com/cpsnametag)
 
 Phone: [62719248](tel:62719248) <br>
@@ -59,15 +75,19 @@ Sat 9 am-1 pm
 View [menu](/files/Canteen%20Menu.pdf)
 
 ### School based Student Care Centre
+
+###### 2023
  Kidz Treehouse International Pte Ltd<br>
 Website:&nbsp;[www.kidztreehouse.com.sg](http://www.kidztreehouse.com.sg/)[  
 ](https://kidztreehouse.com.sg/cps/) <br>
 Email:&nbsp;[cps@kowabunga.com.sg](mailto:cps@kowabunga.com.sg) <br>
 Phone:&nbsp;[68505171](tel:+6568505171) / [81272236](tel:+6581272236)
 
-Please submit application form to the General Office:<br>
-[Student Care Centre Registration Form](/files/Services/SCC%20Registration%20Form.pdf)<br>
-[Student Care Fee Assistance Form](/files/Services/Student%20Care%20Fee%20Assistance%20Form%202022.pdf)
+###### 2024
+Commit Learning Schoolhouse Pte Ltd<br>
+Website: [https://www.commitlearning.com.sg]( https://www.commitlearning.com.sg)<br>
+Email: [admission_cls_cps@commitlearning.com.sg](mailto:admission_cls_cps@commitlearning.com.sg)<br>
+[Form to submit interest to register for SCC](https://form.gov.sg/6149334a3a2520001253949a)
 
 ### Dental Clinic @ CPS
 
