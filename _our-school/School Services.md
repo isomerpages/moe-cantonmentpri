@@ -33,26 +33,32 @@ Email:&nbsp;[emltransport9277@gmail.com](mailto:emltransport9277@gmail.com)
 [Pricing for 2024-2027](/files/Services/bus%20service.pdf) 
 
 ###### Pricing
+<details>
+<summary>1 Jan 2024-31 Dec 2025</summary>
 
+<br>
+	
 | Distance | Up to 15- seater | |More than 15 Seater||
 |---|---|---|---|---|
 ||1 Way|2 Way|1 Way|2 Way|
-|Up to 2|$|$|$|$|
-|2-4 KM|$|$|$|$|
+|Up to 2|$180|$200|$160|$180|
+|2-4 KM|$240|$260|$190|$210|
 
-<details>
-<summary>1 Jan 2024-31 Dec 2025</summary>
-<p>| Distance | Up to 15- seater | |More than 15 Seater||
-|---|---|---|---|---|
-||1 Way|2 Way|1 Way|2 Way|
-|Up to 2|$|$|$|$|
-|2-4 KM|$|$|$|$|
-</p>
+
 </details>
-
+<br>
 <details>
 <summary>1 Jan 2026-31 Dec 2027</summary>
-<p>this is price</p>
+
+<br>
+	
+| Distance | Up to 15- seater | |More than 15 Seater||
+|---|---|---|---|---|
+||1 Way|2 Way|1 Way|2 Way|
+|Up to 2|$200|$220|$180|$200|
+|2-4 KM|$160|$280|$210|$230|
+
+
 </details>
  
  Please submit application form to the General Office: <br>
