@@ -30,11 +30,9 @@ Office: [64797597](tel:64797597)<br>
 Ms Jeccy Low: [88110102](tel:88110102)<br>
 Email:&nbsp;[emltransport9277@gmail.com](mailto:emltransport9277@gmail.com)  
 
-[Pricing for 2024-2027](/files/Services/bus%20service.pdf) 
-
 ###### Pricing
 <details>
-<summary>1 Jan 2024-31 Dec 2025</summary>
+<summary>2024 to 2025</summary>
 
 <br>
 	
@@ -48,7 +46,7 @@ Email:&nbsp;[emltransport9277@gmail.com](mailto:emltransport9277@gmail.com)
 </details>
 <br>
 <details>
-<summary>1 Jan 2026-31 Dec 2027</summary>
+<summary>2026 to 2027</summary>
 
 <br>
 	
@@ -68,7 +66,7 @@ Email:&nbsp;[emltransport9277@gmail.com](mailto:emltransport9277@gmail.com)
 ### School Uniform
 
 Bibi&amp;Baba Private Limited<br>
-[Website](https://www.schooluniforms.sg/cantonment-primary-school)<br>
+Website: [https://www.schooluniforms.sg/cantonment-primary-school](https://www.schooluniforms.sg/cantonment-primary-school)<br>
 Order name tags at&nbsp;[https://tinyurl.com/cpsnametag](https://tinyurl.com/cpsnametag)
 
 Phone: [62719248](tel:62719248) <br>
@@ -97,7 +95,7 @@ Email:&nbsp;[cps@kowabunga.com.sg](mailto:cps@kowabunga.com.sg) <br>
 Phone:&nbsp;[68505171](tel:+6568505171) / [81272236](tel:+6581272236)
 
 ###### 2024
-Commit Learning Schoolhouse Pte Ltd
+Commit Learning Schoolhouse Pte Ltd<br>
 Website: [https://www.commitlearning.com.sg]( https://www.commitlearning.com.sg)<br>
 Email: [admission_cls_cps@commitlearning.com.sg](mailto:admission_cls_cps@commitlearning.com.sg)<br>
 [Form to submit interest to register for SCC](https://form.gov.sg/6149334a3a2520001253949a)
