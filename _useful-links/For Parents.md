@@ -136,3 +136,4 @@ Parents will be able to do the following through the app (SingPass login require
 |9 Oct|[2023-230_P6_CPS_Share a Textbook Drive](/files/Letters/2023-231_p1-p5 cps_share a textbook drive.pdf)|
 |16 Oct|[2023-233 Types on programmes for Mother Tongue Languages in Primary 3 2024](/files/Letters/2023-233 types on programmes for mother tongue languages in primary 3 2024.pdf)|
 |20 Oct|[P6 Social Etiquette Workshop and Graduation Lunch 2023](/files/Letters/p6 social etiquette workshop and graduation lunch 2023.pdf)|
+|27 Oct|[2023-244 P1 -P5 Parent-Child-Teacher-Conference 2023](/files/Letters/2023-244 p1 -p5 parent-child-teacher-conference 2023.pdf)<br>[2023-244 PG Mobile App Meetings Feature](/files/Letters/2023-244 pg mobile app meetings feature.pdf)|
