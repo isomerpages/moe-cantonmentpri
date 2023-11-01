@@ -31,11 +31,11 @@ Note: If you have children in different government or government-aided schools, 
 [Official Website](https://www.spmf.org.sg/)  
 Application to opens every year in Term 3/4
   
-<u><strong> CDAC – SFCCA Bursary </strong></u><br>
+ ##### CDAC – SFCCA Bursary 
 [Official Website](https://www.cdac.org.sg/developing-students/assistance-support/cdac-sfcca-bursary/) <br>
 The CDAC – SFCCA Bursary aims to help needy students to cope with schooling expenses, including transport, meals and take part in enrichment and holiday programmes organised by CDAC.
 
- #####  DigitalAccess@Home  
+ ##### DigitalAccess@Home  
 DigitalAccess@Home provides subsidised broadband and laptops/tablets to lower-income households to support their lifestyle needs, including school, work and social activities.
 
 Low-income households living in HDB flats with at least one Singapore Citizen are eligible to apply for DigitalAccess@Home.
