@@ -2,6 +2,7 @@
 title: Financial Assistance
 permalink: /useful-links/financial-assistance/
 description: ""
+variant: markdown
 ---
 The Ministry of Education provides financial assistance to Singaporean students from our Government and Government-Aided Schools who need financial assistance for their studies.
 [Official Website](https://www.moe.gov.sg/financial-matters/financial-assistance) <br>
