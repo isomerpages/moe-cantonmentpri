@@ -2,6 +2,7 @@
 title: School Services
 permalink: /our-school/school-services/
 description: ""
+variant: markdown
 ---
 ### Bookshop
 
@@ -18,7 +19,7 @@ Website:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/) <br
 Phone: [69298012](tel:69298012)
 
 **Booklist For 2024** <br>
-2024 P1 booklist will be distributed during P1 Orientation.
+[P1]((/files/Booklist/p1 2024.pdf))
 
 
 ### Bus Transport

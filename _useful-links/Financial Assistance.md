@@ -2,6 +2,7 @@
 title: Financial Assistance
 permalink: /useful-links/financial-assistance/
 description: ""
+variant: markdown
 ---
 The Ministry of Education provides financial assistance to Singaporean students from our Government and Government-Aided Schools who need financial assistance for their studies.
 [Official Website](https://www.moe.gov.sg/financial-matters/financial-assistance) <br>
@@ -27,15 +28,15 @@ Note: If you have children in different government or government-aided schools, 
 *   If you require further financial assistance beyond the MOE FAS, you can approach your child’s school to find out more about their school-based financial assistance. Your request will be evaluated by the school on a case-by-case basis.
 
 
- ##### The Straits Times School Pocket Money Fund (STSPMF)
+ ###### The Straits Times School Pocket Money Fund (STSPMF)
 [Official Website](https://www.spmf.org.sg/)  
 Application to opens every year in Term 3/4
   
- ##### CDAC – SFCCA Bursary 
+ ###### CDAC – SFCCA Bursary 
 [Official Website](https://www.cdac.org.sg/developing-students/assistance-support/cdac-sfcca-bursary/) <br>
 The CDAC – SFCCA Bursary aims to help needy students to cope with schooling expenses, including transport, meals and take part in enrichment and holiday programmes organised by CDAC.
 
- ##### DigitalAccess@Home  
+ ###### DigitalAccess@Home  
 DigitalAccess@Home provides subsidised broadband and laptops/tablets to lower-income households to support their lifestyle needs, including school, work and social activities.
 
 Low-income households living in HDB flats with at least one Singapore Citizen are eligible to apply for DigitalAccess@Home.
