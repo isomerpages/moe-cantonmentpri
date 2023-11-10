@@ -20,11 +20,11 @@ Phone: [69298012](tel:69298012)
 
 **Booklist For 2024** <br>
 [P1](/files/Booklist/p1 2024.pdf)<br>
-[P2](/files/Booklist/p2 2024.pdf)<br>
-[P3](/files/Booklist/p3 2024.pdf)<br>
-[P4](/files/Booklist/p4 2024.pdf)<br>
-[P5](/files/Booklist/p5 2024.pdf)<br>
-[P6](/files/Booklist/p6 2024.pdf)
+[P2](/files/Booklist/P2 2024.pdf)<br>
+[P3](/files/Booklist/P3 2024.pdf)<br>
+[P4](/files/Booklist/P4 2024.pdf)<br>
+[P5](/files/Booklist/P5 2024.pdf)<br>
+[P6](/files/Booklist/P6 2024.pdf)
 
 ### Bus Transport
 
