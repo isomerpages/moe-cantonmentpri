@@ -2,6 +2,7 @@
 title: For Parents
 permalink: /useful-links/for-parents/
 description: ""
+variant: markdown
 ---
 ##### Ministry Websites
 [Ministry of Education](https://www.moe.gov.sg/)<br>
@@ -85,55 +86,3 @@ Parents will be able to do the following through the app (SingPass login require
 * Keep track of upcoming activities for multiple children.
 * Travel Declaration <br>[New travel declaration](/files/Quick-Guide-to-Travel-Declaration-on-PG.pdf) <br> [Amend travel declaration](/files/Amending%20Travel%20Declarations%20on%20PG.pdf) 
 * Update contact details for Parents
-
-##### Letters to parents
-	
-| Date | Letter |
-|---|---|
-| 30 Dec | [2023-003 Code For Fun](/files/Letters/2023-003 Code For Fun (CFF).pdf)|
-|30 Dec | [2023-002 SwimSafer Programme for Primary 5 Students 2023](/files/Letters/2023-002 SwimSafer Programme for Primary 5 Students 2023.pdf) |
-|6 Jan|[2023-010 Commencement of CCA for P4-P6 Students](/files/Letters/2023-010 Commencement of CCA for P4-P6 Students.pdf)|
-|13 Jan|[2023-28 Invitation to participate in CNY Lou Hei organised by CPS Parent Support Group](/files/Letters/2023-28 Invitation to participate in CNY Lou Hei organised by CPS Parent Support Group.pdf)|
-|18 Jan|[2023-030 Lunar New Year Celebrations](/files/Letters/2023-030 Lunar New Year Celebrations.pdf)|
-|19 Jan|[2023-039 Primary 3 CCA Experience 2023](/files/Letters/2023-039 Primary 3 CCA Experience 2023.pdf)|
-|25 Jan|[2023-016 P4 Road Safety Programme](/files/Letters/2023-016 P4 Road Safety Programme.pdf)|
-|26 Jan|[2023-038 Sexuality Education letter](/files/Letters/2023-038 Sexuality Education letter.pdf)|
-|10 Feb|[2023-061 P1 Assessment Letter](/files/Letters/2023-061 P1 Assessment Letter.pdf)<br> [2023-061 P2 Assessment Letter](/files/Letters/2023-061 P2 Assessment Letter.pdf)<br>[2023-061 P3 Assessment Letter](/files/Letters/2023-061 P3 Assessment Letter.pdf)<br>[2023-061 P4 Assessment Letter](/files/Letters/2023-061 P4 Assessment Letter.pdf)<br>[2023-061 P5 Assessment Letter (Fdn)](/files/Letters/2023-061 P5 Assessment Letter (Fdn).pdf)<br>[2023-061 P5 Assessment Letter (Std)](/files/Letters/2023-061 P5 Assessment Letter (Std).pdf)<br>[2023-061 P6 Assessment Letter](/files/Letters/2023-061 P6 Assessment Letter.pdf)|
-|23 Feb|[2023-080 P5 SwimSafer Programme Assessment](/files/Letters/2023-080 P5 SwimSafer Programme Assessment.pdf)|
-|3 Mar|[2023-087 P5 VIA Workshop on 20 March 2023](/files/Letters/2023-087 P5 VIA Workshop on 20 March 2023 signed.pdf)|
-|6 Mar|[2023-091 Pri 3 Urban Farming](/files/Letters/2023-091 Pri 3 Urban Farming.pdf)<br>[2023-087 World Water Day](/files/Letters/2023-087 World Water Day.pdf)|
-|20 Mar|[2023 - 101 Letter to parents - Earth Hour PG Letter](/files/Letters/2023 - 101 Letter to parents - Earth Hour PG Letter.pdf)|
-|21 Mar|[2023-102 SS LJ P1-P6](/files/Letters/2023-102 SS LJ P1-P6.pdf)|
-|31 Mar|[2023-112 Amendment to chapter number of topics covered for P3 WA1 and WA2](/files/Letters/2023-112 Amendment to chapter number of topics covered for P3 WA1 and WA2.pdf)|
-|4 Apr|[P4 NAPFA 2023_Letter to Parents](/files/Letters/P4 NAPFA 2023_Letter to Parents.pdf)|
-|11 Apr|[2023-118 1st Recycling Drive 2023](/files/Letters/2023-118 1st Recycling Drive 2023.pdf)|
-|18 Apr|[P5 Camp 2023](/files/Letters/P5 Camp 2023.pdf)|
-|21 Apr|[2023-127 Primary 2 Learning Journey to the Singapore Science Centre](/files/Letters/2023-127 Primary 2 Learning Journey to the Singapore Science Centre/pdf)|
-|28 Apr|[2023-129 Primary 5 VIA Workshop Session 2 15 May 2023](/files/Letters/2023-129 Primary 5 VIA Workshop Session 2 15 May 2023.pdf)|
-|17 May|[2023-148 P4 Swimsafer Programme](/files/Letters/2023-148 P4 Swimsafer Programme.pdf)|
-|18 May|[2023-149 Sony Creative Science Award - Science Kit Distribution](/files/Letters/2023-149 Sony Creative Science Award - Science Kit Distribution.pdf)|
-|31 May|[2023-156 Primary 3 Values-In-Action (VIA) Project Organic Farming](/files/Letters/2023-156 Primary 3 Values-In-Action (VIA) Project Organic Farming.pdf)|
-|31 May|[2023-158 CCA Schedule Semester 2](/files/Letters/2023-158 CCA Schedule Semester 2.pdf)|
-||[2023-156 Primary 3 Values-In-Action (VIA) Project Organic Farming](/files/Letters/2023-156 Primary 3 Values-In-Action (VIA) Project Organic Farming.pdf)|
-|23 Jun|[2023-165 Cessation of Canteen Stalls](/files/Letters/2023-165 Cessation of Canteen Stalls.pdf)|
-|28 Jun|[2023-131-NE SHOW 2023](/files/Letters/2023-131-NE SHOW 2023)|
-|30 Jun|[2023-105 P1 Learning Journey to the Zoo](/files/Letters/2023-105_P1 Learning Journey to the Zoo.pdf)|
-|5 Jul|[2023-179 P6 Preliminary Oral Assessemt 2023](/files/Letters/2023-179 P6 Preliminary Oral Assessemt 2023.pdf)|
-||[2023-180 Calendar Updates for Semester 2 2023](/files/Letters/2023-180 Calendar Updates for Semester 2 2023.pdf)|
-|14 Jul|Assessment Letter Semester 2 <br>[P1](/files/Letters/2023-181 p1.pdf)[P2](/files/Letters/2023-181 p2.pdf)[P3](/files/Letters/2023-181 p3.pdf)[P4](/files/Letters/2023-181 p4.pdf)[P5 Foundation](/files/Letters/2023-181 p5f.pdf)[P5 Standard](/files/Letters/2023-181 p5s.pdf)[P6 Foundation](/files/Letters/2023-181 p6f.pdf)[P6 Standard](/files/Letters/2023-181 p6s.pdf)|
-|17 Jul|([2023-189_GEP Letter to Parents](/files/Letters/2023-189_GEP Letter to Parents.pdf)|
-|24 Jul|[2023-191 National Day Celebrations 8 August 2023](/files/Letters/2023-191 National Day Celebrations 8 August 2023.pdf)<br>[2023-190 Invitation to Terra Village 2023](/files/Letters/2023-190 Invitation to Terra Village 2023.pdf)|
-|31 Jul|[2023-195 SwimsaferAssessment](/files/Letters/2023-195 SwimsaferAssessment.pdf)|
-|1 Aug|[2023-197 PSLE Oral Reporting and Dimissal Time](/files/Letters/2023-197 psle oral reporting and dimissal time.pdf)<br>[2023-196 PAM Fiesta 2023](/files/Letters/2023-196 pam fiesta 2023.pdf)|
-|4 Aug|[2023-198 Application for The Straits Times School Pocket Money Fund 2023](/files/FAS/2023-198 application for the straits times school pocket money fund 2023.pdf)|
-|7 Aug|[2023-199 Change in Recess Timings](/files/Letters/2023-199 change in recess timings.pdf)|
-|23 Aug|[2023-207 Pre-PSLE Study Break for P6 Students](/files/Letters/2023-179 p6 preliminary oral assessemt 2023.pdf)<br>[2023-204 Calendar Updates for Semester 2](/files/Letters/2023-204 calendar updates for semester 2.pdf)|
-|13 Sep|[2023-215 Adjustments to Lessons and Recess Timings on PSLE Days](/files/Letters/2023-215 adjustments to lessons and recess timings on psle days.pdf)|
-|22 Sep|[2023-216 Field Based Learning to S.E.A. Aquarium for P6](/files/Letters/2023-216 field based learning to sea aquarium for p6.pdf)|
-|27 Sep|[2023-222 P3 Year-End Oral Assessment 2023](/files/Letters/2023-222 p3 year-end oral assessment 2023.pdf)<br>[2023-222 P4 Year-End Oral Assessment 2023](/files/Letters/2023-222 p4 year-end oral assessment 2023.pdf)<br>[2023-222 P5 Year-End Oral Assessment 2023](/files/Letters/2023-222 p5 year-end oral assessment 2023.pdf)|
-|22 Sep|[2023-220 Calendar Updates for Term 4 2023](/files/Letters/2023-220 calendar updates for term 4 2023.pdf)|
-|4 Oct|[2023-224_P4 Subject Based Banding Information (2023)](/files/Letters/2023-224 p4 subject based banding information (2023).pdf)|
-|9 Oct|[2023-230_P6_CPS_Share a Textbook Drive](/files/Letters/2023-231_p1-p5 cps_share a textbook drive.pdf)|
-|16 Oct|[2023-233 Types on programmes for Mother Tongue Languages in Primary 3 2024](/files/Letters/2023-233 types on programmes for mother tongue languages in primary 3 2024.pdf)|
-|20 Oct|[P6 Social Etiquette Workshop and Graduation Lunch 2023](/files/Letters/p6 social etiquette workshop and graduation lunch 2023.pdf)|
-|27 Oct|[2023-244 P1 -P5 Parent-Child-Teacher-Conference 2023](/files/Letters/2023-244 p1 -p5 parent-child-teacher-conference 2023.pdf)<br>[2023-244 PG Mobile App Meetings Feature](/files/Letters/2023-244 pg mobile app meetings feature.pdf)|
