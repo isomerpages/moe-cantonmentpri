@@ -35,9 +35,8 @@ Office: [64797597](tel:64797597)<br>
 Ms Jeccy Low: [88110102](tel:88110102)<br>
 Email:&nbsp;[emltransport9277@gmail.com](mailto:emltransport9277@gmail.com)  
 
- Please submit application form to the General Office: <br>
-[Info Sheet on School Bus Services 2023](/files/Services/Infor%20Sheet%20on%20School%20Bus%20Services%20(2023).pdf) <br>
-[CPS New Bus Registration Form for 2023](/files/Services/CPS%20New%20Bus%20Registration%20Form%20for%202023.pdf)
+Please email the completed form to Revolving Transport via the above email address: <br>
+[CPS New Bus Registration Form for 2024](/files/Services/cps_new_bus_registration_form_for_2024.pdf)
 
 ###### Pricing
 ###### 2024 to 2025
@@ -55,7 +54,7 @@ Email:&nbsp;[emltransport9277@gmail.com](mailto:emltransport9277@gmail.com)
 |---|---|---|---|---|
 ||1 Way|2 Way|1 Way|2 Way|
 |Up to 2|$200|$220|$180|$200|
-|2-4 KM|$160|$280|$210|$230|
+|2-4 KM|$260|$280|$210|$230|
 
 ### School Uniform
 
@@ -101,7 +100,7 @@ The Health Promotion Board’s School Dental Service (SDS) provides free basic d
 To enrol your child/ward in school dental programme, please submit the consent form electronically via Child Consent Portal [https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/). You may also refer to the Child Consent Portal website to learn more about School Dental Service
 
 ##### Opening Dates: 
-1-2, 3(am), 14 - 17 November
+Contact clinic
 
 ##### Opening Hours: 
 8 am-5.30 pm <br>
