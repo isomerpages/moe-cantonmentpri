@@ -110,13 +110,3 @@ Raising Resilient Children
 	   Parents with specific parenting concerns can arrange for 4 sessions with our Parenting Coaches to assist in tackling these issues<br><br>
 Timing of the sessions is flexible, and can be held in-person or online
     </details><br>
-		 <details>
-    <summary>Topical Workshops</summary>
-	One-off workshops focused on specific topics that are of particular interest to parents.
-May include topics such as:<br><br>
-Understanding &amp; Managing Difficult Behaviour<br>
-Developing Discipline &amp; Cultivating Routines<br>
-Understanding &amp; Expressing Emotions Appropriately<br>
-Device &amp; Gaming Addiction<br>
-Social Media Influences and Risks
-    </details>
