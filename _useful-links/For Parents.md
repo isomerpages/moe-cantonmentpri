@@ -97,26 +97,26 @@ All programmes are fully funded by the Ministry of Social and Family Development
 
 For any enquiries, you can contact us at [parenting@montfortcare.org.sg](mailto:parenting@montfortcare.org.sg)
 
- <details>
+<details>
     <summary>Positive Parenting Programme</summary>
-	Aims at preventing behavioural, emotional and developmental problems in children by enhancing the knowledge, skills and confidence of parents
-	Seminars cover the following topics:<br><br>
-The Power of Positive Parenting<br>
-Raising Confident, Competent Children<br>
-Raising Resilient Children
-    </details><br>
- <details>
+												Aims at preventing behavioural, emotional and developmental problems in children by enhancing the knowledge, skills and confidence of parents
+												Seminars cover the following topics:<br><br>
+												The Power of Positive Parenting<br>
+												Raising Confident, Competent Children<br>
+												Raising Resilient Children
+</details>
+<details>
     <summary>1 - 1 Parenting Coaching</summary>
-	   Parents with specific parenting concerns can arrange for 4 sessions with our Parenting Coaches to assist in tackling these issues<br><br>
-Timing of the sessions is flexible, and can be held in-person or online
-    </details><br>
-		 <details>
+											 Parents with specific parenting concerns can arrange for 4 sessions with our Parenting Coaches to assist in tackling these issues<br><br>
+											Timing of the sessions is flexible, and can be held in-person or online
+</details>
+<details>
     <summary>Topical Workshops</summary>
-	One-off workshops focused on specific topics that are of particular interest to parents.
-May include topics such as:<br><br>
-Understanding &amp; Managing Difficult Behaviour<br>
-Developing Discipline &amp; Cultivating Routines<br>
-Understanding &amp; Expressing Emotions Appropriately<br>
-Device &amp; Gaming Addiction<br>
-Social Media Influences and Risks
+												One-off workshops focused on specific topics that are of particular interest to parents.
+												May include topics such as:<br><br>
+												Understanding &amp; Managing Difficult Behaviour<br>
+												Developing Discipline &amp; Cultivating Routines<br>
+												Understanding &amp; Expressing Emotions Appropriately<br>
+												Device &amp; Gaming Addiction<br>
+												Social Media Influences and Risks
     </details>
