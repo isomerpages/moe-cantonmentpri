@@ -66,9 +66,7 @@ Please refer to the attached letter and booklet from MOH and HPB for updates on 
 
 ##### PayNow
 
-MOE would like to encourage all parents to register their children’s bank account with PayNow using the children’s BC/NRIC number.&nbsp;The activation of PayNow will facilitate the prompt disbursement of monies for the child.
-
-To register for PayNow for your children with their BC/NRIC number, you can refer to the attached guide on PayNow or visit the website of the Association of Banks in Singapore (link provided) for more information. Please approach your bank if you need further assistance to register for PayNow for your children. Alternatively, if you are using your children’s bank accounts with POSB/DBS or OCBC, you can fill in the online form (link provided) for MOE to help you to set up PayNow arrangements for these accounts.
+MOE would like to encourage all parents to register their children’s bank account with PayNow using the children’s BC/NRIC number. The activation of PayNow will facilitate the prompt disbursement of monies for the child.
   
 [More information on PayNow](https://www.abs.org.sg/PayNow) <br>
 [Guide on PayNow Registration.pdf](/files/Guide%20on%20PayNow%20Registration.pdf) <br>
