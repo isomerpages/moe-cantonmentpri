@@ -80,14 +80,6 @@ View [menu](/files/Canteen%20Menu.pdf)
 
 ### School based Student Care Centre
 
-###### 2023
- Kidz Treehouse International Pte Ltd<br>
-Website:&nbsp;[www.kidztreehouse.com.sg](http://www.kidztreehouse.com.sg/)[  
-](https://kidztreehouse.com.sg/cps/) <br>
-Email:&nbsp;[cps@kowabunga.com.sg](mailto:cps@kowabunga.com.sg) <br>
-Phone:&nbsp;[68505171](tel:+6568505171) / [81272236](tel:+6581272236)
-
-###### 2024
 Commit Learning Schoolhouse Pte Ltd<br>
 Website: [https://www.commitlearning.com.sg]( https://www.commitlearning.com.sg)<br>
 Email: [admission_cls_cps@commitlearning.com.sg](mailto:admission_cls_cps@commitlearning.com.sg)<br>
