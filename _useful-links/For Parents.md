@@ -111,6 +111,11 @@ For any enquiries, you can contact us at [parenting@montfortcare.org.sg](mailto:
 											Timing of the sessions is flexible, and can be held in-person or online
 </details>
 <details>
+    <summary>1 - 1 Parenting Coaching</summary>
+											 Parents with specific parenting concerns can arrange for 4 sessions with our Parenting Coaches to assist in tackling these issues<br><br>
+											Timing of the sessions is flexible, and can be held in-person or online
+</details>
+<details>
     <summary>Topical Workshops</summary>
 												One-off workshops focused on specific topics that are of particular interest to parents.
 												May include topics such as:<br><br>
