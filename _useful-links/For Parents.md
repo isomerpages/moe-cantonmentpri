@@ -86,3 +86,37 @@ Parents will be able to do the following through the app (SingPass login require
 * Keep track of upcoming activities for multiple children.
 * Travel Declaration <br>[New travel declaration](/files/Quick-Guide-to-Travel-Declaration-on-PG.pdf) <br> [Amend travel declaration](/files/Amending%20Travel%20Declarations%20on%20PG.pdf) 
 * Update contact details for Parents
+
+##### Montfort Care Parenting Support Team
+[Montfort Care](https://www.montfortcare.org.sg/) is a Social Service Agency dedicated to improving the lives of
+individuals, families and the community facing transitional challenges
+
+The Parenting Support Team of Montfort Care was appointed by the Ministry of Family Development (MSF) to deliver Evidence-Based Programmes within the Kreta Ayer / Bukit Merah region.
+
+All programmes are fully funded by the Ministry of Social and Family Development
+
+For any enquiries, you can contact us at [parenting@montfortcare.org.sg](mailto:parenting@montfortcare.org.sg)
+
+ <details>
+    <summary>Positive Parenting Programme</summary>
+	Aims at preventing behavioural, emotional and developmental problems in children by enhancing the knowledge, skills and confidence of parents
+	Seminars cover the following topics:<br><br>
+The Power of Positive Parenting<br>
+Raising Confident, Competent Children<br>
+Raising Resilient Children
+    </details><br>
+ <details>
+    <summary>1 - 1 Parenting Coaching</summary>
+	   Parents with specific parenting concerns can arrange for 4 sessions with our Parenting Coaches to assist in tackling these issues<br><br>
+Timing of the sessions is flexible, and can be held in-person or online
+    </details><br>
+		 <details>
+    <summary>Topical Workshops</summary>
+	One-off workshops focused on specific topics that are of particular interest to parents.
+May include topics such as:<br><br>
+Understanding &amp; Managing Difficult Behaviour<br>
+Developing Discipline &amp; Cultivating Routines<br>
+Understanding &amp; Expressing Emotions Appropriately<br>
+Device &amp; Gaming Addiction<br>
+Social Media Influences and Risks
+    </details>
