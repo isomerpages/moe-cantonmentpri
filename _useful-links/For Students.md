@@ -10,7 +10,15 @@ variant: markdown
 | For password resets, contact:|  |  |  |  |  |
 | Form/subject teachers | Form/subject teachers | Form teachers | Maths teacher | Chinese language teachers |
 
-	
+
+|[Student Learning Space](https://vle.learning.moe.edu.sg/login)|[Microsoft Office](https://www.office.com/)|[Google ICON Email](https://workspace.google.com/dashboard)|[MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)|[KooBits](https://member.koobits.com/)|[eZhishi](https://www.ezhishi.net/Contents/)|[Library Search](https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)|
+|------|------|------|------|------|------|------|
+|<a href="https://vle.learning.moe.edu.sg/login"><img style="width:25%" src="/images/SLS%20Icon.png" align="left"></a>|<a href="https://www.office.com/"><img style="width:25%" src="/images/MS365.png" align="left"></a>  | <a href="https://workspace.google.com/dashboard"><img style="width:25%" src="/images/Gmail.jpg" align="left"></a>|<a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html"><img style="width:100%" src="/images/Myskillsfuture.jpg" align="left"></a>|<a href="https://member.koobits.com/"><img style="width:100%" src="/images/Koobits.jpg" align="left"></a>|<a href="https://www.ezhishi.net/Contents/"><img style="width:100%" src="/images/Ezhishi.jpg" align="left"></a>|<a href="https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><img style="width:100%" src="/images/Spydus.jpg" align="left"></a>|
+| For password resets, contact:|  |  |  |  |  ||
+| Form/subject teachers | Form/subject teachers| Form/subject teachers | Form teachers | Maths teacher | Chinese language teachers |
+
+
+
 
 You can also send a WhatsApp message to the General Office ([65119555](http://wa.me/6565119555)) if you need a password reset after school hours. 
 
