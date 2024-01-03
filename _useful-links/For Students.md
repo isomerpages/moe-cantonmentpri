@@ -4,13 +4,14 @@ permalink: /useful-links/for-students/
 description: ""
 variant: markdown
 ---
-|[Student Learning Space](https://vle.learning.moe.edu.sg/login)|[Google ICON Email](https://workspace.google.com/dashboard)|[MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)|[KooBits](https://member.koobits.com/)|[eZhishi](https://www.ezhishi.net/Contents/)|[Library Search](https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)|
-|------|------|------|------|------|------|
-|<a href="https://vle.learning.moe.edu.sg/login"><img style="width:25%" src="/images/SLS%20Icon.png" align="left"></a> | <a href="https://workspace.google.com/dashboard"><img style="width:25%" src="/images/Gmail.jpg" align="left"></a>|<a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html"><img style="width:100%" src="/images/Myskillsfuture.jpg" align="left"></a>|<a href="https://member.koobits.com/"><img style="width:100%" src="/images/Koobits.jpg" align="left"></a>|<a href="https://www.ezhishi.net/Contents/"><img style="width:100%" src="/images/Ezhishi.jpg" align="left"></a>|<a href="https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><img style="width:100%" src="/images/Spydus.jpg" align="left"></a>|
-| For password resets, contact:|  |  |  |  |  |
-| Form/subject teachers | Form/subject teachers | Form teachers | Maths teacher | Chinese language teachers |
+|[Student Learning Space](https://vle.learning.moe.edu.sg/login)|[Microsoft Office](https://www.office.com/)|[Google Email](https://workspace.google.com/dashboard)|[MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)|[KooBits](https://member.koobits.com/)|[eZhishi](https://www.ezhishi.net/Contents/)|[Library Search](https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)|
+|------|------|------|------|------|------|------|
+|<a href="https://vle.learning.moe.edu.sg/login"><img style="width:25%" src="/images/SLS%20Icon.png" align="left"></a>|<a href="https://www.office.com/"><img style="width:25%" src="/images/MS365.png" align="left"></a>  | <a href="https://workspace.google.com/dashboard"><img style="width:25%" src="/images/Gmail.jpg" align="left"></a>|<a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html"><img style="width:100%" src="/images/Myskillsfuture.jpg" align="left"></a>|<a href="https://member.koobits.com/"><img style="width:100%" src="/images/Koobits.jpg" align="left"></a>|<a href="https://www.ezhishi.net/Contents/"><img style="width:100%" src="/images/Ezhishi.jpg" align="left"></a>|<a href="https://schoolibrary.moe.edu.sg/cantonmentpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><img style="width:100%" src="/images/Spydus.jpg" align="left"></a>|
+| For password resets, contact:|  |  |  |  |  ||
+| Form/subject teachers | Form/subject teachers| Form/subject teachers | Form teachers | Maths teacher | Chinese language teachers |
 
-	
+
+
 
 You can also send a WhatsApp message to the General Office ([65119555](http://wa.me/6565119555)) if you need a password reset after school hours. 
 
@@ -25,13 +26,13 @@ If you get an error when logging in to any of above websites, clear your browser
 | 1. Must be 8-24 characters long<br>2. at least 1 lowercase letter(s). <br>3. at least 1 numeric character(s)<br>4. at least 1 uppercase letter(s)<br>5. at least 2 alphabetic character(s)<br>6. not be one of 3 previous passwords<br>7. not match or contain first name or last name<br>8. not match or contain user ID<br>9. Password expires every 90 (Sec/JC)/360 (Pri) days. Users will be alerted via email 7 days before the expiry date.<br>10. Maximum of 5 login attempts are allowed. | 1. Minimum 12 characters<br>2. Contain at least 1 number<br>3. Can be all small letters |
 | | |
 
-### Student ICON (Google Email)
+### Google Email
 
 [Student iCON Onboarding Guide](/files/Student%20iCON%20Onboarding%20Guide.pdf) <br>
-[ICON Login Steps](/files/ICON%20Login.pdf)<br>
+[Google Login Steps](/files/ICON%20Login.pdf)<br>
 
 	
-With Student ICON, you can use:
+With your student email, you can use:
 
 | [Google Suite](https://workspace.google.com/dashboard)| [Zoom](https://zoom.us/signin)| [Microsoft Pro Plus](https://www.office.com/)|
 |---|---|---|
