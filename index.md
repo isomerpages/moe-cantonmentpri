@@ -8,4 +8,5 @@ notification: ""
 sections:
   - hero:
       background: /images/front.jpg
+      variant: image
 ---
