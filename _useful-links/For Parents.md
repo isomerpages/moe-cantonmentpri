@@ -47,7 +47,7 @@ variant: markdown
 
 ##### School Based Health Check
 	
-[Online submission of consent for Immunisation and medical information](https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal) <br>
+[Online submission of consent for Immunisation and medical information](https://consent.hpb.gov.sg/) <br>
 [HPB consent form for immunisation for P1 students](/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P1%20Students.pdf) <br>
 [HPB consent form for immunisation for P5 students](/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P5%20Students.pdf)
 	
