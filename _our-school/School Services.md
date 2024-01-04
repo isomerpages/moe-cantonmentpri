@@ -90,7 +90,7 @@ Call/WhatsApp:[80778218](https://wa.me/6580778218.)<br>
 
 The Health Promotion Board’s School Dental Service (SDS) provides free basic dental services in school dental clinics and mobile dental clinics for Primary and Secondary students to promote good oral health for life. Annually, all Primary 1, Primary 2, Primary 4, Primary 6, &nbsp;Secondary 1 and Secondary 3 students who are enrolled in the school dental programme will be screened and treated by SDS. Students in other levels who require dental services may visit the school dental clinics or mobile dental clinics for free consultation and treatment. Services are provided by dentists, dental therapists or advanced students in oral health therapy under close supervision.
 
-To enrol your child/ward in school dental programme, please submit the consent form electronically via Child Consent Portal [https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/). You may also refer to the Child Consent Portal website to learn more about School Dental Service
+To enrol your child/ward in school dental programme, please submit the consent form electronically via Child Consent Portal [https://consent.hpb.gov.sg/](https://consent.hpb.gov.sg/). You may also refer to the Child Consent Portal website to learn more about School Dental Service
 
 ##### Opening Dates: 
 3-5, 15-19, 29(pm). 30-31 January 
