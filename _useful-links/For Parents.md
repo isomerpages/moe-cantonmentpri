@@ -25,11 +25,7 @@ variant: markdown
 
 ### Touch Base Meeting
 [P1](/files/TBM/P1_TBM.pdf)<br>
-[P2](/files/TBM/P2_TBM.pdf)<br>
-[P3](/files/TBM/P3_TBM.pdf)<br>
-[P4](/files/TBM/P4_TBM.pdf)<br>
-[P5](/files/TBM/P5_TBM.pdf)<br>
-[P6](/files/TBM/P6_TBM.pdf)
+
 
 ##### Cyberwellness&nbsp;
 [MOE Cyber Wellness Guide](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)&nbsp;<br>
