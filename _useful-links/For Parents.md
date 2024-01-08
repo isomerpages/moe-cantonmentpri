@@ -12,7 +12,11 @@ variant: markdown
 [Secondary Direct School Admissions](https://www.moe.gov.sg/secondary/dsa)<br>
 
 ### Update Student Particulars
-[Update student/parent particulars - Requires SingPass login](https://pg.moe.edu.sg/forms/sdf)
+[Update student/parent particulars - Requires SingPass login](https://pg.moe.edu.sg/forms/sdf)<br><br>
+To update parent email and phone:
+on Parent Gateway app:<br> go to 'Profile' &gt; 'Edit contact details' <br>
+Not on Parent Gateway  click [here](https://form.gov.sg/625629188a621f0012a3a16c)<br><br>
+To update parent email/phone and you are not on Parent Gateway or you would like to update your home address click [here](https://form.gov.sg/625629188a621f0012a3a16c)
 
 ### Admission
 [Singaporean and PR Students](https://form.gov.sg/62561c0cf319210013a4d4dc)<br>
