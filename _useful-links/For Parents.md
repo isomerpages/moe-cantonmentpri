@@ -35,14 +35,14 @@ To update parent email/phone and you are not on Parent Gateway or you would like
 [P5](/files/TBM/P5_TBM.pdf)<br>
 [P6](/files/TBM/P6_TBM.pdf)
 
-##### Cyberwellness&nbsp;
-[MOE Cyber Wellness Guide](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)&nbsp;<br>
+##### Cyberwellness
+[MOE Cyber Wellness Guide](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)<br>
 [Cyber Wellness Holiday Tips for Parents](/files/Cyberwellness%20Holiday%20Tips%20for%20Parents.pdf) <br>
 [MOE Parent Kit](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
 
 ##### P4 Subject Based Banding
 [Website](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)  
-[English](/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf)&nbsp;&nbsp; &nbsp;&nbsp;[Chinese](/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf)&nbsp;&nbsp; &nbsp;&nbsp;[Malay](/files/MOE_SBB_ML_revised%201%20Mar%202018.pdf)&nbsp;&nbsp; &nbsp;&nbsp;[Tamil](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
+[English](/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf) [Chinese](/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf) [Malay](/files/MOE_SBB_ML_revised%201%20Mar%202018.pdf) [Tamil](/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf)
 
 ##### PSLE Parent Engagement
 [PSLE 2023_Parent Engagement](/files/psle%20parent%20engagement.pdf)
