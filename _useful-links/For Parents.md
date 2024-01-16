@@ -25,7 +25,7 @@ To update parent email/phone and you are not on Parent Gateway or you would like
 
 ### Cantonment Times
 [Semester 1 2023 Newsletter](/files/Times/2023semester1.pdf)<br>
-
+[Semester 2 2023 Newsletter](/files/Times/2023semester2.pdf)<br>
 
 ### Touch Base Meeting
 [P1](/files/TBM/P1_TBM.pdf)<br>
