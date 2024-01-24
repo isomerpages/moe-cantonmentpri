@@ -1,0 +1,219 @@
+---
+title: Our Staff
+permalink: /our-school/our-staff/
+description: ""
+variant: markdown
+---
+Click on "Email" to send an email to the teacher or click on "WA" to start a WhatsApp chat with them.
+
+##### General Office: 
+Email: [cantonment_ps@moe.edu.sg](mailto:cantonment_ps@moe.edu.sg)  <br>
+Phone/WhatsApp: 65119555/ [WA](https://wa.me/6565119555)
+
+##### School Leaders
+
+| Role | Name |
+|---|---|
+| Principal | Mrs Manokara S  |  
+| Vice Principal (Acad) | Ms Cheng Shin Miin |   
+| Vice Principal (Admin) | Mr Loh Siang Kiang |
+
+##### Head of Departments and Subject Heads
+
+| Role | Name | Phone | Email | WhatsApp |
+|---|---|---|---|---|
+| HOD Mathematics|  Mr Andy Fan |  65119555 x 447 | [Email](https://form.gov.sg/5dc1301bb9014c0012b8c7ac) |  [WA](https://wa.me/6565119559) |
+| HOD Science | Ms Caroline M. Selva |  65119555 x 446 | [Email](https://form.gov.sg/5dc12b9f1b03c20019122fac) | [WA](https://wa.me/6565119560) |
+| HOD PAM/CCA | Mr Wilbert Tan | 65119587	| [Email](https://form.gov.sg/63aaf2f7acde1200127ffe63)  | [WA](https://wa.me/6565119587) |
+|HOD CCE | Mrs Samantha Kong |65119555 x 444 |[Email](https://form.gov.sg/658c3e0045a70b00114a34b8) | |
+|HOD Student Management |Mr Josh Wong |65119564	 |[Email](https://form.gov.sg/658c44223570490011a57b55) |[WA](https://wa.me/6565119564) |
+| SH English Language | Mr Azhar  |  65119586 | [Email](https://form.gov.sg/61c9eb126c60da00127bfaac) | [WA](https://wa.me/6565119586) |
+| SH Chinese Language | Mrs Tan Sze Mian | 65119585 | [Email](https://form.gov.sg/5dc12f9c5bec6f0012034925) | [WA](https://wa.me/6565119585) |
+| SH Malay Language | Mr Nur Muhammad | 63036296 | [Email](https://form.gov.sg/5dc129795f93b50019043ed1) | [WA](https://wa.me/6563036296) |
+| LH Mathematics | Mrs Tan Guat Hwa |  65119562 | [Email](https://form.gov.sg/61c9ebb4f46e8700121fb164) | [WA](https://wa.me/6565119562) |
+| LH Science | Mr Bunawar |  65119563 | [Email](https://form.gov.sg/5dc130e9b9014c0012b8c800) | [WA](https://wa.me/6565119563) |
+| SH Physical Education/CCA | Mdm Rachel Wong |65119644	 | [Email](https://form.gov.sg/658c44fd8bddc300129a0b36)|[WA](https://wa.me/6565119644) |
+| SH Student Management | Mr Tarmizi | 64999417 | [Email](https://form.gov.sg/5dc11f105f93b50019043af8) | [WA](https://wa.me/6564999417) |
+| SH CCE | Mrs Arun | 64999249 | [Email](https://form.gov.sg/5e0587cddf378700118edf8b) | [WA](https://wa.me/6564999249) |
+| | Ms Huang Yinqi  | 64999237 | [Email](https://form.gov.sg/5dc11eb01b03c20019122a8b) | [WA](https://wa.me/6564999237) |
+| SH ICT | Mr Johnny Chan |  65119588 | [Email](https://form.gov.sg/5db78593506fd6001264ff1f) | [WA](https://wa.me/6565119588) |
+|  | Mr Shah |  65119568 | [Email](https://form.gov.sg/5dc221dfc321c6001240b9a4) | [WA](https://wa.me/6565119568) |
+| Year Head Lower Primary (P12) | Ms So Bee Soon | 65119555 x 445  | [Email](https://form.gov.sg/5dc11d231b03c200191229f0) | [WA](https://wa.me/6565119646) |
+|Year Head Middle Primary (P34)| Ms Malinda Lim| 65119643 | [Email](https://form.gov.sg/5dc12cb31b03c2001912301f) | [WA](https://wa.me/6565119643) | 
+| Year Head Upper Primary (P56) | Mrs Chen Yi Fang | 65119645 | [Email](https://form.gov.sg/63ad7eb1fce97a0012cdbad1) | [WA](https://wa.me/6565119645) |
+| Asistant Year Head Lower Primary (P12) | Mdm Adeline Ong | 65119582 | [Email](https://form.gov.sg/5dc11e7f1b03c20019122a73) | [WA](https://wa.me/6565119582) |
+| Asistant Year Head Upper Primary (P56) |Mr Ameen | 64999423 | [Email](https://form.gov.sg/5dc126385f93b50019043da0) | [WA](https://wa.me/6564999423) |
+|  |   |   |   |   |
+
+##### Lead and Senior Teachers
+
+| Role | Name | Phone | Email | WA |
+|---|---|---|---|---|
+|  LT Mathematics | Ms Aileen Poon |  64999419 | [Email](https://form.gov.sg/5dc261f0c321c6001240d3c0) | [WA](https://wa.me/6564999419) |
+| ST English Language | Mrs Yap Pui Mei |  64999241 | [Email](https://form.gov.sg/5dc12ddd5bec6f001203485f) | [WA](https://wa.me/6564999241) |
+| ST Chinese Language | Ms Li Lidan |  64999422 | [Email](https://form.gov.sg/5dc125051b03c20019122cfa) | [WA](https://wa.me/6564999422) |
+|  | Ms Seah Lay Keng |  64999410 | [Email](https://form.gov.sg/5dc12d155f93b5001904400d) | [WA](https://wa.me/6564999410) |
+| ST Science | Mdm Lim Wan Jo | 65119571 | [Email](https://form.gov.sg/5dc21e4cc321c6001240b7fe) | [WA](https://wa.me/6565119571) |
+| ST Physical Education | Ms Cassandra Siua | 64999411 | [Email](https://form.gov.sg/5e0583cd8967b800114c11a7) | [WA](https://wa.me/6564999411) |
+| ST Lower Primary  | Mrs Jocelyn Lee | 65119583 | [Email](https://form.gov.sg/5dc11e395f93b50019043aa9)  | [WA](https://wa.me/6565119583) |
+| ST Educational Support  | Mr Jerome Chong&nbsp; | 65119566&nbsp; | [Email](https://form.gov.sg/5dc2222511ecd70012ef90ed) | [WA](https://wa.me/6565119566) |
+|   |   |   |   |   |
+
+##### Primary 1
+
+| Classs | Name | Phone | Email | WA |
+|---|---|---|---|---|
+|1 Care |Mrs Prasana Ramesh|64999245| [Email](https://form.gov.sg/5f9f6a974e781300114a537a)| [WA](https://wa.me/6564999245)|
+| |Ms Huang Yinqi|64999237| [Email](https://form.gov.sg/5dc11eb01b03c20019122a8b)| [WA](https://wa.me/6564999237)|
+| 1 Graciousness |Mrs Evangelyn Goh|64999233| [Email](https://form.gov.sg/5dc12e3a5bec6f0012034894)| [WA](https://wa.me/6564999233)|
+| |Mdm Khloe Goh|64999232| [Email](https://form.gov.sg/5dc11de15f93b50019043a85)| [WA](https://wa.me/6564999232)|
+| 1 Integrity |Mrs Joleen Teo|64999235| [Email](https://form.gov.sg/5e9d32fe31bb1d0011180355)| [WA](https://wa.me/6564999236)|
+| |Ms Karen John|64999230| [Email](https://form.gov.sg/5dc12c811b03c20019123004)| [WA](https://wa.me/6564999230)|
+| 1 Resilience |Mdm Toh Hong Yee|64999238| [Email](https://form.gov.sg/61c9ee4347f7c60013119d0a)| [WA](https://wa.me/6564999238)|
+| | Mdm Sujatha|65119569| [Email](https://form.gov.sg/5e05835ddf378700118edee0)| [WA](https://wa.me/6565119569)|
+| 1 Respect |Mdm Gloria Tan|63036298| [Email](https://form.gov.sg/61fb200c07aa770012cc998c)| [WA](https://wa.me/6563036298)|
+| |Mdm So Bee Soon|65119555 x 445| [Email](https://form.gov.sg/5dc11d231b03c200191229f0)| [WA](https://wa.me/6564999412)|
+| | | | | |
+
+##### Primary 2
+
+| Class | Name | Phone | Email  | WA |
+|---|---|---|---|---|
+| 2 Care |Mr Alan|64999424| [Email](https://form.gov.sg/5dc125625f93b50019043d54)| [WA](https://wa.me/6564999424)|
+| |Ms Zhang Fang|64999407	| [Email](https://form.gov.sg/5dc12c095f93b50019043fb2)| [WA](https://wa.me/6564999407)|
+| 2 Graciousness |Ms Cheong Mun See|64999414| [Email](https://form.gov.sg/5dc1252c5f93b50019043d41)| [WA](https://wa.me/6564999414)|
+| |Mdm Tay Yong Ngee|64999403| [Email](https://form.gov.sg/5dc115645f93b50019043792)| [WA](https://wa.me/6564999403)|
+|2 Integrity |Mr Jeremy Issac|64999420| [Email](https://form.gov.sg/61c9ea4847f7c60013117d25)| [WA](https://wa.me/6564999420)|
+| | Mrs Samantha Kong |65119555 x 444 |[Email](https://form.gov.sg/658c3e0045a70b00114a34b8) | |
+| |Ms Liyu Min Yi|65119555 x 441| [Email](https://form.gov.sg/5e05880edf378700118edf96)| |
+| 2 Resilience |Mrs Jocelyn Lee|65119583| [Email](https://form.gov.sg/5dc11e395f93b50019043aa9)| [WA](https://wa.me/6565119583)|
+| |Mr Joshua Goh|63036292| [Email](https://form.gov.sg/5dc11d611b03c20019122a14)| [WA](https://wa.me/6563036292)|
+| 2 Respect |Mdm Rossenah Binte Kamis| 63036294 | [Email](https://form.gov.sg/630d94792c1e910013ba2d49)|[WA](https://wa.me/6563036294)|
+| |Mdm Adeline Ong|65119582| [Email](https://form.gov.sg/5dc11e7f1b03c20019122a73)| [WA](https://wa.me/6565119582)|
+| | Miss Michelle Tan|63036295 |[Email](https://form.gov.sg/658c3faa8bddc3001299f2c9) |[WA](https://wa.me/6563036295) |
+| 2 Harmony |Mrs Donica Goh|63036291| [Email](https://form.gov.sg/5dc1174b5f93b5001904386d)| [WA](https://wa.me/6563036291)|
+| |Mrs Jasmin Han |65119577| [Email](https://form.gov.sg/5dc118535f93b500190438be)| [WA](https://wa.me/6565119577)|
+| | | | | |
+
+##### Primary 3
+
+| Class | Name | Phone | Email | WA |
+| --- | --- | --- | --- | --- |
+|3 Care |Ms Seah Lay Keng|64999410| [Email](https://form.gov.sg/5dc12d155f93b5001904400d)| [WA](https://wa.me/6564999410)|
+| |Miss Daphne Low |64999412 | [Email](https://form.gov.sg/658c41a0fb50c90011678ea9)| |
+|3 Graciousness |Mdm Salwah|64999427| [Email](https://form.gov.sg/5dc2218311ecd70012ef90a7)| [WA](https://wa.me/6564999427)|
+| |Ms Wu Jia Yue|65119555 x 436| [Email](https://form.gov.sg/61c9ef7b2e385400128aed55)| |
+| |Mr Bunawar|65119563| [Email](https://form.gov.sg/5dc130e9b9014c0012b8c800)| [WA](https://wa.me/6565119563)|
+| 3 Integrity |Ms Malinda Lim | 65119643 | [Email](https://form.gov.sg/5dc12cb31b03c2001912301f)| [WA](https://wa.me/6565119643)|
+| |Ms Mak |65119576 |[Email](https://form.gov.sg/658c42e0745e840011a41350)| |
+| |Mr Muhammad Zulhilmi Bin Abdullah|65119570| [Email](https://form.gov.sg/61c9ed563cff100012cef5e8)| [WA](https://wa.me/6565119570)|
+|3 Resilience |Mr Nur Muhammad|63036296| [Email](https://form.gov.sg/5dc129795f93b50019043ed1)| [WA](https://wa.me/6563036296)|
+||Ms Sally Low|64999405| [Email](https://form.gov.sg/5dc128b61b03c20019122e80)| [WA](https://wa.me/6564999405)|
+|3 Respect |Mr Seah Tiong Boon|64999406| [Email](https://form.gov.sg/5dc12b7a1b03c20019122f9b)| [WA](https://wa.me/6564999406)|
+|  |Ms Nur Azirah| 64999234 | [Email](https://form.gov.sg/63aaf20bacde1200127ff446)|[WA](https://wa.me/6564999234 ) |
+|3 Harmony |Mr Josh Wong |65119564 |[Email](https://form.gov.sg/658c44223570490011a57b55) | |
+| |Ms Chua Jing Yi|63036299| [Email](https://form.gov.sg/61cd69393cff1000121db933)| [WA](https://wa.me/6563036299)|
+| |Mdm Gladys Tay|64999408| [Email](https://form.gov.sg/5dc2209ec321c6001240b922)| [WA](https://wa.me/6564999408)|
+| | | | | |
+
+##### Primary 4
+
+| Class | Name | Phone | Email | WA| 
+|---|---|---|---|---|
+| 4 Care |Ms Jaslin Yeo|64999416| [Email](https://form.gov.sg/60deacf6967a9000129466b5)| [WA](https://wa.me/6564999414)|
+| |Ms Arun|64999249| [Email](https://form.gov.sg/5e0587cddf378700118edf8b)| [WA](https://wa.me/6564999249)|
+| |Mr Johnny Chan|65119588| [Email](https://form.gov.sg/5db78593506fd6001264ff1f)| [WA](https://wa.me/6565119588)|
+| 4 Graciousness |Mrs Jenny Tham|| ||
+| |Mdm Ng Jie Ling|64999426| [Email](https://form.gov.sg/5dc1145f1b03c2001912266e)| [WA](https://wa.me/6564999426)|
+| | Mdm Rachel Wong|65119644| [Email](https://form.gov.sg/658c44fd8bddc300129a0b36)|[WA](https://wa.me/6565119644) |
+| 4 Integrity |Ms Li Lidan|64999422| [Email](https://form.gov.sg/5dc125051b03c20019122cfa)| [WA](https://wa.me/6564999422)|
+| |Mr Jared Goh |65119581| [Email](https://form.gov.sg/5e42c22f228e6f0011eaede8)| [WA](https://wa.me/6565119581)|
+| 4 Resilience |Ms Sangeetha|64999248| [Email](https://form.gov.sg/5ed48b24f2ec2d00118d4083)| [WA](https://wa.me/6564999248)|
+| |Mr Tarmizi|64999417|[Email](https://form.gov.sg/5dc11f105f93b50019043af8) |[WA](https://wa.me/6564999417) |
+| 4 Respect |Ms Loh Li Yoke|65119573| [Email](https://form.gov.sg/5dc2214711ecd70012ef9086)| [WA](https://wa.me/6565119573)|
+| |Ms Amira | 65119580 | [Email](https://form.gov.sg/63ad7dda793e870011303c18)| [WA](https://wa.me/6565119580)|
+| 4 Harmony |Ms Yvonne Koh|64999401| [Email](https://form.gov.sg/5dc1240c5f93b50019043cc5)| [WA](https://wa.me/6564999401)|
+| |Mr Kevin Yang|64999423| [Email](https://form.gov.sg/5dc118d45f93b500190438ed)||
+| 4 Compassion |Ms Kaylen Ang|64999243| [Email](https://form.gov.sg/5dc115e95f93b500190437c3)| [WA](https://wa.me/6564999243)|
+| |Mr Albert Wong|63036290| [Email](https://form.gov.sg/630d951329f49e00134a4f40)| [WA](https://wa.me/6563036290 )|
+| | | | | |
+
+##### Primary 5
+
+| Class | Name | Phone | Email | WA |
+| --- | --- | --- | --- | --- |
+|5 Care |Ms Cassandra Siua|64999411| [Email](https://form.gov.sg/5e0583cd8967b800114c11a7)| [WA](https://wa.me/6564999411)|
+| | Ms Caroline M. Selva |65119555 x 446| [Email](https://form.gov.sg/5dc12b9f1b03c20019122fac)| [WA](https://wa.me/6565119560)|
+| 5 Graciousness |Mrs Persis Koh|65119572| [Email](https://form.gov.sg/5dc13043b9014c0012b8c7b8)| [WA](https://wa.me/6565119572)|
+| |Mdm Shakila Banu|64999246| [Email](https://form.gov.sg/5dc12ce07dc06400122afa1c)| [WA](https://wa.me/6564999246)|
+|5 Integrity |Ms Lau Kai Jing|64999231| [Email](https://form.gov.sg/5dc115231b03c200191226b6)| [WA](https://wa.me/6564999231)|
+| |Mr  Azhar|65119586| [Email](https://form.gov.sg/61c9eb126c60da00127bfaac)| [WA](https://wa.me/6565119586)|
+| 5 Resilience | Mrs Yap Pui Mei|64999241| [Email](https://form.gov.sg/5dc12ddd5bec6f001203485f)| [WA](https://wa.me/6564999241)|
+| |Mr Jason Tan| 64999244| [Email](https://form.gov.sg/5dc2210811ecd70012ef9069)| [WA](https://wa.me/6564999244)|
+|5 Respect |Mdm Lim Wan Jo|65119571| [Email](https://form.gov.sg/5dc21e4cc321c6001240b7fe)| [WA](https://wa.me/6565119571)|
+| |Mr Shah | 65119568| [Email](https://form.gov.sg/5dc221dfc321c6001240b9a4)| [WA](https://wa.me/6565119568)|
+| | | | | |
+
+##### Primary 6
+
+| Class | Name | Phone | Email | WA | 
+|---|---|---|---|---|
+|6 Care |Mdm Nor Afidah|64999409| [Email](https://form.gov.sg/61c9ec3a6c60da00127c039b)| [WA](https://wa.me/6564999409)|
+| |Mr Jerome Chong|65119566| [Email](https://form.gov.sg/5dc2222511ecd70012ef90ed)| [WA](https://wa.me/6565119566)|
+| |Mrs Chen Yi Fang | 65119645 | [Email](https://form.gov.sg/63ad7eb1fce97a0012cdbad1)| [WA](https://wa.me/6565119645)|
+| 6 Graciousness |Mr Daniel Ying|64999421| [Email](https://form.gov.sg/5dc130995bec6f0012034970)| [WA](https://wa.me/6564999421)|
+| |Mrs Tan Guat Hwa|65119562| [Email](https://form.gov.sg/61c9ebb4f46e8700121fb164)| [WA](https://wa.me/6565119562)|
+| |Mr Boo Choon Kwang| 64999413 | [Email](https://form.gov.sg/63f566df1e6f560012e39519)|[WA](https://wa.me/6564999413)|
+| 6 Integrity |Ms Tan Yi Xin|64999429| [Email](https://form.gov.sg/607d4ae2145bfa001228cbba)| [WA](https://wa.me/6564999429)|
+| |Mr Wilbert Tan| 65119587 | [Email](https://form.gov.sg/63aaf2f7acde1200127ffe63)| [WA](https://wa.me/6565119587) |
+|6 Resilience|Mr Ameen|64999423| [Email](https://form.gov.sg/5dc126385f93b50019043da0)| [WA](https://wa.me/6564999423)|
+| |Ms Sim Bee Hoon|64999425|[Email](https://form.gov.sg/5dc22b7511ecd70012ef94be)|[WA](https://wa.me/6564999425)|
+| |Ms Aileen Poon|64999419| [Email](https://form.gov.sg/5dc261f0c321c6001240d3c0)| [WA](https://wa.me/6564999419)|
+| 6 Respect |Mrs Joy Loke|64999415| [Email](https://form.gov.sg/5dc115a75f93b500190437b2)|[WA](https://wa.me/6564999415)|
+| |Mrs Ang Yongling| 65119584 | [Email](https://form.gov.sg/63aaf3a42ffb140011f3b460)|[WA](https://wa.me/6565119584 ) |
+| |Mr Andy Fan|65119555 x 447| [Email](https://form.gov.sg/5dc1301bb9014c0012b8c7ac)| [WA](https://wa.me/6565119559)|
+| 6 Harmony |Ms Gladys Tan|64999428| [Email](https://form.gov.sg/5dc12d515f93b5001904401a)| [WA](https://wa.me/6564999428)|
+| |Mrs Tan Sze Mian|65119585| [Email](https://form.gov.sg/5dc12f9c5bec6f0012034925)| [WA](https://wa.me/6565119585)|
+| |Mr Yahya|64999400| [Email](https://form.gov.sg/5dc221b5c321c6001240b990)| [WA](https://wa.me/6564999400)|
+| | | | | |
+
+##### Allied Educators
+
+| Role | Name | Phone | Email |
+|---|---|---|---|
+| Senior School&nbsp;Counsellor| Ms Ooi Huishan | 64999242 | [Email](https://form.gov.sg/5dc2237811ecd70012ef9180) |
+| Student Welfare Officer | Ms Diana Ho | 64999240 | [Email](https://form.gov.sg/5dc223ec11ecd70012ef91b4) |
+| Special Educational Needs Officer | Mdm Jenny Wong | 65119567 | [Email](https://form.gov.sg/5dc2239f11ecd70012ef9195) |
+| | Ms Ariela Yap | 65119565 | [Email](https://form.gov.sg/5ed48a3839b707001103884c) |
+| |Ms Jane |65119578	 | [Email](https://form.gov.sg/658c4bc7a1075d0011cfc1b2)|
+| | | | |
+
+##### Other Teaching Staff
+
+| Name | Phone | Email | WA | 
+|---|---|---|---|
+| Mr Lim Eng Guan |65119555x435|[Email](https://form.gov.sg/630d95fdf87eed0012c9a5f2)||
+|Miss Lee|65119555x450|[Email](https://form.gov.sg/64b8da90c3c8e30012e5db74)||
+|Mdm Chan Yoke Peng|65119555x448|[Email](https://form.gov.sg/658c4a383b5ec40011b93271)|[WA](https://wa.me/6564999239)|
+|Mdm Evelyn Ho|64999236|[Email](https://form.gov.sg/658c4aef745e840011a43376)||
+|
+
+##### Executive and Administrative Staff 
+
+| Role | Name | Phone | Email |
+|---|---|---|---|
+| Administration Manager | Mr Raymond Moo | 65119553 | [Email](https://form.gov.sg/5dc2265cc321c6001240bc4b) |
+| | Mr Mark Tham | 65119642 | [Email](https://form.gov.sg/5ff659754b11630012b4c936) |
+|Administrative Executive | Mdm Peggy Tan | 65119557 | [Email](https://form.gov.sg/5dc226e511ecd70012ef9302) |
+| Corporate&nbsp;Support Officer | Mrs Mala Gunassaharan | 65119560 | [Email](https://form.gov.sg/5dc226b511ecd70012ef92ed) |
+||Mdm K Rajeswary |65119662|[Email](https://form.gov.sg/65095285356d470012fbc626)|
+| Receptionist cum Admin | Mrs S. Priemal | 65119555 | |
+| ICT Manager | Mr Puvan | 65119555 | [Email](https://form.gov.sg/5dc227cb11ecd70012ef9354) |
+| Operations Manager | Mr Frank Low | 65119559 |[Email](https://form.gov.sg/60a2072f5308590011e54827) |
+| Operations Support Officer| Mdm Angeline Koh  | 65119555 Ext 209 | [Email](https://form.gov.sg/5dc22858c321c6001240bd1a) |
+| | Mr Ong Boon Tiong| 65119555 | &nbsp; |
+| | Mdm Fauziah | 65119555 |  |
+| Librarian | Ms Nurul Kamilah | 65119589 | [Email](https://form.gov.sg/5dc228ccc321c6001240bd52) |
+| Desktop Engineer | Mr Edzhan | 65119555 |  |
+| | Mr Haneef| 65119555 | |
+| | | | |
