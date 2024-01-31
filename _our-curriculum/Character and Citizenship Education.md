@@ -2,12 +2,13 @@
 title: Character and Citizenship Education
 permalink: /our-curriculum/character-and-citizenship-education/
 description: ""
+variant: markdown
 ---
 ### Vision
 
-**Vision:** Citizens of good character, in service to and leading others           
+**Vision:**&nbsp;Citizens of good character, in service to and leading others&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-**Mission:** We seek to create a safe and secure learning environment that promotes the personification of character, leadership and service for others in students.
+**Mission:**&nbsp;We seek to create a safe and secure learning environment that promotes the personification of character, leadership and service for others in students.
 
 **Philosophy:** <br>
 We believe that:
@@ -37,7 +38,7 @@ The Star Values Student Award is presented to students who demonstrate school va
 
 ![](/images/CCE2.jpg)
 
-<u><strong> National Education & Social Studies (NESS) </strong></u><br>
+<u><strong> National Education &amp; Social Studies (NESS) </strong></u><br>
 National Education launched in 1997 with the intent to instil national identity and the spirit of togetherness in our young is promoted through Social Studies (SS), Interdisciplinary Project Work (IPW), School Assembly Programmes as well as commemoration of the 4 core events. The Primary SS syllabus aims to equip students with the knowledge, skills as well as attitudes and values to make informed decisions; and enable students to communicate and work as a team in a multi-cultural and interdependent world.
 
 <u><strong> NE Students’ Experiences: </strong></u><br>
@@ -54,7 +55,7 @@ International Friendship Day is celebrated in schools on the third Friday of Ter
 ![](/images/CCE4.jpg)
 
 <u><strong> Racial Harmony Day </strong></u><br>
-Racial Harmony Day, which is commemorated on 21 July, marks the anniversary of the 1964 race riots. On this day, students reflect on and celebrate Singapore as a harmonious society built on the rich diversity of cultures. The commemoration reminds all students that it takes collaborative effort from all of us to promote social cohesion.
+Racial Harmony Day, which is commemorated on 21 July, marks&nbsp;the anniversary of the 1964 race riots. On this day, students reflect on and celebrate Singapore as a harmonious society built on the rich diversity of&nbsp;cultures. The commemoration reminds all students that it takes collaborative effort from all of us to promote social cohesion.
 
 ![](/images/CCE5.jpg)
 
@@ -82,12 +83,12 @@ IPW is an authentic learning experience for our Primary 1 to 5 students whereby 
 **Social Studies Learning Journeys** <br>
 The field-based learning journey provide opportunities for students to acquire knowledge and understand the significance of heritage places or places of interest
 
-a)   Primary 1: Changi Airport <br>
-b)   Primary 2: Chinatown Heritage Trail <br>
-c)   Primary 3: Vegetable Farm <br>
-d)   Primary 4: Kampong Glam Heritage Trail <br>
-e)   Primary 5: Little India Heritage Trail <br>
-f)    Primary 6: Fort Canning Trail
+a)&nbsp;&nbsp;&nbsp;Primary 1: Changi Airport <br>
+b)&nbsp;&nbsp;&nbsp;Primary 2: Chinatown Heritage Trail <br>
+c)&nbsp;&nbsp;&nbsp;Primary 3: Vegetable Farm <br>
+d)&nbsp;&nbsp;&nbsp;Primary 4: Kampong Glam&nbsp;Heritage Trail <br>
+e)&nbsp;&nbsp;&nbsp;Primary 5: Little India Heritage Trail <br>
+f)&nbsp;&nbsp;&nbsp;&nbsp;Primary 6: Fort Canning Trail
 
 ![](/images/CCE8.jpg)
 
@@ -110,7 +111,7 @@ Examples of our VIA projects involve joint-collaboration by Character-Citizenshi
 ### Useful Links For Parents
 
 [Cyber-Wellness (CW)](https://www.moe.gov.sg/programmes/cyber-wellness) <br>
-[Sexuality Education](/files/Sexuality Education.pdf) <br>
+[Sexuality Education](/files/SED.pdf) <br>
 [Education and Career Guidance (ECG) – Skillsfuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) <br>
 [Singapore Kindness Movement (SKM)](https://www.kindness.sg/) <br>
 [MOE Edusave Awards](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards)
