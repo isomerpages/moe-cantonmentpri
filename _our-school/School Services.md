@@ -76,7 +76,7 @@ Sat 9 am-1 pm
 
 ### Canteen
 
-View [menu](/files/Canteen%20Menu.pdf)
+View [menu](/files/Canteen.pdf)
 
 ### School based Student Care Centre
 
