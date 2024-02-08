@@ -5,49 +5,49 @@ description: ""
 variant: tiptap
 ---
 <h5>Ministry Websites</h5>
-<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education</a>
-<br><a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Examinations and Assessment Board</a>
-<br><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">Parent kit</a>
-<br><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.sg</a>
-<br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Secondary Direct School Admissions</a>
+<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education</a> 
+<br><a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Examinations and Assessment Board</a> 
+<br><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">Parent kit</a> 
+<br><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.sg</a> 
+<br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Secondary Direct School Admissions</a> 
 <br>
 </p>
 <h3>Update Student Particulars</h3>
-<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Update student/parent particulars - Requires SingPass login</a>
+<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Update student/parent particulars - Requires SingPass login</a> 
 <br>
 <br>To update parent email and phone: on Parent Gateway app:
 <br>go to 'Profile' &gt; 'Edit contact details'
-<br>Not on Parent Gateway click <a href="https://form.gov.sg/625629188a621f0012a3a16c" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<br>Not on Parent Gateway click <a href="https://form.gov.sg/625629188a621f0012a3a16c" rel="noopener noreferrer nofollow" target="_blank">here</a> 
 <br>
 <br>To update parent email/phone and you are not on Parent Gateway or you
 would like to update your home address click <a href="https://form.gov.sg/625629188a621f0012a3a16c" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <h3>Admission</h3>
-<p><a href="https://form.gov.sg/62561c0cf319210013a4d4dc" rel="noopener noreferrer nofollow" target="_blank">Singaporean and PR Students</a>
-<br><a href="/useful-links/admissions-for-returning-singaporeans" rel="noopener noreferrer nofollow" target="_blank">Returning Singaporeans</a>
-<br><a href="https://www.moe.gov.sg/international-students" rel="noopener noreferrer nofollow" target="_blank">Foreign Students</a>
+<p><a href="https://form.gov.sg/62561c0cf319210013a4d4dc" rel="noopener noreferrer nofollow" target="_blank">Singaporean and PR Students</a> 
+<br><a href="/useful-links/admissions-for-returning-singaporeans" rel="noopener noreferrer nofollow" target="_blank">Returning Singaporeans</a> 
+<br><a href="https://www.moe.gov.sg/international-students" rel="noopener noreferrer nofollow" target="_blank">Foreign Students</a> 
 <br>
 </p>
 <h3>Cantonment Times</h3>
-<p><a href="/files/Times/2023semester1.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 1 2023 Newsletter</a>
-<br><a href="/files/Times/2023semestertwo.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 2 2023 Newsletter</a>
+<p><a href="/files/Times/2023semester1.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 1 2023 Newsletter</a> 
+<br><a href="/files/Times/2023semestertwo.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 2 2023 Newsletter</a> 
 <br>
 </p>
 <h3>Touch Base Meeting</h3>
-<p><a href="/files/TBM/P1_TBM.pdf" rel="noopener noreferrer nofollow" target="_blank">P1</a>
-<br><a href="/files/TBM/P2_TBM.pdf" rel="noopener noreferrer nofollow" target="_blank">P2</a>
-<br><a href="/files/TBM/P3_TBM.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a>
-<br><a href="/files/TBM/P4_TBM.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a>
-<br><a href="/files/TBM/P5_TBM.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a>
+<p><a href="/files/TBM/P1_TBM.pdf" rel="noopener noreferrer nofollow" target="_blank">P1</a> 
+<br><a href="/files/TBM/P2_TBM.pdf" rel="noopener noreferrer nofollow" target="_blank">P2</a> 
+<br><a href="/files/TBM/P3_TBM.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a> 
+<br><a href="/files/TBM/P4_TBM.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a> 
+<br><a href="/files/TBM/P5_TBM.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a> 
 <br><a href="/files/TBM/P6_TBM.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
 </p>
 <h5>Cyberwellness</h5>
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness Guide</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness Guide</a> 
 <br><a href="/files/Cyberwellness%20Holiday%20Tips%20for%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Holiday Tips for Parents</a> 
 <br><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Parent Kit</a>
 </p>
 <h5>P4 Subject Based Banding</h5>
-<p><a href="https://www.moe.gov.sg/primary/curriculum/subject-based-banding" rel="noopener noreferrer nofollow" target="_blank">Website</a>
+<p><a href="https://www.moe.gov.sg/primary/curriculum/subject-based-banding" rel="noopener noreferrer nofollow" target="_blank">Website</a> 
 <br><a href="/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a> 
 <a href="/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese</a> <a href="/files/MOE_SBB_ML_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay</a> 
 <a href="/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil</a>
@@ -74,7 +74,7 @@ enhancement of childhood vaccination subsidies.</p>
 <br><a href="/files/Letter%20for%20parents%20via%20schools_primary.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter for parents via schools_primary.pdf</a>
 </p>
 <h5>eGIRO</h5>
-<p><a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener noreferrer nofollow" target="_blank">School fees</a>
+<p><a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener noreferrer nofollow" target="_blank">School fees</a> 
 <br><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">Apple for eGIRO</a>
 </p>
 <h5>PayNow</h5>
@@ -162,18 +162,51 @@ to parents. May include topics such as:
 </details>
 <p></p>
 <h5>Letters to Parents</h5>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_002_Code_For_Fun_Parents_Letter_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-002 Code For Fun Parents Letter 2024</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_003_Commencement_of_CCA_for_P4_to_P6_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-003 Commencement of CCA for P4 to P6 Students</a>
 </p>
-<p><a href="/files/Letter/2024_008_2024_SwimSafer_Programme_for_P4_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-008 2024 SwimSafer Programme for P4 Students</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_008_2024_SwimSafer_Programme_for_P4_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-008 2024 P4 SwimSafer Programme</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_014_PG_Annual_School_Health_Visit__HPB_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-014 PG Annual School Health Visit (HPB)</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_031_P3_CCA_Experience_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-031 P3 CCA Experience 2024</a>
 </p>
-<p><a href="/files/Letter/2024_039_Commencement_of_P6_Remedial_Programme_Semester_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-039 Commencement of P6 Remedial Programme Semester 1 2024</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_039_Commencement_of_P6_Remedial_Programme_Semester_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-039 P6 Remedial Programme Semester 1 2024</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_042_P1_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-042 P1 Assessment Letter</a>
 </p>
 <p><a href="/files/Letter/2024_042_P2_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-042 P2 Assessment Letter</a>
@@ -188,13 +221,35 @@ to parents. May include topics such as:
 </p>
 <p><a href="/files/Letter/2024_042_P6_Assessment_Letter__Std___Fdn_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-042 P6 Assessment Letter (Std &amp; Fdn)</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_049_Lunar_New_Year_Eve_Celebrations_and_Early_Dismissal.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-049 Lunar New Year Eve Celebrations and Early Dismissal</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_066_MOE_Sexulity_Education.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-066 MOE Sexuality Education</a>
 </p>
-<p><a href="/files/Letter/2024_064_P5_Camp_2024_Notification_letter_to_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-064 P5 Camp 2024_Notification letter to parents</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_064_P5_Camp_2024_Notification_letter_to_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-064 P5 Camp 2024</a>
 </p>
 <p>P5 Camp Form: <a href="https://go.gov.sg/cpsp5camp2024" rel="noopener noreferrer nofollow" target="_blank">(https://go.gov.sg/cpsp5camp2024</a>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_070_Commemoration_of_40_Years_of_Total_Defence_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-070 Commemoration of 40 Years of Total Defence 2024</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
