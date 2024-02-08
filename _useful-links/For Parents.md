@@ -244,7 +244,8 @@ to parents. May include topics such as:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Letter/2024_070_Commemoration_of_40_Years_of_Total_Defence_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-070 Commemoration of 40 Years of Total Defence 2024</a>
+</p>
 </td>
 </tr>
 </tbody>
