@@ -139,7 +139,7 @@ a WhatsApp chat with them.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119588" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+<p><a href="https://wa.me/6565119641" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -177,7 +177,8 @@ a WhatsApp chat with them.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://wa.me/6565119588" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -996,7 +997,8 @@ a WhatsApp chat with them.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://wa.me/6565119641" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1428,7 +1430,8 @@ a WhatsApp chat with them.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://wa.me/6565119564" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+</p>
 </td>
 </tr>
 <tr>
