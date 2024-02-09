@@ -2,14 +2,14 @@
 title: School Advisory Committee
 permalink: /our-partners/school-advisory-committee/
 description: ""
+variant: tiptap
 ---
-Chairman: <br>
-Mdm Ling Bee Sian   
-  
-Committee Member: <br>
-Mdm Deniece Wong Chian Peng <br>
-Mr Tan Seow Teng <br>
-Mr Chris Hooi Tuck Loong <br> 
-Dr Chia Ti Yong Alexius <br>
-Mr Jeffrey Chua Boon Chuan <br>
-Mr Ferhad Ismail
+<p>Chairman:
+<br>Mdm Ling Bee Sian&nbsp;</p>
+<p>Committee Members:
+<br>Mdm Deniece Wong Chian Peng
+<br>Mr Mohammed Ferhad Ismail
+<br>Miss Harvinder Kaur Harbans Singh
+<br>Dr Teo Yong Chua
+<br>Mr Liang Jinhao, Gary</p>
+<p></p>
