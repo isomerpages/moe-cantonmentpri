@@ -165,11 +165,6 @@ to parents. May include topics such as:
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_002_Code_For_Fun_Parents_Letter_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-002 Code For Fun Parents Letter 2024</a>
 </p>
@@ -245,6 +240,12 @@ to parents. May include topics such as:
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_070_Commemoration_of_40_Years_of_Total_Defence_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-070 Commemoration of 40 Years of Total Defence 2024</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_073_P3_GEP_Identification_Exercise.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-073 P3 GEP Identification Exercise</a>
 </p>
 </td>
 </tr>
