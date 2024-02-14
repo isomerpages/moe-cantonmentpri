@@ -1221,7 +1221,8 @@ a WhatsApp chat with them.</p>
 <p>65119555 x 449</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://form.gov.sg/65cc5b7dba50eef89e15093d" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
