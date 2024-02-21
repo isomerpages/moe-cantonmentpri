@@ -249,6 +249,14 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_075_P4_Young_Scientist_Badge_Scheme.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-075 P4 Young Scientist Badge Scheme</a>
+</p>
+<p><a href="/files/Letter/2024_075__YSB_Student_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">YSB Student Guide</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
