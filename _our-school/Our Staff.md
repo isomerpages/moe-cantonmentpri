@@ -2849,10 +2849,10 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Science Lab Technician</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nurul Hummairah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
