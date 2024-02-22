@@ -84,7 +84,6 @@ Commit Learning Schoolhouse Pte Ltd<br>
 Website: [https://www.commitlearning.com.sg]( https://www.commitlearning.com.sg)<br>
 Email: [admission_cls_cps@commitlearning.com.sg](mailto:admission_cls_cps@commitlearning.com.sg)<br>
 Call/WhatsApp:[80778218](https://wa.me/6580778218.)<br>
-[Form to submit interest to register for SCC](https://form.gov.sg/6149334a3a2520001253949a)
 
 ### Dental Clinic @ CPS
 
