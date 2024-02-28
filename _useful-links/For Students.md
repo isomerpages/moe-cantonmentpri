@@ -333,4 +333,7 @@ can receive SMS. Enter the code you get via SMS to proceed</p>
 </tr>
 </tbody>
 </table>
+<p>
+<br><a href="https://forms.moe.edu.sg/forms/vyz9PJ" rel="noopener noreferrer nofollow" target="_blank">P3 CCA Application</a>
+</p>
 <p></p>
