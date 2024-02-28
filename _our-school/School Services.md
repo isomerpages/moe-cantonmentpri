@@ -82,7 +82,7 @@ View [menu](/files/Canteen.pdf)
 
 Commit Learning Schoolhouse Pte Ltd<br>
 Website: [https://www.commitlearning.com.sg]( https://www.commitlearning.com.sg)<br>
-Email: [admission_cls_cps@commitlearning.com.sg](mailto:admission_cls_cps@commitlearning.com.sg)<br>
+Admission: [Indication of Interest](https://form.gov.sg/6149334a3a2520001253949a)<br>
 Call/WhatsApp:[80778218](https://wa.me/6580778218.)<br>
 
 ### Dental Clinic @ CPS
