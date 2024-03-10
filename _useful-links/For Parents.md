@@ -85,6 +85,12 @@ of PayNow will facilitate the prompt disbursement of monies for the child.</p>
 <br><a href="/files/Guide%20on%20PayNow%20Registration.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide on PayNow Registration.pdf</a> 
 <br><a href="/files/FAQs%20for%20PayNow.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs for PayNow.pdf</a>
 </p>
+<h5>POSB Smart Buddy</h5>
+<p>POSB Smart Buddy is a e-payment option in our school canteen and bookshop.
+<br><a href="/files/Smartbuddy/Implementation_of_POSB_Smart_Buddy_e_payment_for_School_Canteen_and_Bookshop.pdf" rel="noopener noreferrer nofollow" target="_blank">Implementation of POSB Smart Buddy e-payment</a>
+<br><a href="/files/Smartbuddy/Digital_Registration_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Registration</a>
+</p>
+<p></p>
 <h5>Parent Gateway</h5>
 <p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>&nbsp;is
 a one-stop <a href="https://play.google.com/store/apps/details?id=com.moe.pgp" rel="noopener noreferrer nofollow" target="_blank">Android</a>/
