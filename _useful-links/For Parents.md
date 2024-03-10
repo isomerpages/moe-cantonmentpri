@@ -87,7 +87,7 @@ of PayNow will facilitate the prompt disbursement of monies for the child.</p>
 </p>
 <h5>POSB Smart Buddy</h5>
 <p>POSB Smart Buddy is a e-payment option in our school canteen and bookshop.
-<br><a href="/files/Smartbuddy/Implementation_of_POSB_Smart_Buddy_e_payment_for_School_Canteen_and_Bookshop.pdf" rel="noopener noreferrer nofollow" target="_blank">Implementation of POSB Smart Buddy e-payment</a>
+<br><a href="/files/Smartbuddy/Implementation_of_POSB_Smart_Buddy_e_payment_for_School_Canteen_and_Bookshop.pdf" rel="noopener noreferrer nofollow" target="_blank">Implementation of POSB Smart Buddy e-payment</a> 
 <br><a href="/files/Smartbuddy/Digital_Registration_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Registration</a>
 </p>
 <p></p>
@@ -221,6 +221,8 @@ to parents. May include topics such as:
 <p><a href="/files/Letter/2024_042_P5_Assessment_Letter_Fdn_Subjects.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-042 P5 Assessment Letter Fdn Subjects</a>
 </p>
 <p><a href="/files/Letter/2024_042_P6_Assessment_Letter__Std___Fdn_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-042 P6 Assessment Letter (Std &amp; Fdn)</a>
+</p>
+<p><a href="/files/Letter/2024_092_Amendment_to_P5WA1_and_WA2_schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-092 Amendment to P5WA1 and WA2 schedule</a>
 </p>
 </td>
 </tr>
