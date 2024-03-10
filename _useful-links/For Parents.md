@@ -85,6 +85,12 @@ of PayNow will facilitate the prompt disbursement of monies for the child.</p>
 <br><a href="/files/Guide%20on%20PayNow%20Registration.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide on PayNow Registration.pdf</a> 
 <br><a href="/files/FAQs%20for%20PayNow.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs for PayNow.pdf</a>
 </p>
+<h5>POSB Smart Buddy</h5>
+<p>POSB Smart Buddy is a e-payment option in our school canteen and bookshop.
+<br><a href="/files/Smartbuddy/Implementation_of_POSB_Smart_Buddy_e_payment_for_School_Canteen_and_Bookshop.pdf" rel="noopener noreferrer nofollow" target="_blank">Implementation of POSB Smart Buddy e-payment</a> 
+<br><a href="/files/Smartbuddy/Digital_Registration_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Registration</a>
+</p>
+<p></p>
 <h5>Parent Gateway</h5>
 <p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>&nbsp;is
 a one-stop <a href="https://play.google.com/store/apps/details?id=com.moe.pgp" rel="noopener noreferrer nofollow" target="_blank">Android</a>/
@@ -215,6 +221,8 @@ to parents. May include topics such as:
 <p><a href="/files/Letter/2024_042_P5_Assessment_Letter_Fdn_Subjects.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-042 P5 Assessment Letter Fdn Subjects</a>
 </p>
 <p><a href="/files/Letter/2024_042_P6_Assessment_Letter__Std___Fdn_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-042 P6 Assessment Letter (Std &amp; Fdn)</a>
+</p>
+<p><a href="/files/Letter/2024_092_Amendment_to_P5WA1_and_WA2_schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-092 Amendment to P5WA1 and WA2 schedule</a>
 </p>
 </td>
 </tr>
