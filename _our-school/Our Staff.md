@@ -348,8 +348,7 @@ a WhatsApp chat with them.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119646" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -844,8 +843,7 @@ a WhatsApp chat with them.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999412" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -2592,21 +2590,6 @@ a WhatsApp chat with them.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://wa.me/6564999239" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Evelyn Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64999236</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/658c4aef745e840011a43376" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
