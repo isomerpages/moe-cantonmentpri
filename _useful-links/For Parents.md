@@ -271,6 +271,12 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_106_Invitation_to_participate_in_Earth_Hour.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-106 Invitation to participate in Earth Hour</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
