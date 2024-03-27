@@ -56,6 +56,8 @@ would like to update your home address click <a href="https://form.gov.sg/625629
 <p><a href="/files/psle%20parent%20engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE 2023_Parent Engagement</a>
 </p>
 <h4>Health Promotion Board</h4>
+<p><a href="https://www.healthhub.sg/programmes/parent-hub" rel="noopener noreferrer nofollow" target="_blank">HPB Parent Hub</a>
+</p>
 <h5>School Based Health Check</h5>
 <p><a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Online submission of consent for Immunisation and medical information</a> 
 <br><a href="/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P1%20Students.pdf" rel="noopener noreferrer nofollow" target="_blank">HPB consent form for immunisation for P1 students</a> 
