@@ -275,7 +275,25 @@ to parents. May include topics such as:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_092_Amendment_to_Primary_5_Weighted_Assessment_1_and_2_Schedule__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-092 Amendment to Primary 5 Weighted Assessment 1 and 2 Schedule( 2024)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_110_P4_VIA_Create_Eco_Upcycled_Products.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-110 P4 VIA Create Eco-Upcycled Products</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_106_Invitation_to_participate_in_Earth_Hour.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-106 Invitation to participate in Earth Hour</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_113_P1_Learning_Journey_to_the_Zoo_Consent_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-113 P1 Learning Journey to the Zoo Consent Form</a>
 </p>
 </td>
 </tr>
