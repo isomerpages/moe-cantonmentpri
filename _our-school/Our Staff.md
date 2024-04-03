@@ -1213,17 +1213,18 @@ a WhatsApp chat with them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cherlyn Chua</p>
+<p>Ms Chua Jing Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65119555 x 449</p>
+<p>63036299</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/65cc5b7dba50eef89e15093d" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="https://form.gov.sg/61cd69393cff1000121db933" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://wa.me/6563036299" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1430,25 +1431,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://wa.me/6565119564" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Jing Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>63036299</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/61cd69393cff1000121db933" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6563036299" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
