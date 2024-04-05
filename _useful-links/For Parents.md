@@ -297,6 +297,12 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_120_International_Friendship_Day_Parent_Volunteer_Appreciation___Guidelines.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-120 International Friendship Day Parent Volunteer Appreciation &amp; Guidelines</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
