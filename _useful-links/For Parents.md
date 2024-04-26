@@ -124,7 +124,8 @@ fingertips.</p>
 <p>Update contact details for Parents</p>
 </li>
 <li>
-<p>Booking meeting slots (During Parent Child Teacher Conference)</p>
+<p><a href="/files/PG_Mobile_App_Meetings_Feature.pdf" rel="noopener noreferrer nofollow" target="_blank">Booking Meeting Slots </a>(During
+Parent Child Teacher Conference)</p>
 </li>
 </ul>
 <h5>Montfort Care Parenting Support Team</h5>
@@ -303,6 +304,12 @@ to parents. May include topics such as:
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_120_International_Friendship_Day_Parent_Volunteer_Appreciation___Guidelines.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-120 International Friendship Day Parent Volunteer Appreciation &amp; Guidelines</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_135_PCTC_Semester_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-135 PCTC Semester 1</a>
 </p>
 </td>
 </tr>
