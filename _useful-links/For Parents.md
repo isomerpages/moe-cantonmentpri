@@ -123,6 +123,9 @@ fingertips.</p>
 <li>
 <p>Update contact details for Parents</p>
 </li>
+<li>
+<p>Booking meeting slots (During Parent Child Teacher Conference)</p>
+</li>
 </ul>
 <h5>Montfort Care Parenting Support Team</h5>
 <p><a href="https://www.montfortcare.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Montfort Care</a> is
