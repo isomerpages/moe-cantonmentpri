@@ -2716,13 +2716,13 @@ a WhatsApp chat with them.</p>
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Frank Low</p>
+<p>Mr Kelvin Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65119559</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/60a2072f5308590011e54827" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="https://form.gov.sg/6630813b799dd9c72071e735" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
