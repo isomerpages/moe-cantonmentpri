@@ -2545,21 +2545,6 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65119555x450</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/64b8da90c3c8e30012e5db74" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Chan Yoke Peng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2572,6 +2557,20 @@ a WhatsApp chat with them.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://wa.me/6564999239" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Calvin Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
