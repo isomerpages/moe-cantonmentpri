@@ -313,6 +313,20 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_140_Primary_5_VIA_Workshop_Session_23May_22July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-140 Primary 5 VIA Workshop Session 23May 22July 2024</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_141_SS_LJ_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-141 SS LJ P3</a>
+</p>
+<p><a href="/files/Letter/2024_142_SS_LJ_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-142 SS LJ P6</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
