@@ -248,7 +248,6 @@ to parents. May include topics such as:
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_064_P5_Camp_2024_Notification_letter_to_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-064 P5 Camp 2024</a>
 </p>
-<p>P5 Camp Form: <a href="https://go.gov.sg/cpsp5camp2024" rel="noopener noreferrer nofollow" target="_blank">(https://go.gov.sg/cpsp5camp2024</a>)</p>
 </td>
 </tr>
 <tr>
@@ -323,6 +322,10 @@ to parents. May include topics such as:
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_141_SS_LJ_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-141 SS LJ P3</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_142_SS_LJ_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-142 SS LJ P6</a>
 </p>
 </td>
