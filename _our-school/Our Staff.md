@@ -2567,7 +2567,8 @@ a WhatsApp chat with them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email</p>
+<p><a href="https://form.gov.sg/66308eb8ddc25f32de6bad7a" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
