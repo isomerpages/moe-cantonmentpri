@@ -174,7 +174,10 @@ to parents. May include topics such as:
 </details>
 <p></p>
 <h5>Letters to Parents</h5>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -327,6 +330,12 @@ to parents. May include topics such as:
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_142_SS_LJ_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-142 SS LJ P6</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_144_National_Family_Festival_Crafts_for_you_and_your_child.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-144 National Family Festival Crafts</a>
 </p>
 </td>
 </tr>
