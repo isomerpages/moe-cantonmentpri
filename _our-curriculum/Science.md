@@ -76,14 +76,12 @@ in these Olympiads.</p>
 </p>
 <p><strong>Science competitions</strong> 
 <br><a href="https://www.science.edu.sg/whats-on/competitions/singapore-science-buskers" rel="noopener noreferrer nofollow" target="_blank">Singapore Science Buskers</a> 
-<br><a href="https://www.science.edu.sg/for-schools/competitions/sony-creative-science-award" rel="noopener noreferrer nofollow" target="_blank">Sony Creative Science Award</a> 
+<br><a href="https://www.science.edu.sg/for-schools/competitions/sony-creative-science-award" rel="noopener noreferrer nofollow" target="_blank">Sony Creative Science Award</a>
+<br><a href="https://www.nushigh.edu.sg/news-n-events/primary-school-competitions/singapore-primary-science-olympiad/introduction" rel="noopener noreferrer nofollow" target="_blank">NUS High Olympiad</a>
 </p>
 <p><strong>Young Scientist Badge</strong>
 </p>
 <p><a href="https://youngscientist.sscglobal.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Official Website</a>
 </p>
 <p><a href="/files/Science/Young_Scientist_Badge_Student_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Young Scientist Badge Student Guide.pdf</a>
-</p>
-<p>
-<br><a href="https://www.nushigh.edu.sg/news-n-events/primary-school-competitions/singapore-primary-science-olympiad/introduction" rel="noopener noreferrer nofollow" target="_blank">NUS High Olympiad</a>
 </p>
