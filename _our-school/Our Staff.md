@@ -11,7 +11,11 @@ a WhatsApp chat with them.</p>
 <br>Phone/WhatsApp: 65119555/ <a href="https://wa.me/6565119555" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 <h5>School Leaders</h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -48,7 +52,14 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Head of Departments and Subject Heads</h5>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -447,7 +458,14 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Lead and Senior Teachers</h5>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -638,7 +656,14 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Primary 1</h5>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -866,7 +891,14 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Primary 2</h5>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1170,7 +1202,14 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Primary 3</h5>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1473,7 +1512,14 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Primary 4</h5>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1813,7 +1859,14 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Primary 5</h5>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -2042,7 +2095,14 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Primary 6</h5>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -2332,25 +2392,6 @@ a WhatsApp chat with them.</p>
 <p>6 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gladys Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64999428</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc12d515f93b5001904401a" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999428" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Tan Sze Mian</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2404,7 +2445,13 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Allied Educators</h5>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -2512,7 +2559,13 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Other Teaching Staff</h5>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -2591,7 +2644,13 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Executive and Administrative Staff</h5>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
