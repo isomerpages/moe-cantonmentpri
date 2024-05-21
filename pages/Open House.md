@@ -24,23 +24,23 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3fwzeEx779s?si=5B8yfDeCHqSmQuP-"></iframe>
 </div>
-<h4>CCE </h4>
+<h4>CCE</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lmADyyCEik0?si=mmaLQHjtc3SPRp1J"></iframe>
 </div>
-<h4>English </h4>
+<h4>English</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mMGs8xbK2DE?si=k_TAxBIK3qxzkbUm"></iframe>
 </div>
-<h4>Mathematics </h4>
+<h4>Mathematics</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NyVDpNQiDkU?si=FNMSv2tCTlBIGDJS"></iframe>
 </div>
-<h4>Mother Tongue Languages </h4>
+<h4>Mother Tongue Languages</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/L7wW2irLdDA?si=t0Grqy0yKBKSaXMx"></iframe>
 </div>
-<h4>PE Art Music </h4>
+<h4>PE Art Music</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cx7e50Kqx2g?si=hKrvEShvDeg2s_q9"></iframe>
 </div>
