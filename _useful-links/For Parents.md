@@ -339,6 +339,18 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_147_Swimsafer_Programme_for_P3_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-147 Swimsafer Programme for P3 Students</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_156_Young_Scientist_Badge_Scheme_for_P3_to_P6_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-156 Young Scientist Badge Scheme for P3 to P6</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
