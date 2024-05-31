@@ -1600,23 +1600,6 @@ a WhatsApp chat with them.</p>
 <p>4 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jenny Tham</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Ng Jie Ling</p>
 </td>
 <td rowspan="1" colspan="1">
