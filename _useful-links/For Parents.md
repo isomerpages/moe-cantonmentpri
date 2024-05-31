@@ -351,6 +351,17 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/Primary_3_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Assessment (Semester 2)</a>
+<br><a href="/files/Letter/Primary_4_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 Assessment (Semester 2)</a>
+<br><a href="/files/Letter/Primary_5_Standard_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Standard Assessment (Semester 2)</a>
+<br><a href="/files/Letter/Primary_5_Foundation_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Foundation Assessment (Semester 2)</a>
+<br><a href="/files/Letter/Primary_6_Standard__Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Standard Assessment (Semester 2)</a>
+<br><a href="/files/Letter/Primary_6_Foundation_Assessment_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Foundation Assessment (Semester 2)</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
