@@ -45,5 +45,3 @@ description: ""
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cx7e50Kqx2g?si=hKrvEShvDeg2s_q9"></iframe>
 </div>
 <p></p>
-<p></p>
-<p></p>
