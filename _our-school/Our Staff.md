@@ -86,14 +86,15 @@ a WhatsApp chat with them.</p>
 <p>Mdm Jean Heng Choo Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>64999418</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/666a7667575c642ae76b3114" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://wa.me/6564999418" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1148,17 +1149,17 @@ a WhatsApp chat with them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Michelle Tan</p>
+<p>Mdm Jean Heng Choo Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>63036295</p>
+<p>64999418</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/658c3faa8bddc3001299f2c9" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="https://form.gov.sg/666a7667575c642ae76b3114" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6563036295" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+<p><a href="https://wa.me/6564999418" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -2630,16 +2631,18 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Michelle Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>63036295</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://form.gov.sg/658c3faa8bddc3001299f2c9" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://wa.me/6563036295" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+</p>
 </td>
 </tr>
 </tbody>
