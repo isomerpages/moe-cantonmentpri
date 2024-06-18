@@ -2638,7 +2638,7 @@ a WhatsApp chat with them.</p>
 <p>Mr Calvin Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>64999247</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/66308eb8ddc25f32de6bad7a" rel="noopener noreferrer nofollow" target="_blank">Email</a>
@@ -2653,7 +2653,7 @@ a WhatsApp chat with them.</p>
 <p>Dr Caroline Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>64999428</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/66712200950e9f8567fcf7de" rel="noopener noreferrer nofollow" target="_blank">Email</a>
@@ -2668,7 +2668,7 @@ a WhatsApp chat with them.</p>
 <p>Mr Seet Choong Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>63036293</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/667122b9b915d744b5349600" rel="noopener noreferrer nofollow" target="_blank">Email</a>
