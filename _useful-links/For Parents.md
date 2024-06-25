@@ -31,6 +31,7 @@ would like to update your home address click <a href="https://form.gov.sg/625629
 <h3>Cantonment Times</h3>
 <p><a href="/files/Times/2023semester1.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 1 2023 Newsletter</a> 
 <br><a href="/files/Times/2023semestertwo.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 2 2023 Newsletter</a> 
+<br><a href="/files/Times/Semester_1_2024_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 1 2024 Newsletter</a>
 <br>
 </p>
 <h3>Touch Base Meeting</h3>
