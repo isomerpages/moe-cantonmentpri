@@ -665,6 +665,25 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ST CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Jie Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64999426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/5dc1145f1b03c2001912266e" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://wa.me/6564999426" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
