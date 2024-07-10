@@ -27,9 +27,7 @@ description: ""
 <br>Volleyball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students will:
-<br>
-</p>
+<p>Students will:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>learn skills and techniques related to the sport;</p>
