@@ -1138,25 +1138,6 @@ a WhatsApp chat with them.</p>
 <p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rossenah Binte Kamis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>63036294</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/630d94792c1e910013ba2d49" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6563036294" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Adeline Ong</p>
 </td>
 <td rowspan="1" colspan="1">
