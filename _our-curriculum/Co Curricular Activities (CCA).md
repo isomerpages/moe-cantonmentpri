@@ -11,11 +11,8 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>Sports &amp; Games</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -27,20 +24,12 @@ description: ""
 <br>Volleyball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students will:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>learn skills and techniques related to the sport;</p>
-</li>
-<li>
-<p>learn to play the sport at various levels progressively to nurture their
-talent and develop their interest and passion for it;</p>
-</li>
-<li>
-<p>participate in different levels of competition to gain experience and
+<p>Students will:
+<br>• learn skills and techniques related to the sport;
+<br>• learn to play the sport at various levels progressively to nurture their
+talent and develop their interest and passion for it;
+<br>• participate in different levels of competition to gain experience and
 exposure.</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -48,27 +37,16 @@ exposure.</p>
 <p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students will:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>learn and practice different movements and formations in Wushu;</p>
-</li>
-<li>
-<p>appreciate Wushu as a traditional martial art form;</p>
-</li>
-<li>
-<p>participate in different levels of competition to gain experience and
+<p>Students will:
+<br>• learn and practice different movements and formations in Wushu;
+<br>• appreciate Wushu as a traditional martial art form;
+<br>• participate in different levels of competition to gain experience and
 exposure.</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>Clubs and Societies</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -110,11 +88,8 @@ enrolled in competitions.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>Performing Arts</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -154,11 +129,8 @@ in competitions.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>Uniformed Groups</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
