@@ -363,6 +363,30 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_142_SS_LJ_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-142 SS LJ P1</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_142_SS_LJ_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-142 SS LJ P2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_182_P6_Preliminary_Oral_Assessment_2024_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-182 P6 Preliminary Oral Assessment 2024 </a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_139_P2_Cultural_Performance_Exposure.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-139 P2 Cultural Performance Exposure</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
