@@ -8,10 +8,6 @@ variant: markdown
 
 Pacific Bookstores Pte Ltd
 
-School Holidays:<br>
-27-29 May<br>
-20-21 June
-
 Opening Hours during School Days:
 
 | For Students | For Parents |
