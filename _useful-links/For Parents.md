@@ -377,13 +377,56 @@ to parents. May include topics such as:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Letter/2024_182_P6_Preliminary_Oral_Assessment_2024_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-182 P6 Preliminary Oral Assessment 2024 </a>
+<p><a href="/files/Letter/2024_182_P6_Preliminary_Oral_Assessment_2024_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-182 P6 Preliminary Oral Assessment 2024</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_139_P2_Cultural_Performance_Exposure.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-139 P2 Cultural Performance Exposure</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_184_P4_NAPFA_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-184 P4 NAPFA 2024</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_183_Gifted_Eduacation_Programme__GEP__2025_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-183 Gifted Education Programme</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_200_Racial_Harmony_Day__RHD__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-200 Racial Harmony Day</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_202_SS_LJ_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-202 SS LJ P4</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_181_Calendar_Updates_for_Semester_2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-181 Calendar Updates for Semester 2 2024.pdf</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_206_National_Day_Celebrations_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-206 National Day Celebrations</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_204_Primary_1_Assessment_Letter_Sem_2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-204 Primary 1 Assessment Letter Sem 2</a>
+<br><a href="/files/Letter/2024_204_Primary_2_Assessment_Letter_Sem_2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-204 Primary 2 Assessment Letter Sem 2</a>
 </p>
 </td>
 </tr>
