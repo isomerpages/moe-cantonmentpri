@@ -259,7 +259,7 @@ consent form electronically via Child Consent Portal <a href="https://consent.hp
 You may also refer to the Child Consent Portal website to learn more about
 School Dental Service</p>
 <h5>Opening Dates:</h5>
-<p>Wednesdays - Fridays (Alternate Weeks)</p>
+<p>1,2,7,8,21,22,23 August</p>
 <h5>Opening Hours:</h5>
 <p>Wednesday/Friday: 8 am to 5 pm
 <br>Thursday: 8 am to 5.30 pm
