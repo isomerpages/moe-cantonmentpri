@@ -430,6 +430,36 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024__219_to_224_P6_Term_3_PCTC.pdf" rel="noopener noreferrer nofollow" target="_blank">2024- 219 to 224 P6 Term 3 PCTC</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_216_Invitation_to_Celebration_of_Thinking_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-216 Invitation to Celebration of Thinking 2024</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024__191_P1_PAVE_LJ.pdf" rel="noopener noreferrer nofollow" target="_blank">2024- 191 P1 PAVE LJ</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024__192_P2_PAVE_LJ.pdf" rel="noopener noreferrer nofollow" target="_blank">2024- 192 P2 PAVE LJ</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_230_Provision_of_Sheltered_Basketball_Court_for_Cantonment_Primary_School.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-230 Provision of Sheltered Basketball Court</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
