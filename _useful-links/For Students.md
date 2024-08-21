@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h3>Home Based Learning</h3>
+<p>Dear parents/guardians,
+<br>please use the links below to access your child/guardian's HBL timetable.
+<br>If you have queries on the lesson, send an <a href="https://www.cantonmentpri.moe.edu.sg/our-school/our-staff/" rel="noopener noreferrer nofollow" target="_blank">email</a> to
+the subject teacher who will respond within 3 working days.</p>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
