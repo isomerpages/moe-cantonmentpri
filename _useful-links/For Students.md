@@ -187,9 +187,8 @@ the subject teacher who will respond within 3 working days.</p>
 </table>
 <p></p>
 <p></p>
+<hr>
 <p></p>
-<p></p>
-<p>.</p>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
