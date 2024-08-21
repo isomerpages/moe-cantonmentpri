@@ -4,7 +4,193 @@ permalink: /useful-links/for-students/
 description: ""
 variant: tiptap
 ---
-<table>
+<h3>Home Based Learning</h3>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="7">
+<p>Primary 3</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1bcughpx3N0yEcVrZ8iqT76ZLjSGrVIKLOnUU571u0Vs/pubhtml?gid=0&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">3 Care</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1bcughpx3N0yEcVrZ8iqT76ZLjSGrVIKLOnUU571u0Vs/pubhtml?gid=469599096&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">3 Graciousness</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1bcughpx3N0yEcVrZ8iqT76ZLjSGrVIKLOnUU571u0Vs/pubhtml?gid=1775855043&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">3 Integrity</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1bcughpx3N0yEcVrZ8iqT76ZLjSGrVIKLOnUU571u0Vs/pubhtml?gid=1040134881&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">3 Resilience</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1bcughpx3N0yEcVrZ8iqT76ZLjSGrVIKLOnUU571u0Vs/pubhtml?gid=1680180060&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">3 Respect</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1bcughpx3N0yEcVrZ8iqT76ZLjSGrVIKLOnUU571u0Vs/pubhtml?gid=389070328&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">3 Harmony</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7">
+<p><strong>Primary 4</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1RJ1HhtMOG4GUEmDYg0fKbhl1yo7Vb38cAPJxK_RlKCM/pubhtml?gid=0&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">4 Care</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1RJ1HhtMOG4GUEmDYg0fKbhl1yo7Vb38cAPJxK_RlKCM/pubhtml?gid=1472675510&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">4 Graciousness</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1RJ1HhtMOG4GUEmDYg0fKbhl1yo7Vb38cAPJxK_RlKCM/pubhtml?gid=1119276278&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">4 Integrity</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1RJ1HhtMOG4GUEmDYg0fKbhl1yo7Vb38cAPJxK_RlKCM/pubhtml?gid=869842246&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">4 Resilience</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1RJ1HhtMOG4GUEmDYg0fKbhl1yo7Vb38cAPJxK_RlKCM/pubhtml?gid=249488763&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">4 Respect</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1RJ1HhtMOG4GUEmDYg0fKbhl1yo7Vb38cAPJxK_RlKCM/pubhtml?gid=765987100&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">4 Harmony</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1RJ1HhtMOG4GUEmDYg0fKbhl1yo7Vb38cAPJxK_RlKCM/pubhtml?gid=658703075&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">4 Compassion</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7">
+<p><strong>Primary 5</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1OngDqJp5IBx1Il46X1q2ztto-6HpRcl7IQ0l2Cgmq08/pubhtml?gid=0&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">5 Care</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1OngDqJp5IBx1Il46X1q2ztto-6HpRcl7IQ0l2Cgmq08/pubhtml?gid=1472675510&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">5 Graciousness</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1OngDqJp5IBx1Il46X1q2ztto-6HpRcl7IQ0l2Cgmq08/pubhtml?gid=1119276278&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">5 Integrity</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1OngDqJp5IBx1Il46X1q2ztto-6HpRcl7IQ0l2Cgmq08/pubhtml?gid=869842246&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">5 Resilience</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1OngDqJp5IBx1Il46X1q2ztto-6HpRcl7IQ0l2Cgmq08/pubhtml?gid=249488763&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">5 Respect</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7">
+<p><strong>Primary 6</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1aWNAcswx1u674lsUFWdfloApALT9mVYDN8BhEpq80d8/pubhtml?gid=0&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">6 Care</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1aWNAcswx1u674lsUFWdfloApALT9mVYDN8BhEpq80d8/pubhtml?gid=1472675510&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">6 Graciousness</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1aWNAcswx1u674lsUFWdfloApALT9mVYDN8BhEpq80d8/pubhtml?gid=1119276278&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">6 Integrity</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1aWNAcswx1u674lsUFWdfloApALT9mVYDN8BhEpq80d8/pubhtml?gid=869842246&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">6 Resilience</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1aWNAcswx1u674lsUFWdfloApALT9mVYDN8BhEpq80d8/pubhtml?gid=249488763&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">6 Respect</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1aWNAcswx1u674lsUFWdfloApALT9mVYDN8BhEpq80d8/pubhtml?gid=1408910733&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">6 Harmony</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -85,7 +271,11 @@ with Minecraft Education.
 <br>^ You can use the basic Zoom by clicking Sign In With Google on the zoom
 website/software.</p>
 <h5>Password Reset</h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -152,7 +342,11 @@ security questions or email in your SLS profile previously.</p>
 </tbody>
 </table>
 <h5>Password Policy</h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -187,7 +381,11 @@ via email 7 days before the expiry date.
 <h4>Change your email</h4>
 <h4><a href="https://form.gov.sg/659cee0595fffa0011ef2da2" rel="noopener noreferrer nofollow" target="_blank">Submit request to change email</a></h4>
 <h4>Setup security questions</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -234,7 +432,12 @@ the steps</p>
 </tbody>
 </table>
 <h4>Error messages you may encounter</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
