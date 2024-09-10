@@ -460,6 +460,24 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_231_Teachers__Day_Celebrations_and_Non_Teaching_Staff_Appreciation_on_29_August_2024.pdf" rel="noopener nofollow" target="_blank">2024-231 Teachers' Day Celebrations and Non-Teaching Staff Appreciation</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_234_Adjustments_to_Lessons_and_Recess_Timings_on_PSLE_Days.pdf" rel="noopener nofollow" target="_blank">2024-234 Adjustments to Lessons and Recess Timings on PSLE Days</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_239_Pre_PSLE_Study_Break.pdf" rel="noopener nofollow" target="_blank">2024-239 Pre-PSLE Study Break</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
