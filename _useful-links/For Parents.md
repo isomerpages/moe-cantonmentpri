@@ -478,6 +478,14 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_243_Year_End_Oral_Assessment_for_Primary_3.pdf" rel="noopener nofollow" target="_blank">2024-243 Year End Oral Assessment for Primary 3</a>
+<br><a href="/files/Letter/2024_243_Year_End_Oral_Assessment_for_Primary_4.pdf" rel="noopener nofollow" target="_blank">2024-243 Year End Oral Assessment for Primary 4</a>
+<br><a href="/files/Letter/2024_243_Year_End_Oral_Assessment_for_Primary_5.pdf" rel="noopener nofollow" target="_blank">2024-243 Year End Oral Assessment for Primary 5</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
