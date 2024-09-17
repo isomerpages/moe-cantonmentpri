@@ -37,7 +37,7 @@ variant: tiptap
 <br>Phone: <a href="tel:69298012" rel="noopener noreferrer nofollow" target="_blank">69298012</a>
 </p>
 <p><strong>Booklist For 2024</strong> 
-<br>[P1](/files/Booklist/p1 2024.pdf)
+<br><a href="/files/Booklist/p1 2024.pdf" rel="noopener nofollow" target="_blank">P1</a>
 <br><a href="/files/Booklist/P2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P2</a>
 <br><a href="/files/Booklist/P3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a>
 <br><a href="/files/Booklist/P4_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a>
