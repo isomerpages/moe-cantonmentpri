@@ -2688,21 +2688,6 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Caroline Chan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64999428</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/66712200950e9f8567fcf7de" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Arthur Lim</p>
 </td>
 <td rowspan="1" colspan="1">
