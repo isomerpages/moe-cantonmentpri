@@ -2757,6 +2757,21 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Khairul Nizam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65119553</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/66ed0c863f815c020649b669" rel="noopener nofollow" target="_blank">Email</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
