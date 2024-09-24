@@ -429,7 +429,7 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asistant Year Head Lower Primary (P12)</p>
+<p>Assistant Year Head Lower Primary (P12)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Adeline Ong</p>
@@ -448,7 +448,7 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asistant Year Head Upper Primary (P56)</p>
+<p>Assistant Year Head Upper Primary (P56)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ameen</p>
