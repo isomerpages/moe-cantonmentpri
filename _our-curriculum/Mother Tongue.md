@@ -2,6 +2,7 @@
 title: Mother Tongue
 permalink: /our-curriculum/mother-tongue/
 description: ""
+variant: markdown
 ---
 ### Vision
 Active Learners and Proficient Communicators
@@ -13,8 +14,7 @@ Our Mother Tongue Language department seeks to
 * instill the joy of learning the Mother Tongue Languages through authentic and engaging approaches
 
 ### Signature Programmes
-<img src="/images/mtl1.jpg" 
-     style="width:50%">
+<img src="/images/mtl1.jpg" style="width:50%">
 
 <u><strong> Performing Arts for Values Education and Excellence (PAVE) </strong></u><br>
 In line with our school’s Learning for Life Programme (PAVE), drama is used as a pedagogy for Primary 1 to 6 students. The Primary 1 and 2 students go through an introduction to drama for 2 weeks during the Mother Tongue fortnight week. From Primary 3 onwards, drama is infused into the teaching of selected comprehension/composition lessons. This personification of the characters also allows students the opportunity to examine the texts/pictures at a deeper level. Additionally, songs are incorporated into the curriculum to promote the joy of learning in MTL.
@@ -24,8 +24,7 @@ In line with our school’s Learning for Life Programme (PAVE), drama is used as
 <u><strong> MTL Fortnight and Cultural Camp </strong></u><br>
 MTL fortnight and Cultural Camp aims to provide an authentic learning opportunity for students to understand and appreciate Mother Tongue culture, to heighten the use of mother tongue languages beyond the classrooms and to develop our students’ interest in the learning of the language. Fortnightly activities are conducted collaboratively amongst the CL, ML and TL departments. Students are given the exposure to cultures of the various ethnic groups. 
 
-<img src="/images/fortnight.jpg" 
-     style="width:50%">
+<img src="/images/fortnight.jpg" style="width:50%">
 ![](/images/fortnight2.jpg)
 
 <u><strong> Making Thinking Visible (MTV) routines in MTL lessons </strong></u><br>
@@ -51,13 +50,15 @@ The Conversational Chinese and Malay Programme (CCM) has been a MOE initiated pr
 
 ### Useful Links
 
-Ezhishi: [https://www.ezhishi.net/](https://www.ezhishi.net/)
+Ezhishi:&nbsp;[https://www.ezhishi.net/](https://www.ezhishi.net/)
 
-Online English-Chinese Dictionary: [http://www.iciba.com/](http://www.iciba.com/)
+Online English-Chinese Dictionary:&nbsp;[http://www.iciba.com/](http://www.iciba.com/)
 
-Online Chinese Dictionary: [http://www.zdic.net/](http://www.zdic.net/)
+Online Chinese Dictionary:&nbsp;[http://www.zdic.net/](http://www.zdic.net/)
 
-Online Picture Story Books: [http://www.qbaobei.com/plans/huibenzaixian/](http://www.qbaobei.com/plans/huibenzaixian/)
+Online Picture Story Books:&nbsp;[http://www.qbaobei.com/plans/huibenzaixian/](http://www.qbaobei.com/plans/huibenzaixian/)
+
+Malay Educational Appe: [MLCS Educational Apps](https://mlcs.moe.edu.sg/mlcs/resources/mlcs-educational-apps/)
 
 Animated stories for kids (TL): <br>
 [https://www.youtube.com/watch?v=06CoXN1G3a8](https://www.youtube.com/watch?v=06CoXN1G3a8) <br>
