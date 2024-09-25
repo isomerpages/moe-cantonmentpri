@@ -486,6 +486,12 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_253_Home_Based_Learning_and_Updates_to_Meal_Timings_on_PSLE_Days.pdf" rel="noopener nofollow" target="_blank">2024-253 Home Based Learning and Updates to Meal Timings on PSLE Days</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
