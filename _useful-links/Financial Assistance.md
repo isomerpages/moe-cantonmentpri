@@ -8,7 +8,6 @@ variant: tiptap
 students from our Government and Government-Aided Schools who need financial
 assistance for their studies. <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Official Website</a>
 </p>
-<p></p>
 <p><strong>Who is eligible</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -52,19 +51,6 @@ assistance for their studies. <a href="https://www.moe.gov.sg/financial-matters/
 </details>
 </div>
 <p></p>
-<p>Students who:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Are Singapore Citizens.</p>
-</li>
-<li>
-<p>Attend government or government-aided schools.</p>
-</li>
-<li>
-<p>Have a monthly gross household income of $3,000 or less, or a monthly
-per capita income of $750 or less.</p>
-</li>
-</ul>
 <p>Under the MSF-MOE collaboration, ComCare recipients with ComCare assistance
 ending in the last quarter of 2023, or later need not submit the application
 for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries. School
