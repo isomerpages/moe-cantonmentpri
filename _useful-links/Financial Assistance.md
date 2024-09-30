@@ -81,9 +81,9 @@ will inform the eligible parents.</p>
 Assistance).</p>
 </li>
 <li>
-<p>Alternatively, you can [download](/files/FAS/moe fas application form.pdf)
-the MOE FAS application form attached or collect a copy at school. Submit
-the completed form directly to the school.</p>
+<p>Alternatively, you can <a href="/files/FAS/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">download</a> the
+MOE FAS application form attached or collect a copy at school. Submit the
+completed form directly to the school.</p>
 </li>
 </ul>
 <p>Note: If you have children in different government or government-aided
