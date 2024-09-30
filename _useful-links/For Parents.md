@@ -492,6 +492,18 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_249_P6_LJ_Natural_History_Museum.pdf" rel="noopener nofollow" target="_blank">2024-249 P6 LJ Natural History Museum</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_252_Children_s_Day_Celebrations.pdf" rel="noopener nofollow" target="_blank">2024-252 Children's Day Celebrations</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
