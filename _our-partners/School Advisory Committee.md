@@ -6,10 +6,13 @@ variant: tiptap
 ---
 <p>Chairman:
 <br>Mdm Ling Bee Sian&nbsp;</p>
+<p>Vice Chairman:
+<br>Mdm Deniece Wong Chian Peng</p>
 <p>Committee Members:
-<br>Mdm Deniece Wong Chian Peng
+<br>Mr Gary Liang Jinhao
+<br>Ms Geraldine Ng Shu Hui
+<br>Mr Hans Avinder
+<br>Ms Harvinder Kaur Harbans Singh
 <br>Mr Mohammed Ferhad Ismail
-<br>Miss Harvinder Kaur Harbans Singh
-<br>Dr Teo Yong Chua
-<br>Mr Liang Jinhao, Gary</p>
+<br>Dr Teo Yong Chua</p>
 <p></p>
