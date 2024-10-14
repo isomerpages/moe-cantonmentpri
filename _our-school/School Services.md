@@ -58,7 +58,7 @@ address:
 <h6>Pricing</h6>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2024-2025</summary>
+<summary>2024 to 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 125px">
 <colgroup>
