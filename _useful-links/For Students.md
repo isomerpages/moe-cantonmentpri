@@ -202,7 +202,7 @@ via email 7 days before the expiry date.
 </tbody>
 </table>
 <h4>Change your email</h4>
-<h4><a href="https://form.gov.sg/659cee0595fffa0011ef2da2" rel="noopener noreferrer nofollow" target="_blank">Submit request to change email</a></h4>
+<h4><a href="https://forms.moe.edu.sg/forms/ePO7kn" rel="noopener noreferrer nofollow" target="_blank">Submit request to change email</a></h4>
 <h4>Setup security questions</h4>
 <table style="minWidth: 50px">
 <colgroup>
