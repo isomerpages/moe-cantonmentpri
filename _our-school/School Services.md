@@ -244,20 +244,7 @@ address:
 <br>
 </p>
 <h3>Dental Clinic @ CPS</h3>
-<p>The Health Promotion Board’s School Dental Service (SDS) provides free
-basic dental services in school dental clinics and mobile dental clinics
-for Primary and Secondary students to promote good oral health for life.
-Annually, all Primary 1, Primary 2, Primary 4, Primary 6, &nbsp;Secondary
-1 and Secondary 3 students who are enrolled in the school dental programme
-will be screened and treated by SDS. Students in other levels who require
-dental services may visit the school dental clinics or mobile dental clinics
-for free consultation and treatment. Services are provided by dentists,
-dental therapists or advanced students in oral health therapy under close
-supervision.</p>
-<p>To enrol your child/ward in school dental programme, please submit the
-consent form electronically via Child Consent Portal <a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://consent.hpb.gov.sg/</a>.
-You may also refer to the Child Consent Portal website to learn more about
-School Dental Service</p>
+<p></p>
 <h5>Opening Dates:</h5>
 <p>2,3,7,8,9(am),10,11 and 30 Oct</p>
 <h5>Opening Hours:</h5>
