@@ -50,14 +50,13 @@ assistance for their studies. <a href="https://www.moe.gov.sg/financial-matters/
 </div>
 </details>
 </div>
-<p></p>
-<p>Under the MSF-MOE collaboration, ComCare recipients with ComCare assistance
-ending in the last quarter of 2023, or later need not submit the application
-for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries. School
-will inform the eligible parents.</p>
 <p><strong>How to apply</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>ComCare recipients are auto granted MOE FAS and we will inform eligible
+parents.</p>
+</li>
 <li>
 <p><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">Apply online</a>
 </p>
