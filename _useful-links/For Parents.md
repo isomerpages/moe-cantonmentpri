@@ -59,12 +59,19 @@ would like to update your home address click <a href="https://form.gov.sg/625629
 <h4>Health Promotion Board</h4>
 <p><a href="https://www.healthhub.sg/programmes/parent-hub" rel="noopener noreferrer nofollow" target="_blank">HPB Parent Hub</a>
 </p>
-<h5>School Based Health Check</h5>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>School based health check</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Online submission of consent for Immunisation and medical information</a> 
 <br><a href="/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P1%20Students.pdf" rel="noopener noreferrer nofollow" target="_blank">HPB consent form for immunisation for P1 students</a> 
 <br><a href="/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P5%20Students.pdf" rel="noopener noreferrer nofollow" target="_blank">HPB consent form for immunisation for P5 students</a>
 </p>
-<h5>Enhancement of Childhood Vaccination Subsidies</h5>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Vaccination</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>It is important that students get the recommended vaccinations to reduce
 the risk of infections and complications that can result from the infections.
 Vaccinations also reduce the risk of outbreaks occurring in school and
@@ -76,6 +83,31 @@ enhancement of childhood vaccination subsidies.</p>
 <br><a href="/files/ParentsBookletNCIS.pdf" rel="noopener noreferrer nofollow" target="_blank">ParentsBookletNCIS.pdf</a> 
 <br><a href="/files/Letter%20for%20parents%20via%20schools_primary.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter for parents via schools_primary.pdf</a>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Dental Clinic @ CPS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Health Promotion Board’s School Dental Service (SDS) provides free
+basic dental services in school dental clinics and mobile dental clinics
+for Primary and Secondary students to promote good oral health for life.
+Annually, all Primary 1, Primary 2, Primary 4, Primary 6, &nbsp;Secondary
+1 and Secondary 3 students who are enrolled in the school dental programme
+will be screened and treated by SDS. Students in other levels who require
+dental services may visit the school dental clinics or mobile dental clinics
+for free consultation and treatment. Services are provided by dentists,
+dental therapists or advanced students in oral health therapy under close
+supervision.
+<br>
+</p>
+<p>To enrol your child/ward in school dental programme, please submit the
+consent form electronically via Child Consent Portal <a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://consent.hpb.gov.sg/</a>.
+You may also refer to the Child Consent Portal website to learn more about
+School Dental Service</p>
+</div>
+</details>
+</div>
+<p></p>
 <h5>eGIRO</h5>
 <p><a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener noreferrer nofollow" target="_blank">School fees</a> 
 <br><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">Apple for eGIRO</a>
