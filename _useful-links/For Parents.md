@@ -108,23 +108,39 @@ School Dental Service</p>
 </details>
 </div>
 <p></p>
-<h5>eGIRO</h5>
+<p></p>
+<h5>eGIRO Finance</h5>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>eGIRO</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener noreferrer nofollow" target="_blank">School fees</a> 
 <br><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">Apple for eGIRO</a>
 </p>
-<h5>PayNow</h5>
-<p>MOE would like to encourage all parents to register their children’s bank
-account with PayNow using the children’s BC/NRIC number. The activation
-of PayNow will facilitate the prompt disbursement of monies for the child.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>PayNow</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Parents are encouraged to register their children’s bank account with
+PayNow using the children’s BC/NRIC number. The activation of PayNow will
+facilitate the prompt disbursement of monies for the child.</p>
 <p><a href="https://www.abs.org.sg/PayNow" rel="noopener noreferrer nofollow" target="_blank">More information on PayNow</a> 
 <br><a href="/files/Guide%20on%20PayNow%20Registration.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide on PayNow Registration.pdf</a> 
 <br><a href="/files/FAQs%20for%20PayNow.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs for PayNow.pdf</a>
 </p>
-<h5>POSB Smart Buddy</h5>
+</div>
+</details>
+<details class="isomer-details">
+<summary>POSB Smart Buddy</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>POSB Smart Buddy is a e-payment option in our school canteen and bookshop.
 <br><a href="/files/Smartbuddy/Implementation_of_POSB_Smart_Buddy_e_payment_for_School_Canteen_and_Bookshop.pdf" rel="noopener noreferrer nofollow" target="_blank">Implementation of POSB Smart Buddy e-payment</a> 
 <br><a href="/files/Smartbuddy/Digital_Registration_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Registration</a>
 </p>
+</div>
+</details>
+</div>
 <p></p>
 <h5>Parent Gateway</h5>
 <p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>&nbsp;is
