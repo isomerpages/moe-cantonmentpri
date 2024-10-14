@@ -506,7 +506,7 @@ to parents. May include topics such as:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Letter/2024_254__P6_VIA_Letter_to_parents.pdf" rel="noopener nofollow" target="_blank">2024-254  P6 VIA Letter to parents</a>
+<p><a href="/files/Letter/2024_254__P6_VIA_Letter_to_parents.pdf" rel="noopener nofollow" target="_blank">2024-254 P6 VIA Letter to parents</a>
 </p>
 </td>
 </tr>
@@ -519,6 +519,12 @@ to parents. May include topics such as:
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_257_Cantonment_Share_A_Textbook_donation_drive.pdf" rel="noopener nofollow" target="_blank">2024-257 Cantonment Share-A-Textbook donation drive</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_258_P6_Social_Etiquette_Workshop_and_Graduation_Lunch.pdf" rel="noopener nofollow" target="_blank">2024-258 P6 Social Etiquette Workshop and Graduation Lunch</a>
 </p>
 </td>
 </tr>
