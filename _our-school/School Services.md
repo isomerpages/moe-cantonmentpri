@@ -56,7 +56,10 @@ address:
 <br><a href="/files/Services/cps_new_bus_registration_form_for_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">CPS New Bus Registration Form for 2024</a>
 </p>
 <h6>Pricing</h6>
-<h6>2024 to 2025</h6>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2024 to 2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -136,7 +139,12 @@ address:
 </tr>
 </tbody>
 </table>
-<h6>2026 to 2027</h6>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2026 to 2027</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -216,6 +224,10 @@ address:
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
 <h3>School Uniform</h3>
 <p>Bibi&amp;Baba Private Limited
 <br>Website: <a href="https://www.schooluniforms.sg/cantonment-primary-school" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/cantonment-primary-school</a>
@@ -244,20 +256,6 @@ address:
 <br>
 </p>
 <h3>Dental Clinic @ CPS</h3>
-<p>The Health Promotion Board’s School Dental Service (SDS) provides free
-basic dental services in school dental clinics and mobile dental clinics
-for Primary and Secondary students to promote good oral health for life.
-Annually, all Primary 1, Primary 2, Primary 4, Primary 6, &nbsp;Secondary
-1 and Secondary 3 students who are enrolled in the school dental programme
-will be screened and treated by SDS. Students in other levels who require
-dental services may visit the school dental clinics or mobile dental clinics
-for free consultation and treatment. Services are provided by dentists,
-dental therapists or advanced students in oral health therapy under close
-supervision.</p>
-<p>To enrol your child/ward in school dental programme, please submit the
-consent form electronically via Child Consent Portal <a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://consent.hpb.gov.sg/</a>.
-You may also refer to the Child Consent Portal website to learn more about
-School Dental Service</p>
 <h5>Opening Dates:</h5>
 <p>2,3,7,8,9(am),10,11 and 30 Oct</p>
 <h5>Opening Hours:</h5>

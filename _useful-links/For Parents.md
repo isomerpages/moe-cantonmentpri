@@ -54,17 +54,24 @@ would like to update your home address click <a href="https://form.gov.sg/625629
 <a href="/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil</a>
 </p>
 <h5>PSLE Parent Engagement</h5>
-<p><a href="/files/psle%20parent%20engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE 2023_Parent Engagement</a>
+<p><a href="/files/psle%20parent%20engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE Parent Engagement</a>
 </p>
 <h4>Health Promotion Board</h4>
 <p><a href="https://www.healthhub.sg/programmes/parent-hub" rel="noopener noreferrer nofollow" target="_blank">HPB Parent Hub</a>
 </p>
-<h5>School Based Health Check</h5>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>School based health check</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Online submission of consent for Immunisation and medical information</a> 
 <br><a href="/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P1%20Students.pdf" rel="noopener noreferrer nofollow" target="_blank">HPB consent form for immunisation for P1 students</a> 
 <br><a href="/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P5%20Students.pdf" rel="noopener noreferrer nofollow" target="_blank">HPB consent form for immunisation for P5 students</a>
 </p>
-<h5>Enhancement of Childhood Vaccination Subsidies</h5>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Vaccination</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>It is important that students get the recommended vaccinations to reduce
 the risk of infections and complications that can result from the infections.
 Vaccinations also reduce the risk of outbreaks occurring in school and
@@ -76,23 +83,64 @@ enhancement of childhood vaccination subsidies.</p>
 <br><a href="/files/ParentsBookletNCIS.pdf" rel="noopener noreferrer nofollow" target="_blank">ParentsBookletNCIS.pdf</a> 
 <br><a href="/files/Letter%20for%20parents%20via%20schools_primary.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter for parents via schools_primary.pdf</a>
 </p>
-<h5>eGIRO</h5>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Dental Clinic @ CPS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Health Promotion Board’s School Dental Service (SDS) provides free
+basic dental services in school dental clinics and mobile dental clinics
+for Primary and Secondary students to promote good oral health for life.
+Annually, all Primary 1, Primary 2, Primary 4, Primary 6, &nbsp;Secondary
+1 and Secondary 3 students who are enrolled in the school dental programme
+will be screened and treated by SDS. Students in other levels who require
+dental services may visit the school dental clinics or mobile dental clinics
+for free consultation and treatment. Services are provided by dentists,
+dental therapists or advanced students in oral health therapy under close
+supervision.
+<br>
+</p>
+<p>To enrol your child/ward in school dental programme, please submit the
+consent form electronically via Child Consent Portal <a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://consent.hpb.gov.sg/</a>.
+You may also refer to the Child Consent Portal website to learn more about
+School Dental Service</p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<h5>eGIRO Finance</h5>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>eGIRO</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener noreferrer nofollow" target="_blank">School fees</a> 
 <br><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">Apple for eGIRO</a>
 </p>
-<h5>PayNow</h5>
-<p>MOE would like to encourage all parents to register their children’s bank
-account with PayNow using the children’s BC/NRIC number. The activation
-of PayNow will facilitate the prompt disbursement of monies for the child.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>PayNow</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Parents are encouraged to register their children’s bank account with
+PayNow using the children’s BC/NRIC number. The activation of PayNow will
+facilitate the prompt disbursement of monies for the child.</p>
 <p><a href="https://www.abs.org.sg/PayNow" rel="noopener noreferrer nofollow" target="_blank">More information on PayNow</a> 
 <br><a href="/files/Guide%20on%20PayNow%20Registration.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide on PayNow Registration.pdf</a> 
 <br><a href="/files/FAQs%20for%20PayNow.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs for PayNow.pdf</a>
 </p>
-<h5>POSB Smart Buddy</h5>
+</div>
+</details>
+<details class="isomer-details">
+<summary>POSB Smart Buddy</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>POSB Smart Buddy is a e-payment option in our school canteen and bookshop.
 <br><a href="/files/Smartbuddy/Implementation_of_POSB_Smart_Buddy_e_payment_for_School_Canteen_and_Bookshop.pdf" rel="noopener noreferrer nofollow" target="_blank">Implementation of POSB Smart Buddy e-payment</a> 
 <br><a href="/files/Smartbuddy/Digital_Registration_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Registration</a>
 </p>
+</div>
+</details>
+</div>
 <p></p>
 <h5>Parent Gateway</h5>
 <p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>&nbsp;is
@@ -506,7 +554,7 @@ to parents. May include topics such as:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Letter/2024_254__P6_VIA_Letter_to_parents.pdf" rel="noopener nofollow" target="_blank">2024-254  P6 VIA Letter to parents</a>
+<p><a href="/files/Letter/2024_254__P6_VIA_Letter_to_parents.pdf" rel="noopener nofollow" target="_blank">2024-254 P6 VIA Letter to parents</a>
 </p>
 </td>
 </tr>
@@ -519,6 +567,12 @@ to parents. May include topics such as:
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2024_257_Cantonment_Share_A_Textbook_donation_drive.pdf" rel="noopener nofollow" target="_blank">2024-257 Cantonment Share-A-Textbook donation drive</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_258_P6_Social_Etiquette_Workshop_and_Graduation_Lunch.pdf" rel="noopener nofollow" target="_blank">2024-258 P6 Social Etiquette Workshop and Graduation Lunch</a>
 </p>
 </td>
 </tr>
