@@ -285,19 +285,19 @@ clinic is closed, please contact:</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Gan Eng Seng Primary School</p>
+<p>Rive Valley Primary School</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Radin Mas Primary School</p>
+<p>Mobile Dental Clinic 9</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Phone:&nbsp;<a href="tel:+6587647603" rel="noopener noreferrer nofollow" target="_blank">87647603</a>
+<p>Phone:&nbsp;<a href="tel:+6589095948" rel="noopener noreferrer nofollow" target="_blank">89095948</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Phone:&nbsp;<a href="tel:+6589092397" rel="noopener noreferrer nofollow" target="_blank">89092397</a>
+<p>Phone:&nbsp;<a href="tel:+6592379126" rel="noopener noreferrer nofollow" target="_blank">92379126</a>
 </p>
 </td>
 </tr>
@@ -309,8 +309,8 @@ clinic is closed, please contact:</p>
 <details class="isomer-details">
 <summary>Dental Emergencies</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>For dental emergencies (e.g. dental trauma, facial/gum swelling, toothache),
-please contact HPB Student Dental Centre:
+<p>For dental emergencies (e.g. pain, facial/gum swelling and trauma), please
+contact HPB Student Dental Centre:
 <br>Phone: <a href="tel:+6564353782" rel="noopener noreferrer nofollow" target="_blank">64353782</a>
 <br>Email: <a href="mailto:contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact_YPS@hpb.gov.sg</u></a>
 </p>
