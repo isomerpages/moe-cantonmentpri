@@ -256,16 +256,21 @@ address:
 <br>
 </p>
 <h3>Dental Clinic @ CPS</h3>
-<p>Opening Dates:</p>
+<p><u>Opening Dates:</u>
+</p>
 <p>2,3,7,8,9(am),10,11 and 30 Oct</p>
-<p>Opening Hours:</p>
+<p><u>Opening Hours:</u>
+</p>
 <p>Wednesday/Friday: 8 am to 5 pm
 <br>Thursday: 8 am to 5.30 pm
 <br>Lunch Hour 1-2 pm</p>
-<p>Appointments</p>
+<p><u>Appointments</u>
+</p>
 <p>Call/WhatsApp/SMS: <a href="https://wa.me/6587646337" rel="noopener noreferrer nofollow" target="_blank">87646337</a>
 </p>
-<h5>During Clinic Closure</h5>
+<p></p>
+<p><u>During Clinic Closure</u>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Buddy Clinics (urgent but non-emergency)</summary>
@@ -313,6 +318,3 @@ please contact HPB Student Dental Centre:
 </details>
 </div>
 <p></p>
-<p>
-<br>Email: <a href="mailto:contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_YPS@hpb.gov.sg</a>
-</p>
