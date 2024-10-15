@@ -256,21 +256,22 @@ address:
 <br>
 </p>
 <h3>Dental Clinic @ CPS</h3>
-<h5>Opening Dates:</h5>
+<p>Opening Dates:</p>
 <p>2,3,7,8,9(am),10,11 and 30 Oct</p>
-<h5>Opening Hours:</h5>
+<p>Opening Hours:</p>
 <p>Wednesday/Friday: 8 am to 5 pm
 <br>Thursday: 8 am to 5.30 pm
 <br>Lunch Hour 1-2 pm</p>
-<h5>Appointments</h5>
+<p>Appointments</p>
 <p>Call/WhatsApp/SMS: <a href="https://wa.me/6587646337" rel="noopener noreferrer nofollow" target="_blank">87646337</a>
 </p>
 <h5>During Clinic Closure</h5>
-<p>When the school dental clinic is closed or to arrange for an appointment,
-please contact or leave a message at <a href="tel:+6587646337" rel="noopener noreferrer nofollow" target="_blank">87646337</a>
-</p>
-<p>In the event of any urgent cases (non-emergency), please contact the buddy
-clinics to make appointments.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Buddy Clinics (urgent but non-emergency)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>In the event of any urgent cases (non-emergency) and the school dental
+clinic is closed, please contact:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -297,8 +298,21 @@ clinics to make appointments.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Dental Emergencies</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>For dental emergencies (e.g. dental trauma, facial/gum swelling, toothache),
 please contact HPB Student Dental Centre:
 <br>Phone: <a href="tel:+6564353782" rel="noopener noreferrer nofollow" target="_blank">64353782</a>
+<br>Email: <a href="mailto:contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact_YPS@hpb.gov.sg</u></a>
+</p>
+</div>
+</details>
+</div>
+<p></p>
+<p>
 <br>Email: <a href="mailto:contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_YPS@hpb.gov.sg</a>
 </p>
