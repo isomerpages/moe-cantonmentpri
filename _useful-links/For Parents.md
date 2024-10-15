@@ -4,7 +4,7 @@ permalink: /useful-links/for-parents/
 description: ""
 variant: tiptap
 ---
-<h5>Ministry Websites</h5>
+<h4>Ministry Websites</h4>
 <p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education</a> 
 <br><a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Examinations and Assessment Board</a> 
 <br><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">Parent kit</a> 
@@ -12,7 +12,7 @@ variant: tiptap
 <br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Secondary Direct School Admissions</a> 
 <br>
 </p>
-<h3>Update Student Particulars</h3>
+<h4>Update Student Particulars</h4>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Update student/parent particulars - Requires SingPass login</a> 
 <br>
 <br>To update parent email and phone: on Parent Gateway app:
@@ -22,19 +22,13 @@ variant: tiptap
 <br>To update parent email/phone and you are not on Parent Gateway or you
 would like to update your home address click <a href="https://form.gov.sg/625629188a621f0012a3a16c" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-<h3>Admission</h3>
-<p><a href="https://form.gov.sg/62561c0cf319210013a4d4dc" rel="noopener noreferrer nofollow" target="_blank">Singaporean and PR Students</a> 
-<br><a href="/useful-links/admissions-for-returning-singaporeans" rel="noopener noreferrer nofollow" target="_blank">Returning Singaporeans</a> 
-<br><a href="https://www.moe.gov.sg/international-students" rel="noopener noreferrer nofollow" target="_blank">Foreign Students</a> 
-<br>
-</p>
-<h3>Cantonment Times</h3>
+<h4>Cantonment Times</h4>
 <p><a href="/files/Times/2023semester1.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 1 2023 Newsletter</a> 
 <br><a href="/files/Times/2023semestertwo.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 2 2023 Newsletter</a> 
 <br><a href="/files/Times/Semester_1_2024_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 1 2024 Newsletter</a>
 <br>
 </p>
-<h3>Touch Base Meeting</h3>
+<h4>Touch Base Meeting</h4>
 <p><a href="/files/TBM/P1_TBM.pdf" rel="noopener noreferrer nofollow" target="_blank">P1</a> 
 <br><a href="/files/TBM/P2_TBM.pdf" rel="noopener noreferrer nofollow" target="_blank">P2</a> 
 <br><a href="/files/TBM/P3_TBM.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a> 
@@ -42,12 +36,12 @@ would like to update your home address click <a href="https://form.gov.sg/625629
 <br><a href="/files/TBM/P5_TBM.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a> 
 <br><a href="/files/TBM/P6_TBM.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
 </p>
-<h5>Cyberwellness</h5>
+<h4>Cyberwellness</h4>
 <p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness Guide</a> 
 <br><a href="/files/Cyberwellness%20Holiday%20Tips%20for%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Holiday Tips for Parents</a> 
 <br><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Parent Kit</a>
 </p>
-<h5>P4 Subject Based Banding</h5>
+<h4>P4 Subject Based Banding</h4>
 <p><a href="https://www.moe.gov.sg/primary/curriculum/subject-based-banding" rel="noopener noreferrer nofollow" target="_blank">Website</a> 
 <br><a href="/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a> 
 <a href="/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese</a> <a href="/files/MOE_SBB_ML_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay</a> 
@@ -108,8 +102,7 @@ School Dental Service</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<h5>eGIRO Finance</h5>
+<h4>Finance</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>eGIRO</summary>
@@ -150,7 +143,7 @@ use your child's Edusave</p>
 </details>
 </div>
 <p></p>
-<h5>Parent Gateway</h5>
+<h4>Parent Gateway</h4>
 <p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>&nbsp;is
 a one-stop <a href="https://play.google.com/store/apps/details?id=com.moe.pgp" rel="noopener noreferrer nofollow" target="_blank">Android</a>/
 <a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener noreferrer nofollow" target="_blank">iOS</a>app that strengthens school-home partnership to support our children
@@ -185,7 +178,7 @@ fingertips.</p>
 Parent Child Teacher Conference)</p>
 </li>
 </ul>
-<h5>Montfort Care Parenting Support Team</h5>
+<h4>Montfort Care Parenting Support Team</h4>
 <p><a href="https://www.montfortcare.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Montfort Care</a> is
 a Social Service Agency dedicated to improving the lives of individuals,
 families and the community facing transitional challenges</p>
@@ -230,7 +223,7 @@ to parents. May include topics such as:
 </div>
 </details>
 <p></p>
-<h5>Letters to Parents</h5>
+<h4>Letters to Parents</h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -586,6 +579,4 @@ to parents. May include topics such as:
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
