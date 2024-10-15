@@ -11,7 +11,9 @@ to apply to school directly for admission or transfer.&nbsp;
 </p>
 <p>Please submit this <a href="https://form.gov.sg/62561c0cf319210013a4d4dc" rel="noopener nofollow" target="_blank">form </a>and
 we will contact you if a vacancy arises within the next 3 months.</p>
-<p></p>
+<h4>International Students</h4>
+<p>Students are not Singaporeans or PR will have to apply <a href="https://www.moe.gov.sg/international-students" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <h4>Admissions for Returning Singaporeans&nbsp;(Leave of Absence Scheme)</h4>
 <p>Parents who are planning to go overseas with the family for work, business
 or company related training, may apply to retain the place for their child
