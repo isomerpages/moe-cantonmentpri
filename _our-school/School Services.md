@@ -288,7 +288,7 @@ clinic is closed, please contact:</p>
 <p>Rive Valley Primary School</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mobile Dental Clinic</p>
+<p>Mobile Dental Clinic 9</p>
 </th>
 </tr>
 <tr>
