@@ -22,12 +22,6 @@ variant: tiptap
 <br>To update parent email/phone and you are not on Parent Gateway or you
 would like to update your home address click <a href="https://form.gov.sg/625629188a621f0012a3a16c" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-<h3>Admission</h3>
-<p><a href="https://form.gov.sg/62561c0cf319210013a4d4dc" rel="noopener noreferrer nofollow" target="_blank">Singaporean and PR Students</a> 
-<br><a href="/useful-links/admissions-for-returning-singaporeans" rel="noopener noreferrer nofollow" target="_blank">Returning Singaporeans</a> 
-<br><a href="https://www.moe.gov.sg/international-students" rel="noopener noreferrer nofollow" target="_blank">Foreign Students</a> 
-<br>
-</p>
 <h3>Cantonment Times</h3>
 <p><a href="/files/Times/2023semester1.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 1 2023 Newsletter</a> 
 <br><a href="/files/Times/2023semestertwo.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 2 2023 Newsletter</a> 
@@ -108,8 +102,7 @@ School Dental Service</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<h5>eGIRO Finance</h5>
+<h5>Finance</h5>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>eGIRO</summary>
@@ -586,6 +579,4 @@ to parents. May include topics such as:
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
