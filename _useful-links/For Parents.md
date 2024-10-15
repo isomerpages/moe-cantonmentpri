@@ -140,6 +140,14 @@ facilitate the prompt disbursement of monies for the child.</p>
 </p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Edusave</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://www.moe.gov.sg/financial-matters/edusave-account" rel="noopener nofollow" target="_blank">Official Website</a>
+<br><a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener nofollow" target="_blank">Authorisation</a> to
+use your child's Edusave</p>
+</div>
+</details>
 </div>
 <p></p>
 <h5>Parent Gateway</h5>
