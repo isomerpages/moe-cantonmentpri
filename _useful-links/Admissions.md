@@ -4,6 +4,12 @@ permalink: /useful-links/admissions/
 description: ""
 variant: tiptap
 ---
+<p><a href="/files/P1 Orientation/AsLFL.pdf" rel="noopener nofollow" target="_blank">1</a>
+</p>
+<p><a href="/files/P1 Orientation/NTIL.pdf" rel="noopener nofollow" target="_blank">2</a>
+</p>
+<p><a href="/files/P1 Orientation/MTL.pdf" rel="noopener nofollow" target="_blank">3</a>
+</p>
 <h4>New Admission/Transfer In</h4>
 <p>Only Singapore Citizen or Singapore Permanent Resident students are eligible
 to apply to school directly for admission or transfer.&nbsp;
