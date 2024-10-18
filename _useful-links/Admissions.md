@@ -4,7 +4,76 @@ permalink: /useful-links/admissions/
 description: ""
 variant: tiptap
 ---
-<h4>New Admission/Transfer In</h4>
+<h4>Incoming Students</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Finance</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Apply for eGIRO</p>
+<p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
+</p>
+<p>Give authorisation for Edusave</p>
+<p><a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/5be24a1bb3f842000fdc4e59</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Health Declaration and Consent</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>FormSG Here</p>
+<p></p>
+<p>Dental and Health Consent</p>
+<p><a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://consent.hpb.gov.sg/</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Name Tag</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Order Name tags at the vendor website. It will be delivered to school
+and form teachers will pass it to your child.</p>
+<p>State the class as P1 2025</p>
+<p><a href="https://www.schooluniforms.sg/cantonment-primary-school/cantonment-primary-name-tag" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/cantonment-primary-school/cantonment-primary-name-tag</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Books (Available from mid November)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Buy books from vendor webstie. Choose between home delivery (paid) or
+self collect from school.</p>
+<p><a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">http://www.pacificbookstores.com</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>School Uniform</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Visit the school uniform vendor's office and buy in person</p>
+<p><a href="https://www.schooluniforms.sg/cantonment-primary-school" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/cantonment-primary-school</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Optional - Apply For Financial Assistance</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>ComCare recipients are auto granted MOE FAS and you do not need to apply.
+School will update you with a letter.</p>
+<p></p>
+<p>Please apply <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Optional - Apply for School Based Student Care</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://form.gov.sg/670f4a32a04a3d156dbbcb2e" rel="noopener nofollow" target="_blank">Indicate Interest</a>
+</p>
+</div>
+</details>
+</div>
+<p></p>
+<h4>Request For Admission/Transfer In</h4>
 <p>Only Singapore Citizen or Singapore Permanent Resident students are eligible
 to apply to school directly for admission or transfer.&nbsp;
 <br>
