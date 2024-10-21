@@ -75,8 +75,10 @@ self collect from school.</p>
 <p>ComCare recipients are auto granted MOE FAS and you do not need to apply.
 School will update you with a letter.</p>
 <p></p>
-<p>Please apply <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a>
-</p>
+<p>If you not on ComCare, please apply <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a>
+<br>
+<br>For home broadband and laptop/tablet, please read about <a href="https://www.cantonmentpri.moe.edu.sg/useful-links/financial-assistance/" rel="noopener nofollow" target="_blank">DigitalAccess@Home</a> before
+applying.</p>
 </div>
 </details>
 <details class="isomer-details">
