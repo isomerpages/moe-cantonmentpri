@@ -11,11 +11,8 @@ variant: tiptap
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Apply before 1st December
 <br>
-<br>Apply for eGIRO</p>
-<p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
-</p>
-<p>Give authorisation for Edusave</p>
-<p><a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/5be24a1bb3f842000fdc4e59</a>
+<br>Apply for eGIRO: <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
+<br>Give authorisation for Edusave: <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/5be24a1bb3f842000fdc4e59</a>
 </p>
 </div>
 </details>
@@ -72,8 +69,8 @@ self collect from school.</p>
 <details class="isomer-details">
 <summary>Optional - Apply for Financial Assistance</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Please find the <a href="https://www.cantonmentpri.moe.edu.sg/useful-links/financial-assistance/" rel="noopener nofollow" target="_blank">eligibility and benefits</a> here</p>
-<p>
+<p>Please find the <a href="https://www.cantonmentpri.moe.edu.sg/useful-links/financial-assistance/" rel="noopener nofollow" target="_blank">eligibility and benefits</a> criteria
+<br>
 <br>ComCare recipients are auto granted MOE FAS and you do not need to apply.
 School will update you with a letter.</p>
 <p></p>
