@@ -577,6 +577,18 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_260_Types_of_Programmes_for_Mother_Tongue_Language_for_Primary_3_2025.pdf" rel="noopener nofollow" target="_blank">2024-260 Types of Programmes for Mother Tongue Language for Primary 3 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_261_Adjustment_to_P3_P5_Recess_and_Lunch_Timings_on_22_October_2024.pdf" rel="noopener nofollow" target="_blank">2024-261 Adjustment to P3-P5 Recess and Lunch Timings on 22 October 2024</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
