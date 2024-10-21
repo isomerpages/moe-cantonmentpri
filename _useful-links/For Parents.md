@@ -15,12 +15,11 @@ variant: tiptap
 <h4>Update Student Particulars</h4>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Update student/parent particulars - Requires SingPass login</a> 
 <br>
-<br>To update parent email and phone: on Parent Gateway app:
+<br>To update parent email and phone; on the Parent Gateway app:
 <br>go to 'Profile' &gt; 'Edit contact details'
-<br>Not on Parent Gateway click <a href="https://form.gov.sg/625629188a621f0012a3a16c" rel="noopener noreferrer nofollow" target="_blank">here</a> 
 <br>
-<br>To update parent email/phone and you are not on Parent Gateway or you
-would like to update your home address click <a href="https://form.gov.sg/625629188a621f0012a3a16c" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<br>To update your home address, ensure that your new address is reflected
+in your SingPass and then click <a href="https://form.gov.sg/625629188a621f0012a3a16c" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <h4>Cantonment Times</h4>
 <p><a href="/files/Times/2023semester1.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 1 2023 Newsletter</a> 
