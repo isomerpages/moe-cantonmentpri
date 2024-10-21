@@ -9,7 +9,9 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Finance</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Apply for eGIRO</p>
+<p>Apply by 1st December
+<br>
+<br>Apply for eGIRO</p>
 <p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
 </p>
 <p>Give authorisation for Edusave</p>
@@ -20,9 +22,11 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Health Declaration and Consent</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>FormSG Here</p>
+<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">Health Declaration to School</a> -
+If you are not able to acceess this link now, try after 20 November 2024
+or in end December or first week of January.</p>
 <p></p>
-<p>Dental and Health Consent</p>
+<p>HPB Dental and Health Consent</p>
 <p><a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://consent.hpb.gov.sg/</a>
 </p>
 </div>
@@ -52,6 +56,15 @@ self collect from school.</p>
 <p>Visit the school uniform vendor's office and buy in person</p>
 <p><a href="https://www.schooluniforms.sg/cantonment-primary-school" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/cantonment-primary-school</a>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Parent Gateway</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Install this app on <a href="https://play.google.com/store/apps/details?id=com.moe.pgp" rel="noopener nofollow" target="_blank">Android</a> or
+<a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener nofollow" target="_blank">iOS</a>to read and consent to letters from school.
+<br>If you are not able to login with your SingPass to the app, please try
+again after 20 November 2024</p>
 </div>
 </details>
 <details class="isomer-details">
