@@ -46,7 +46,7 @@ and form teachers will pass it to your child.</p>
 <details class="isomer-details">
 <summary>Books (Available from mid November)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Buy books from vendor website. Choose between home delivery (paid) or
+<p>Buy books from vendor's website. Choose between home delivery (paid) or
 self collect from school.</p>
 <p><a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">http://www.pacificbookstores.com</a>
 </p>
