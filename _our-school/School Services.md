@@ -51,10 +51,7 @@ variant: tiptap
 <br>Ms Jeccy Low: <a href="tel:88110102" rel="noopener noreferrer nofollow" target="_blank">88110102</a>
 <br>Email:&nbsp;<a href="mailto:emltransport9277@gmail.com" rel="noopener noreferrer nofollow" target="_blank">emltransport9277@gmail.com</a>
 </p>
-<p>Please email the completed form to Revolving Transport via the above email
-address:
-<br><a href="/files/Services/cps_new_bus_registration_form_for_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">CPS New Bus Registration Form for 2024</a>
-</p>
+<p></p>
 <h6>Pricing</h6>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
