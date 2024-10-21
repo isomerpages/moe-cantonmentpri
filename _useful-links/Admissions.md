@@ -86,6 +86,12 @@ School will update you with a letter.</p>
 </p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Optional - Apply for School Bus</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Check again for the updated application form.</p>
+</div>
+</details>
 </div>
 <p></p>
 <h4>Request For Admission/Transfer In</h4>
