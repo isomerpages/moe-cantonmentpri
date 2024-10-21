@@ -97,7 +97,13 @@ programmes organised by CDAC.</p>
 lower-income households to support their lifestyle needs, including school,
 work and social activities.</p>
 <p>Low-income households living in HDB flats with at least one Singapore
-Citizen are eligible to apply for DigitalAccess@Home.</p>
+Citizen are eligible to apply for DigitalAccess@Home.
+<br>
+<br>If you currently have a home broadband service, you will need to wait
+until your existing contract ends before you can cancel it and apply for
+DigitalAccess@Home broadband.</p>
+<p>You can apply for both broadband and laptop/tablet together or separately
+in different months/years.</p>
 <p><a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener noreferrer nofollow" target="_blank">Official Website</a> 
 <br><a href="https://eservice.imda.gov.sg/das/singpasslogin?strParam=login%C2%ACprotected=true" rel="noopener noreferrer nofollow" target="_blank">Online Application Form</a>
 </p>
