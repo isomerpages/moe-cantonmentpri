@@ -70,7 +70,7 @@ self collect from school.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Optional - Apply For Financial Assistance</summary>
+<summary>Optional - Apply for Financial Assistance</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>ComCare recipients are auto granted MOE FAS and you do not need to apply.
 School will update you with a letter.</p>
