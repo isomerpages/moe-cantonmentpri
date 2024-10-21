@@ -72,7 +72,9 @@ self collect from school.</p>
 <details class="isomer-details">
 <summary>Optional - Apply for Financial Assistance</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>ComCare recipients are auto granted MOE FAS and you do not need to apply.
+<p>Please find the <a href="https://www.cantonmentpri.moe.edu.sg/useful-links/financial-assistance/" rel="noopener nofollow" target="_blank">eligibility and benefits</a> here</p>
+<p>
+<br>ComCare recipients are auto granted MOE FAS and you do not need to apply.
 School will update you with a letter.</p>
 <p></p>
 <p>If you are not on ComCare, please apply <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a>
