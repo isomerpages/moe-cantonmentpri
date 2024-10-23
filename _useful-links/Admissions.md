@@ -83,6 +83,10 @@ applying.</p>
 <details class="isomer-details">
 <summary>Optional - Apply for School Based Student Care</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Commit Learning Schoolhouse Pte Ltd
+<br><a href="https://www.commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.commitlearning.com.sg</a>
+</p>
+<p></p>
 <p><a href="https://form.gov.sg/6718ba7a6a0ae7eeb331cd8d" rel="noopener nofollow" target="_blank">Indicate Interest</a>
 </p>
 </div>
