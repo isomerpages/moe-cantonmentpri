@@ -588,6 +588,12 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_262_PCTC_Sem_2.pdf" rel="noopener nofollow" target="_blank">2024-262 PCTC Sem 2</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
