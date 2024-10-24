@@ -314,5 +314,4 @@ contact HPB Student Dental Centre:
 </div>
 </details>
 </div>
-<p>Please email the completed form to Revolving Transport via the above email
-address.</p>
+<p></p>
