@@ -36,20 +36,15 @@ variant: tiptap
 <br>Website:&nbsp;<a href="http://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a> 
 <br>Phone: <a href="tel:69298012" rel="noopener noreferrer nofollow" target="_blank">69298012</a>
 </p>
-<p><strong>Booklist For 2024</strong> 
-<br><a href="/files/Booklist/p1 2024.pdf" rel="noopener nofollow" target="_blank">P1</a>
-<br><a href="/files/Booklist/P2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P2</a>
-<br><a href="/files/Booklist/P3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a>
-<br><a href="/files/Booklist/P4_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a>
-<br><a href="/files/Booklist/P5_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a>
-<br><a href="/files/Booklist/P6_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
-</p>
+<p><strong>Booklist For 2025</strong>
+<br>Will be updated soon</p>
 <h3>Bus Transport</h3>
 <p>Revolving Transport Pte Ltd</p>
 <p>Phone
 <br>Office: <a href="tel:64797597" rel="noopener noreferrer nofollow" target="_blank">64797597</a>
 <br>Ms Jeccy Low: <a href="tel:88110102" rel="noopener noreferrer nofollow" target="_blank">88110102</a>
-<br>Email:&nbsp;<a href="mailto:emltransport9277@gmail.com" rel="noopener noreferrer nofollow" target="_blank">emltransport9277@gmail.com</a>
+<br>Email:&nbsp;<a href="mailto:jeccyemltransportservice@gmail.com" rel="noopener noreferrer nofollow" target="_blank">jeccyemltransportservice@gmail.com</a>
+<br>Application <a href="/files/Services/Bus.pdf" rel="noopener nofollow" target="_blank">Form</a>
 </p>
 <p></p>
 <h6>Pricing</h6>
@@ -247,7 +242,6 @@ variant: tiptap
 </p>
 <h3>School based Student Care Centre</h3>
 <p>Commit Learning Schoolhouse Pte Ltd
-<br>Website: <a href="https://www.commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.commitlearning.com.sg</a>
 <br>Admission: <a href="https://form.gov.sg/6718ba7a6a0ae7eeb331cd8d" rel="noopener noreferrer nofollow" target="_blank">Indication of Interest</a>
 <br>Call/WhatsApp:<a href="https://wa.me/6580778218." rel="noopener noreferrer nofollow" target="_blank">80778218</a>
 <br>
@@ -255,7 +249,7 @@ variant: tiptap
 <h3>Dental Clinic @ CPS</h3>
 <p><u>Opening Dates:</u>
 </p>
-<p>2,3,7,8,9(am),10,11 and 30 Oct</p>
+<p>1, 12-15, 18, 19(am), 21(am), 22, 25(pm), 26-29 November</p>
 <p><u>Opening Hours:</u>
 </p>
 <p>Wednesday/Friday: 8 am to 5 pm
