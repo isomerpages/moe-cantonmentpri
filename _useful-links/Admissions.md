@@ -7,7 +7,7 @@ variant: tiptap
 <h4>Incoming Students</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Finance</summary>
+<summary>Finance - By 1st December</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Apply before 1st December
 <br>
@@ -17,7 +17,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Health Declaration and Consent</summary>
+<summary>Health Declaration and Consent - After 21 Dec 2024</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">Health Declaration to School</a> -
 If you are not able to access this link now, try after 20 November 2024/mid
@@ -67,6 +67,13 @@ self collect from school.</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary>Student Data Form (From December)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary>Optional - Apply for Financial Assistance</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Please find the <a href="https://www.cantonmentpri.moe.edu.sg/useful-links/financial-assistance/" rel="noopener nofollow" target="_blank">eligibility and benefits</a> criteria
@@ -84,17 +91,15 @@ applying.</p>
 <summary>Optional - Apply for School Based Student Care</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Commit Learning Schoolhouse Pte Ltd
-<br><a href="https://www.commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.commitlearning.com.sg</a>
-</p>
-<p></p>
-<p><a href="https://form.gov.sg/6718ba7a6a0ae7eeb331cd8d" rel="noopener nofollow" target="_blank">Indicate Interest</a>
+<br><a href="https://form.gov.sg/6718ba7a6a0ae7eeb331cd8d" rel="noopener nofollow" target="_blank">Indicate Interest</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Optional - Apply for School Bus</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Check again for the updated application form.</p>
+<p><a href="/files/Services/Bus.pdf" rel="noopener nofollow" target="_blank">Bus Application Form</a>
+</p>
 </div>
 </details>
 </div>
