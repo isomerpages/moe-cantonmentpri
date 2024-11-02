@@ -242,6 +242,9 @@ variant: tiptap
 </p>
 <h3>School based Student Care Centre</h3>
 <p>Commit Learning Schoolhouse Pte Ltd
+<br><a href="https://www.commitlearning.com.sg" rel="noopener nofollow" target="_blank">Website</a>
+<br><a href="/files/Services/Introduction_Letter___Cantonment_Pri.pdf" rel="noopener nofollow" target="_blank">Introduction Letter</a>
+<br><a href="/files/Services/2025_FAQs___Cantonment_Pri.pdf" rel="noopener nofollow" target="_blank">FAQ</a>
 <br>Admission: <a href="https://form.gov.sg/6718ba7a6a0ae7eeb331cd8d" rel="noopener noreferrer nofollow" target="_blank">Indication of Interest</a>
 <br>Call/WhatsApp:<a href="https://wa.me/6580778218." rel="noopener noreferrer nofollow" target="_blank">80778218</a>
 <br>
