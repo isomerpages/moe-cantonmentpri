@@ -19,10 +19,6 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Health Declaration and Consent - After 21 Dec 2024</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">Health Declaration to School</a> -
-If you are not able to access this link now, try after 20 November 2024/mid
-December/first week of January.</p>
-<p></p>
 <p>HPB Dental and Health Consent</p>
 <p><a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://consent.hpb.gov.sg/</a>
 </p>
@@ -91,6 +87,8 @@ applying.</p>
 <summary>Optional - Apply for School Based Student Care</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Commit Learning Schoolhouse Pte Ltd
+<br><a href="/files/Services/Introduction_Letter___Cantonment_Pri.pdf" rel="noopener nofollow" target="_blank">Introduction Letter</a>
+<br><a href="/files/Services/2025_FAQs___Cantonment_Pri.pdf" rel="noopener nofollow" target="_blank">FAQ</a>
 <br><a href="https://form.gov.sg/6718ba7a6a0ae7eeb331cd8d" rel="noopener nofollow" target="_blank">Indicate Interest</a>
 </p>
 </div>
