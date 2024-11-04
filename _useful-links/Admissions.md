@@ -37,7 +37,7 @@ and form teachers will pass it to your child.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Books (Available from mid November)</summary>
+<summary>Books</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Buy books from vendor's website. Choose between home delivery (paid) or
 self collect from school.</p>
