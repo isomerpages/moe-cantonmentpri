@@ -37,7 +37,8 @@ variant: tiptap
 <br>Phone: <a href="tel:69298012" rel="noopener noreferrer nofollow" target="_blank">69298012</a>
 </p>
 <p><strong>Booklist For 2025</strong>
-<br>Will be updated soon</p>
+<br><a href="/files/Booklist/P1_Booklist.pdf" rel="noopener nofollow" target="_blank">P1 Booklist</a>
+</p>
 <h3>Bus Transport</h3>
 <p>Revolving Transport Pte Ltd</p>
 <p>Phone
