@@ -594,6 +594,24 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_269_Placement_in_Primary_3_Classes_in_2025.pdf" rel="noopener nofollow" target="_blank">2024-269 Placement in Primary 3 Classes in 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_270_Lower_Primary_Celebration_of_Learning_CPS.pdf" rel="noopener nofollow" target="_blank">2024-270 Lower Primary Celebration of Learning@CPS</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2024_277_Discontinuation_of_Math___Sci_Olympiad_Enrichment_Programme.pdf" rel="noopener nofollow" target="_blank">2024-277 Discontinuation of Math &amp; Sci Olympiad Enrichment Programme</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

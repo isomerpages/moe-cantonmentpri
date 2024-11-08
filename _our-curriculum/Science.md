@@ -60,12 +60,6 @@ in scientific investigations to discover and deepen their understanding
 of advanced science concepts through an inquiry approach.&nbsp;This programme
 is offered to selected Primary 4 and 5 students based on their interest
 and aptitude in Science.</p>
-<p><strong><u>Science Olympiad Programme </u></strong>
-<br>Outstanding Science students are provided the opportunity to participate
-in local Science Olympiads organized by Raffles Institution and NUS High
-School. Students are selected through a selection test in early Primary
-5 and go through online Science Olympiad training through zoom before participating
-in these Olympiads.</p>
 <h3>Useful Links For Parents</h3>
 <p><strong>Singapore Science Centre</strong> 
 <br><a href="http://www.science.edu.sg" rel="noopener noreferrer nofollow" target="_blank">http://www.science.edu.sg</a>
