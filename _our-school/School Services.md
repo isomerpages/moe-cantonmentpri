@@ -38,6 +38,13 @@ variant: tiptap
 </p>
 <p><strong>Booklist For 2025</strong>
 <br><a href="/files/Booklist/P1_Booklist.pdf" rel="noopener nofollow" target="_blank">P1 Booklist</a>
+<br><a href="/files/Booklist/P2_Booklist.pdf" rel="noopener nofollow" target="_blank">P2 Booklist</a>
+<br><a href="/files/Booklist/P3_Booklist.pdf" rel="noopener nofollow" target="_blank">P3 Booklist</a>
+<br><a href="/files/Booklist/P4_Booklist.pdf" rel="noopener nofollow" target="_blank">P4 Booklist</a>
+<br><a href="/files/Booklist/P5_Booklist.pdf" rel="noopener nofollow" target="_blank">P5 Booklist (Standard)</a>
+<br><a href="/files/Booklist/P5__Foundation__Booklist.pdf" rel="noopener nofollow" target="_blank">P5 Booklist (Foundation)</a>
+<br><a href="/files/Booklist/P6_Booklist.pdf" rel="noopener nofollow" target="_blank">P6 Booklist (Standard)</a>
+<br><a href="/files/Booklist/P6__Foundation__Booklist.pdf" rel="noopener nofollow" target="_blank">P6 Booklist (Foundation)</a>
 </p>
 <h3>Bus Transport</h3>
 <p>Revolving Transport Pte Ltd</p>
