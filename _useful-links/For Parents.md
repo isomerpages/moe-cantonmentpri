@@ -612,6 +612,34 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Open for Nominations: President's Award for Teachers and Outstanding Youth in Education Award 2025 (Closing Date: 10 January 2025)</strong>
+<br>
+</p>
+<p>Do you know teachers who have made outstanding contributions in moulding
+the future of our nation? The Ministry of Education (MOE) invites you to
+nominate them for the President's Award for Teachers and Outstanding Youth
+in Education Award 2025.
+<br>
+</p>
+<p>The President's Award for Teachers (PAT) recognises experienced educators
+who are role models for the teaching profession. These educators constantly
+adopt innovative approaches in their lessons, and are lifelong learners
+and mentors to their peers. They embody deep passion for teaching, and
+inspire their students and peers through their words and deeds.
+<br>
+</p>
+<p>The Outstanding Youth in Education Award (OYEA) recognises young teachers,
+aged 35 and below, who are inspiring role models for the teaching profession.
+These teachers embody youthful idealism, energy, and enthusiasm, inspiring
+both their students and peers through their words and deeds.</p>
+<p>
+<br>Nomination Details: Nominations for both awards can be submitted online
+(<a href="https://go.gov.sg/pat2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2025</a> and
+<a href="https://go.gov.sg/oyea2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/oyea2025</a>).</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
