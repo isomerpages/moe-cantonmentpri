@@ -30,7 +30,7 @@ a WhatsApp chat with them.</p>
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Manokara S</p>
+<p>Ms Grace Foo</p>
 </td>
 </tr>
 <tr>
@@ -137,18 +137,16 @@ a WhatsApp chat with them.</p>
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Caroline M. Selva</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65119555 x 446</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc12b9f1b03c20019122fac" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119560" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
