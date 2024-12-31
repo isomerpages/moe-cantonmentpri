@@ -267,7 +267,9 @@ variant: tiptap
 <br>Thursday: 8 am to 5.30 pm
 <br>Lunch Hour 1-2 pm</p>
 <p><u>Appointments</u>
-</p>
+<br>Primary 1,2,4 and 6 will have an appointment scheduled for them by the
+clinic. For ad hoc or for dental services needed by other levels, please
+contact the dental clinic.</p>
 <p>Call/WhatsApp/SMS: <a href="https://wa.me/6587646337" rel="noopener noreferrer nofollow" target="_blank">87646337</a>
 </p>
 <p></p>
