@@ -1648,16 +1648,18 @@ a WhatsApp chat with them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Gladys Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>64999408</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://form.gov.sg/5dc2209ec321c6001240b922" rel="noopener nofollow" target="_blank">Email</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://wa.me/6564999408" rel="noopener nofollow" target="_blank">WA</a>
+</p>
 </td>
 </tr>
 </tbody>
