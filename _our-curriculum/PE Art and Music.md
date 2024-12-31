@@ -123,11 +123,7 @@ lessons so that students can uncover their hidden talents.</p>
 <h3>SwimSafer</h3>
 <p><a href="https://www.activesgcircle.gov.sg/academies-clubs/initiatives/swimsafer" rel="noopener noreferrer nofollow" target="_blank">SwimSafer Website</a>
 <br><a href="https://members.myactivesg.com/swimsafer/" rel="noopener noreferrer nofollow" target="_blank">Online Theory Quiz for Students</a>
-<br>[Swimsafer Practical Assessment](/files/SwimSafer/Swimsafer Practical
-Assessment.pdf)
-<br>[SwimSafer Briefing for Parents](/files/SwimSafer/swimsafer briefing for
-parents.pdf)
-<br>[SwimSafer2.0 User Manual for Parents](/files/SwimSafer/SwimSafer2.0 User
-Manual for Parents.pdf)
-<br>
+<br><a href="/files/SwimSafer/Swimsafer Practical Assessment.pdf" rel="noopener nofollow" target="_blank">Swimsafer Practical Assessment</a>
+<br><a href="/files/SwimSafer/swimsafer briefing for parents.pdf" rel="noopener nofollow" target="_blank">SwimSafer Briefing for Parents</a>
+<br><a href="/files/SwimSafer/SwimSafer2.0 User Manual for Parents.pdf" rel="noopener nofollow" target="_blank">SwimSafer2.0 User Manual for Parents</a>
 </p>
