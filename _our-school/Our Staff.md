@@ -2628,21 +2628,6 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Arthur Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64999412</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/6678e11d58216a2f5127e0bb" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
