@@ -69,8 +69,7 @@ join us as a PSG member. As a PSG member, you are playing an active role
 in partnering our school to make CPS a safe, vibrant and caring place for
 our children to learn.</p>
 <p>For more information on the programs and activities, please email our
-PSG coordinator teachers:&nbsp;<a href="https://form.gov.sg/#!/5dc12b9f1b03c20019122fac" rel="noopener noreferrer nofollow" target="_blank">Ms Caroline M. Selva</a>&nbsp;or&nbsp;
-<a href="https://form.gov.sg/63ad7eb1fce97a0012cdbad1" rel="noopener noreferrer nofollow" target="_blank">Mrs Chen Yi Fang</a>
+PSG coordinator teacher: <a href="https://form.gov.sg/5dc12f9c5bec6f0012034925" rel="noopener nofollow" target="_blank">Mrs Tan Sze Mian</a>
 </p>
 <p>To join us and support our activities, please register at <a href="https://www.meetup.com/cantonmentprimaryschool/" rel="noopener nofollow" target="_blank">https://www.meetup.com/cantonmentprimaryschool</a>
 </p>
