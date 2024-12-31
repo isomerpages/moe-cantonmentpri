@@ -9,13 +9,11 @@ variant: tiptap
 an appreciation for the arts</p>
 <h3>Signature Programmes</h3>
 <p><strong><u>Lower Primary Games Day (Primary 1 to 2)</u></strong>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/PAM_1.png">
 </div>
-<p>
-<br>The annual Lower Primary Games Day has always been the highlight for our
+<p>The annual Lower Primary Games Day has always been the highlight for our
 Primary 1 to 2 students. This is a time where every student gets the opportunity
 to represent his/her class to compete with other classes in various games
 and sports.</p>
