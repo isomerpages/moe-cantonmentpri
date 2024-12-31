@@ -22,21 +22,6 @@ will also demonstrate the school values such as resilience as they learn
 from the successes and failures in the game practices and actual competitions.
 Through this annual games day event, it is our hope that that the students
 have fun and bond as a class!</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/PAM%2001.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/PAM%202.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/PAM%203.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/PAM%204.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/PAM%205.jpg">
-</div>
 <p><strong><u>Upper Primary Games Day (Primary 3 to 6) </u></strong>
 <br>The Upper Primary Games Day for our Primary 3 to 5 students is integrated
 as part of our Children’s Day celebration every year. Whereas for the Primary
@@ -52,15 +37,6 @@ of Games and Sports.</p>
 for students to work and communicate with one another; build strength and
 resilience; understand the importance of teamwork and enact the true meaning
 of sportsmanship, fair play and respect for opponents.</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/PAM%209.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/PAM%2010.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/PAM%2011.jpg">
-</div>
 <p><strong><u>Primary 4 Museum Based Learning (MBL) </u></strong>
 <br>From 2018, all primary school students will get to visit a museum as part
 of the refreshed art education syllabus aimed to make learning more authentic
@@ -74,15 +50,6 @@ expressions that will form part of the collective memory for all Singaporean
 students. There is a greater focus on visual inquiry skills – observation
 and interpretation – and reflecting on artwork through activities and discussions
 facilitated by the education facilitator of the museum.</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/PAM%2012.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/PAM%2013.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/PAM%2014.jpg">
-</div>
 <p><strong><u>Primary 5 Camp </u></strong>
 <br>The Primary 5 Outdoor Camp is a 3-day programme that is part of MOE’s
 initiative to provide every primary school child with an outdoor experience
@@ -92,18 +59,6 @@ of the various academic subjects through the provision of outdoor experiences.
 In the camp, students engage in outdoor activities, embrace diversity through
 social mixing opportunities&nbsp;and develop positive Teacher-Student Relationships
 via out-of-classroom interactions.</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/PAM%2015.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/PAM%2016.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/PAM%2017.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/PAM%2018.jpg">
-</div>
 <p><strong><u>Gems Jam (All levels) </u></strong>
 <br>In line with our Learning for Life Programme, the annual Gems Jam is an
 inclusive talent competition which encourages all students to showcase
@@ -113,14 +68,10 @@ sing or dance. The song composing category is open to the middle and upper
 primary students to encourage original song composition which promotes
 the school core values. The inter-class category encourages students to
 perform as a class. All students are provided with training during Music
-lessons so that students can uncover their hidden talents.</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/PAM%2019.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/PAM%2020.png">
-</div>
-<h3>SwimSafer</h3>
+lessons so that students can uncover their hidden talents.
+<br>
+<br><strong>SwimSafer</strong>
+</p>
 <p><a href="https://www.activesgcircle.gov.sg/academies-clubs/initiatives/swimsafer" rel="noopener noreferrer nofollow" target="_blank">SwimSafer Website</a>
 <br><a href="https://members.myactivesg.com/swimsafer/" rel="noopener noreferrer nofollow" target="_blank">Online Theory Quiz for Students</a>
 <br><a href="/files/SwimSafer/Swimsafer Practical Assessment.pdf" rel="noopener nofollow" target="_blank">Swimsafer Practical Assessment</a>
