@@ -1631,10 +1631,10 @@ a WhatsApp chat with them.</p>
 <p>4 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Phua Wei Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>65119555 Ext 448</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
