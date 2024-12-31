@@ -7,7 +7,7 @@ variant: tiptap
 <h4>Incoming Students</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Finance - By 1st December</summary>
+<summary>Finance</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Apply before 1st December
 <br>
@@ -17,7 +17,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Health Declaration and Consent - After 21 Dec 2024</summary>
+<summary>Health Declaration and Consent</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>HPB Dental and Health Consent</p>
 <p><a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://consent.hpb.gov.sg/</a>
@@ -63,7 +63,7 @@ self collect from school.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Student Data Form (From December)</summary>
+<summary>Student Data Form</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
 </p>
