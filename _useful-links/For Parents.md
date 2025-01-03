@@ -258,7 +258,14 @@ both their students and peers through their words and deeds.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Letter/2025_001_Code_for_Fun__CFF__Enrichment_Programme_2025_for_Primary_5_Students.pdf" rel="noopener nofollow" target="_blank">2025-001 Code for Fun (CFF) Enrichment Programme 2025 for Primary 5 Students</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_008_Term_1.pdf" rel="noopener nofollow" target="_blank">2025-008 Term 1</a>
+</p>
 </td>
 </tr>
 </tbody>
