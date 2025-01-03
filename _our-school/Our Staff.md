@@ -1210,25 +1210,6 @@ a WhatsApp chat with them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Johnny Chan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65119588</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5db78593506fd6001264ff1f" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119588" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Joy Loke</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1278,6 +1259,25 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Johnny Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65119588</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/5db78593506fd6001264ff1f" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://wa.me/6565119588" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1664,6 +1664,42 @@ a WhatsApp chat with them.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://wa.me/6564999408" rel="noopener nofollow" target="_blank">WA</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Josh Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65119564</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/658c44223570490011a57b55" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://wa.me/6565119564" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
