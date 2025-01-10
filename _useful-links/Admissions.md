@@ -9,9 +9,7 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Finance</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Apply before 1st December
-<br>
-<br>Apply for eGIRO: <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
+<p>Apply for eGIRO: <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
 <br>Give authorisation for Edusave: <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/5be24a1bb3f842000fdc4e59</a>
 </p>
 </div>
