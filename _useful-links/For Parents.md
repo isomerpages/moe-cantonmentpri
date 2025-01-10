@@ -136,6 +136,18 @@ facilitate the prompt disbursement of monies for the child.</p>
 use your child's Edusave</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Insurance</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h6><br>Claims Inquiry:  <a href="tel:67881777" rel="noopener nofollow" target="_blank">6788 1777</a><br><br>Online Claims Portal</h6>
+<p><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg/#/</a>
+</p>
+<p><strong><a href="https://studentgpa.incomegroupins.com.sg/#/" class="TextLink__StyledTextLink-sc-55x6ze-0 Aowrx web-link" rel="noopener noreferrer" target="_blank"><u><br></u></a></strong>Information
+on Claims and FAQs</p>
+<p><a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students</a>
+</p>
+</div>
+</details>
 </div>
 <p></p>
 <h4>Parent Gateway</h4>
