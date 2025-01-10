@@ -147,7 +147,6 @@ on Claims and FAQs
 </div>
 </details>
 </div>
-<p></p>
 <h4>Parent Gateway</h4>
 <p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>&nbsp;is
 a one-stop <a href="https://play.google.com/store/apps/details?id=com.moe.pgp" rel="noopener noreferrer nofollow" target="_blank">Android</a>/
@@ -234,34 +233,6 @@ to parents. May include topics such as:
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Open for Nominations: President's Award for Teachers and Outstanding Youth in Education Award 2025 (Closing Date: 10 January 2025)</strong>
-<br>
-</p>
-<p>Do you know teachers who have made outstanding contributions in moulding
-the future of our nation? The Ministry of Education (MOE) invites you to
-nominate them for the President's Award for Teachers and Outstanding Youth
-in Education Award 2025.
-<br>
-</p>
-<p>The President's Award for Teachers (PAT) recognises experienced educators
-who are role models for the teaching profession. These educators constantly
-adopt innovative approaches in their lessons, and are lifelong learners
-and mentors to their peers. They embody deep passion for teaching, and
-inspire their students and peers through their words and deeds.
-<br>
-</p>
-<p>The Outstanding Youth in Education Award (OYEA) recognises young teachers,
-aged 35 and below, who are inspiring role models for the teaching profession.
-These teachers embody youthful idealism, energy, and enthusiasm, inspiring
-both their students and peers through their words and deeds.</p>
-<p>
-<br>Nomination Details: Nominations for both awards can be submitted online
-(<a href="https://go.gov.sg/pat2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2025</a> and
-<a href="https://go.gov.sg/oyea2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/oyea2025</a>).</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2025_001_Code_for_Fun__CFF__Enrichment_Programme_2025_for_Primary_5_Students.pdf" rel="noopener nofollow" target="_blank">2025-001 Code for Fun (CFF) Enrichment Programme 2025 for Primary 5 Students</a>

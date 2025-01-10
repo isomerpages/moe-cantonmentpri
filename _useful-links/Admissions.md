@@ -9,9 +9,7 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Finance</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Apply before 1st December
-<br>
-<br>Apply for eGIRO: <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
+<p>Apply for eGIRO: <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
 <br>Give authorisation for Edusave: <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/5be24a1bb3f842000fdc4e59</a>
 </p>
 </div>
@@ -29,8 +27,6 @@ variant: tiptap
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Order Name tags at the vendor's website. It will be delivered to school
 and form teachers will pass it to your child.</p>
-<p></p>
-<p>State the class as P1 2025</p>
 <p></p>
 <p><a href="https://www.schooluniforms.sg/cantonment-primary-school/cantonment-primary-name-tag" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/cantonment-primary-school/cantonment-primary-name-tag</a>
 </p>
@@ -57,9 +53,7 @@ self collect from school.</p>
 <summary>Parent Gateway</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Install this app on <a href="https://play.google.com/store/apps/details?id=com.moe.pgp" rel="noopener nofollow" target="_blank">Android</a> or
-<a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener nofollow" target="_blank">iOS</a>to read and consent to letters from school.
-<br>If you are not able to login with your SingPass, please try again after
-20 November 2024</p>
+<a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener nofollow" target="_blank">iOS</a>to read and consent to letters from school.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -79,8 +73,8 @@ School will update you with a letter.</p>
 <p></p>
 <p>If you are not on ComCare, please apply <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a>
 <br>
-<br>For home broadband and laptop/tablet, please read about <a href="https://www.cantonmentpri.moe.edu.sg/useful-links/financial-assistance/" rel="noopener nofollow" target="_blank">DigitalAccess@Home</a> before
-applying.</p>
+<br>For home broadband and laptop/tablet, please read <a href="https://www.cantonmentpri.moe.edu.sg/useful-links/financial-assistance/" rel="noopener nofollow" target="_blank">DigitalAccess@Home</a> and
+apply.</p>
 </div>
 </details>
 <details class="isomer-details">
