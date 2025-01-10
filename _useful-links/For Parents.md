@@ -147,7 +147,6 @@ on Claims and FAQs
 </div>
 </details>
 </div>
-<p></p>
 <h4>Parent Gateway</h4>
 <p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>&nbsp;is
 a one-stop <a href="https://play.google.com/store/apps/details?id=com.moe.pgp" rel="noopener noreferrer nofollow" target="_blank">Android</a>/
