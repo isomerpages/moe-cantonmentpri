@@ -1054,14 +1054,14 @@ a WhatsApp chat with them.</p>
 <p>Mr Boo Choon Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64999427</p>
+<p>64999423</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/63f566df1e6f560012e39519" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999427" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+<p><a href="https://wa.me/6564999423" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
