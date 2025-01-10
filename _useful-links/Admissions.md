@@ -57,9 +57,7 @@ self collect from school.</p>
 <summary>Parent Gateway</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Install this app on <a href="https://play.google.com/store/apps/details?id=com.moe.pgp" rel="noopener nofollow" target="_blank">Android</a> or
-<a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener nofollow" target="_blank">iOS</a>to read and consent to letters from school.
-<br>If you are not able to login with your SingPass, please try again after
-20 November 2024</p>
+<a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener nofollow" target="_blank">iOS</a>to read and consent to letters from school.</p>
 </div>
 </details>
 <details class="isomer-details">
