@@ -86,7 +86,8 @@ case-by-case basis.</p>
 </ul>
 <h4>The Straits Times School Pocket Money Fund (STSPMF)</h4>
 <p><a href="https://www.spmf.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Official Website</a>
-<br>Application to opens every year in Term 3/4</p>
+<br><a href="/files/FAS/STSPMF.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
+<br>Deadline 7 Feb 2025</p>
 <h4>CDAC – SFCCA Bursary</h4>
 <p><a href="https://www.cdac.org.sg/developing-students/assistance-support/cdac-sfcca-bursary/" rel="noopener noreferrer nofollow" target="_blank">Official Website</a> 
 <br>The CDAC – SFCCA Bursary aims to help needy students to cope with schooling
