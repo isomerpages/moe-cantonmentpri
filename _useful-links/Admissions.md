@@ -30,8 +30,6 @@ variant: tiptap
 <p>Order Name tags at the vendor's website. It will be delivered to school
 and form teachers will pass it to your child.</p>
 <p></p>
-<p>State the class as P1 2025</p>
-<p></p>
 <p><a href="https://www.schooluniforms.sg/cantonment-primary-school/cantonment-primary-name-tag" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/cantonment-primary-school/cantonment-primary-name-tag</a>
 </p>
 </div>
@@ -77,8 +75,8 @@ School will update you with a letter.</p>
 <p></p>
 <p>If you are not on ComCare, please apply <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a>
 <br>
-<br>For home broadband and laptop/tablet, please read about <a href="https://www.cantonmentpri.moe.edu.sg/useful-links/financial-assistance/" rel="noopener nofollow" target="_blank">DigitalAccess@Home</a> before
-applying.</p>
+<br>For home broadband and laptop/tablet, please read <a href="https://www.cantonmentpri.moe.edu.sg/useful-links/financial-assistance/" rel="noopener nofollow" target="_blank">DigitalAccess@Home</a> and
+apply.</p>
 </div>
 </details>
 <details class="isomer-details">
