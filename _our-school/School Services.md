@@ -263,17 +263,17 @@ variant: tiptap
 <p>6-10, 20-24 January</p>
 <p><u>Opening Hours:</u>
 </p>
-<p>Wednesday/Friday: 8 am to 5 pm
-<br>Thursday: 8 am to 5.30 pm
+<p>Monday/Wednesday/Friday: 8 am to 5 pm
+<br>Tuesday/Thursday: 8 am to 5.30 pm
 <br>Lunch Hour 1-2 pm</p>
 <p><u>Appointments</u>
 <br>Primary 1,2,4 and 6 will have an appointment scheduled for them by the
-clinic. For ad hoc or for dental services needed by other levels, please
+cliniMonc. For ad hoc or for dental services needed by other levels, please
 contact the dental clinic.</p>
 <p>Call/WhatsApp/SMS: <a href="https://wa.me/6587646337" rel="noopener noreferrer nofollow" target="_blank">87646337</a>
 </p>
-<p></p>
-<p><u>During Clinic Closure</u>
+<p>
+<br><u>During Clinic Closure</u>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
