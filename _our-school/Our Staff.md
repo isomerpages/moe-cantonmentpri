@@ -1054,14 +1054,14 @@ a WhatsApp chat with them.</p>
 <p>Mr Boo Choon Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64999413</p>
+<p>64999423</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/63f566df1e6f560012e39519" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999413" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+<p><a href="https://wa.me/6564999423" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1410,14 +1410,14 @@ a WhatsApp chat with them.</p>
 <p>Ms Chua Jing Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>63036299</p>
+<p>63036295</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/61cd69393cff1000121db933" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6563036299" rel="noopener nofollow" target="_blank">WA</a>
+<p><a href="https://wa.me/6563036295" rel="noopener nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>

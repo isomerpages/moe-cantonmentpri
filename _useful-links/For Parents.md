@@ -136,6 +136,16 @@ facilitate the prompt disbursement of monies for the child.</p>
 use your child's Edusave</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Insurance</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h6><a href="/files/Insurance/Product_Fact_Sheet__Year_2025__for_MOE_group_personal_accident__GPA__Insurance_Plan.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (Year 2025) for MOE group personal accident (GPA) Insurance Plan</a><br><br>Claims Inquiry: <a href="tel:67881777" rel="noopener nofollow" target="_blank">6788 1777</a><br><br>Online Claims Portal<br>Parents/guardian are to submit and check the claims status through the online portal<br><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg/#/</a></h6>
+<p><strong><a href="https://studentgpa.incomegroupins.com.sg/#/" class="TextLink__StyledTextLink-sc-55x6ze-0 Aowrx web-link" rel="noopener noreferrer" target="_blank"><u><br></u></a></strong>Information
+on Claims and FAQs
+<br><a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students</a>
+</p>
+</div>
+</details>
 </div>
 <p></p>
 <h4>Parent Gateway</h4>
@@ -262,6 +272,18 @@ both their students and peers through their words and deeds.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2025_008_Term_1.pdf" rel="noopener nofollow" target="_blank">2025-008 Term 1</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_002_CCA_for_P3_Students.pdf" rel="noopener nofollow" target="_blank">2025-002 CCA for P3 Students</a>
+<br><a href="/files/Letter/2025_002_CCA_for_P4___P6_Students.pdf" rel="noopener nofollow" target="_blank">2025-002 CCA for P4 - P6 Students</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
