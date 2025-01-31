@@ -266,7 +266,32 @@ to parents. May include topics such as:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Letter/2025_012_P4_MBL_Consent_Letter_signed.pdf" rel="noopener nofollow" target="_blank">2025-012 P4 MBL</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_019_Welcome_Letter_to_Parents_PSG_2025__approved_.pdf" rel="noopener nofollow" target="_blank">2025-019 Welcome Letter to Parents PSG</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_021_Lunar_New_Year_Eve_Celebrations_and_Early_Dismissal.pdf" rel="noopener nofollow" target="_blank">2025-021 Lunar New Year Eve Celebrations and Early Dismissal</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_029_Touch_Base_Meeting.pdf" rel="noopener nofollow" target="_blank">2025-029 Touch Base Meeting</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_057_Primary_6_SS_LJ_to_ACM.pdf" rel="noopener nofollow" target="_blank">2025-057 Primary 6 SS LJ to ACM</a>
+</p>
 </td>
 </tr>
 </tbody>
