@@ -31,8 +31,8 @@ in your SingPass and then click <a href="https://form.gov.sg/625629188a621f0012a
 <p>Hall Slides</p>
 <p><a href="/files/TBM/P1_Touch_Base_Meeting_2_Jan_2025__Website_.pdf" rel="noopener nofollow" target="_blank">P1</a>
 <br><a href="/files/TBM/P2_Touchbase_Meeting_2025___Principal_and_YH_deck__for_website_.pdf" rel="noopener nofollow" target="_blank">P2</a>
-<br><a href="/files/TBM/P3_and_4_Touchbase_Meeting_2025___Principal___YH_Deck__for_website_.pdf" rel="noopener nofollow" target="_blank">P34</a>
-<br><a href="/files/TBM/P5_and_6_Touchbase_Meeting_2025___Principal_and_YH_Deck__for_website_.pdf" rel="noopener nofollow" target="_blank">P56</a>
+<br><a href="/files/TBM/P3_and_4_Touchbase_Meeting_2025___Principal___YH_Deck__for_website_.pdf" rel="noopener nofollow" target="_blank">P3 and 4</a>
+<br><a href="/files/TBM/P5_and_6_Touchbase_Meeting_2025___Principal_and_YH_Deck__for_website_.pdf" rel="noopener nofollow" target="_blank">P5 and 6</a>
 </p>
 <p>Classroom Slides
 <br><a href="/files/TBM/2025_P1_TBM__for_website_.pdf" rel="noopener nofollow" target="_blank">P1</a>
