@@ -2425,85 +2425,6 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chan Yoke Peng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65119555x448</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/658c4a383b5ec40011b93271" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999239" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Woo Mei Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65119574</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/6674ed3fd7e7b13c7477ff6b" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119574" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Jocelyn Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65119583</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc11e395f93b50019043aa9" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119583" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Seet Choong Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>63036293</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/667122b9b915d744b5349600" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Donica Goh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>63036291</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc1174b5f93b5001904386d" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6563036291" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Sim Bee Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2535,13 +2456,13 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cindy Wong</p>
+<p>Mr Seet Choong Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64999404</p>
+<p>63036293</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/6773c2dea795fcbf10c834a4" rel="noopener nofollow" target="_blank">Email</a>
+<p><a href="https://form.gov.sg/667122b9b915d744b5349600" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
