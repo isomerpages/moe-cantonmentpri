@@ -1410,7 +1410,7 @@ a WhatsApp chat with them.</p>
 <p>Ms Chua Jing Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>63036295</p>
+<p>63036299</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/61cd69393cff1000121db933" rel="noopener nofollow" target="_blank">Email</a>
@@ -1464,7 +1464,7 @@ a WhatsApp chat with them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wu Jia Yue</p>
+<p>Ms Wu Jiayue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65119555 x 436</p>
