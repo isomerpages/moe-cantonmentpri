@@ -254,14 +254,14 @@ a WhatsApp chat with them.</p>
 <p>Mr Azhar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65119586</p>
+<p>65119644</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/61c9eb126c60da00127bfaac" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119586" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+<p><a href="https://wa.me/6565119644" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -311,14 +311,14 @@ a WhatsApp chat with them.</p>
 <p>Mr Tarmizi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64999417</p>
+<p>65119586</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc11f105f93b50019043af8" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999417" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+<p><a href="https://wa.me/6565119586" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1263,25 +1263,6 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Johnny Chan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65119588</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5db78593506fd6001264ff1f" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119588" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1315,6 +1296,25 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://wa.me/6564999401" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Johnny Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65119588</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/5db78593506fd6001264ff1f" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://wa.me/6565119588" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1410,7 +1410,7 @@ a WhatsApp chat with them.</p>
 <p>Ms Chua Jing Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>63036295</p>
+<p>63036299</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/61cd69393cff1000121db933" rel="noopener nofollow" target="_blank">Email</a>
@@ -1464,7 +1464,7 @@ a WhatsApp chat with them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wu Jia Yue</p>
+<p>Ms Wu Jiayue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>65119555 x 436</p>
@@ -1561,14 +1561,14 @@ a WhatsApp chat with them.</p>
 <p>Mr Nur Muhammad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>63036296</p>
+<p>63036297</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc129795f93b50019043ed1" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6563036296" rel="noopener nofollow" target="_blank">WA</a>
+<p><a href="https://wa.me/6563036297" rel="noopener nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1948,14 +1948,14 @@ a WhatsApp chat with them.</p>
 <p>Mr Tarmizi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64999417</p>
+<p>65119586</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc11f105f93b50019043af8" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999417" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+<p><a href="https://wa.me/6565119586" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1967,7 +1967,7 @@ a WhatsApp chat with them.</p>
 <p>Mdm Rachel Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65119644</p>
+<p>64999428</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/658c44fd8bddc300129a0b36" rel="noopener noreferrer nofollow" target="_blank">Email</a>
@@ -2165,14 +2165,14 @@ a WhatsApp chat with them.</p>
 <p>Mr Azhar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65119586</p>
+<p>65119644</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/61c9eb126c60da00127bfaac" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119586" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+<p><a href="https://wa.me/6565119644" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -2729,10 +2729,10 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Science Lab Tech</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Halijah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

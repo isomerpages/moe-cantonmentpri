@@ -260,7 +260,7 @@ variant: tiptap
 <h3>Dental Clinic @ CPS</h3>
 <p><u>Opening Dates:</u>
 </p>
-<p>6-10, 20-24 January</p>
+<p>3, 5-7, 17-19, 20(am), 21 February</p>
 <p><u>Opening Hours:</u>
 </p>
 <p>Monday/Wednesday/Friday: 8 am to 5 pm
