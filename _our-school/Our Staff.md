@@ -261,7 +261,7 @@ a WhatsApp chat with them.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119586" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+<p><a href="https://wa.me/6565119644" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -311,14 +311,14 @@ a WhatsApp chat with them.</p>
 <p>Mr Tarmizi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64999417</p>
+<p>65119586</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc11f105f93b50019043af8" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999417" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+<p><a href="https://wa.me/6565119586" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1955,7 +1955,7 @@ a WhatsApp chat with them.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999417" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+<p><a href="https://wa.me/6565119586" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -2165,14 +2165,14 @@ a WhatsApp chat with them.</p>
 <p>Mr Azhar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65119586</p>
+<p>65119644</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/61c9eb126c60da00127bfaac" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119586" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+<p><a href="https://wa.me/6565119644" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
