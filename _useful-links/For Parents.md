@@ -294,6 +294,43 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_047_Photo_Taking_For_P1_And_P6_Students_For_The_School_Smart_Cards__2025_.pdf" rel="noopener nofollow" target="_blank">2025-047 Photo-Taking For P1 And P6 Students For The School Smart Cards (2025)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_060_HPB_Grow_Well_SG.pdf" rel="noopener nofollow" target="_blank">2025-060 HPB Grow Well SG</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_063_TDD_and_Exercise_SG_Ready_2025.pdf" rel="noopener nofollow" target="_blank">2025-063 TDD and Exercise SG Ready 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_009_P1_Sem_1__Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2025-009 P1 Sem 1 Assessment Letter</a>
+<br><a href="/files/Letter/2025_009_P2_Sem_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2025-009 P2 Sem 1 Assessment Letter</a>
+<br><a href="/files/Letter/2025_009_P3_Sem_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2025-009 P3 Sem 1 Assessment Letter</a>
+<br><a href="/files/Letter/2025_009_P4_Sem_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2025-009 P4 Sem 1 Assessment Letter</a>
+<br><a href="/files/Letter/2025_009_Std_P5_Sem_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2025-009 P5 Standard Sem 1 Assessment Letter</a>
+</p>
+<p><a href="/files/Letter/2025_009_Fdn_P5_Sem_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2025-009 P5 Foundation Sem 1 Assessment Letter</a>
+</p>
+<p><a href="/files/Letter/2025_009_P6_Sem_1_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">2025-009 P6 Sem 1 Assessment Letter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
