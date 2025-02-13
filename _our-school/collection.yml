@@ -2,8 +2,8 @@ collections:
   our-school:
     output: true
     order:
-      - Principal's Message.md
       - School Hours.md
       - School Services.md
       - Vision, Mission, Values.md
+      - Principal's Message.md
       - Our Staff.md
