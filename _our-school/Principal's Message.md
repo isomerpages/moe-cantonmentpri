@@ -45,3 +45,47 @@ our parents.</p>
 <p>In Partnership with You,
 <br>Ms Grace Foo
 <br>Principal</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="2">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I invite you to explore our school’s website and Facebook page for updates
+and to learn more about our programmes. I look forward to embarking on
+this journey with the dedication of our teachers and the partnership of
+our parents.</p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal Message/principalmessage.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>I shared this at our Parents’ Briefing. This journey of growth reminds
+me of the transformation of a butterfly. A caterpillar must navigate struggle
+and change within its chrysalis before emerging with wings to soar. Likewise,
+our students are on their own paths of transformation—learning, evolving,
+and discovering their unique strengths. As educators and parents, our role
+is to support them through this journey, providing the right challenges
+and encouragement so they can take flight with confidence.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
