@@ -45,5 +45,3 @@ our parents.</p>
 <p>In Partnership with You,
 <br>Ms Grace Foo
 <br>Principal</p>
-<p></p>
-<p>Principal</p>
