@@ -14,7 +14,7 @@ of witnessing the vibrant learning environment our students thrive in.
 I take on this role with deep respect for the strong foundation built by
 my predecessors and the dedicated educators who have shaped Cantonment
 into the school it is today. My goal is to build upon this legacy where
-every child feels inspired, challenged, and supported.</p>
+every child feels inspired, challenged and supported.</p>
 <p>Cantonment offers a diverse curriculum that nurtures students holistically.
 This reflects our commitment to nurturing passionate learners through student
 agency. Children are encouraged to apply critical thinking across subjects
