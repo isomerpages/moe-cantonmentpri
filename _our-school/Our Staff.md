@@ -2451,7 +2451,8 @@ a WhatsApp chat with them.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://wa.me/6564999402" rel="noopener nofollow" target="_blank">WA</a>
+</p>
 </td>
 </tr>
 <tr>
