@@ -2,52 +2,304 @@
 title: School Hours
 permalink: /our-school/school-Information/school-hours/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### School Hours
-
-
-| Day | Start Time | End Time |
-|---|---|---|
-| Monday, Wednesday to Friday | 7.45 am | 1.30 pm |
-| Tuesday | 7.45 am | 3.00 pm |
-
-  
-
-### Recess and Lunch Timings
-
-  
-##### All days except Tuesday
-
-| Level | Recess |Snack Time|
-|---|---|---|
-| Primary 1 | 9:00-9.30 am |Between 12-12.30 pm
-| Primary 2 | 9.30-10 am   |Between 12-12.30 pm|
-| Primary 3 | 10-10.30 am  |Between 12-1 pm|
-| Primary 4 | 10.30-11 am  |Between 12-1 pm|
-| Primary 5 | 11-11.30 am  |Between 9-9.30 am| 
-| Primary 6 | 11.30-12 pm  |Between 9-9.30 am|
-
-  
-##### Tuesdays
-
-| Level | Recess | Lunch |Snack Time|
-|---|---|---|---|
-| Primary 1 | 9-9.30 am   | 11.30-12 pm |Between 2.30-3 pm |
-| Primary 2 | 9-9.30 am   | 11.30-12 pm    |Between 2.30-3 pm |
-| Primary 3 | 9.30-10 am  | 12-12.30 pm |Between 12-1 pm |
-| Primary 4 | 10-10.30 am | 12.30-1 pm     |Between 12-1 pm |
-| Primary 5 | 10.30-11 am | 1-1.30 pm   |Between 9-9.30 am |
-| Primary 6 | 8:30-9 am | 11-11.30 am      |Between 2-2.30 pm |
-
-  
-### Dismissal at the gates
-
-To promote the safe and efficient dismissal of all students, the students will be dismissed by level at designated school gates. 
-
-Older students who need to pick up their P1 siblings have been advised to do so by going to the school gate designated for the P1 and P2 students (Gate 3).
-
-| Level | Dismissal Time | Dismissal Time (Tuesdays only) | Gate |
-|---|---|---|---|
-| Primary 1, 2 and 5 | 1.30 pm | 3.00 pm | 3 |
-| Primary 3, 4 and 6 | 1.30 pm | 3.00 pm | 1 |
+<h3>School Hours</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Start Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>End Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, Wednesday to Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.45 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.45 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Recess and Lunch Timings</h3>
+<h5>All days except Tuesday</h5>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Recess</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Snack Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00-9.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 12-12.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.30-10 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 12-12.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10-10.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 12.30-1 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.30-11 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 12.30-1 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11-11.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 9-9.30 am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.30-12 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 9-9.30 am</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>Tuesdays</h5>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Recess</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Lunch</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Snack Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9-9.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.30-12 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 2.30-3 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9-9.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.30-12 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 2.30-3 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.30-10 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12-12.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 12-1 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10-10.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.30-1 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 12-1 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.30-11 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-1.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 9-9.30 am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:30-9 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11-11.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 2-2.30 pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Dismissal at the gates</h3>
+<p>To promote the safe and efficient dismissal of all students,&nbsp;the
+students will be dismissed by level at designated school gates.</p>
+<p>Older students who need to pick up their P1 siblings have been advised
+to do so by going to the school gate designated for the P1 and P2&nbsp;students
+(Gate 3).</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Dismissal Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Dismissal Time (Tuesdays only)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Gate</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1, 2 and 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3, 4 and 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
