@@ -2457,21 +2457,6 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Seet Choong Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>63036293</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/667122b9b915d744b5349600" rel="noopener nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
