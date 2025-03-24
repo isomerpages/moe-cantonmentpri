@@ -64,9 +64,11 @@ in your SingPass and then click <a href="https://form.gov.sg/625629188a621f0012a
 <details class="isomer-details">
 <summary>School based health check</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Online submission of consent for Immunisation and medical information</a> 
-<br><a href="/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P1%20Students.pdf" rel="noopener noreferrer nofollow" target="_blank">HPB consent form for immunisation for P1 students</a> 
-<br><a href="/files/HPB-Consent%20Form%20for%20Immunisation%20for%20P5%20Students.pdf" rel="noopener noreferrer nofollow" target="_blank">HPB consent form for immunisation for P5 students</a>
+<p><a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Consent for Immunisation and update medical information </a>(This
+updates HPB records. Please inform the Form Teachers if you would like
+to update the school of any medical conditions)
+<br>
+<br>For P1 to 3: <a href="https://go.gov.sg/clq2025" rel="noopener nofollow" target="_blank">Child Lifestyle Questionnaire</a>
 </p>
 </div>
 </details>
