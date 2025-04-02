@@ -330,7 +330,32 @@ to parents. May include topics such as:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Letter/2025_089_Term_2_Letter.pdf" rel="noopener nofollow" target="_blank">2025-089 Term 2 Letter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_088_P4_SS_LJ.pdf" rel="noopener nofollow" target="_blank">2025-088 P4 SS LJ</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_087_Invitation_to_participate_in_the_Singapore_Primary_Science_Olympiad_2025.pdf" rel="noopener nofollow" target="_blank">2025-087 Invitation to participate in the Singapore Primary Science Olympiad 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_094_P1_Learning_Journey_to_the_Zoo_2025.pdf" rel="noopener nofollow" target="_blank">2025-094 P1 Learning Journey to the Zoo 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_095_Primary_2_Learning_Journey_to_the_Science_Centre_2025__Consent_Form_.pdf" rel="noopener nofollow" target="_blank">2025-095 P2 Learning Journey to the Science Centre 2025</a>
+</p>
 </td>
 </tr>
 </tbody>
