@@ -217,8 +217,7 @@ security questions or email in your SLS profile previously.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Minimum 12 characters
-<br>2. Contain at least 1 number
-<br>3. Can be all small letters</p>
+<br>2. Contain at least 1 number</p>
 </td>
 </tr>
 </tbody>
