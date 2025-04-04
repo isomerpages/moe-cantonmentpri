@@ -179,17 +179,41 @@ security questions or email in your SLS profile previously.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1. Must be 8-24 characters long
-<br>2. at least 1 lowercase letter(s).
-<br>3. at least 1 numeric character(s)
-<br>4. at least 1 uppercase letter(s)
-<br>5. at least 2 alphabetic character(s)
-<br>6. not be one of 3 previous passwords
-<br>7. not match or contain first name or last name
-<br>8. not match or contain user ID
-<br>9. Password expires every 90 (Sec/JC)/360 (Pri) days. Users will be alerted
-via email 7 days before the expiry date.
-<br>10. Maximum of 10 login attempts are allowed.</p>
+<p>All new passwords must meet the following criteria:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Case sensitivity</p>
+</li>
+<li>
+<p>Minimum length of <strong><u>8</u></strong> characters</p>
+</li>
+<li>
+<p>First character must be a letter or number (not a symbol)</p>
+</li>
+<li>
+<p>Must not include any part of the student’s name or username</p>
+</li>
+<li>
+<p>New password must not have been used previously</p>
+</li>
+<li>
+<p>Must include at least <strong><u>2</u></strong> of the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Uppercase letters (A-Z)</p>
+</li>
+<li>
+<p>Lowercase letters (a-z)</p>
+</li>
+<li>
+<p>Numbers (0-9)</p>
+</li>
+<li>
+<p>Symbols (!, #, $, etc.)</p>
+</li>
+</ul>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Minimum 12 characters
