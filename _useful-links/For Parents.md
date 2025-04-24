@@ -12,6 +12,64 @@ variant: tiptap
 <br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Secondary Direct School Admissions</a> 
 <br>
 </p>
+<h4>Booking PCTC/PTM slots on Parent Gateway</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Booking not started</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Booking started</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Change Booking</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<h4>Joining Microsoft Teams meeting</h4>
+<p>You do not need an account to join a meeting.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Join from web browser (Chrome, Firefox, Edge, Safari)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ol data-tight="true" class="tight">
+<li>
+<p>Click on the link given by the teacher on a computer.</p>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
+</ol>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Join from mobile/tablet</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ol data-tight="true" class="tight">
+<li>
+<p>Download the Microsoft Teams app</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.microsoft.teams" rel="noopener nofollow" target="_blank">Android</a>
+<br><a href="https://apps.apple.com/us/app/microsoft-teams/id1113153706" rel="noopener nofollow" target="_blank">iPhone/iPad</a>
+</p>
+<p></p>
+</li>
+<li>
+<p>Click on the link given by the teacher after installing the app.</p>
+</li>
+</ol>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <h4>Update Student Particulars</h4>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Update student/parent particulars - Requires SingPass login</a> 
 <br>
