@@ -415,6 +415,52 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/Letter_to_Parents_2025_121_P2_SS_LJ.pdf" rel="noopener nofollow" target="_blank">2025-121 P2 SS LJ</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_122_Young_Scientist_Badge_Scheme_P3_P6.pdf" rel="noopener nofollow" target="_blank">2025-122 Young Scientist Badge Scheme P3-P6</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_129_Cantonment_Primary_School_1st_Recycling_Drive_2025.pdf" rel="noopener nofollow" target="_blank">2025-129 1st Recycling Drive 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_133_GE_2025.pdf" rel="noopener nofollow" target="_blank">2025-133 General Election</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_120_Young_Mariner_s_Badge_Programme_Visit_to_the_Singapore_Maritime_Gallery_2025.pdf" rel="noopener nofollow" target="_blank">2025-120 Young Mariner's Badge Programme Visit to the Singapore Maritime Gallery 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/Letter_to_Parents_2025_139_P3_SS_LJ.pdf" rel="noopener nofollow" target="_blank">2025-139 P3 SS LJ</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_126_Invitation_to_PCTC_P1_and_P2.pdf" rel="noopener nofollow" target="_blank">2025-126 Invitation to PCTC P1 and P2</a>
+</p>
+<p><a href="/files/Letter/2025_126_Invitation_to_PTM_P3_to_P6.pdf" rel="noopener nofollow" target="_blank">2025-126 Invitation to PTM P3 to P6</a>
+</p>
+<p><a href="/files/Letter/2025_126_Invitation_to_PTM_3CA.pdf" rel="noopener nofollow" target="_blank">2025-126 Invitation to PTM 3CA</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
