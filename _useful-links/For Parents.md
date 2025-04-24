@@ -12,6 +12,63 @@ variant: tiptap
 <br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Secondary Direct School Admissions</a> 
 <br>
 </p>
+<h4>Booking PCTC/PTM slots on Parent Gateway</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Booking not started</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Booking not started 1" src="/images/PTM/Booking_not_started_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Booking not started 2" src="/images/PTM/Booking_not_started_2.jpg">
+</div>
+<p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Booking started</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Booking started 1" src="/images/PTM/Booking_started_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Booking started 2" src="/images/PTM/Booking_started_2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Booking started 3" src="/images/PTM/Booking_started_3.jpg">
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Change Booking</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Change Booking 1" src="/images/PTM/Change_Booking_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Change Booking 2" src="/images/PTM/Change_Booking_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Change Booking 3" src="/images/PTM/Change_Booking_3.jpg">
+</div>
+<p></p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <h4>Update Student Particulars</h4>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Update student/parent particulars - Requires SingPass login</a> 
 <br>
@@ -355,6 +412,52 @@ to parents. May include topics such as:
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2025_095_Primary_2_Learning_Journey_to_the_Science_Centre_2025__Consent_Form_.pdf" rel="noopener nofollow" target="_blank">2025-095 P2 Learning Journey to the Science Centre 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/Letter_to_Parents_2025_121_P2_SS_LJ.pdf" rel="noopener nofollow" target="_blank">2025-121 P2 SS LJ</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_122_Young_Scientist_Badge_Scheme_P3_P6.pdf" rel="noopener nofollow" target="_blank">2025-122 Young Scientist Badge Scheme P3-P6</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_129_Cantonment_Primary_School_1st_Recycling_Drive_2025.pdf" rel="noopener nofollow" target="_blank">2025-129 1st Recycling Drive 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_133_GE_2025.pdf" rel="noopener nofollow" target="_blank">2025-133 General Election</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_120_Young_Mariner_s_Badge_Programme_Visit_to_the_Singapore_Maritime_Gallery_2025.pdf" rel="noopener nofollow" target="_blank">2025-120 Young Mariner's Badge Programme Visit to the Singapore Maritime Gallery 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/Letter_to_Parents_2025_139_P3_SS_LJ.pdf" rel="noopener nofollow" target="_blank">2025-139 P3 SS LJ</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_126_Invitation_to_PCTC_P1_and_P2.pdf" rel="noopener nofollow" target="_blank">2025-126 Invitation to PCTC P1 and P2</a>
+</p>
+<p><a href="/files/Letter/2025_126_Invitation_to_PTM_P3_to_P6.pdf" rel="noopener nofollow" target="_blank">2025-126 Invitation to PTM P3 to P6</a>
+</p>
+<p><a href="/files/Letter/2025_126_Invitation_to_PTM_3CA.pdf" rel="noopener nofollow" target="_blank">2025-126 Invitation to PTM 3CA</a>
 </p>
 </td>
 </tr>
