@@ -86,13 +86,14 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Join from mobile/tablet or</summary>
+<summary>Join from mobile/tablet/desktop software</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ol data-tight="true" class="tight">
 <li>
-<p>Download the Microsoft Teams app</p>
+<p>Install the Microsoft Teams app</p>
 <p><a href="https://play.google.com/store/apps/details?id=com.microsoft.teams" rel="noopener nofollow" target="_blank">Android</a>
 <br><a href="https://apps.apple.com/us/app/microsoft-teams/id1113153706" rel="noopener nofollow" target="_blank">iPhone/iPad</a>
+<br><a href="https://www.microsoft.com/en-us/microsoft-teams/download-app" rel="noopener nofollow" target="_blank">Windows/Mac</a>
 </p>
 <p></p>
 </li>
