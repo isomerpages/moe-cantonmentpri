@@ -69,10 +69,10 @@ variant: tiptap
 </details>
 </div>
 <h4>Joining Microsoft Teams meeting</h4>
-<p>You do not need an account to join a meeting.</p>
+<p>You do not need to login to join a meeting.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Join from web browser (Chrome, Firefox, Edge, Safari)</summary>
+<summary>Join from computer web browser (Chrome, Firefox, Edge, Safari)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ol data-tight="true" class="tight">
 <li>
@@ -86,7 +86,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Join from mobile/tablet</summary>
+<summary>Join from mobile/tablet or</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ol data-tight="true" class="tight">
 <li>
