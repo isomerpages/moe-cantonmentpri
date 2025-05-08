@@ -380,4 +380,27 @@ can receive SMS. Enter the code you get via SMS to proceed</p>
 </tr>
 </tbody>
 </table>
+<h3>Joining Microsoft Teams meetings</h3>
+<p>You do not need to login to join a meeting.</p>
+<h4>From computer web browser (without installing software)</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Use Chrome, Firefox, Edge, Safari (<a href="https://learn.microsoft.com/en-us/microsoftteams/new-teams-web#prerequisites" rel="noopener nofollow" target="_blank">supported versions</a>)</p>
+</li>
+<li>
+<p>Click on the link given by the teacher</p>
+</li>
+<li>
+<p>You will be prompted to open it in your desktop Teams Software or to continue
+in web browser. Click Cancel &gt; Then click Continue on this browser</p>
+</li>
+</ol>
+<h4>From mobile, tablet and computer</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Install Microsoft Teams (<a href="https://play.google.com/store/apps/details?id=com.microsoft.teams" rel="noopener nofollow" target="_blank">Android</a>,
+<a href="https://apps.apple.com/us/app/microsoft-teams/id1113153706" rel="noopener nofollow" target="_blank">iPhone/iPad</a>, <a href="https://www.microsoft.com/en-us/microsoft-teams/download-app" rel="noopener nofollow" target="_blank">Windows/Mac</a>)</p>
+</li>
+</ol>
+<p></p>
 <p></p>
