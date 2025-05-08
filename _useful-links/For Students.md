@@ -380,4 +380,90 @@ can receive SMS. Enter the code you get via SMS to proceed</p>
 </tr>
 </tbody>
 </table>
+<h3>Joining Microsoft Teams meetings</h3>
+<p>You do not need to login to join a meeting.</p>
+<h4>From computer web browser (without installing software)</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Use Chrome, Firefox, Edge, Safari (<a href="https://learn.microsoft.com/en-us/microsoftteams/new-teams-web#prerequisites" rel="noopener nofollow" target="_blank">supported versions</a>)</p>
+</li>
+<li>
+<p>Click on the link given by the teacher</p>
+</li>
+<li>
+<p>You will be prompted to open it in your desktop Teams Software or to continue
+in web browser. Click Cancel &gt; Then click Continue on this browser.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MS Teams/Teams1.png">
+</div>
+</li>
+<li>
+<p>Click Allow so that your webcam and microphone is enabled.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MS Teams/Teams2.png">
+</div>
+</li>
+<li>
+<p>Type in student/your child’s name. Make sure the computer audio shows
+ticked.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MS Teams/Teams3.png">
+</div>
+</li>
+<li>
+<p>Please wait to be admitted in by the teacher.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MS Teams/Teams4.png">
+</div>
+</li>
+<li>
+<p>If you are on this screen, you have joined the meeting with the teacher.
+Click on the Camera and Mic buttons and change your settings (Shown with
+orange arrow) if there is a issue hearing or seeing the teacher.
+<br>
+<br>You can end the Meeting by pressing the red button (Shown in blue arrow)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MS Teams/Teams5.png">
+</div>
+<p>Press the down arrow beside the mic to change the speaker settings of
+your computer.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MS Teams/Teams9.png">
+</div>
+</li>
+</ol>
+<h4>From mobile, tablet and computer</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Install Microsoft Teams (<a href="https://play.google.com/store/apps/details?id=com.microsoft.teams" rel="noopener nofollow" target="_blank">Android</a>,
+<a href="https://apps.apple.com/us/app/microsoft-teams/id1113153706" rel="noopener nofollow" target="_blank">iPhone/iPad</a>, <a href="https://www.microsoft.com/en-us/microsoft-teams/download-app" rel="noopener nofollow" target="_blank">Windows/Mac</a>)</p>
+</li>
+<li>
+<p>Click on the link given by the teacher.</p>
+</li>
+<li>
+<p>Type in student/your child’s name, enable the Video, Mic and Speaker and
+then press the Join Now button.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MS Teams/Teams6.png">
+</div>
+</li>
+<li>
+<p>Please wait to be admitted in by the teacher.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MS Teams/Teams7.png">
+</div>
+</li>
+<li>
+<p>If you are on this screen, you have joined the meeting with the teacher.
+Click on the Camera, Mic and speaker buttons and change your settings (Shown
+with orange arrow) if there is an issue hearing or seeing the teacher.
+<br>
+<br>You can end the Meeting by pressing the red button (Shown in blue arrow)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MS Teams/Teams8.png">
+</div>
+</li>
+</ol>
+<p></p>
 <p></p>
