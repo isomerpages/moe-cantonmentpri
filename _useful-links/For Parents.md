@@ -68,42 +68,6 @@ variant: tiptap
 </div>
 </details>
 </div>
-<h4>Joining Microsoft Teams meeting</h4>
-<p>You do not need to login to join a meeting.</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Join from computer web browser (Chrome, Firefox, Edge, Safari)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ol data-tight="true" class="tight">
-<li>
-<p>Click on the link given by the teacher on a computer.</p>
-<p></p>
-</li>
-<li>
-<p></p>
-</li>
-</ol>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Join from mobile/tablet/desktop software</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ol data-tight="true" class="tight">
-<li>
-<p>Install the Microsoft Teams app</p>
-<p><a href="https://play.google.com/store/apps/details?id=com.microsoft.teams" rel="noopener nofollow" target="_blank">Android</a>
-<br><a href="https://apps.apple.com/us/app/microsoft-teams/id1113153706" rel="noopener nofollow" target="_blank">iPhone/iPad</a>
-<br><a href="https://www.microsoft.com/en-us/microsoft-teams/download-app" rel="noopener nofollow" target="_blank">Windows/Mac</a>
-</p>
-<p></p>
-</li>
-<li>
-<p>Click on the link given by the teacher after installing the app.</p>
-</li>
-</ol>
-</div>
-</details>
-</div>
 <h4>Update Student Particulars</h4>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Update student/parent particulars - Requires SingPass login</a> 
 <br>
