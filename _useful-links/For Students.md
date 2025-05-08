@@ -392,7 +392,27 @@ can receive SMS. Enter the code you get via SMS to proceed</p>
 </li>
 <li>
 <p>You will be prompted to open it in your desktop Teams Software or to continue
-in web browser. Click Cancel &gt; Then click Continue on this browser</p>
+in web browser. Click Cancel &gt; Then click Continue on this browser.</p>
+</li>
+<li>
+<p>Click Allow so that your webcam and microphone is enabled.</p>
+</li>
+<li>
+<p>Type in student/your child’s name. Make sure the computer audio shows
+ticked.</p>
+</li>
+<li>
+<p>Please wait to be admitted in by the teacher.</p>
+</li>
+<li>
+<p>If you are on this screen, you have joined the meeting with the teacher.
+Click on the Camera and Mic buttons and change your settings (Shown with
+orange arrow) if there is a issue hearing or seeing the teacher.
+<br>
+<br>You can end the Meeting by pressing the red button (Shown in blue arrow)</p>
+<p></p>
+<p>Press the down arrow beside the mic to change the speaker settings of
+your computer.</p>
 </li>
 </ol>
 <h4>From mobile, tablet and computer</h4>
@@ -400,6 +420,23 @@ in web browser. Click Cancel &gt; Then click Continue on this browser</p>
 <li>
 <p>Install Microsoft Teams (<a href="https://play.google.com/store/apps/details?id=com.microsoft.teams" rel="noopener nofollow" target="_blank">Android</a>,
 <a href="https://apps.apple.com/us/app/microsoft-teams/id1113153706" rel="noopener nofollow" target="_blank">iPhone/iPad</a>, <a href="https://www.microsoft.com/en-us/microsoft-teams/download-app" rel="noopener nofollow" target="_blank">Windows/Mac</a>)</p>
+</li>
+<li>
+<p>Click on the link given by the teacher.</p>
+</li>
+<li>
+<p>Type in student/your child’s name, enable the Video, Mic and Speaker and
+then press the Join Now button.</p>
+</li>
+<li>
+<p>Please wait to be admitted in by the teacher.</p>
+</li>
+<li>
+<p>If you are on this screen, you have joined the meeting with the teacher.
+Click on the Camera, Mic and speaker buttons and change your settings (Shown
+with orange arrow) if there is an issue hearing or seeing the teacher.
+<br>
+<br>You can end the Meeting by pressing the red button (Shown in blue arrow)</p>
 </li>
 </ol>
 <p></p>
