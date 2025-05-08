@@ -260,7 +260,7 @@ variant: tiptap
 <h3>Dental Clinic @ CPS</h3>
 <p><u>Opening Dates:</u>
 </p>
-<p>1-4, 14-1, 28-30 April</p>
+<p>13, 14, 26, 28-30 May</p>
 <p><u>Opening Hours:</u>
 </p>
 <p>Monday/Wednesday/Friday: 8 am to 5 pm
