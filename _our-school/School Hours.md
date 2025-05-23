@@ -47,6 +47,60 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h3>General Office Hours</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Start Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>End Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, Wednesday to Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Holidays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 pm</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Recess and Lunch Timings</h3>
 <h5>All days except Tuesday</h5>
 <table style="minWidth: 75px">
