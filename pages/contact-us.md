@@ -9,10 +9,16 @@ locations:
       - Singapore 088256
       - ""
     operating_hours:
-      - days: Mon - Fri
-        time: 7.30am - 5.30pm
-        description: "* School Holidays: 8am - 5pm"
-    maps_link: http://www.onemap.gov.sg/main/v2/?lat=1.27547252623201&lng=103.839962631748
+      - days: All days except Tuesday
+        time: 7.30 am - 5.00pm
+        description: ""
+      - days: Tuesday
+        time: 7.30 am - 5.30 pm
+        description: ""
+      - days: School Holidays
+        time: 7.30 am - 5 pm
+        description: ""
+    maps_link: https://www.onemap.gov.sg/?lat=1.2754726&lng=103.8399627
     title: Address
 contacts:
   - content:
@@ -46,4 +52,5 @@ contacts:
       - email: ""
       - other: <a href="https://www.facebook.com/cantonmentpri/">Facebook</a>
     title: Social Media
+feedback: ""
 ---
