@@ -134,25 +134,6 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Bunawar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65119563</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc130e9b9014c0012b8c800" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119563" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD PAM/CCA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -375,25 +356,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://wa.me/6565119643" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head Lower Primary (P12)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Adeline Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65119582</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc11e7f1b03c20019122a73" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119582" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -775,25 +737,6 @@ a WhatsApp chat with them.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Adeline Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65119582</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc11e7f1b03c20019122a73" rel="noopener nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119582" rel="noopener nofollow" target="_blank">WA</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cheong Mun See</p>
@@ -1443,25 +1386,6 @@ a WhatsApp chat with them.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>4 Graciousness</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Bunawar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65119563</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc130e9b9014c0012b8c800" rel="noopener nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119563" rel="noopener nofollow" target="_blank">WA</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wu Jiayue</p>

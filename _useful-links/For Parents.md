@@ -460,6 +460,12 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_144_Term_3_Letter.pdf" rel="noopener nofollow" target="_blank">2025-144 Term 3</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
