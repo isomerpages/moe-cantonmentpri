@@ -96,25 +96,6 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Jean Heng Choo Ching</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64999418</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/666a7667575c642ae76b3114" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999418" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -248,7 +229,7 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Malay Language</p>
+<p>LH Mother Tongue Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nur Muhammad</p>
@@ -286,7 +267,7 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Student Management</p>
+<p>SH Student Well Being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tarmizi</p>
@@ -1736,7 +1717,7 @@ a WhatsApp chat with them.</p>
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Arun</p>
+<p>Mrs Arun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64999249</p>
@@ -2381,13 +2362,28 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Fernandez</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64999247</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Jean Heng Choo Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/666a7667575c642ae76b3114" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
