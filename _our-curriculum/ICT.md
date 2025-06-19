@@ -4,10 +4,10 @@ permalink: /our-curriculum/ict/
 description: ""
 variant: tiptap
 ---
-<h3>Vision</h3>
+<h4>Vision</h4>
 <p>Responsible, Innovative and Competent users of ICT</p>
-<h3>Signature Programmes</h3>
-<p><strong><u>Baseline ICT Standards and New Media Literacies </u></strong>
+<h4>Signature Programmes</h4>
+<p><strong>Baseline ICT Standards and New Media Literacies </strong>
 <br>Our ICT programmes are aligned to MOE’s direction of Student-Centric and
 Values-Driven education and our school’s vision of Concerned Citizens,
 Innovative Thinkers, Passionate Learners. ICT is integrated in the curriculum
@@ -38,13 +38,13 @@ a short document using Microsoft Word (Create).</p>
 <img style="width:80%" height="auto" width="100%" src="/images/ICT%2003.jpg">
 </div>
 <p>Primary 1 students during touch typing</p>
-<p><strong><u>Cyber Wellness </u></strong>
+<p><strong>Cyber Wellness </strong>
 <br>Cyber Wellness (CW) in Character and Citizenship Education (CCE) focuses
 on the well-being of our students as they navigate cyberspace. Our curriculum
 aims to equip students with the knowledge and skills to harness the power
 of ICT for positive purposes, maintain a positive presence in cyberspace
 and be safe and responsible users of ICT.</p>
-<p><strong><u>MOE Cyber Wellness Framework </u></strong>
+<p><strong>MOE Cyber Wellness Framework </strong>
 <br>The school adopts MOE’s Cyber Wellness Framework in educating our students
 on Cyber Wellness. This framework focuses on three key processes: Sense,
 Think and Act.</p>
@@ -57,7 +57,7 @@ The three principles, ‘Respect for Self and Others’, ‘Safe and Responsible
 Use’ and ‘Positive Peer Influence’ when adhered to will anchor a child’s
 well-being in cyberspace as he/she will then be able to make careful and
 well-considered decisions.</p>
-<p><strong><u>Principles </u></strong>
+<p><strong>Principles </strong>
 <br>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Respect for Self and Others
 <br>Students need to:</p>
 <ul data-tight="true" class="tight">
@@ -104,19 +104,19 @@ to cyber wellness principles and taught to the students</p>
 <img style="width:90%" height="auto" width="100%" src="/images/ICT%2005.jpg">
 </div>
 <p>CPS School Values that help students navigate the digital world</p>
-<p><strong><u>Assembly Talks </u></strong>
+<p><strong>Assembly Talks </strong>
 <br>Our students attend assembly talks and complete classroom lessons and
 activities during assembly periods which teaches them how to stay safe
 in cyber world. Topics covered include fake news, copyright issues, cyber-gaming,
 Internet addiction, cyber-bullying and cyber-relationships.</p>
-<p><strong><u>Cyber Wellness (CW) Ambassador Training </u></strong>
+<p><strong>Cyber Wellness (CW) Ambassador Training </strong>
 <br>To empower our students to lead in Cyber Wellness (CW) efforts, our Primary
 4 to Primary 6 students who are selected as the CW Student Ambassador of
 their class attend a training session where teachers equip them with information
 on CW and share tips on how to advocate positive online behaviours. The
 CW Ambassador will advocate CW efforts planned for the school as well as
 participate in external CW events.</p>
-<p><strong><u>Cyber Wellness Online Activities by CW Ambassadors </u></strong>
+<p><strong>Cyber Wellness Online Activities by CW Ambassadors </strong>
 <br>The following online activities were created by our students. Please &nbsp;click
 on the pictures for more details of the projects.&nbsp;</p>
 <p><strong>Cyber Wellness Posters</strong>
@@ -150,11 +150,11 @@ through simple visual programming-based lessons.</p>
 <h2>Useful Links For Parents</h2>
 <p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness</a>
 </p>
-<p><strong><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness Parent Kit</a></strong> 
+<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness Parent Kit</a> 
 <br>The parent kit has useful tips, strategies and resources on various cyber
 issues.&nbsp;</p>
-<p><strong><a href="https://cantonmentpscw2020.weebly.com/" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness 2020 Online Activities</a></strong> 
+<p><a href="https://cantonmentpscw2020.weebly.com/" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness 2020 Online Activities</a> 
 <br>The following&nbsp;online activities&nbsp;and posters were created by
 our CPS students.&nbsp;We hope you have fun and learn something useful.</p>
-<p><strong><a href="https://cantonmentpscw2021.weebly.com/" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness 2021 Online Activities</a></strong>
+<p><a href="https://cantonmentpscw2021.weebly.com/" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness 2021 Online Activities</a>
 </p>
