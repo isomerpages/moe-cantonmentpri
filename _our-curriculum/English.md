@@ -203,21 +203,6 @@ to see both sides of every issue</p>
 <p>Debating</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 6</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Character Alive Programme</strong></h4>
@@ -248,7 +233,7 @@ that learning English is both enjoyable and practical in everyday life,
 parents can create opportunities for their child to listen, speak, read,
 and write in English.</p>
 <h4><strong>Useful Links For Parents</strong></h4>
-<p><strong>Stellar2.0 </strong>
+<p><strong>Stellar2.0</strong>
 </p>
 <p>The&nbsp;<a href="https://www.moe.gov.sg/primary/curriculum/syllabus" rel="noopener noreferrer nofollow" target="_blank">STELLAR2.0 Website</a>&nbsp;introduces
 parents to the national programme for EL teaching and learning. There are
