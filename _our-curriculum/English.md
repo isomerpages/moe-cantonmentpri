@@ -248,5 +248,38 @@ that learning English is both enjoyable and practical in everyday life,
 parents can create opportunities for their child to listen, speak, read,
 and write in English.</p>
 <h4><strong>Useful Links For Parents</strong></h4>
-<p></p>
-<p></p>
+<p><strong>Stellar2.0 </strong>
+</p>
+<p>The&nbsp;<a href="https://www.moe.gov.sg/primary/curriculum/syllabus" rel="noopener noreferrer nofollow" target="_blank">STELLAR2.0 Website</a>&nbsp;introduces
+parents to the national programme for EL teaching and learning. There are
+also resources like digital games for students to practise their language
+skills learnt in each unit of work.</p>
+<p><strong>National Library Board (NLB)</strong>
+</p>
+<p><strong>Games and activities - LearnEnglish Kids</strong>&nbsp;
+<br><a href="https://learnenglishkids.britishcouncil.org/en" rel="noopener noreferrer nofollow" target="_blank">LearnEnglish Kids</a>&nbsp;has
+lots of free online games, songs, stories and activities for children to
+have fun while learning English.</p>
+<p><strong>Vocabulary - Learning Chocolate</strong>
+</p>
+<p>This is an interactive&nbsp;<a href="https://www.learningchocolate.com/" rel="noopener noreferrer nofollow" target="_blank">website</a>&nbsp;to help with
+learning English vocabulary which is very helpful for beginners.</p>
+<p><strong>Learning Platform - Starfall</strong>
+</p>
+<p><a href="https://www.starfall.com/" rel="noopener noreferrer nofollow" target="_blank">Starfall</a>&nbsp;&nbsp;is
+good for elementary or beginning language students. It has many reading
+activities that students can read and follow along while the story is being
+read to them.</p>
+<p><strong>Reading - TumbleBooks</strong>
+</p>
+<p><a href="https://www.tumblebooklibrary.com/Default.aspx?ReturnUrl=%2f" rel="noopener noreferrer nofollow" target="_blank">TumbleBooks</a>&nbsp;&nbsp;is
+a good resource for parents to use with the child. It has lots of reading
+materials and learning resources that parent and child can use together.</p>
+<p><strong>Reading - Epic books</strong>
+</p>
+<p>Inspiring the next generation to develop a love of reading and learning.</p>
+<p>The <a href="https://www.getepic.com/" rel="noopener noreferrer nofollow" target="_blank">'epic!' reading experience</a> designed
+just for kids is an award-winning subscription service, which gives millions
+of families and classrooms instant, unlimited access to thousands of books,
+videos and quizzes from leading publishers to help kids everywhere read,
+learn and grow.</p>
