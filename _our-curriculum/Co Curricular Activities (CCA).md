@@ -172,7 +172,19 @@ exposure.</p>
 <p>Guitar Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>develop an understanding and appreciation of the guitar as an instrument;</p>
+</li>
+<li>
+<p>develop their skills in guitar playing;</p>
+</li>
+<li>
+<p>participate in different levels of competition to gain experience and
+exposure.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -180,7 +192,17 @@ exposure.</p>
 <p>International Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>learn to appreciate different forms of dance to nurture their talent and
+develop their interest and passion for dance;</p>
+</li>
+<li>
+<p>be given different avenues to showcase their dances and be enrolled in
+competitions.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -188,7 +210,17 @@ exposure.</p>
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>develop their appreciation for the Arts and maximise their potential in
+performing Arts through singing a variety of songs chorally in harmony;</p>
+</li>
+<li>
+<p>be given different avenues to showcase their singing talent and be enrolled
+in competitions.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -202,7 +234,18 @@ exposure.</p>
 <p>Cub Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>learn to work in environments that are intellectually and physically challenging;</p>
+</li>
+<li>
+<p>work in teams to overcome challenges and solve problems;</p>
+</li>
+<li>
+<p>be engaged in activities that are fun and encourage self-discovery.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -216,7 +259,18 @@ exposure.</p>
 <p>Infocomm &amp; Robotics Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>be equipped with skills in various digital media and infocomm technology;</p>
+</li>
+<li>
+<p>learn the design, construction, operation, and application of simple robots;</p>
+</li>
+<li>
+<p>participate in competitions to gain experience and exposure.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -224,7 +278,21 @@ exposure.</p>
 <p>Science Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>learn more about Science outside the syllabus and learn how to apply their
+knowledge of science in their daily life through the activities;</p>
+</li>
+<li>
+<p>learn more about life science through basic gardening like weeding, watering,
+pruning to ensure that the plants grow healthily;</p>
+</li>
+<li>
+<p>develop a deeper appreciation of nature and foster a greater social interaction
+and bonding among the students in the CCA.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -232,7 +300,17 @@ exposure.</p>
 <p>Creative Design Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>develop their appreciation for Art and artistic skills through authentic
+experiences provided through exposure to Art history and techniques;</p>
+</li>
+<li>
+<p>be given different avenues to showcase their artistic talent and be enrolled
+in competitions.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
