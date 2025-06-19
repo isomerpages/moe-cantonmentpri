@@ -81,7 +81,7 @@ and aptitude in Science.</p>
 <p><strong>Young Scientist Badge</strong>
 </p>
 <p><a href="https://youngscientist.sscglobal.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Official Website</a>
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://youngscientist.sscglobal.com.sg/</a>
+<br><a href="/files/Science/Young_Scientist_Badge_Student_Guide.pdf" rel="noopener nofollow" target="_blank">Young Scientist Badge Student Guide</a>
 </p>
 <p><a href="/files/Science/Young_Scientist_Badge_Student_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Young Scientist Badge Student Guide.pdf</a>
 </p>
