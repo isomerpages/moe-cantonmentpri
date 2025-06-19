@@ -4,6 +4,106 @@ permalink: /our-curriculum/cca/
 variant: tiptap
 description: ""
 ---
+<h4>Vision</h4>
+<p>To nurture creative, passionate and active citizens with a passion for
+sports and an appreciation for the arts.</p>
+<h4>Mission</h4>
+<p>Every student develops holistically through authentic and meaningful learning
+experiences in CCA.</p>
+<h4>Rationale and Policy Guidelines</h4>
+<p><strong>Co-Curricular Activities (CCA) play a key role in our students’ holistic development.</strong>
+<br>In our school, we offer a diverse range of CCAs to cater to the interests,
+strengths, and passions of our students. Beyond skill acquisition, our
+CCA programme seeks to nurture values such as teamwork, integrity, and
+the pursuit of excellence. Through shared experiences with fellow students,
+students also develop camaraderie and learn positive social behaviours.
+<br>
+<br>We strongly encourage every student to participate. We believe CCAs provide
+rich opportunities to cultivate the <em>7 Habits of the Leader in Me</em>,
+instill strong values, and equip our students with the competencies needed
+to thrive in the 21st century.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Each student is allowed to join one CCA per year, as active participation
+requires consistent effort and commitment. Our school seeks to ensure students
+are able to strike a healthy balance between their academic responsibilities
+and CCA involvement.</p>
+</li>
+<li>
+<p>Students will be given up to six CCA choices, typically when they are
+in Primary 3, and are required to indicate their order of preference of
+their CCA and preferred categories. The school will allocate CCAs based
+on students’ preferences and subject to availability while ensuring placement
+within the preferred category. If a student’s top-choice CCA is full, they
+will be considered for their next preferred option.</p>
+</li>
+<li>
+<p>Once successfully registered, students are expected to remain committed
+to their assigned CCA for the full CCA calendar year.</p>
+</li>
+<li>
+<p>A student may request a CCA transfer form from their current CCA teacher-in-charge
+if they wish to transfer to another CCA in Primary 4, subjected to final
+approval from the HOD CCA.</p>
+</li>
+<li>
+<p>Each CCA will run for approximately 30 sessions per year. Students preparing
+for competitions or showcases may be required to attend additional sessions,
+such as twice-weekly training during peak seasons.</p>
+</li>
+<li>
+<p>If a student is unable to attend a CCA session, parents should inform
+the respective CCA teacher via email, WhatsApp, a written letter, or by
+submitting a medical certificate.</p>
+</li>
+<li>
+<p>Students are to bring their CCA attire (e.g. Cub Scout uniform, school
+team jersey) in their school bags and change into it only during break
+after FTGP lessons. They are not permitted to wear their CCA attire for
+the entire school day unless &nbsp;permission has been granted (e.g. wearing
+the Cub Scout uniform for Scouts Founder’s Day).</p>
+</li>
+</ul>
+<h4>Objectives</h4>
+<p>The CCA Programme provides students with meaningful opportunities to discover
+their interests and develop their talents. It aims to nurture a life-long
+passion—whether in sports, the arts, or clubs or uniformed groups—that
+supports personal growth beyond the classroom. Through sustained participation,
+students learn to lead balanced and fulfilling lives, carrying these positive
+habits and pursuits into adulthood.</p>
+<h4>Schedule and CCA Teachers in-charge</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>All CCAs are held on Tuesdays from 3.30 p.m. to 5.30 p.m. Any additional
+sessions will be communicated in advance by the respective CCA teachers.</p>
+</li>
+<li>
+<p>As staff deployment, schedules (including days, venues, and timings),
+and CCA offerings are subject to change, parents will receive an updated
+copy of the CCA schedule at the start of each calendar year.</p>
+</li>
+</ul>
+<h4>CCA Offerings</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Sports</strong> nurture physical robustness, resilience, teamwork,
+and the spirit of fair play.</p>
+</li>
+<li>
+<p><strong>Visual and Performing Arts</strong> foster graciousness and an
+appreciation for the diverse culture and heritage of our multi-racial society.</p>
+</li>
+<li>
+<p><strong>Uniformed Groups</strong> develop self-discipline, resilience,
+self-reliance, and a strong sense of service—essential qualities of active
+and responsible citizens.</p>
+</li>
+<li>
+<p><strong>Clubs and Societies</strong> provide students with the opportunity
+to explore their interests in both knowledge-based and skills-based areas,
+encouraging curiosity and lifelong learning.</p>
+</li>
+</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -12,7 +112,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>Sports &amp; Games</strong></h4>
+<h4><sub>Sports &amp; Games</sub></h4>
 </td>
 </tr>
 <tr>
@@ -46,7 +146,7 @@ exposure.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>Clubs and Societies</strong></h4>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -89,7 +189,7 @@ enrolled in competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>Performing Arts</strong></h4>
+<h4>Performing Arts</h4>
 </td>
 </tr>
 <tr>
@@ -130,7 +230,7 @@ in competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>Uniformed Groups</strong></h4>
+<h4>Uniformed Groups</h4>
 </td>
 </tr>
 <tr>
