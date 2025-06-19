@@ -176,12 +176,12 @@ amongst races.</p>
 </p>
 <p><u>Online English-Chinese Dictionary:&nbsp;</u><a rel="noopener noreferrer nofollow" target="_blank">http://www.iciba.com/</a>
 </p>
-<p><u>Online Chinese Dictionary:&nbsp;</u><a rel="noopener noreferrer nofollow" target="_blank">http://www.zdic.net/</a>
+<p><u>Online Chinese Dictionary:&nbsp;</u><a href="http://www.zdic.net/" rel="noopener noreferrer nofollow" target="_blank">http://www.zdic.net/</a>
 </p>
-<p><u>Online Picture Story Books:&nbsp;</u><a rel="noopener noreferrer nofollow" target="_blank">http://www.qbaobei.com/plans/huibenzaixian/</a>
+<p><u>Online Picture Story Books:&nbsp;</u><a href="http://www.qbaobei.com/plans/huibenzaixian/" rel="noopener noreferrer nofollow" target="_blank">http://www.qbaobei.com/plans/huibenzaixian/</a>
 </p>
 <p><u>Malay Educational App:&nbsp;</u><a href="https://mlcs.moe.edu.sg/mlcs/resources/mlcs-educational-apps/" rel="noopener noreferrer nofollow" target="_blank">MLCS Educational Apps</a>
 </p>
-<p><u>Animated stories for kids (TL):<br></u><a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=06CoXN1G3a8<u><br></u>https://www.youtube.com/watch?v=glYUlhAsSYk<u><br></u>https://www.youtube.com/watch?v=9WBDe_zvfhQ</a>
+<p><u>Animated stories for kids (TL):<br></u><a href="https://www.youtube.com/watch?v=9WBDe_zvfhQ" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=06CoXN1G3a8<u><br></u>https://www.youtube.com/watch?v=glYUlhAsSYk<u><br></u>https://www.youtube.com/watch?v=9WBDe_zvfhQ</a>
 </p>
 <p></p>
