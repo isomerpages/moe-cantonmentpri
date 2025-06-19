@@ -347,14 +347,13 @@ engage with key landmarks, heritage sites, and institutions that bring
 textbook concepts to life. Through guided activities, reflections, and
 interactive experiences, students gain a stronger sense of national identity,
 appreciate the multicultural fabric of Singapore, and develop informed
-and responsible citizenship.</p>
-<p><strong><br>Primary 1:</strong> Changi Airport
+and responsible citizenship.
+<br><strong><br>Primary 1:</strong> Changi Airport
 <br><strong>Primary 2:</strong> Tiong Bahru Heritage Trail
 <br><strong>Primary 3:</strong> Geylang Serai Heritage Centre
 <br><strong>Primary 4:</strong> Kreta Ayer Heritage Gallery
 <br><strong>Primary 5:</strong> Indian Heritage Centre
 <br><strong>Primary 6:</strong> Asian Civilisations Museum</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCE8.png">
 </div>
