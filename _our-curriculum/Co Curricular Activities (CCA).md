@@ -112,7 +112,7 @@ encouraging curiosity and lifelong learning.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>Sports</strong> 
+<p><strong>Sports</strong>
 </p>
 </th>
 </tr>
@@ -163,13 +163,73 @@ exposure.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Visual and Performing Arts</strong> 
+<p><strong>Visual and Performing Arts</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Guitar Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Uniformed Groups</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cub Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Clubs and Societies</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infocomm &amp; Robotics Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Creative Design Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -177,4 +237,24 @@ exposure.</p>
 </tr>
 </tbody>
 </table>
+<h4>External CCA</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>For sports not offered as CCAs but represented at National School Games
+(e.g. Gymnastics, Swimming, Taekwondo, Track &amp; Field), students and
+parents are expected to take initiative in understanding the competition
+requirements—this includes discussing with their external coaches, referring
+to the NSG website, and being familiar with event categories and rules.
+Parents who wish for their child to represent the school in such events
+must submit an indication of interest via <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cpsnsg</a> at
+least seven working days before the organiser’s registration deadline.</p>
+</li>
+<li>
+<p>The school will require supporting documents to verify the student’s competency
+in the sport (e.g. swimming or running timings, grading cards, handicap
+records, club and coach details). The school reserves the right to request
+additional documentation and/or conduct selection trials before confirming
+participation.</p>
+</li>
+</ul>
 <p></p>
