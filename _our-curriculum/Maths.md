@@ -69,9 +69,19 @@ in the students’ Mathematical thinking skills.&nbsp;</p>
 <h4>Useful Links</h4>
 <p><strong>Koobits</strong>
 </p>
-<p>Students can access Koobits Learning Portals via&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">member.koobits.com</a>
+<p>Students can access Koobits Learning Portals via&nbsp;<a href="https://member.koobits.com" rel="noopener noreferrer nofollow" target="_blank">member.koobits.com</a>
 <br>
-<br>Portal Introduction:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=yhMbiJqGHHo<br>FAQs</a> &amp;
-guides:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">support.koobits.com</a>
+<br>Portal Introduction:&nbsp;<a href="https://www.youtube.com/watch?v=yhMbiJqGHHo" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=yhMbiJqGHHo</a>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>
+</a>FAQs &amp; guides:&nbsp;<a href="https://support.koobits.com" rel="noopener noreferrer nofollow" target="_blank">support.koobits.com</a>
 <br>User name:&nbsp;<em>same as student’s SLS user name</em>
 </p>
+<p><strong>Maths Olympiad Competitions</strong>
+</p>
+<p>The school provides administrative support to assist students in registering
+as private participants for the following competitions. Please note that
+this support is limited to the registration process only.</p>
+<p>Singapore-Asia Pacific Mathematical Olympiad for Primary Schools (SMOPS)
+<br>RI Primary Mathematics World Contest (RIPMWC)
+<br>National Mathematical Olympiad Of Singapore (NMOS)</p>
