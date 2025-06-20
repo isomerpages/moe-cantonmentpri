@@ -97,7 +97,6 @@ Prior to the trip, they learn how to observe their surroundings safely
 and mindfully. On the trip, students apply outdoor skills to discover nature
 from different perspectives, building confidence and readiness for future
 outdoor experiences, including residential camps in upper primary.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/PAM9.jpg">
 </div>
