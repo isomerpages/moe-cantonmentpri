@@ -82,6 +82,12 @@ in the students’ Mathematical thinking skills.&nbsp;</p>
 <p>The school provides administrative support to assist students in registering
 as private participants for the following competitions. Please note that
 this support is limited to the registration process only.</p>
-<p>Singapore-Asia Pacific Mathematical Olympiad for Primary Schools (SMOPS)
-<br>RI Primary Mathematics World Contest (RIPMWC)
-<br>National Mathematical Olympiad Of Singapore (NMOS)</p>
+<p><a href="https://apmops.hci.edu.sg" rel="noopener nofollow" target="_blank">Singapore Mathematical Olympiad for Primary Schools (SMOPS / APMOPS)</a>
+</p>
+<p><a href="https://www.ri.edu.sg/rmo" rel="noopener nofollow" target="_blank">Raffles Mathematical Olympiad (RMO)</a>
+</p>
+<p><a href="https://www.nushigh.edu.sg/nmos/" rel="noopener nofollow" target="_blank">National Mathematical Olympiad of Singapore (NMOS)</a>
+<br>
+<br>
+<br>
+</p>
