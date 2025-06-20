@@ -51,9 +51,6 @@ learn to demonstrate care and support for their peers while building resilience
 through practice and preparation. Primary 6 students explore various dance
 genres in their programme, developing integrity as they push themselves
 to master new skills.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjntws-u4BU?si=goLuuJLwue4BJ0SP"></iframe>
-</div>
 <p>We embrace inclusivity in our programmes, welcoming talented artists with
 special needs to perform and work with our students. Through these meaningful
 interactions, our students develop empathy and learn to appreciate diverse
@@ -72,17 +69,11 @@ as they work towards group goals, and demonstrate graciousness in supporting
 one another during performances at Teachers' Day Celebrations and Primary
 One Orientation.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/n4qR45pEb6w?si=5fcrNt3kNSFnczpD"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/n4qR45pEb6w?si=HIA9QmDjPkfNU69U"></iframe>
 </div>
 <p>Guitar CCA students performing at 2024 Teachers’ Day and Non-Teaching
 Staff Appreciation Concert changing the lyrics of Singapura, a familiar
 tune, to suit the occasion</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4X1c5RVO0Ec?si=yF9s9KbM4eyBjnTa"></iframe>
-</div>
-<p>Dance CCA students performing to incoming Primary One students and their
-parents at Orientation Day in 2024</p>
-<p></p>
 <p><strong>Enhanced Learning Opportunities</strong>
 </p>
 <p>Selected students receive additional opportunities through masterclasses
@@ -92,7 +83,6 @@ These students also participate in leadership development programmes where
 they learn to care for and guide their peers.</p>
 <p>Some students also participate in leadership development programmes through
 the arts.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/LLP3.png">
 </div>
