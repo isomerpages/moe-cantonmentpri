@@ -2,52 +2,243 @@
 title: Student Leadership
 permalink: /our-curriculum/student-leadership/
 description: ""
+variant: tiptap
 ---
-### Vision
-Leaders of Self and Leaders of Others
-
-### Strategic Programmes
-One of our strategic thrusts seeks to develop students to be Leaders Anchored on Values.  We seek to nurture student leaders in the 7 Habits based of the Leader in Me programme espoused from the 7 Habits of Highly Effective People by Steven Covey.
-
-The key principles of the Leader in Me programme is based on a theory of change known as the “See-Do-Get” Cycle. (When you change the way you **See** things, it influences what you **Do** and the results you **Get**.) It is very much aligned with the school vision of Concerned Citizens, Innovative Thinkers, Passionate Learners_,_ where there is emphasis on the need for students to be effective leaders of self before they can be effective contributors to the school and community at large. 
-
-In CPS, we believe every student has the propensity to be a leader and strive to provide opportunities for them to do so throughout their 6 years. We take on a tiered approach in developing the students into effective leaders.
-
-<figure>  
-<img src="/images/studentleadership1.png">  
-<figcaption> CPS Student Leadership Framework </figcaption>  
-</figure>
-
-The above framework guides student leadership development in 3 areas:
-* Leadership of the Self
-* Leadership of Others
-* Leadership of the School Community
-
-<u><strong> Tier 1: Leaders of Self </strong></u><br>
-The first tier is to develop the student body to be leaders of self. This involves all students going through lessons and discussions on the “7 Habits of Happy Kids” espoused from the “7 Habits of Highly Effective People”. Our Primary 1 and 2 students attend weekly “Lead” lessons while Primary 3 to 6 students get opportunities to discuss and learn more about the 7 Habits through Assembly and FTGP lessons. We aspire to have students who can manage themselves and navigate peer relationships effectively.
-
-<figure>  
-<img src="/images/studentleadership2.jpg">  
-<figcaption> Class Trees done during Orientation Week 2022 </figcaption>  
-</figure>
-
-<u><strong> Tier 2: Leaders of Others </strong></u><br>
-The second tier of our leadership framework is to develop leaders of others. These are leaders are selected by teachers and lead a specific group of students in a particular function. This include our CCA Leaders, Eco-champions, ICT Monitors, PAM and Class Monitors etc. Students get opportunities to hone their leadership skills through leading their small groups and help in maintain order and camaraderie within student groups. Student leaders in this tier are often rotated to ensure a variety of experiences.
-
-<u><strong> Tier 3: Leaders of the School Community </strong></u><br>
-Prefects and Peer Support Leaders (PSL) make up the leaders of the school community tier. The prefects and PSL are selected through a rigorous process of nominations and interviews. These students lead the student body in major events and initiatives and are recognized as role models for the school community. We put the students through a variety of trainings to help them realize their leadership potential and hope to spark in them the desire to go beyond in leading and caring for the community at large.
-
-<figure>  
-<img src="/images/studentleadership3.jpeg">  
-<figcaption> Prefects and PSL Training </figcaption>  
-</figure>
-
-<figure>  
-<img src="/images/studentleadership4.jpg">  
-<figcaption> 2021 Head Prefects and PSL Investiture </figcaption>  
-</figure>
-
-<figure>  
-<img src="/images/studentleadership5.jpeg">  
-<figcaption> Head Prefect 2021, Jerraine Tan briefing our Guests-of-Honour during the Opening of the Heritage Gallery </figcaption>  
-</figure>
+<p>At Cantonment Primary School (CPS), we believe every child has the potential
+to lead and inspire. Our Student Leadership Development (SLD) programme
+is thoughtfully designed to nurture this potential, equipping our Prefects,
+Peer Support Leaders (PSL) and various class leadership roles with the
+values, mindset, and skills to lead with purpose, compassion, and resilience.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/Student_Leadership1.jpg">
+</div>
+<p>The CPS SLD programme aims to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Foster a Caring and Enabling School Environment:</strong> Our student
+leaders champion initiatives that promote kindness, respect, and inclusion.</p>
+</li>
+<li>
+<p><strong>Cultivate a Disciplined Student Body:</strong> Leaders serve as
+role models who influence their peers to be responsible, resilient, and
+values-driven individuals.</p>
+</li>
+</ul>
+<p>Rooted in the CCE 2021 Framework, our leadership development approach
+embraces:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Experiential Learning: Engaging, hands-on activities tailored to the developmental
+stage of primary school students.</p>
+</li>
+<li>
+<p>Social Influence &amp; Curiosity: Encouraging students to explore leadership
+in a way that aligns with their natural interests and peer interactions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/Student_Leadership2.png">
+</div>
+</li>
+</ul>
+<h4><strong>Why Student Leadership Matters in a Primary School</strong></h4>
+<p>Leadership is not just a title; it is a mindset and skillset that can
+be cultivated from a young age. At CPS, we recognise that primary school
+is the ideal time to begin nurturing leadership qualities. Students at
+this age are naturally curious, eager to connect with others, and quick
+to absorb values through guided experiences.</p>
+<p>Our SLD programme develops the whole child, helping them:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Build confidence and self-awareness</p>
+</li>
+<li>
+<p>Embrace responsibility and ownership</p>
+</li>
+<li>
+<p>Practice collaboration and empathy</p>
+</li>
+<li>
+<p>Learn to think critically and communicate respectfully</p>
+</li>
+</ul>
+<p>By focusing on <strong>Self-Leadership, Team Leadership, and Thought Leadership</strong>,
+we provide structured opportunities for students to lead themselves, work
+with others, and generate ideas that drive positive change. These experiences
+leave a lasting impact that extends beyond their time at CPS.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Sef</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Self-awareness and personal effectiveness</p>
+</li>
+<li>
+<p>Goal-setting skills and a growth mindset</p>
+</li>
+<li>
+<p>Reflective practices through leadership portfolios</p>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Team Leadership</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enhance communication and empathy</p>
+</li>
+<li>
+<p>Learn conflict resolution</p>
+</li>
+<li>
+<p>Explore different leadership styles</p>
+</li>
+<li>
+<p>Lead by example in school events and duties</p>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Thought Leadership</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Conceptualise and lead new student initiatives</p>
+</li>
+<li>
+<p>Represent student voices in school-wide discussions</p>
+</li>
+<li>
+<p>Promote innovation, critical thinking, and value-driven leadership</p>
+</li>
+</ul>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/Student_Leadership3.jpg">
+</div>
+<h4><strong>Tiers of Leadership Appointment in CPS</strong></h4>
+<p>At CPS, student leadership opportunities are inclusive and structured
+across three tiers:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/Student_Leadership4.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Tier 1:</strong>  <strong>All Students</strong> – Every student is
+encouraged to practise self-leadership through daily routines, character
+education, and values-based experiences in the classroom.</p>
+</li>
+<li>
+<p><strong>Tier 2:</strong>  <strong>Class Leadership Roles</strong> – Students
+may be appointed as class monitors, subject representatives, or environment
+champions to practise team leadership in their class environment.</p>
+</li>
+<li>
+<p><strong>Tier 3:</strong>  <strong>Prefects, Peer Support Leaders (PSLs), and CCA Leaders</strong> –
+Selected students are given wider leadership responsibilities across the
+school, with opportunities to influence the student body, support wellbeing
+initiatives, and lead school-wide events.</p>
+</li>
+</ul>
+<p>Our training model is carefully aligned to the three leadership dimensions
+to ensure purposeful development at each stage:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Self-Leadership:</strong> Students are introduced to the principles
+of personal responsibility, growth mindset, and self-discipline through
+the 'Leader in Me' programme.</p>
+</li>
+<li>
+<p><strong>Team Leadership:</strong> Class leaders, Prefects, and PSLs participate
+in role-specific training sessions that focus on communication, peer support,
+and collaborative problem-solving.</p>
+</li>
+<li>
+<p><strong>Thought Leadership:</strong> The Prefect and PSL Executive Committees
+engage in focus group discussions with teachers, conceptualise and execute
+key school events, and advocate for student voice and improvement initiatives.</p>
+</li>
+</ul>
+<h4>Leadership Anchored in Values</h4>
+<p>Our programme is aligned with CPS’s core values and 7 Habits of Leader
+in Me:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>CPS Values in Action</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Care: Taking initiative and leading meaningful projects.</p>
+</li>
+<li>
+<p>Graciousness: Showing appreciation and encouraging others.</p>
+</li>
+<li>
+<p>Integrity: Making honest, principled decisions.</p>
+</li>
+<li>
+<p>Respect: Embracing diverse views and ensuring inclusion.</p>
+</li>
+<li>
+<p>Resilience: Adapting to challenges and leading through change.</p>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p>The 7 Habits of Leader in Me:</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Be Proactive</p>
+</li>
+<li>
+<p>Begin with the End in Mind</p>
+</li>
+<li>
+<p>Put First Things First</p>
+</li>
+<li>
+<p>Think Win-Win</p>
+</li>
+<li>
+<p>Seek First to Understand, Then to Be Understood</p>
+</li>
+<li>
+<p>Synergize</p>
+</li>
+<li>
+<p>Sharpen the Saw</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/Student_Leadership5.jpg">
+</div>
+</li>
+</ul>
+</li>
+</ol>
+<h4>Transformative Impact</h4>
+<p>We are proud of the outcomes achieved through the SLD programme:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>100% of leaders awarded 'Excellent' conduct</p>
+</li>
+<li>
+<p>100% staff recognition of leaders as role models</p>
+</li>
+<li>
+<p>Increased student contributions to a caring, inclusive school climate</p>
+</li>
+<li>
+<p>20% of the student population are appointed as leaders</p>
+</li>
+</ul>
+<p>The Student Leadership Development Programme at Cantonment Primary School
+reflects our unwavering belief that every student can be a leader. Through
+mentorship, values-based training, and experiential learning, we empower
+our students to lead with heart, make a difference, and leave a legacy.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/Student_Leadership6.jpg">
+</div>
+<p></p>
