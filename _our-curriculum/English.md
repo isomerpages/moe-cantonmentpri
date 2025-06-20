@@ -233,14 +233,11 @@ that learning English is both enjoyable and practical in everyday life,
 parents can create opportunities for their child to listen, speak, read,
 and write in English.</p>
 <h4><strong>Useful Links For Parents</strong></h4>
-<p><strong>Stellar2.0</strong>
-</p>
-<p>The&nbsp;<a href="https://www.moe.gov.sg/primary/curriculum/syllabus" rel="noopener noreferrer nofollow" target="_blank">STELLAR2.0 Website</a>&nbsp;introduces
-parents to the national programme for EL teaching and learning. There are
-also resources like digital games for students to practise their language
-skills learnt in each unit of work.</p>
 <p><strong>National Library Board (NLB)</strong>
 </p>
+<p>Access NLB catalogue and a list of <a href="https://www.nlb.gov.sg/main/site/discovereads" rel="noopener nofollow" target="_blank">eResources</a> for
+primary school students</p>
+<p>Book recommendations for Primary 1 to 6 are available <a rel="noopener noreferrer nofollow" target="_blank">https://www.nlb.gov.sg/main/site/discovereads/children/reading-recommendations/booklists</a>.</p>
 <p><strong>Games and activities - LearnEnglish Kids</strong>&nbsp;
 <br><a href="https://learnenglishkids.britishcouncil.org/en" rel="noopener noreferrer nofollow" target="_blank">LearnEnglish Kids</a>&nbsp;has
 lots of free online games, songs, stories and activities for children to
