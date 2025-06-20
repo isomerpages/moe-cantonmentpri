@@ -110,7 +110,9 @@ and global awareness. The experience begins with a pre-camp online meet-and-gree
 to build familiarity, followed by joint camp activities and post-camp bonding
 sessions that strengthen inter-school friendships and foster mutual respect,
 inclusivity, and confidence to thrive in a diverse society.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/58w-kMgCYMo?si=N63b0MqqgPxzUcke"></iframe>
+</div>
 <p>Our inaugural 2024 Combined Schools Camp at Dairy Farm Outdoor Adventure
 Learning Centre</p>
 <p></p>
