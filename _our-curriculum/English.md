@@ -165,7 +165,7 @@ through the medium of oral storytelling and/or poetry.</p>
 their imagination and grow as a class.</p>
 </li>
 <li>
-<p>Energiser activities to keep students engaged!</p>
+<p>Energiser activities to keep students engaged.</p>
 </li>
 <li>
 <p>Develop oracy skills</p>
