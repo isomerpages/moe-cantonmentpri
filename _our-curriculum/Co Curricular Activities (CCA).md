@@ -324,8 +324,8 @@ parents are expected to take initiative in understanding the competition
 requirements—this includes discussing with their external coaches, referring
 to the NSG website, and being familiar with event categories and rules.
 Parents who wish for their child to represent the school in such events
-must submit an indication of interest via <a href="go.gov.sg/cpsnsg" rel="noopener nofollow" target="_blank">go.gov.sg/cpsnsg</a> at least seven working days
-before the organiser’s registration deadline.</p>
+must submit an indication of interest via <a href="https://go.gov.sg/cpsnsg" rel="noopener nofollow" target="_blank">go.gov.sg/cpsnsg</a> at least seven working
+days before the organiser’s registration deadline.</p>
 </li>
 <li>
 <p>The school will require supporting documents to verify the student’s competency
