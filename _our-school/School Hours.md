@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday, Wednesday to Friday</p>
+<p>All days except Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.45 am</p>
@@ -68,7 +68,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday, Wednesday to Friday</p>
+<p>All days except Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30 am</p>
