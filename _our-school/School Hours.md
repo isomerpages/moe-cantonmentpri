@@ -123,7 +123,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1</p>
+<p>Primary 1 and 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9:00-9.30 am</p>
@@ -134,7 +134,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 2</p>
+<p>Primary 2 and 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.30-10 am</p>
@@ -145,7 +145,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3</p>
+<p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10-10.30 am</p>
@@ -156,32 +156,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10.30-11 am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Between 12.30-1 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11-11.30 am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Between 9-9.30 am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.30-12 pm</p>
+<p>10.30-11 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Between 9-9.30 am</p>
@@ -214,7 +192,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1</p>
+<p>Primary 1 and 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9-9.30 am</p>
@@ -228,21 +206,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9-9.30 am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11.30-12 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Between 2.30-3 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 3</p>
+<p>Primary 2 and 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.30-10 am</p>
@@ -251,12 +215,12 @@ variant: tiptap
 <p>12-12.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Between 12-1 pm</p>
+<p>Between 2.30-3 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 4</p>
+<p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10-10.30 am</p>
@@ -265,12 +229,12 @@ variant: tiptap
 <p>12.30-1 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Between 12-1 pm</p>
+<p>Between 8.30-9 am</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 5</p>
+<p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10.30-11 am</p>
@@ -280,20 +244,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Between 9-9.30 am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8:30-9 am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11-11.30 am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Between 2-2.30 pm</p>
 </td>
 </tr>
 </tbody>
