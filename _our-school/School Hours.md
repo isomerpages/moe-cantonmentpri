@@ -126,7 +126,7 @@ variant: tiptap
 <p>Primary 1 and 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9:00-9.30 am</p>
+<p>9-9.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Between 12-12.30 pm</p>
