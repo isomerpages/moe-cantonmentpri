@@ -27,7 +27,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>All days except Tuesday</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>7.45 am</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,9 +37,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.45 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00 pm</p>
@@ -70,8 +67,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>All days except Tuesday</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>7.30 am</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 pm</p>
@@ -82,18 +80,12 @@ variant: tiptap
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 am</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>5.30 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>School Holidays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 pm</p>
@@ -126,7 +118,7 @@ variant: tiptap
 <p>Primary 1 and 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9:00-9.30 am</p>
+<p>9-9.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Between 12-12.30 pm</p>
@@ -280,10 +272,10 @@ to do so by going to the school gate designated for the P1 and P2&nbsp;students
 <td rowspan="1" colspan="1">
 <p>Primary 1, 2 and 5</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1.30 pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -293,12 +285,6 @@ to do so by going to the school gate designated for the P1 and P2&nbsp;students
 <tr>
 <td rowspan="1" colspan="1">
 <p>Primary 3, 4 and 6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.30 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1</p>
