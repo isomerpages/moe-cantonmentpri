@@ -13,6 +13,6 @@ description: ""
 different places in school. Click at the top right in the video to select
 a different location.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/videoseries?si=zmbtmKDYRTsAli1z&amp;list=PL6RLG2Hx94QXkiRDtKbfv9-bGnSaK3f5D"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/videoseries?si=zmbtmKDYRTsAli1z&amp;list=PL6RLG2Hx94QXkiRDtKbfv9-bGnSaK3f5D"></iframe>
 </div>
 <p></p>
