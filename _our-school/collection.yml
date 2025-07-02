@@ -2,9 +2,9 @@ collections:
   our-school:
     output: true
     order:
-      - School History.md
       - School Hours.md
       - School Services.md
+      - School History.md
       - Vision, Mission, Values.md
       - Principal's Message.md
       - Our Staff.md
