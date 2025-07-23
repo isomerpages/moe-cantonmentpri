@@ -468,6 +468,12 @@ to parents. May include topics such as:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_159_P5_NE_Show_Consent_Form.pdf" rel="noopener nofollow" target="_blank">2025-159 P5 NE Show</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2025_186_P1_Semester_2_Assessment.pdf" rel="noopener nofollow" target="_blank">2025-186 P1 Semester 2 Assessment</a>
 <br><a href="/files/Letter/2025_186_P2_Semester_2_Assessment.pdf" rel="noopener nofollow" target="_blank">2025-186 P2 Semester 2 Assessment</a>
 <br><a href="/files/Letter/2025_186_P3_Semester_2_Assessment.pdf" rel="noopener nofollow" target="_blank">2025-186 P3 Semester 2 Assessment</a>
