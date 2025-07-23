@@ -466,6 +466,29 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_186_P1_Semester_2_Assessment.pdf" rel="noopener nofollow" target="_blank">2025-186 P1 Semester 2 Assessment</a>
+<br><a href="/files/Letter/2025_186_P2_Semester_2_Assessment.pdf" rel="noopener nofollow" target="_blank">2025-186 P2 Semester 2 Assessment</a>
+<br><a href="/files/Letter/2025_186_P3_Semester_2_Assessment.pdf" rel="noopener nofollow" target="_blank">2025-186 P3 Semester 2 Assessment</a>
+<br><a href="/files/Letter/2025_186_P4_Semester_2_Assessment.pdf" rel="noopener nofollow" target="_blank">2025-186 P4 Semester 2 Assessment</a>
+<br><a href="/files/Letter/2025_186_P5_Semester_2_Assessment.pdf" rel="noopener nofollow" target="_blank">2025-186 P5 Semester 2 Assessment</a>
+<br><a href="/files/Letter/2025_186_P6_Semester_2_Assessment.pdf" rel="noopener nofollow" target="_blank">2025-186 P6 Semester 2 Assessment</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_188_P6_Preliminary_Oral_Assessments_2025.pdf" rel="noopener nofollow" target="_blank">2025-188 P6 Preliminary Oral Assessments</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_189_P5_SS_LJ.pdf" rel="noopener nofollow" target="_blank">2025-189 P5 SS LJ</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
