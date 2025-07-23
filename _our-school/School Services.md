@@ -258,7 +258,10 @@ variant: tiptap
 <br>
 </p>
 <h3>Dental Clinic @ CPS</h3>
-<p><u>Opening Hours:</u>
+<p><u>Opening Days:</u>
+<br>8, 11, 21-23 July
+<br>
+<br><u>Opening Hours:</u>
 </p>
 <p>Monday/Wednesday/Friday: 8 am to 5 pm
 <br>Tuesday/Thursday: 8 am to 5.30 pm
