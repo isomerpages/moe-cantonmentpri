@@ -12,62 +12,9 @@ variant: tiptap
 <br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Secondary Direct School Admissions</a> 
 <br>
 </p>
-<h4>Booking PCTC/PTM slots on Parent Gateway</h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Booking not started</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Booking not started 1" src="/images/PTM/Booking_not_started_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Booking not started 2" src="/images/PTM/Booking_not_started_2.jpg">
-</div>
-<p></p>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Booking started</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Booking started 1" src="/images/PTM/Booking_started_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Booking started 2" src="/images/PTM/Booking_started_2.jpg">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Booking started 3" src="/images/PTM/Booking_started_3.jpg">
-</div>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Change Booking</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Change Booking 1" src="/images/PTM/Change_Booking_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Change Booking 2" src="/images/PTM/Change_Booking_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Change Booking 3" src="/images/PTM/Change_Booking_3.jpg">
-</div>
-<p></p>
-<p></p>
-</div>
-</details>
-</div>
+<h4>Bouquets for CPS</h4>
+<p>Please let us know <a href="https://forms.moe.edu.sg/forms/oa0Edd" rel="noopener noreferrer" target="_blank">here</a> if
+you have any compliments or appreciation that you would like to share.</p>
 <h4>Update Student Particulars</h4>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Update student/parent particulars - Requires SingPass login</a> 
 <br>
@@ -249,7 +196,64 @@ fingertips.</p>
 </li>
 <li>
 <p><a href="/files/PG_Mobile_App_Meetings_Feature.pdf" rel="noopener noreferrer nofollow" target="_blank">Booking Meeting Slots </a>(During
-Parent Child Teacher Conference)</p>
+Parent Child Teacher Conference)
+<br>
+</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Booking not started</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Booking not started 1" src="/images/PTM/Booking_not_started_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Booking not started 2" src="/images/PTM/Booking_not_started_2.jpg">
+</div>
+<p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Booking started</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Booking started 1" src="/images/PTM/Booking_started_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Booking started 2" src="/images/PTM/Booking_started_2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Booking started 3" src="/images/PTM/Booking_started_3.jpg">
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Change Booking</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Change Booking 1" src="/images/PTM/Change_Booking_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Change Booking 2" src="/images/PTM/Change_Booking_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Change Booking 3" src="/images/PTM/Change_Booking_3.jpg">
+</div>
+<p></p>
+<p></p>
+</div>
+</details>
+</div>
 </li>
 </ul>
 <h4>Montfort Care Parenting Support Team</h4>
