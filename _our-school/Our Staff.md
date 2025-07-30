@@ -1558,24 +1558,6 @@ a WhatsApp chat with them.</p>
 <p>4 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Phua Wei Leong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65119555 Ext 448</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/6773c0f24c0f1aec6f3da602" rel="noopener nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Gladys Tay</p>
 </td>
 <td rowspan="1" colspan="1">
