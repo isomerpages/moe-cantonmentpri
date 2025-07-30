@@ -499,6 +499,18 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_197_National_Day_Celebration_on_8_August_2025.pdf" rel="noopener nofollow" target="_blank">2025-197 National Day Celebration on 8 August 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_198_P6_Preliminary_Examination_Days___Dismissal_Time.pdf" rel="noopener nofollow" target="_blank">2025-198 P6 Preliminary Examination Days - Dismissal Time</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
