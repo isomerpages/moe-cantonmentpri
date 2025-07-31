@@ -10,11 +10,7 @@ variant: tiptap
 <br><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">Parent kit</a> 
 <br><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.sg</a> 
 <br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Secondary Direct School Admissions</a> 
-<br>
 </p>
-<h4>Bouquets for CPS</h4>
-<p>Please let us know <a href="https://forms.moe.edu.sg/forms/oa0Edd" rel="noopener noreferrer" target="_blank">here</a> if
-you have any compliments or appreciation that you would like to share.</p>
 <h4>Update Student Particulars</h4>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Update student/parent particulars - Requires SingPass login</a> 
 <br>
