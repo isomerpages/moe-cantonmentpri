@@ -2543,8 +2543,7 @@ a WhatsApp chat with them.</p>
 <p>65119555 Ext 209</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc22858c321c6001240bd1a" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
