@@ -9,7 +9,7 @@ variant: tiptap
 <br><a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Examinations and Assessment Board</a> 
 <br><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">Parent kit</a> 
 <br><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.sg</a> 
-<br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Secondary Direct School Admissions</a> 
+<br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Secondary Direct School Admissions</a>
 </p>
 <h4>Update Student Particulars</h4>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Update student/parent particulars - Requires SingPass login</a> 
@@ -504,6 +504,12 @@ to parents. May include topics such as:
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2025_198_P6_Preliminary_Examination_Days___Dismissal_Time.pdf" rel="noopener nofollow" target="_blank">2025-198 P6 Preliminary Examination Days - Dismissal Time</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_207_Invitation_to_COT_2025.pdf" rel="noopener nofollow" target="_blank">2025-207 Invitation to COT 2025</a>
 </p>
 </td>
 </tr>
