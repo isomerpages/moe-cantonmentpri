@@ -2,10 +2,10 @@ collections:
   our-school:
     output: true
     order:
-      - Cantonment Times.md
       - School Hours.md
       - School Services.md
       - School History.md
       - Vision, Mission, Values.md
       - Principal's Message.md
+      - Cantonment Times.md
       - Our Staff.md
