@@ -20,12 +20,6 @@ variant: tiptap
 <br>To update your home address, ensure that your new address is reflected
 in your SingPass and then click <a href="https://form.gov.sg/625629188a621f0012a3a16c" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-<h4>Cantonment Times</h4>
-<p><a href="/files/Times/2023semester1.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 1 2023 Newsletter</a> 
-<br><a href="/files/Times/2023semestertwo.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 2 2023 Newsletter</a> 
-<br><a href="/files/Times/Semester_1_2024_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 1 2024 Newsletter</a>
-<br><a href="/files/Times/2024semester2.pdf" rel="noopener nofollow" target="_blank">Semester 2 2024 Newsletter</a>
-</p>
 <h4>Touch Base Meeting</h4>
 <p>Hall Slides</p>
 <p><a href="/files/TBM/P1_Touch_Base_Meeting_2_Jan_2025__Website_.pdf" rel="noopener nofollow" target="_blank">P1</a>
@@ -40,7 +34,6 @@ in your SingPass and then click <a href="https://form.gov.sg/625629188a621f0012a
 <br><a href="/files/TBM/P4_FTs_Deck_2025_P4_TBM__for_website_.pdf" rel="noopener nofollow" target="_blank">P4</a>
 <br><a href="/files/TBM/P5_FTs_Deck_2025_P5_TBM__for_website_.pdf" rel="noopener nofollow" target="_blank">P5</a>
 <br><a href="/files/TBM/P6_FTs_Deck_2025_P6_TBM__for_website_.pdf" rel="noopener nofollow" target="_blank">P6</a>
-<br>
 </p>
 <h4>Cyberwellness</h4>
 <p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness Guide</a> 
