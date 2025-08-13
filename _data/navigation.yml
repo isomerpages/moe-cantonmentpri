@@ -7,17 +7,6 @@ links:
   - title: Our Partners
     collection: our-partners
   - title: Useful Links
-    url: /useful-links/calendar/
-    sublinks:
-      - title: Calendar
-        url: /useful-links/calendar/
-      - title: For Students
-        url: /useful-links/for-students/
-      - title: For Parents
-        url: /useful-links/for-parents/
-      - title: Financial Assistance
-        url: /useful-links/financial-assistance
-      - title: Admission
-        url: /useful-links/admissions/
+    collection: useful-links
   - title: Open House
     url: /openhouse

@@ -1,6 +1,6 @@
 ---
 title: Cantonment Times
-permalink: /cantonmenttimes/
+permalink: /our-school/cantonmenttimes/
 variant: tiptap
 description: ""
 ---

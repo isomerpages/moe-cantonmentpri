@@ -1,6 +1,6 @@
 ---
 title: School History
-permalink: /school-history/
+permalink: /our-school/school-history/
 variant: tiptap
 description: ""
 ---
