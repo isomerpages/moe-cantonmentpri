@@ -503,7 +503,11 @@ to parents. May include topics such as:
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter/2025_207_Invitation_to_COT_2025.pdf" rel="noopener nofollow" target="_blank">2025-207 Invitation to COT 2025</a>
+<br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CoT_Flyer.jpg">
+</div>
 </td>
 </tr>
 </tbody>
