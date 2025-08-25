@@ -510,6 +510,20 @@ to parents. May include topics such as:
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_214_Term_4_Letter.pdf" rel="noopener nofollow" target="_blank">2025-214 Term 4 Letter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_215_End_of_Year_Oral_Examination_for_Primary_3__English_Language_and_Mother_Tongue_Language_.pdf" rel="noopener nofollow" target="_blank">2025-215 End-of-Year Oral Examination for Primary 3 (English Language and Mother Tongue Language)</a>
+<br><a href="/files/Letter/2025_215_End_of_Year_Oral_Examination_for_Primary_4__English_Language_and_Mother_Tongue_Language_.pdf" rel="noopener nofollow" target="_blank">2025-215 End-of-Year Oral Examination for Primary 4 (English Language and Mother Tongue Language)</a>
+<br><a href="/files/Letter/2025_215_End_of_Year_Oral_Examination_for_Primary_5__English_Language_and_Mother_Tongue_Language_.pdf" rel="noopener nofollow" target="_blank">2025-215 End-of-Year Oral Examination for Primary 5 (English Language and Mother Tongue Language)</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
