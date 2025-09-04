@@ -189,51 +189,111 @@ and I’m very grateful for the positive impact you’ve had on them. 🙏✨</p
 <br>Thank you for making your Math lessons fun &amp; enjoyable! Also thank
 you for your patience and care for the students!</p>
 <p><strong>Mrs Jasmine Han and Mrs Donica Goh</strong>
-</p>
-<p><strong>Mr Tiong Boon Seah </strong>
-</p>
+<br>I want to sincerely thank you for the important role you played in my
+son’s early years of primary school. When he first started, he was very
+shy and not very confident. With your gentle encouragement and kind understanding,
+he slowly blossomed—becoming more expressive, confident, and comfortable
+in school.</p>
+<p>Having a form teacher like you in the lower primary years makes such a
+huge difference. You gave him not just knowledge, but also the foundation
+of feeling safe, supported, and happy in class. This has helped prepare
+him so well for the middle primary years, and I am deeply grateful for
+the positive start you have given him.</p>
+<p><strong>Mr Tiong Boon Seah</strong>
+<br>Thank you for making science such a fun and enjoyable subject! Your energy,
+humor, and passion for teaching bring the lessons to life, and it’s clear
+how much the children look forward to your classes. The children are very
+lucky to have a teacher like you, who makes learning both exciting and
+memorable.</p>
 <p><strong>Mdm Toh &amp; Mdm Sujatha</strong>
-</p>
-<p><strong>Mr Joshua Goh </strong>
-</p>
+<br>Thank you to both teachers for their care and patience with the students!
+We also appreciate how well the parents are kept informed about events,
+celebrations, and field trips. Truly grateful!</p>
+<p><strong>Mr Joshua Goh</strong>
+<br>Thank you for being such a wonderful teacher to my son over the past five
+years. Your kindness, guidance, and steady support have made such a difference
+in his journey. Whether in class or in PE, you’ve created an environment
+where learning is not only meaningful but also truly enjoyable.</p>
+<p>We are very grateful that he had you by his side—helping him grow with
+confidence, resilience, and joy in learning.</p>
 <p><strong>Ms Ramesh</strong>
-</p>
-<p><strong>Karen John </strong>
-</p>
+<br>Thank you for making your music class fun &amp; enjoying!</p>
+<p><strong>Karen John</strong>
+<br>Thank you for your warm care and encouragement. It has been a source of
+confidence and inspiration for my daughter and us.</p>
 <p><strong>Joleen Teo</strong>
-</p>
+<br>Thank you for your leadership and guidance. My daughter thrives under
+your care and gained the gift of the joy of learning.</p>
 <p><strong>Grace Foo</strong>
-</p>
+<br>Thank you for your leadership and vision. Your impact has been visible
+to the community and we look forward to the growth and changes that will
+come to the school</p>
 <p><strong>Ms Ramesh</strong>
-</p>
+<br>Ms.Ramesh formed an amazing connection with our daughter and continues
+to support and uplift her daily. Great to see their interactions and see
+her bring out the creative side in our daughter!</p>
 <p><strong>Teachers of P4 In</strong>
-</p>
+<br>Dear Teachers of P4IN,</p>
+<p>Thank you for making it a safe, happy and fun place of learning for the
+children!</p>
 <p><strong>Mr Ying</strong>
-</p>
-<p><strong>Mr  Ameen</strong>
-</p>
-<p><strong>Ms Lau </strong>
-</p>
-<p><strong>Ms Yeo </strong>
-</p>
-<p><strong>Mr Jared Goh </strong>
-</p>
+<br>Thank you for always making our lesson fun and making us laugh 😆</p>
+<p><strong>Mr Ameen</strong>
+<br>Thank you Mr Ameen for always helping me when I felt sad and thank you
+for always asking if I am okay 😀</p>
+<p><strong>Ms Lau</strong>
+<br>Thank you for always reminding me to do things well And always understanding
+me</p>
+<p><strong>Ms Yeo</strong>
+<br>Thank you for being a helpful and patient teacher !</p>
+<p><strong>Mr Jared Goh</strong>
+<br>My daughter enjoys going to school for the two years. She learnt a lot
+from him. We would like to thank him for his patience and kind guidance
+on nurturing my girl.</p>
 <p><strong>Ms Sangeetha</strong>
-</p>
+<br>Thank you so much in guiding my child, not only in her studies but also
+in her emotions. She feels very comfortable to express her concerns and
+feelings to you. She feels very motivated by your positive words and works
+towards that.</p>
 <p><strong>Mrs Han and Mrs Goh</strong>
-</p>
+<br>3 years ago, both teachers played a crucial role in making the child's
+first school experience a joyful and memorable one. Their nurturing approach
+created a supportive environment where she felt heard and valued. They
+truly understood that even the smallest concerns mattered, always offering
+a caring ear to listen and provide reassurance.</p>
+<p>Thank you 💗</p>
 <p><strong>Mr Alan</strong>
-</p>
+<br>Mr Alan beautifully weaves real-life stories into his lessons to help
+everyone connect and understand better, creating an engaging and exciting
+classroom atmosphere. He and Miss Liyu are especially mindful of the more
+introverted students, gently encouraging them to share their thoughts and
+participate in class discussions, ensuring that every voice is heard and
+valued.</p>
 <p><strong>Mrs Arun</strong>
-</p>
-<p><strong>Ms Lau Kai Jing </strong>
-</p>
-<p><strong>To all the teachers in P5 respect </strong>
-</p>
-<p><strong>To all the teachers in P6 Integrity </strong>
-</p>
+<br>Dear Mrs Arun, Thank you for being such a wonderful teacher. Your bright
+and positive energy shines through every day, and it makes such a difference
+to the children. We truly appreciate your dedication and the care you show
+in making sure the students feel safe and supported.</p>
+<p>Cantonment students and the school are truly lucky to have you. Wishing
+you a very Happy Teacher’s Day!</p>
+<p><strong>Ms Lau Kai Jing</strong>
+<br>Ms Lau is a very patient and caring teacher who will take care of both
+academic and personal well being of the students. Really appreciate her
+help .</p>
+<p><strong>To all the teachers in P5 respect</strong>
+<br>Thanks for all the positive encouragement and guidance given to students
+.</p>
+<p><strong>To all the teachers in P6 Integrity</strong>
+<br>Thanks for the positive encouragement and guidance given to all the kids
+, especially in this year of taking PSLE. Thanks for guiding them in their
+first national exam in terms of academic and well being . Thank you</p>
 <p><strong>To all the teaching staff and non teaching staff of CPS</strong>
-</p>
+<br>Thanks for all the help and guidance in making CPS a school they are proud
+to be in and happy to be in . Every effort regardless big or small makes
+a difference to the kids learning journey in their academic, CCA, leadership
+and personal well being and growth . A conducive environment by the non
+teaching staff too . Really appreciate them . Thank you</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
