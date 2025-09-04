@@ -534,7 +534,8 @@ to parents. May include topics such as:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Letter/2025_221_PSLE_LC_Letter_for_P1_P6.pdf" rel="noopener nofollow" target="_blank">2025-221 PSLE LC Letter for P1-P6</a>
+</p>
 </td>
 </tr>
 </tbody>
