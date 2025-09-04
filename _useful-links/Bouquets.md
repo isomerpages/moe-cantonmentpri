@@ -113,6 +113,127 @@ up.</p>
 <br>Thank you for taking great care of the kids, keeping us informed of the
 various activities and enthusiastically preparing them for it. My son sees
 a safe space with you!</p>
+<p><strong>Miss John</strong>
+<br>Thanks for your encouragement and understanding despite on my daughter
+low focus condition and extra attention required</p>
+<p><strong>Mrs Teo</strong>
+<br>Thanks for your patience with my daughter</p>
+<p><strong>Ms Lau</strong>
+<br>Thanks for your guidance and patience</p>
+<p><strong>Mrs Ramesh and Ms Huang</strong>
+<br>Thank you for teaching my son all this year. He has learned a lot from
+your lessons. And getting smarter thanks to the teachers involved in teaching
+him.Wishing you and other teachers Happy Teachers Day!!</p>
+<p><strong>Ms Zhang</strong>
+<br>Thank you Ms Zhang for your patience, care, and dedication to my son.
+As a special student, he needs understanding and support, and we are deeply
+grateful for the time, effort, and kindness you’ve shown him. Your guidance
+has made a real difference in his learning and confidence, and we truly
+appreciate all that you do.</p>
+<p><strong>Ms Charmaine</strong>
+<br>We sincerely appreciate the support and encouragement Ms Charmaine given
+our son. As a special student, having a teacher who believes in him and
+understands his needs makes all the difference. Thank you for your patience,
+kindness, and for helping him grow with confidence.</p>
+<p><strong>Ms So</strong>
+<br>Thank you for being such a supportive and understanding teacher for our
+son. Your patience, encouragement, and dedication mean so much to us as
+parents. Knowing he has someone who truly cares about his growth and well-being
+gives us great comfort and gratitude.</p>
+<p><strong>All 2 Integrity Teachers</strong>
+<br>Happy Teacher’s Day to all of you! Thank you very much for your dedication
+and support in teaching my child. He transitioned from an international
+school in P1, having relocated from overseas, and is now in P2. He has
+never had any issues integrating into CPS since day one and has smoothly
+transitioned between schools and countries. You have prepared my child
+to be resilient, developing a great attitude towards learning, and showing
+perseverance and improvement in his academics. We are truly grateful for
+him being at CPS, where he genuinely feels happy and enjoys learning every
+single subject that the school offers, which is the most critical factor
+for us. This could not have been achieved without all the teachers of 2
+Integrity. As the saying goes, it takes a village to raise a child – this
+couldn’t be more accurate. I would also like to give a big shout-out to
+the form teachers of 2 Integrity, Miss Karen John and Mrs Joleen Teo. Thank
+you for supporting our child not just academically, but also in his overall
+well-being and character development, and for going the extra mile in your
+communication with us parents.</p>
+<p>Wishing you all a wonderful and restful Teacher’s Day. 💐</p>
+<p><strong>Mrs Han and All teachers </strong>
+<br>Thank you for all your hard work and dedication. We are grateful to have
+all of your presence in my son’s life! Thank you for being there for him
+for most parts of his days. Your dedication and effort plays a huge role
+in his learning. We appreciate deeply and thankful for all that you’ve
+done!</p>
+<p><strong>Mrs Ramesh</strong>
+<br>Always hear from my son when he's home how Mrs Ramesh tells them words
+of wisdom. I believe in these honing years, every word of wisdom stick
+with them through their lives, and I'm thankful to her for it!</p>
+<p><strong>Mr Alan</strong>
+<br>Happy Teacher’s Day!</p>
+<p>Thank you for being a teacher who combines both care and firmness with
+wisdom. Your dedication not only imparts knowledge but also nurtures character
+and heart. We deeply appreciate the way you guide, encourage, and inspire
+students to grow into their best selves.</p>
+<p><strong>Ms Rachel Ho</strong>
+<br>I am writing to express my sincere gratitude for the wonderful impact
+you've had on my son. He always comes home from your PE class smiling and
+full of stories about the games he played. Thank you for fostering such
+a positive, inclusive and active environment. Your passion for teaching
+and your dedication to your students' well-being is so appreciated. 🫶🏼</p>
+<p><strong>Cikgu Nur Muhammad </strong>
+<br>Thank you for your dedication in teaching the children. The way you make
+mother tongue lessons learning enjoyable has really sparked their interest
+and made them want to learn even more. It truly makes a huge difference,
+and I’m very grateful for the positive impact you’ve had on them. 🙏✨</p>
+<p><strong>Mr Seah Tiong Boon</strong>
+<br>Thank you for making your Math lessons fun &amp; enjoyable! Also thank
+you for your patience and care for the students!</p>
+<p><strong>Mrs Jasmine Han and Mrs Donica Goh</strong>
+</p>
+<p><strong>Mr Tiong Boon Seah </strong>
+</p>
+<p><strong>Mdm Toh &amp; Mdm Sujatha</strong>
+</p>
+<p><strong>Mr Joshua Goh </strong>
+</p>
+<p><strong>Ms Ramesh</strong>
+</p>
+<p><strong>Karen John </strong>
+</p>
+<p><strong>Joleen Teo</strong>
+</p>
+<p><strong>Grace Foo</strong>
+</p>
+<p><strong>Ms Ramesh</strong>
+</p>
+<p><strong>Teachers of P4 In</strong>
+</p>
+<p><strong>Mr Ying</strong>
+</p>
+<p><strong>Mr  Ameen</strong>
+</p>
+<p><strong>Ms Lau </strong>
+</p>
+<p><strong>Ms Yeo </strong>
+</p>
+<p><strong>Mr Jared Goh </strong>
+</p>
+<p><strong>Ms Sangeetha</strong>
+</p>
+<p><strong>Mrs Han and Mrs Goh</strong>
+</p>
+<p><strong>Mr Alan</strong>
+</p>
+<p><strong>Mrs Arun</strong>
+</p>
+<p><strong>Ms Lau Kai Jing </strong>
+</p>
+<p><strong>To all the teachers in P5 respect </strong>
+</p>
+<p><strong>To all the teachers in P6 Integrity </strong>
+</p>
+<p><strong>To all the teaching staff and non teaching staff of CPS</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
