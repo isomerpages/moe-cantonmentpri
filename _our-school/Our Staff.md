@@ -530,7 +530,7 @@ a WhatsApp chat with them.</p>
 <p>65119583</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc11e395f93b50019043aa9" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="https://form.gov.sg/68cb6c30879a3c62de3ef2e8" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
