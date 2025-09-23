@@ -4,6 +4,9 @@ permalink: /our-school/principal-s-message/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal Message/principalmessage.jpg">
+</div>
 <p>Stepping into Cantonment as the new principal has been both an exciting
 and humbling experience. Over the past month, I have had the privilege
 of witnessing the vibrant learning environment our students thrive in.
