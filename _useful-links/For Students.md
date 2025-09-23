@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h4>Home Based Learning</h4>
+<p>Schedule:
+<br>• Primary 3 &amp; 5: 25th &amp; 26th September (Thursday &amp; Friday)
+<br>• Primary 4: 29th &amp; 30th September (Monday &amp; Tuesday)</p>
+<p>Click on your class and follow the schedule and tasks assigned:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -64,7 +68,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>For technical support, such as SLS or MIMS password resets, click <a href="https://wa.me/6565119555" rel="noopener nofollow" target="_blank">here</a> to send
+a WhatsApp message.</p>
+<p>For assignment inquiries, please contact your subject teacher or form
+teacher.</p>
+<hr>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
