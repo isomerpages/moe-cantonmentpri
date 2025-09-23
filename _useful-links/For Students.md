@@ -26,6 +26,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHbx5H0-8KyIJZC5I6oZ59d3mRyKUf8xbtOzN9O-H7GMWK53DqkU9Yj_EugMHyH-jiptnZK9hbrQPj/pubhtml?gid=0&amp;single=true" rel="noopener nofollow" target="_blank">3 Care</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHbx5H0-8KyIJZC5I6oZ59d3mRyKUf8xbtOzN9O-H7GMWK53DqkU9Yj_EugMHyH-jiptnZK9hbrQPj/pubhtml?gid=469599096&amp;single=true" rel="noopener nofollow" target="_blank">3 Graciousness</a>
 </p>
 <p></p>
 </td>
