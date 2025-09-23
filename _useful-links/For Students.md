@@ -27,11 +27,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHbx5H0-8KyIJZC5I6oZ59d3mRyKUf8xbtOzN9O-H7GMWK53DqkU9Yj_EugMHyH-jiptnZK9hbrQPj/pubhtml?gid=0&amp;single=true" rel="noopener nofollow" target="_blank">3 Care</a>
 <br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHbx5H0-8KyIJZC5I6oZ59d3mRyKUf8xbtOzN9O-H7GMWK53DqkU9Yj_EugMHyH-jiptnZK9hbrQPj/pubhtml?gid=469599096&amp;single=true" rel="noopener nofollow" target="_blank">3 Graciousness</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHbx5H0-8KyIJZC5I6oZ59d3mRyKUf8xbtOzN9O-H7GMWK53DqkU9Yj_EugMHyH-jiptnZK9hbrQPj/pubhtml?gid=1775855043&amp;single=true" rel="noopener nofollow" target="_blank">3 Integrity</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHbx5H0-8KyIJZC5I6oZ59d3mRyKUf8xbtOzN9O-H7GMWK53DqkU9Yj_EugMHyH-jiptnZK9hbrQPj/pubhtml?gid=1040134881&amp;single=true" rel="noopener nofollow" target="_blank">3 Resilience</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHbx5H0-8KyIJZC5I6oZ59d3mRyKUf8xbtOzN9O-H7GMWK53DqkU9Yj_EugMHyH-jiptnZK9hbrQPj/pubhtml?gid=1680180060&amp;single=true" rel="noopener nofollow" target="_blank">3 Respect</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSx6mmK6nG64pKhmy2Y-R3C3ng1tWAxkExb4mxc7_r-iPNZGM1qBmo-A7o53fynhFtUVlCpJ9SS7aln/pubhtml?gid=0&amp;single=true" rel="noopener nofollow" target="_blank">4 Care</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSx6mmK6nG64pKhmy2Y-R3C3ng1tWAxkExb4mxc7_r-iPNZGM1qBmo-A7o53fynhFtUVlCpJ9SS7aln/pubhtml?gid=469599096&amp;single=true" rel="noopener nofollow" target="_blank">4 Graciousness</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSx6mmK6nG64pKhmy2Y-R3C3ng1tWAxkExb4mxc7_r-iPNZGM1qBmo-A7o53fynhFtUVlCpJ9SS7aln/pubhtml?gid=1775855043&amp;single=true" rel="noopener nofollow" target="_blank">4 Integrity</a>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
