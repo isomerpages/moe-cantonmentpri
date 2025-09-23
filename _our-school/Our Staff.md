@@ -68,9 +68,8 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Head of Departments and Subject Heads</h5>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -90,9 +89,6 @@ a WhatsApp chat with them.</p>
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>WhatsApp</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -106,10 +102,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc1301bb9014c0012b8c7ac" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119559" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -127,10 +119,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/63aaf2f7acde1200127ffe63" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119587" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -144,10 +132,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/658c3e0045a70b00114a34b8" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119553" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -165,10 +149,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/658c44223570490011a57b55" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119564" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -182,10 +162,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5db78593506fd6001264ff1f" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119588" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -203,10 +179,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc12f9c5bec6f0012034925" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119585" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -220,10 +192,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/61c9eb126c60da00127bfaac" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119644" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -241,10 +209,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc129795f93b50019043ed1" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6563036297" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -258,10 +222,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/61c9ebb4f46e8700121fb164" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119562" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -279,10 +239,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc11f105f93b50019043af8" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119586" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -296,10 +252,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc11eb01b03c20019122a8b" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999237" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -317,9 +269,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc11d231b03c200191229f0" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -333,10 +282,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc12cb31b03c2001912301f" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119643" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -354,15 +299,8 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc126385f93b50019043da0" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119561" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -379,9 +317,8 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Lead and Senior Teachers</h5>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -401,9 +338,6 @@ a WhatsApp chat with them.</p>
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>WA</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -417,10 +351,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc261f0c321c6001240d3c0" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999419" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -438,10 +368,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5e0583cd8967b800114c11a7" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999411" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -455,10 +381,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc12ddd5bec6f001203485f" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999241" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -476,10 +398,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc125051b03c20019122cfa" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999422" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -493,10 +411,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc12d155f93b5001904400d" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999410" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -514,10 +428,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc21e4cc321c6001240b7fe" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119571" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -531,10 +441,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/68cb6c30879a3c62de3ef2e8" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119583" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -552,10 +458,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc2222511ecd70012ef90ed" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119566" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -571,15 +473,8 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc1145f1b03c2001912266e" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999426" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -596,9 +491,8 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Primary 1</h5>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -618,9 +512,6 @@ a WhatsApp chat with them.</p>
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>WA</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -636,9 +527,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/6773c23a16455fc8056ac355" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -652,10 +540,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc12c095f93b50019043fb2" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999407" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -673,9 +557,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/6773c1d3c5db5c49e318779e" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -689,10 +570,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/658c3e0045a70b00114a34b8" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119553" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -710,10 +587,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc115645f93b50019043792" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999403" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -727,10 +600,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc1252c5f93b50019043d41" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999414" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -748,10 +617,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc11e7f1b03c20019122a73" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119582" rel="noopener nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -765,10 +630,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc118535f93b500190438be" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119577" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -786,15 +647,8 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc125051b03c20019122cfa" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999422" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -811,9 +665,8 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Primary 2</h5>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -833,9 +686,6 @@ a WhatsApp chat with them.</p>
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>WA</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -849,10 +699,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5f9f6a974e781300114a537a" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999245" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -870,10 +716,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc11eb01b03c20019122a8b" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999237" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -887,10 +729,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc12e3a5bec6f0012034894" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999233" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -908,10 +746,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc11de15f93b50019043a85" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999232" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -925,10 +759,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5e9d32fe31bb1d0011180355" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999236" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -946,10 +776,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc12c811b03c20019123004" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999230" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -963,10 +789,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/61c9ee4347f7c60013119d0a" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999238" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -984,10 +806,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5e05835ddf378700118edee0" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119569" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1001,10 +819,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/63f566df1e6f560012e39519" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999423" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1022,10 +836,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/61fb200c07aa770012cc998c" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6563036298" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1041,14 +851,8 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc11d231b03c200191229f0" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1065,9 +869,8 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Primary 3</h5>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -1087,9 +890,6 @@ a WhatsApp chat with them.</p>
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>WA</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1103,10 +903,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc1145f1b03c2001912266e" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999426" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1124,10 +920,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/630d951329f49e00134a4f40" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6563036290" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1141,10 +933,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/61c9ea4847f7c60013117d25" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999420" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1162,10 +950,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc115a75f93b500190437b2" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999415" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1179,10 +963,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc125625f93b50019043d54" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999424" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1200,9 +980,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5e05880edf378700118edf96" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1216,10 +993,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc2214711ecd70012ef9086" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119573" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1237,10 +1010,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc1240c5f93b50019043cc5" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999401" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1254,10 +1023,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5db78593506fd6001264ff1f" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119588" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1275,10 +1040,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc115e95f93b500190437c3" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999243" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1294,15 +1055,8 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/666a7667575c642ae76b3114" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999418" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1319,9 +1073,8 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Primary 4</h5>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -1341,9 +1094,6 @@ a WhatsApp chat with them.</p>
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>WA</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1357,10 +1107,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/61cd69393cff1000121db933" rel="noopener nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6563036295" rel="noopener nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1378,10 +1124,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc12d155f93b5001904400d" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999410" rel="noopener nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1395,10 +1137,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/61c9ef7b2e385400128aed55" rel="noopener nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119579" rel="noopener nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1416,10 +1154,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/63aaf3a42ffb140011f3b460" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119584" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1435,9 +1169,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/658c42e0745e840011a41350" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1451,10 +1182,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc12cb31b03c2001912301f" rel="noopener nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119643" rel="noopener nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1472,10 +1199,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/61c9ed563cff100012cef5e8" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119570" rel="noopener nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1489,10 +1212,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc129795f93b50019043ed1" rel="noopener nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6563036297" rel="noopener nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1510,10 +1229,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc128b61b03c20019122e80" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999405" rel="noopener nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1527,10 +1242,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/63aaf20bacde1200127ff446" rel="noopener nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999234" rel="noopener nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1548,10 +1259,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc12b7a1b03c20019122f9b" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999406" rel="noopener nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1565,10 +1272,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc2209ec321c6001240b922" rel="noopener nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999408" rel="noopener nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1586,15 +1289,8 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/658c44223570490011a57b55" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119564" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1611,9 +1307,8 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Primary 5</h5>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -1633,9 +1328,6 @@ a WhatsApp chat with them.</p>
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>WA</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1649,10 +1341,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/61c9ec3a6c60da00127c039b" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999409" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1670,10 +1358,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc261f0c321c6001240d3c0" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999419" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1687,10 +1371,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5e42c22f228e6f0011eaede8" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119581" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1708,10 +1388,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5ed48b24f2ec2d00118d4083" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999248" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1725,10 +1401,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5e0587cddf378700118edf8b" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999249" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1746,10 +1418,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/61c9ebb4f46e8700121fb164" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119562" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1763,10 +1431,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc11d611b03c20019122a14" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6563036292" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1784,10 +1448,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc12f9c5bec6f0012034925" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119585" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1801,10 +1461,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/607d4ae2145bfa001228cbba" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999429" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1822,10 +1478,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc130995bec6f0012034970" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999421" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1839,10 +1491,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/60deacf6967a9000129466b5" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999414" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1860,10 +1508,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc11f105f93b50019043af8" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119586" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1879,15 +1523,8 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/658c44fd8bddc300129a0b36" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119644" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1904,9 +1541,8 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Primary 6</h5>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -1926,9 +1562,6 @@ a WhatsApp chat with them.</p>
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>WA</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1942,10 +1575,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc1301bb9014c0012b8c7ac" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119559" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -1963,10 +1592,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc126385f93b50019043da0" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119561" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1980,10 +1605,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5e0583cd8967b800114c11a7" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999411" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -2001,10 +1622,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc2222511ecd70012ef90ed" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119566" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -2018,10 +1635,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc12ce07dc06400122afa1c" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999246" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -2039,10 +1652,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/63aaf2f7acde1200127ffe63" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119587" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -2056,10 +1665,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc115231b03c200191226b6" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999231" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -2077,10 +1682,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/61c9eb126c60da00127bfaac" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119644" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -2094,10 +1695,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc12ddd5bec6f001203485f" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999241" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -2115,10 +1712,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc2210811ecd70012ef9069" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999244" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -2132,10 +1725,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc21e4cc321c6001240b7fe" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119571" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -2153,15 +1742,8 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc221dfc321c6001240b9a4" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6565119568" rel="noopener noreferrer nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -2292,9 +1874,8 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Other Teaching Staff</h5>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -2310,9 +1891,6 @@ a WhatsApp chat with them.</p>
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>WA</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -2325,9 +1903,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/630d95fdf87eed0012c9a5f2" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -2338,10 +1913,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc22b7511ecd70012ef94be" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999425" rel="noopener noreferrer nofollow" target="_blank">WA</a>
 </p>
 </td>
 </tr>
@@ -2356,10 +1927,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/6773c3564c0f1aec6f3dc804" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://wa.me/6564999402" rel="noopener nofollow" target="_blank">WA</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -2371,14 +1938,8 @@ a WhatsApp chat with them.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -2426,21 +1987,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5ff659754b11630012b4c936" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Khairul Nizam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>65119553</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/66ed0c863f815c020649b669" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
@@ -2544,20 +2090,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Boon Tiong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
