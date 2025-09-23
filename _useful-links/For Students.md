@@ -4,7 +4,7 @@ permalink: /useful-links/for-students/
 description: ""
 variant: tiptap
 ---
-<h4>Home Based Learning</h4>
+<h4>Home-Based Learning 2025</h4>
 <p>Schedule:
 <br>• Primary 3 &amp; 5: 25th &amp; 26th September (Thursday &amp; Friday)
 <br>• Primary 4: 29th &amp; 30th September (Monday &amp; Tuesday)</p>
