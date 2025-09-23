@@ -5,8 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h4>Home Based Learning</h4>
-<p>• Primary 3 &amp; 5: 25th &amp; 26th September (Thursday &amp; Friday)</p>
-<p>• Primary 4: 29th &amp; 30th September (Monday &amp; Tuesday)</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -29,6 +27,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHbx5H0-8KyIJZC5I6oZ59d3mRyKUf8xbtOzN9O-H7GMWK53DqkU9Yj_EugMHyH-jiptnZK9hbrQPj/pubhtml?gid=0&amp;single=true" rel="noopener nofollow" target="_blank">3 Care</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
