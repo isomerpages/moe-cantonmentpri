@@ -4,6 +4,75 @@ permalink: /useful-links/for-students/
 description: ""
 variant: tiptap
 ---
+<h4>Home Based Learning</h4>
+<p>Schedule:
+<br>• Primary 3 &amp; 5: 25th &amp; 26th September (Thursday &amp; Friday)
+<br>• Primary 4: 29th &amp; 30th September (Monday &amp; Tuesday)</p>
+<p>Click on your class and follow the schedule and tasks assigned:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Primary 3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Primary 4</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Primary 5</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHbx5H0-8KyIJZC5I6oZ59d3mRyKUf8xbtOzN9O-H7GMWK53DqkU9Yj_EugMHyH-jiptnZK9hbrQPj/pubhtml?gid=0&amp;single=true" rel="noopener nofollow" target="_blank">3 Care</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHbx5H0-8KyIJZC5I6oZ59d3mRyKUf8xbtOzN9O-H7GMWK53DqkU9Yj_EugMHyH-jiptnZK9hbrQPj/pubhtml?gid=469599096&amp;single=true" rel="noopener nofollow" target="_blank">3 Graciousness</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHbx5H0-8KyIJZC5I6oZ59d3mRyKUf8xbtOzN9O-H7GMWK53DqkU9Yj_EugMHyH-jiptnZK9hbrQPj/pubhtml?gid=1775855043&amp;single=true" rel="noopener nofollow" target="_blank">3 Integrity</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHbx5H0-8KyIJZC5I6oZ59d3mRyKUf8xbtOzN9O-H7GMWK53DqkU9Yj_EugMHyH-jiptnZK9hbrQPj/pubhtml?gid=1040134881&amp;single=true" rel="noopener nofollow" target="_blank">3 Resilience</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHbx5H0-8KyIJZC5I6oZ59d3mRyKUf8xbtOzN9O-H7GMWK53DqkU9Yj_EugMHyH-jiptnZK9hbrQPj/pubhtml?gid=1680180060&amp;single=true" rel="noopener nofollow" target="_blank">3 Respect</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSx6mmK6nG64pKhmy2Y-R3C3ng1tWAxkExb4mxc7_r-iPNZGM1qBmo-A7o53fynhFtUVlCpJ9SS7aln/pubhtml?gid=0&amp;single=true" rel="noopener nofollow" target="_blank">4 Care</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSx6mmK6nG64pKhmy2Y-R3C3ng1tWAxkExb4mxc7_r-iPNZGM1qBmo-A7o53fynhFtUVlCpJ9SS7aln/pubhtml?gid=469599096&amp;single=true" rel="noopener nofollow" target="_blank">4 Graciousness</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSx6mmK6nG64pKhmy2Y-R3C3ng1tWAxkExb4mxc7_r-iPNZGM1qBmo-A7o53fynhFtUVlCpJ9SS7aln/pubhtml?gid=1775855043&amp;single=true" rel="noopener nofollow" target="_blank">4 Integrity</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSx6mmK6nG64pKhmy2Y-R3C3ng1tWAxkExb4mxc7_r-iPNZGM1qBmo-A7o53fynhFtUVlCpJ9SS7aln/pubhtml?gid=1040134881&amp;single=true" rel="noopener nofollow" target="_blank">4 Resilience</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSx6mmK6nG64pKhmy2Y-R3C3ng1tWAxkExb4mxc7_r-iPNZGM1qBmo-A7o53fynhFtUVlCpJ9SS7aln/pubhtml?gid=1680180060&amp;single=true" rel="noopener nofollow" target="_blank">4 Respect</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSx6mmK6nG64pKhmy2Y-R3C3ng1tWAxkExb4mxc7_r-iPNZGM1qBmo-A7o53fynhFtUVlCpJ9SS7aln/pubhtml?gid=389070328&amp;single=true" rel="noopener nofollow" target="_blank">4 Harmony</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQUTW7iBoZqru6MYgnD50vSc-q1kt6QAI3S9m8CxmAONidwWiIU7d4B_99qwByOHOlmPlxNSRssKRa/pubhtml?gid=0&amp;single=true" rel="noopener nofollow" target="_blank">5 Care</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQUTW7iBoZqru6MYgnD50vSc-q1kt6QAI3S9m8CxmAONidwWiIU7d4B_99qwByOHOlmPlxNSRssKRa/pubhtml?gid=469599096&amp;single=true" rel="noopener nofollow" target="_blank">5 Graciousness</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQUTW7iBoZqru6MYgnD50vSc-q1kt6QAI3S9m8CxmAONidwWiIU7d4B_99qwByOHOlmPlxNSRssKRa/pubhtml?gid=1775855043&amp;single=true" rel="noopener nofollow" target="_blank">5 Integrity</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQUTW7iBoZqru6MYgnD50vSc-q1kt6QAI3S9m8CxmAONidwWiIU7d4B_99qwByOHOlmPlxNSRssKRa/pubhtml?gid=1040134881&amp;single=true" rel="noopener nofollow" target="_blank">5 Resilience</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQUTW7iBoZqru6MYgnD50vSc-q1kt6QAI3S9m8CxmAONidwWiIU7d4B_99qwByOHOlmPlxNSRssKRa/pubhtml?gid=1680180060&amp;single=true" rel="noopener nofollow" target="_blank">5 Respect</a>
+<br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQUTW7iBoZqru6MYgnD50vSc-q1kt6QAI3S9m8CxmAONidwWiIU7d4B_99qwByOHOlmPlxNSRssKRa/pubhtml?gid=389070328&amp;single=true" rel="noopener nofollow" target="_blank">5 Harmony</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>For technical support, such as SLS or MIMS password resets, click <a href="https://wa.me/6565119555" rel="noopener nofollow" target="_blank">here</a> to send
+a WhatsApp message.</p>
+<p>For assignment inquiries, please contact your subject teacher or form
+teacher.</p>
+<hr>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
