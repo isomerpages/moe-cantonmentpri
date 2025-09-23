@@ -4,6 +4,53 @@ permalink: /useful-links/for-students/
 description: ""
 variant: tiptap
 ---
+<h4>Home Based Learning</h4>
+<p>• Primary 3 &amp; 5: 25th &amp; 26th September (Thursday &amp; Friday)</p>
+<p>• Primary 4: 29th &amp; 30th September (Monday &amp; Tuesday)</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Primary 3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Primary 4</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Primary 5</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHbx5H0-8KyIJZC5I6oZ59d3mRyKUf8xbtOzN9O-H7GMWK53DqkU9Yj_EugMHyH-jiptnZK9hbrQPj/pubhtml?gid=0&amp;single=true" rel="noopener nofollow" target="_blank">3 Care</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
