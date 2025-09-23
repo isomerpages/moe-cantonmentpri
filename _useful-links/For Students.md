@@ -6,8 +6,8 @@ variant: tiptap
 ---
 <h4>Home-Based Learning 2025</h4>
 <p>Schedule:
-<br>• Primary 3 &amp; 5: 25th &amp; 26th September (Thursday &amp; Friday)
-<br>• Primary 4: 29th &amp; 30th September (Monday &amp; Tuesday)</p>
+<br>• Primary 3 &amp; 5: 25 &amp; 26 September (Thursday &amp; Friday)
+<br>• Primary 4: 29 &amp; 30 September (Monday &amp; Tuesday)</p>
 <p>Click on your class and follow the schedule and tasks assigned:</p>
 <table style="minWidth: 75px">
 <colgroup>
