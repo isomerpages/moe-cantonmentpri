@@ -9,8 +9,11 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Finance</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Apply for eGIRO: <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
-<br>Give authorisation for Edusave: <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/5be24a1bb3f842000fdc4e59</a>
+<p>To pay for school bill via GIRO
+<br>Apply for eGIRO: <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
+<br>
+<br>Using <a href="https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds" rel="noopener nofollow" target="_blank">Edusave for school</a>
+<br>Provide authorisation here: <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/5be24a1bb3f842000fdc4e59</a>
 </p>
 </div>
 </details>
@@ -35,8 +38,8 @@ and form teachers will pass it to your child.</p>
 <details class="isomer-details">
 <summary>Books</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Buy books from vendor's website. Choose between home delivery (paid) or
-self collect from school.</p>
+<p>Order books from vendor's website and choose either home delivery (paid)
+or self-collect (free) from school.</p>
 <p><a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">http://www.pacificbookstores.com</a>
 </p>
 </div>
@@ -44,7 +47,8 @@ self collect from school.</p>
 <details class="isomer-details">
 <summary>School Uniform</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Visit the school uniform vendor's office and buy in person</p>
+<p>Visit the school uniform vendor's office to buy in person (uniform is
+not sold in school)</p>
 <p><a href="https://www.schooluniforms.sg/cantonment-primary-school" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/cantonment-primary-school</a>
 </p>
 </div>
@@ -59,6 +63,7 @@ self collect from school.</p>
 <details class="isomer-details">
 <summary>Student Data Form</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Update parent particulars</p>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
 </p>
 </div>
@@ -69,11 +74,11 @@ self collect from school.</p>
 <p>Please find the <a href="https://www.cantonmentpri.moe.edu.sg/useful-links/financial-assistance/" rel="noopener nofollow" target="_blank">eligibility and benefits</a> criteria
 <br>
 <br>ComCare recipients are auto granted MOE FAS and you do not need to apply.
-School will update you with a letter.</p>
+School will update you once you are approved for MOE FAS</p>
 <p></p>
 <p>If you are not on ComCare, please apply <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a>
 <br>
-<br>For home broadband and laptop/tablet, please read <a href="https://www.cantonmentpri.moe.edu.sg/useful-links/financial-assistance/" rel="noopener nofollow" target="_blank">DigitalAccess@Home</a> and
+<br>For home broadband and laptop/tablet, please find the details here <a href="https://www.cantonmentpri.moe.edu.sg/useful-links/financial-assistance/" rel="noopener nofollow" target="_blank">DigitalAccess@Home</a> to
 apply.</p>
 </div>
 </details>
@@ -90,7 +95,7 @@ apply.</p>
 <details class="isomer-details">
 <summary>Optional - Apply for School Bus</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/Services/Bus.pdf" rel="noopener nofollow" target="_blank">Bus Application Form</a>
+<p><a href="https://www.cantonmentpri.moe.edu.sg/our-school/school-services/" rel="noopener nofollow" target="_blank">Bus Service details and application form</a>
 </p>
 </div>
 </details>
