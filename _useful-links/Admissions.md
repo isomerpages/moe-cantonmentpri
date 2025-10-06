@@ -9,8 +9,7 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Finance</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br>To pay for school bill via GIRO
+<p>To pay for school bill via GIRO
 <br>Apply for eGIRO: <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
 <br>
 <br>Using <a href="https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds" rel="noopener nofollow" target="_blank">Edusave for school</a>
@@ -40,7 +39,7 @@ and form teachers will pass it to your child.</p>
 <summary>Books</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Order books from vendor's website and choose either home delivery (paid)
-or self collect (free) from school.</p>
+or self-collect (free) from school.</p>
 <p><a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">http://www.pacificbookstores.com</a>
 </p>
 </div>
@@ -64,7 +63,7 @@ not sold in school)</p>
 <details class="isomer-details">
 <summary>Student Data Form</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Update parent particulars from January each year.</p>
+<p>Update parent particulars</p>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
 </p>
 </div>
@@ -79,7 +78,7 @@ School will update you with a letter.</p>
 <p></p>
 <p>If you are not on ComCare, please apply <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a>
 <br>
-<br>For home broadband and laptop/tablet, please find the details here <a href="https://www.cantonmentpri.moe.edu.sg/useful-links/financial-assistance/" rel="noopener nofollow" target="_blank">DigitalAccess@Home</a> and
+<br>For home broadband and laptop/tablet, please find the details here <a href="https://www.cantonmentpri.moe.edu.sg/useful-links/financial-assistance/" rel="noopener nofollow" target="_blank">DigitalAccess@Home</a> to
 apply.</p>
 </div>
 </details>
@@ -96,7 +95,7 @@ apply.</p>
 <details class="isomer-details">
 <summary>Optional - Apply for School Bus</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/Services/Bus.pdf" rel="noopener nofollow" target="_blank">Bus Application Form</a>
+<p><a href="https://www.cantonmentpri.moe.edu.sg/our-school/school-services/" rel="noopener nofollow" target="_blank">Bus Service details and application form</a>
 </p>
 </div>
 </details>
