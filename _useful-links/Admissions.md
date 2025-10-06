@@ -74,7 +74,7 @@ not sold in school)</p>
 <p>Please find the <a href="https://www.cantonmentpri.moe.edu.sg/useful-links/financial-assistance/" rel="noopener nofollow" target="_blank">eligibility and benefits</a> criteria
 <br>
 <br>ComCare recipients are auto granted MOE FAS and you do not need to apply.
-School will update you with a letter.</p>
+School will update you once you are approved for MOE FAS</p>
 <p></p>
 <p>If you are not on ComCare, please apply <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a>
 <br>
