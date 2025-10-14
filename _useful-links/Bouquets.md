@@ -4,6 +4,21 @@ permalink: /useful-links/bouquets/
 variant: tiptap
 description: ""
 ---
+<p>Let’s recognise and nominate our dedicated Teachers at Cantonment!
+<br>
+<br>The Caring Teacher Awards (CTA) celebrate educators who exemplify care
+and compassion in their teaching, going beyond the call of duty to nurture
+the holistic development of their students. These dedicated teachers play
+a vital role in shaping confident, independent, and resilient learners
+who contribute meaningfully to our nation.&nbsp;</p>
+<p>Anyone can nominate our teachers, including parents, students, fellow
+teachers and school partners.</p>
+<p>Nominate now at&nbsp;<strong><a href="https://www.cta.nie.edu.sg/?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExOVQza1BjODhqUHZaNzh0RAEeHSLnKwhs0FNAVHfAVD4g4K3coqQk06inzh7KfyZF505wC9fFfhFBSx7eBm8_aem_Gzl-Xuddr4qLNVLTGSfEkQ" rel="noopener noreferrer nofollow" target="_blank"><u>www.cta.nie.edu.sg</u></a></strong>
+<br>Closing date is 31 December 2025</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Caring_Teacher_Awards_2026.png">
+</div>
+<hr>
 <p>We believe that recognising the hard work and dedication of our teachers
 and non-teaching staff is essential. This platform is an opportunity for
 you to share a positive experience, highlight a teacher's impact, or simply
@@ -12,6 +27,7 @@ greatly appreciated. Click on the image below to submit your bouquet.</p>
 <a class="isomer-image-wrapper" href="https://forms.moe.edu.sg/forms/oa0Edd">
 <img style="width: 100%" height="auto" width="100%" alt="https://forms.moe.edu.sg/forms/oa0Edd" src="/images/Bouquets.jpg">
 </a>
+<p></p>
 <p><strong>Mr Mizi, Mrs Rachel Ho, Mr Ameen, Mr Wong, School Counsellor Ms Ooi and Principal Ms Foo</strong>
 <br>Happy Teacher’s Day! 💐</p>
 <p>I’m so grateful to Mr Mizi, Mrs Rachel Ho, Mr Ameen, Mr Wong, the counsellor,
