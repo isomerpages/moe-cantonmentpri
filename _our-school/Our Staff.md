@@ -667,11 +667,11 @@ a WhatsApp chat with them.</p>
 <p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Boo Choon Kwang</p>
+<p><a href="https://form.gov.sg/68dca18039c318a08f65d531" rel="noopener nofollow" target="_blank">Mr Boo Choon Kwang</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/63f566df1e6f560012e39519" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1359,11 +1359,11 @@ a WhatsApp chat with them.</p>
 <p>6 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yap Pui Mei</p>
+<p><a href="https://form.gov.sg/68dc9dfbbc5263274afa6686" rel="noopener nofollow" target="_blank">Mrs Yap Pui Mei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc12ddd5bec6f001203485f" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
