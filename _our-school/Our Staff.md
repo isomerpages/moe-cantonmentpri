@@ -175,11 +175,11 @@ a WhatsApp chat with them.</p>
 <p>LH Mother Tongue Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nur Muhammad</p>
+<p><a href="https://form.gov.sg/68dc9b6afb63edc4dca55b08" rel="noopener nofollow" target="_blank">Mr Nur Muhammad</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc129795f93b50019043ed1" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
