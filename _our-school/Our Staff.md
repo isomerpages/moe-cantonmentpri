@@ -608,7 +608,8 @@ a WhatsApp chat with them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Khloe Goh</p>
+<p><a href="https://form.gov.sg/68db6f23fb63edc4dc7614ea" rel="noopener nofollow" target="_blank">Ms Khloe Goh</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dc11de15f93b50019043a85" rel="noopener noreferrer nofollow" target="_blank">Email</a>
