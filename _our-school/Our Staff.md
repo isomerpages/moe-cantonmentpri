@@ -115,11 +115,11 @@ a WhatsApp chat with them.</p>
 <p>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Samantha Kong</p>
+<p><a href="https://form.gov.sg/68db633914d6f04ff8f7c210" rel="noopener nofollow" target="_blank">Mrs Samantha Kong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/658c3e0045a70b00114a34b8" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -187,11 +187,11 @@ a WhatsApp chat with them.</p>
 <p>LH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Guat Hwa</p>
+<p><a href="https://form.gov.sg/68e5dac04e938aed62280381" rel="noopener nofollow" target="_blank">Mrs Tan Guat Hwa</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/61c9ebb4f46e8700121fb164" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -315,11 +315,11 @@ a WhatsApp chat with them.</p>
 <p>ST English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yap Pui Mei</p>
+<p><a href="https://form.gov.sg/68dc9dfbbc5263274afa6686" rel="noopener nofollow" target="_blank">Mrs Yap Pui Mei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc12ddd5bec6f001203485f" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -911,11 +911,11 @@ a WhatsApp chat with them.</p>
 <p>4 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wu Jiayue</p>
+<p><a href="https://form.gov.sg/68dc9e96227cb4baf1aaf896" rel="noopener nofollow" target="_blank">Ms Wu Jiayue</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/61c9ef7b2e385400128aed55" rel="noopener nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -971,11 +971,11 @@ a WhatsApp chat with them.</p>
 <p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nur Muhammad</p>
+<p><a href="https://form.gov.sg/68dc9b6afb63edc4dca55b08" rel="noopener nofollow" target="_blank">Mr Nur Muhammad</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc129795f93b50019043ed1" rel="noopener nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1007,11 +1007,11 @@ a WhatsApp chat with them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Seah Tiong Boon</p>
+<p><a href="https://form.gov.sg/68db8c176de8f77e88b00a9c" rel="noopener nofollow" target="_blank">Mr Seah Tiong Boon</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc12b7a1b03c20019122f9b" rel="noopener nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
