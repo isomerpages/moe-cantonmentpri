@@ -1560,9 +1560,8 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Executive and Administrative Staff</h5>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -1574,9 +1573,6 @@ a WhatsApp chat with them.</p>
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1585,9 +1581,6 @@ a WhatsApp chat with them.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/68e8af59bf0fe53f603f31be" rel="noopener nofollow" target="_blank">Mr Mark Tham</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1598,9 +1591,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/68db5020227cb4baf17371c8" rel="noopener nofollow" target="_blank">Mdm Liza</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1608,9 +1598,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jesmin Fung</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1621,9 +1608,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc226b511ecd70012ef92ed" rel="noopener noreferrer nofollow" target="_blank">Mrs Mala Gunassaharan</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1633,9 +1617,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/65095285356d470012fbc626" rel="noopener noreferrer nofollow" target="_blank">Mdm K Rajeswary</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1643,9 +1624,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs S. Priemal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1656,9 +1634,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc227cb11ecd70012ef9354" rel="noopener noreferrer nofollow" target="_blank">Mr Puvan</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1668,9 +1643,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/6630813b799dd9c72071e735" rel="noopener noreferrer nofollow" target="_blank">Mr Kelvin Lee</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1678,9 +1650,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Angeline Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1690,9 +1659,6 @@ a WhatsApp chat with them.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Fauziah</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1700,9 +1666,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Cheah Khuan Onn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1713,9 +1676,6 @@ a WhatsApp chat with them.</p>
 <p><a href="https://form.gov.sg/5dc228ccc321c6001240bd52" rel="noopener noreferrer nofollow" target="_blank">Ms Nurul Kamilah</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1723,9 +1683,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Edzhan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1735,9 +1692,6 @@ a WhatsApp chat with them.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Haneef</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1745,9 +1699,6 @@ a WhatsApp chat with them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rafidah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
