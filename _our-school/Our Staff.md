@@ -363,11 +363,11 @@ a WhatsApp chat with them.</p>
 <p>ST Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jocelyn Lee</p>
+<p><a href="https://form.gov.sg/68cb6c30879a3c62de3ef2e8" rel="noopener nofollow" target="_blank">Mrs Jocelyn Lee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68cb6c30879a3c62de3ef2e8" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
