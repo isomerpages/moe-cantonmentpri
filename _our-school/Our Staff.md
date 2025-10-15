@@ -351,11 +351,11 @@ a WhatsApp chat with them.</p>
 <p>ST Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Wan Jo</p>
+<p><a href="https://form.gov.sg/5dc21e4cc321c6001240b7fe" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Wan Jo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc21e4cc321c6001240b7fe" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1383,11 +1383,11 @@ a WhatsApp chat with them.</p>
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Wan Jo</p>
+<p><a href="https://form.gov.sg/5dc21e4cc321c6001240b7fe" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Wan Jo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc21e4cc321c6001240b7fe" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1487,11 +1487,11 @@ a WhatsApp chat with them.</p>
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jane</p>
+<p><a href="https://form.gov.sg/68eeea71ca668f0e66c02654" rel="noopener nofollow" target="_blank">Ms Jane Chong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/658c4bc7a1075d0011cfc1b2" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1508,9 +1508,8 @@ a WhatsApp chat with them.</p>
 </tbody>
 </table>
 <h5>Other Teaching Staff</h5>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -1518,41 +1517,25 @@ a WhatsApp chat with them.</p>
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Eng Guan</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/630d95fdf87eed0012c9a5f2" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="https://form.gov.sg/5dc22b7511ecd70012ef94be" rel="noopener noreferrer nofollow" target="_blank">Ms Sim Bee Hoon</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sim Bee Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc22b7511ecd70012ef94be" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="https://form.gov.sg/68dcac49359a5e4712ccb2d2" rel="noopener nofollow" target="_blank">Ms Cecilia Koh</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Cecilia Bok</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/6773c3564c0f1aec6f3dc804" rel="noopener nofollow" target="_blank">Email</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
