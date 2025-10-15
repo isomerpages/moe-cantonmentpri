@@ -375,11 +375,11 @@ a WhatsApp chat with them.</p>
 <p>ST Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jerome Chong&nbsp;</p>
+<p><a href="https://form.gov.sg/68ddf0d98aaf6392812af245" rel="noopener nofollow" target="_blank">Mr Jerome Chong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc2222511ecd70012ef90ed" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1299,11 +1299,11 @@ a WhatsApp chat with them.</p>
 <p>6 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jerome Chong</p>
+<p><a href="https://form.gov.sg/68ddf0d98aaf6392812af245" rel="noopener nofollow" target="_blank">Mr Jerome Chong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc2222511ecd70012ef90ed" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
