@@ -516,11 +516,11 @@ a WhatsApp chat with them.</p>
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jasmin Han</p>
+<p><a href="https://form.gov.sg/68ddd1a4488907121617556f" rel="noopener nofollow" target="_blank">Mrs Jasmin Han</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc118535f93b500190438be" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -936,11 +936,11 @@ a WhatsApp chat with them.</p>
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mak</p>
+<p><a href="https://form.gov.sg/68db8ce52a540b2f0f9f0987" rel="noopener nofollow" target="_blank">Mdm Mak MH</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/658c42e0745e840011a41350" rel="noopener nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
