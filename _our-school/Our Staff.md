@@ -1439,11 +1439,11 @@ a WhatsApp chat with them.</p>
 <p>Senior School&nbsp;Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ooi Huishan</p>
+<p><a href="https://form.gov.sg/68f200caf7d3cdc649e3cd93" rel="noopener nofollow" target="_blank">Ms Ooi Huishan Rowena</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc2237811ecd70012ef9180" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
