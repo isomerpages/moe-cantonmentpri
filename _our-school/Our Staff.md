@@ -749,11 +749,11 @@ a WhatsApp chat with them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://form.gov.sg/630d951329f49e00134a4f40" rel="noopener nofollow" target="_blank">Mr Albert Wong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/630d951329f49e00134a4f40" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -761,11 +761,11 @@ a WhatsApp chat with them.</p>
 <p>3 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Joy Loke</p>
+<p><a href="https://form.gov.sg/68dc71ef6de8f77e88c759a8" rel="noopener nofollow" target="_blank">Mrs Joy Loke</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc115a75f93b500190437b2" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -809,11 +809,11 @@ a WhatsApp chat with them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yvonne Koh</p>
+<p><a href="https://form.gov.sg/5dc1240c5f93b50019043cc5" rel="noopener nofollow" target="_blank">Ms Yvonne Koh</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc1240c5f93b50019043cc5" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
