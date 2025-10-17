@@ -889,11 +889,11 @@ a WhatsApp chat with them.</p>
 <p>4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Jing Yi</p>
+<p><a href="https://form.gov.sg/68dcdae923b497ce282deab0" rel="noopener nofollow" target="_blank">Ms Chua Jing Yi</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/61cd69393cff1000121db933" rel="noopener nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1453,11 +1453,11 @@ a WhatsApp chat with them.</p>
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Diana Ho</p>
+<p><a href="https://form.gov.sg/68db68fe6de8f77e88a4954b" rel="noopener nofollow" target="_blank">Ms Diana Ho</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc223ec11ecd70012ef91b4" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
