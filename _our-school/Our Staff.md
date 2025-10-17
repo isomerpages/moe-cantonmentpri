@@ -91,11 +91,11 @@ a WhatsApp chat with them.</p>
 <p>HOD Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andy Fan</p>
+<p><a href="https://form.gov.sg/68f1aa1d02099cc2fc27e476" rel="noopener nofollow" target="_blank">Mr Andy Fan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc1301bb9014c0012b8c7ac" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -833,11 +833,11 @@ a WhatsApp chat with them.</p>
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kaylen Ang</p>
+<p><a href="https://form.gov.sg/68db8cc1227cb4baf1853f4e" rel="noopener nofollow" target="_blank">Ms Kaylen Ang</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc115e95f93b500190437c3" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1125,11 +1125,11 @@ a WhatsApp chat with them.</p>
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Arun</p>
+<p><a href="https://form.gov.sg/68f1982c30b453ca475142cf" rel="noopener nofollow" target="_blank">Mrs Arun</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5e0587cddf378700118edf8b" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1265,11 +1265,11 @@ a WhatsApp chat with them.</p>
 <p>6 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andy Fan</p>
+<p><a href="https://form.gov.sg/68f1aa1d02099cc2fc27e476" rel="noopener nofollow" target="_blank">Mr Andy Fan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc1301bb9014c0012b8c7ac" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1477,11 +1477,11 @@ a WhatsApp chat with them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ariela Yap</p>
+<p><a href="https://form.gov.sg/68db683b74311cbb21a0952b" rel="noopener nofollow" target="_blank">Ms Ariela Yap</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5ed48a3839b707001103884c" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
