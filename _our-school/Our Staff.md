@@ -795,11 +795,11 @@ a WhatsApp chat with them.</p>
 <p>3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Loh Li Yoke</p>
+<p><a href="https://form.gov.sg/68f1fc9cc5226b91a9f6a907" rel="noopener nofollow" target="_blank">Ms Loh Li Yoke</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc2214711ecd70012ef9086" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
