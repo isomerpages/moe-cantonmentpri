@@ -163,11 +163,11 @@ a WhatsApp chat with them.</p>
 <p>SH English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Azhar</p>
+<p><a href="https://form.gov.sg/68dc832e227cb4baf1a0afb5" rel="noopener nofollow" target="_blank">Mr Nur Azhar Bin Hassim</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/61c9eb126c60da00127bfaac" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1348,11 +1348,11 @@ a WhatsApp chat with them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Azhar</p>
+<p><a href="https://form.gov.sg/68dc832e227cb4baf1a0afb5" rel="noopener nofollow" target="_blank">Mr Nur Azhar Bin Hassim</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/61c9eb126c60da00127bfaac" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
