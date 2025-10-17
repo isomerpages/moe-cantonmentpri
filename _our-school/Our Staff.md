@@ -507,8 +507,7 @@ a WhatsApp chat with them.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc11e7f1b03c20019122a73" rel="noopener nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
