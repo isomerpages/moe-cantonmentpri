@@ -984,11 +984,11 @@ a WhatsApp chat with them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sally Low</p>
+<p><a href="https://form.gov.sg/68db9cfaac0e6263481480cd" rel="noopener nofollow" target="_blank">Ms Sally Low</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc128b61b03c20019122e80" rel="noopener nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1020,11 +1020,11 @@ a WhatsApp chat with them.</p>
 <p>4 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Gladys Tay</p>
+<p><a href="https://form.gov.sg/68db8d17924359bba62295e4" rel="noopener nofollow" target="_blank">Mdm Gladys Tay</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/5dc2209ec321c6001240b922" rel="noopener nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1196,11 +1196,11 @@ a WhatsApp chat with them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jaslin Yeo</p>
+<p><a href="https://form.gov.sg/68f1ddf89df141b7b56990a3" rel="noopener nofollow" target="_blank">Ms Jaslin Yeo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/60deacf6967a9000129466b5" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
