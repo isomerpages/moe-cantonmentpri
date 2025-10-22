@@ -259,7 +259,7 @@ variant: tiptap
 </p>
 <h3>Dental Clinic @ CPS</h3>
 <p><u>Opening Days:</u>
-<br>1-2,4-5, 15-17, 29-30 Sept
+<br>1-2, 27-31 Oct
 <br>
 <br><u>Opening Hours:</u>
 </p>
