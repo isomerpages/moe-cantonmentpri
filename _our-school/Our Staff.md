@@ -383,7 +383,8 @@ a WhatsApp chat with them.</p>
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheong Mun See</p>
+<p><a href="https://form.gov.sg/68f811dd02df01dbcb223ed5" rel="noopener nofollow" target="_blank">Ms Cheong Mun See</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1166,7 +1167,8 @@ a WhatsApp chat with them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://form.gov.sg/68f6f9705e1bb9b7d2a2d3b2" rel="noopener nofollow" target="_blank">Mrs Donica Goh</a>
+</p>
 </td>
 </tr>
 </tbody>

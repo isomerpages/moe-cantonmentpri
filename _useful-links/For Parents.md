@@ -493,6 +493,18 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_049_P4_Outdoor_Education_Trip_to_the_School_s_Neighbourhood.pdf" rel="noopener nofollow" target="_blank">2025-049 P4 Outdoor Education Trip to the School's Neighbourhood</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_250_P6_VIA_Activity_to_Pearl_s_Hill_Care_Home.pdf" rel="noopener nofollow" target="_blank">2025-250 P6 VIA Activity to Pearl's Hill Care Home</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

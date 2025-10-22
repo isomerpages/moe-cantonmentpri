@@ -108,7 +108,7 @@ assistance for their studies. <a href="https://www.moe.gov.sg/financial-matters/
 parents.</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">Apply online</a>
+<p><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">Apply online</a>
 </p>
 </li>
 <li>
