@@ -268,7 +268,7 @@ variant: tiptap
 <br>Lunch Hour 1-2 pm</p>
 <p><u>Appointments</u>
 <br>Primary 1,2,4 and 6 will have an appointment scheduled for them by the
-cliniMonc. For ad hoc or for dental services needed by other levels, please
+cliniMonc. For ad hoc or dental services needed by other levels, please
 contact the dental clinic.</p>
 <p>Call/WhatsApp/SMS: <a href="https://wa.me/6587646337" rel="noopener noreferrer nofollow" target="_blank">87646337</a>
 </p>
