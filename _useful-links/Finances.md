@@ -23,7 +23,7 @@ facilitate the prompt disbursement of monies for the child.
 </p>
 <h4>Edusave</h4>
 <p><a href="https://www.moe.gov.sg/financial-matters/edusave-account" rel="noopener nofollow" target="_blank">Official Website</a>
-<br><a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Submit</a> Authorisation
+<br><a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">Submit</a> Authorisation
 to use your child's Edusave</p>
 <h4>Insurance</h4>
 <p><a href="/files/Insurance/Product_Fact_Sheet__Year_2025__for_MOE_group_personal_accident__GPA__Insurance_Plan.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (Year 2025) for MOE group personal accident (GPA) Insurance Plan</a>
@@ -37,50 +37,10 @@ online portal</p>
 <h4>Financial Assistance</h4>
 <p>The Ministry of Education provides financial assistance to Singaporean
 students from our Government and Government-Aided Schools who need financial
-assistance for their studies. <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Official Website</a>
-</p>
-<p><strong>Who is eligible</strong>
-</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>English</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>
+assistance for their studies.
 <br>
+<br><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Official Website</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAS/Document_4a_MOE_FAS_pamphlet__EL_.jpg">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Chinese</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAS/Document_4b_MOE_FAS_pamphet__CL_.jpg">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Malay</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAS/Document_4c_MOE_FAS_pamphlet__ML_.jpg">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Tamil</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAS/Document_4d_MOE_FAS_pamphlet__TL_.jpg">
-</div>
-</div>
-</details>
-</div>
 <p><strong>How to apply</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -101,9 +61,6 @@ Assistance).</p>
 to bring home to fill up. Submit the completed form to the school.</p>
 </li>
 </ul>
-<p>Note: If you have children in different government or government-aided
-schools, you just need to submit 1 application form to any of their schools.
-The school that receives the application form will inform you of the outcome.</p>
 <p><strong>Additional Financial Help</strong>
 </p>
 <ul data-tight="true" class="tight">
