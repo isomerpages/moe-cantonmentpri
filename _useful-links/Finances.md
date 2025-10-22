@@ -45,14 +45,23 @@ use your child's Edusave</p>
 <details class="isomer-details">
 <summary>Insurance</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h6><a href="/files/Insurance/Product_Fact_Sheet__Year_2025__for_MOE_group_personal_accident__GPA__Insurance_Plan.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (Year 2025) for MOE group personal accident (GPA) Insurance Plan</a><br><br>Claims Inquiry: <a href="tel:67881777" rel="noopener nofollow" target="_blank">6788 1777</a><br><br>Online Claims Portal<br>Parents/guardian are to submit and check the claims status through the online portal<br><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg/#/</a></h6>
-<p><strong><a href="https://studentgpa.incomegroupins.com.sg/#/" class="TextLink__StyledTextLink-sc-55x6ze-0 Aowrx web-link" rel="noopener noreferrer" target="_blank"><u><br></u></a></strong>Information
-on Claims and FAQs
-<br><a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students</a>
-</p>
+<h6><a href="/files/Insurance/Product_Fact_Sheet__Year_2025__for_MOE_group_personal_accident__GPA__Insurance_Plan.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (Year 2025) for MOE group personal accident (GPA) Insurance Plan</a><br><br>Claims Inquiry: <a href="tel:67881777" rel="noopener nofollow" target="_blank">6788 1777</a><br><br></h6>
 </div>
 </details>
 </div>
+<h4>Financial eGIRO</h4>
+<p><a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener nofollow" target="_blank">School Fees</a>
+<br><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener nofollow" target="_blank">Apply for eGIRO</a>
+</p>
+<h4>PayNow</h4>
+<p></p>
+<h4>POSB Smart Buddy</h4>
+<p></p>
+<h4>Edusave</h4>
+<p></p>
+<h4>Insurance</h4>
+<p></p>
+<p></p>
 <h4>Financial Assistance</h4>
 <p>The Ministry of Education provides financial assistance to Singaporean
 students from our Government and Government-Aided Schools who need financial
@@ -137,7 +146,7 @@ case-by-case basis.</p>
 <h4>The Straits Times School Pocket Money Fund (STSPMF)</h4>
 <p><a href="https://www.spmf.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Official Website</a>
 <br><a href="/files/FAS/STSPMF.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
-<br>Deadline 7 Feb 2025</p>
+<br>Deadline: 2025 application closed</p>
 <h4>CDAC – SFCCA Bursary</h4>
 <p><a href="https://www.cdac.org.sg/developing-students/assistance-support/cdac-sfcca-bursary/" rel="noopener noreferrer nofollow" target="_blank">Official Website</a> 
 <br>The CDAC – SFCCA Bursary aims to help needy students to cope with schooling
