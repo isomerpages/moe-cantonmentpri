@@ -4,7 +4,7 @@ permalink: /useful-links/finances/
 description: ""
 variant: tiptap
 ---
-<h4>Financial eGIRO</h4>
+<h4>eGIRO</h4>
 <p><a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener nofollow" target="_blank">School Fees</a>
 <br><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener nofollow" target="_blank">Apply for eGIRO</a>
 </p>
