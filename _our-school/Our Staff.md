@@ -383,7 +383,8 @@ a WhatsApp chat with them.</p>
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheong Mun See</p>
+<p><a href="https://form.gov.sg/68f811dd02df01dbcb223ed5" rel="noopener nofollow" target="_blank">Ms Cheong Mun See</a>
+</p>
 </td>
 </tr>
 <tr>
