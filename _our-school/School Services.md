@@ -54,97 +54,7 @@ variant: tiptap
 <br>Email:&nbsp;<a href="mailto:jeccyemltransportservice@gmail.com" rel="noopener noreferrer nofollow" target="_blank">jeccyemltransportservice@gmail.com</a>
 <br>Application <a href="/files/Services/Bus.pdf" rel="noopener nofollow" target="_blank">Form</a>
 </p>
-<p></p>
-<h6>Pricing</h6>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>2024 to 2025</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Distance</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Up to 15- seater</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>More than 15 Seater</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Way</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Way</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Way</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Way</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Up to 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$180</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$200</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$160</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$180</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2-4 KM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$240</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$260</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$190</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$210</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>2026 to 2027</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h6>Pricing for 2026-2027</h6>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -224,10 +134,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-</div>
-</details>
-</div>
 <h3>School Uniform</h3>
 <p>Bibi&amp;Baba Private Limited
 <br>Website: <a href="https://www.schooluniforms.sg/cantonment-primary-school" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/cantonment-primary-school</a>
