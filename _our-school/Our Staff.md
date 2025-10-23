@@ -4,11 +4,9 @@ permalink: /our-school/our-staff/
 variant: tiptap
 description: ""
 ---
-<p>Click on "Email" to send an email to the teacher or click on "WA" to start
-a WhatsApp chat with them.</p>
 <h5>General Office:</h5>
 <p>Email: <a href="mailto:cantonment_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cantonment_ps@moe.edu.sg</a> 
-<br>Phone/WhatsApp: 65119555/ <a href="https://wa.me/6565119555" rel="noopener noreferrer nofollow" target="_blank">WA</a>
+<br>Phone/WhatsApp: 65119555/ <a href="https://wa.me/6565119555" rel="noopener noreferrer nofollow" target="_blank">Press here to send a WhatsApp message</a>
 </p>
 <h5>School Leaders</h5>
 <table style="minWidth: 50px">
