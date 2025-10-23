@@ -27,6 +27,7 @@ facilitate the prompt disbursement of monies for the child.
 to use your child's Edusave</p>
 <h4>Insurance</h4>
 <p><a href="/files/Insurance/Product_Fact_Sheet__Year_2025__for_MOE_group_personal_accident__GPA__Insurance_Plan.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (Year 2025) for MOE group personal accident (GPA) Insurance Plan</a>
+<br>
 <br><a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener nofollow" target="_blank">Information on Claims and FAQs</a>
 <br>
 <br><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener nofollow" target="_blank">Online Claims Portal</a>
