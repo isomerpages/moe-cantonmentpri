@@ -505,6 +505,24 @@ to parents. May include topics such as:
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_246_Placement_in_P3_Classes_in_2026.pdf" rel="noopener nofollow" target="_blank">2025-246 Placement in P3 Classes in 2026</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_251_Types_of_programmes_for_HMTL_MTSP_P3_2026.pdf" rel="noopener nofollow" target="_blank">2025-251 Types of programmes for HMTL MTSP P3 2026</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter/2025_252_P12_Celebration_of_Learning__P1_and_P2_.pdf" rel="noopener nofollow" target="_blank">2025-252 P12 Celebration of Learning</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
