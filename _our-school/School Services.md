@@ -36,7 +36,7 @@ variant: tiptap
 <br>Website:&nbsp;<a href="http://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a> 
 <br>Phone: <a href="tel:69298012" rel="noopener noreferrer nofollow" target="_blank">69298012</a>
 </p>
-<p><strong>Booklist For 2025</strong>
+<p><strong>Booklist For 2026</strong>
 <br><a href="/files/Booklist/P1_Booklist.pdf" rel="noopener nofollow" target="_blank">P1 Booklist</a>
 <br><a href="/files/Booklist/P2_Booklist.pdf" rel="noopener nofollow" target="_blank">P2 Booklist</a>
 <br><a href="/files/Booklist/P3_Booklist.pdf" rel="noopener nofollow" target="_blank">P3 Booklist</a>
