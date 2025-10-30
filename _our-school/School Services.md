@@ -143,7 +143,6 @@ variant: tiptap
 school. You can purchase it from any retailer as long as it is plain white.
 <br>
 <br>Phone: <a href="tel:62719248" rel="noopener noreferrer nofollow" target="_blank">62719248</a> 
-<br>
 </p>
 <p>Office/Retail:
 <br>213 Henderson Road
