@@ -139,8 +139,10 @@ variant: tiptap
 <br>Website: <a href="https://www.schooluniforms.sg/cantonment-primary-school" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/cantonment-primary-school</a>
 <br>Order name tags at&nbsp;<a href="https://tinyurl.com/cpsnametag" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/cpsnametag</a>
 </p>
-<p>Phone: <a href="tel:62719248" rel="noopener noreferrer nofollow" target="_blank">62719248</a> 
+<p>Please note that school shoes and socks are not available for sale in
+school. You can purchase it from any retailer as long as it is plain white.
 <br>
+<br>Phone: <a href="tel:62719248" rel="noopener noreferrer nofollow" target="_blank">62719248</a> 
 </p>
 <p>Office/Retail:
 <br>213 Henderson Road
@@ -157,11 +159,10 @@ variant: tiptap
 <h3>School based Student Care Centre</h3>
 <p>Commit Learning Schoolhouse Pte Ltd
 <br><a href="https://www.commitlearning.com.sg" rel="noopener nofollow" target="_blank">Website</a>
-<br><a href="/files/Services/Introduction_Letter___Cantonment_Pri.pdf" rel="noopener nofollow" target="_blank">Introduction Letter</a>
-<br><a href="/files/Services/2025_FAQs___Cantonment_Pri.pdf" rel="noopener nofollow" target="_blank">FAQ</a>
+<br><a href="/files/Services/Introduction_Letter.pdf" rel="noopener nofollow" target="_blank">Introduction Letter</a>
+<br><a href="/files/Services/2026_FAQs.pdf" rel="noopener nofollow" target="_blank">FAQ</a>
 <br>Admission: <a href="https://form.gov.sg/6718ba7a6a0ae7eeb331cd8d" rel="noopener noreferrer nofollow" target="_blank">Indication of Interest</a>
-<br>Call/WhatsApp:<a href="https://wa.me/6580778218." rel="noopener noreferrer nofollow" target="_blank">80778218</a>
-<br>
+<br>Call/WhatsApp: <a href="https://wa.me/6580778218." rel="noopener noreferrer nofollow" target="_blank">80778218</a>
 </p>
 <h3>Dental Clinic @ CPS</h3>
 <p><u>Opening Days:</u>
@@ -174,8 +175,8 @@ variant: tiptap
 <br>Lunch Hour 1-2 pm</p>
 <p><u>Appointments</u>
 <br>Primary 1,2,4 and 6 will have an appointment scheduled for them by the
-cliniMonc. For ad hoc or dental services needed by other levels, please
-contact the dental clinic.</p>
+clinic. For ad hoc or dental services for other levels, please contact
+the dental clinic.</p>
 <p>Call/WhatsApp/SMS: <a href="https://wa.me/6587646337" rel="noopener noreferrer nofollow" target="_blank">87646337</a>
 </p>
 <p>

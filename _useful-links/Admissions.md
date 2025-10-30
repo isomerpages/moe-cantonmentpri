@@ -13,7 +13,7 @@ variant: tiptap
 <br>Apply for eGIRO: <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
 <br>
 <br>Using <a href="https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds" rel="noopener nofollow" target="_blank">Edusave for school</a>
-<br>Provide authorisation here: <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/5be24a1bb3f842000fdc4e59</a>
+<br>Provide authorisation <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </div>
 </details>
@@ -22,13 +22,16 @@ variant: tiptap
 <div data-type="detailsContent" class="isomer-details-content">
 <p>HPB Dental and Health Consent</p>
 <p><a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://consent.hpb.gov.sg/</a>
-</p>
+<br>
+<br>Verify your child's health and immunisation records in <a href="https://www.healthhub.sg/" rel="noopener nofollow" target="_blank">HealthHub.</a>
+<br>Please contact your clinic or <a href="https://support.healthhub.sg/hc/en-us/articles/15761359254425-My-child-has-completed-the-immunisation-overseas-What-should-I-do" rel="noopener nofollow" target="_blank">refer here</a> to
+make updates.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Name Tag</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Order Name tags at the vendor's website. It will be delivered to school
+<p>Order Name tags at the vendor's website. It will be delivered to the school
 and form teachers will pass it to your child.</p>
 <p></p>
 <p><a href="https://www.schooluniforms.sg/cantonment-primary-school/cantonment-primary-name-tag" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/cantonment-primary-school/cantonment-primary-name-tag</a>
@@ -65,7 +68,9 @@ not sold in school)</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Update parent particulars</p>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
-</p>
+<br>
+<br>For P1 joining in 2026, please wait for a Parent Gateway message before
+updating the particulars.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -76,7 +81,7 @@ not sold in school)</p>
 <br>ComCare recipients are auto granted MOE FAS and you do not need to apply.
 School will update you once you are approved for MOE FAS</p>
 <p></p>
-<p>If you are not on ComCare, please apply <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a>
+<p>If you are not on ComCare, please apply <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">here</a>
 <br>
 <br>For home broadband and laptop/tablet, please find the details here <a href="https://www.cantonmentpri.moe.edu.sg/useful-links/financial-assistance/" rel="noopener nofollow" target="_blank">DigitalAccess@Home</a> to
 apply.</p>
@@ -86,8 +91,6 @@ apply.</p>
 <summary>Optional - Apply for School Based Student Care</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Commit Learning Schoolhouse Pte Ltd
-<br><a href="/files/Services/Introduction_Letter___Cantonment_Pri.pdf" rel="noopener nofollow" target="_blank">Introduction Letter</a>
-<br><a href="/files/Services/2025_FAQs___Cantonment_Pri.pdf" rel="noopener nofollow" target="_blank">FAQ</a>
 <br><a href="https://form.gov.sg/6718ba7a6a0ae7eeb331cd8d" rel="noopener nofollow" target="_blank">Indicate Interest</a>
 </p>
 </div>

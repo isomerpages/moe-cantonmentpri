@@ -5,7 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h4>eGIRO</h4>
-<p><a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener nofollow" target="_blank">School Fees</a>
+<p>All parents are encouraged to join the MOE GIRO scheme for your child’s
+school and miscellaneous fees, which offers the following benefits:
+<br>• Efficient payments for school charges and enrichment programmes
+<br>• Elimination of manual payments or the need for your child to carry cash
+to school
+<br>• Facilitation of disbursements (e.g. school awards) or refunds (e.g.
+cancellation of programmes or excess payments)
+<br>• Reduction of administrative workload for parents, teachers and staff
+<br><a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener nofollow" target="_blank">School Fees</a>
 <br><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener nofollow" target="_blank">Apply for eGIRO</a>
 </p>
 <h4>PayNow</h4>
@@ -23,13 +31,14 @@ facilitate the prompt disbursement of monies for the child.
 </p>
 <h4>Edusave</h4>
 <p><a href="https://www.moe.gov.sg/financial-matters/edusave-account" rel="noopener nofollow" target="_blank">Official Website</a>
-<br><a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">Submit</a> Authorisation
-to use your child's Edusave</p>
+<br>All Singapore Citizen students will have an Edusave account and receive
+a yearly contribution for their educational use.</p>
+<p>Parents will need to <a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">provide</a> authorisation in order
+to use Edusave to pay school miscellaneous fees and enrichment programmes
+organised by the school.</p>
 <h4>Insurance</h4>
 <p><a href="/files/Insurance/Product_Fact_Sheet__Year_2025__for_MOE_group_personal_accident__GPA__Insurance_Plan.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (Year 2025) for MOE group personal accident (GPA) Insurance Plan</a>
-<br>
 <br><a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener nofollow" target="_blank">Information on Claims and FAQs</a>
-<br>
 <br><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener nofollow" target="_blank">Online Claims Portal</a>
 <br>Parents/guardian are to submit and check the claims status through the
 online portal</p>
@@ -76,11 +85,6 @@ case-by-case basis.</p>
 <p><a href="https://www.spmf.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Official Website</a>
 <br><a href="/files/FAS/STSPMF.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
 <br>Deadline: 2025 application closed</p>
-<h4>CDAC – SFCCA Bursary</h4>
-<p><a href="https://www.cdac.org.sg/developing-students/assistance-support/cdac-sfcca-bursary/" rel="noopener noreferrer nofollow" target="_blank">Official Website</a> 
-<br>The CDAC – SFCCA Bursary aims to help needy students to cope with schooling
-expenses, including transport, meals and take part in enrichment and holiday
-programmes organised by CDAC.</p>
 <h4>DigitalAccess@Home</h4>
 <p>DigitalAccess@Home provides subsidised broadband and laptops/tablets to
 lower-income households to support their lifestyle needs, including school,
