@@ -23,7 +23,12 @@ facilitate the prompt disbursement of monies for the child.
 </p>
 <h4>Edusave</h4>
 <p><a href="https://www.moe.gov.sg/financial-matters/edusave-account" rel="noopener nofollow" target="_blank">Official Website</a>
-<br><a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">Submit</a> Authorisation
+<br>All Singapore Citizen students will have an Edusave account and receive
+a yearly contribution for their educational use. Your child can use their
+Edusave funds to pay for various enrichment programmes organised by the
+school.
+<br>
+<br><a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">Submit</a> authorisation
 to use your child's Edusave</p>
 <h4>Insurance</h4>
 <p><a href="/files/Insurance/Product_Fact_Sheet__Year_2025__for_MOE_group_personal_accident__GPA__Insurance_Plan.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (Year 2025) for MOE group personal accident (GPA) Insurance Plan</a>
