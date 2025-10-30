@@ -139,7 +139,10 @@ variant: tiptap
 <br>Website: <a href="https://www.schooluniforms.sg/cantonment-primary-school" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/cantonment-primary-school</a>
 <br>Order name tags at&nbsp;<a href="https://tinyurl.com/cpsnametag" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/cpsnametag</a>
 </p>
-<p>Phone: <a href="tel:62719248" rel="noopener noreferrer nofollow" target="_blank">62719248</a> 
+<p>Please note that school shoes are not available for sale in school. You
+may purchase from any retailer as long as it is plain white.
+<br>
+<br>Phone: <a href="tel:62719248" rel="noopener noreferrer nofollow" target="_blank">62719248</a> 
 <br>
 </p>
 <p>Office/Retail:
