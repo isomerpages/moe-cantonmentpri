@@ -81,11 +81,6 @@ case-by-case basis.</p>
 <p><a href="https://www.spmf.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Official Website</a>
 <br><a href="/files/FAS/STSPMF.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
 <br>Deadline: 2025 application closed</p>
-<h4>CDAC – SFCCA Bursary</h4>
-<p><a href="https://www.cdac.org.sg/developing-students/assistance-support/cdac-sfcca-bursary/" rel="noopener noreferrer nofollow" target="_blank">Official Website</a> 
-<br>The CDAC – SFCCA Bursary aims to help needy students to cope with schooling
-expenses, including transport, meals and take part in enrichment and holiday
-programmes organised by CDAC.</p>
 <h4>DigitalAccess@Home</h4>
 <p>DigitalAccess@Home provides subsidised broadband and laptops/tablets to
 lower-income households to support their lifestyle needs, including school,
