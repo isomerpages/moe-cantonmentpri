@@ -13,7 +13,7 @@ variant: tiptap
 <br>Apply for eGIRO: <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
 <br>
 <br>Using <a href="https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds" rel="noopener nofollow" target="_blank">Edusave for school</a>
-<br>Provide authorisation <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener nofollow" target="_blank">here</a> 
+<br>Provide authorisation <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </div>
 </details>
@@ -69,8 +69,8 @@ not sold in school)</p>
 <p>Update parent particulars</p>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
 <br>
-<br>For P1 joining in 2026, please wait for Parent Gateway message in January
-to access this page.</p>
+<br>For P1 joining in 2026, please wait for a Parent Gateway message before
+updating the particulars.</p>
 </div>
 </details>
 <details class="isomer-details">
