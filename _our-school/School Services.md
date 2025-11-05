@@ -166,7 +166,7 @@ school. You can purchase it from any retailer as long as it is plain white.
 </p>
 <h3>Dental Clinic @ CPS</h3>
 <p><u>Opening Days:</u>
-<br>1-2, 27-31 Oct
+<br>12-14, 17-18 Nov
 <br>
 <br><u>Opening Hours:</u>
 </p>
