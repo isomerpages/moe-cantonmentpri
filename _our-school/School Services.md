@@ -52,8 +52,8 @@ variant: tiptap
 <br>Office: <a href="tel:64797597" rel="noopener noreferrer nofollow" target="_blank">64797597</a>
 <br>Ms Jeccy Low: <a href="tel:88110102" rel="noopener noreferrer nofollow" target="_blank">88110102</a>
 <br>Email:&nbsp;<a href="mailto:jeccyemltransportservice@gmail.com" rel="noopener noreferrer nofollow" target="_blank">jeccyemltransportservice@gmail.com</a>
-<br>Application <a href="/files/Services/Bus.pdf" rel="noopener nofollow" target="_blank">Form</a>
-</p>
+<br>Application <a href="/files/Services/Bus.pdf" rel="noopener nofollow" target="_blank">Form</a> (Please
+email the completed form to the above vendor's email)</p>
 <h6>Pricing for 2026-2027</h6>
 <table style="minWidth: 125px">
 <colgroup>
