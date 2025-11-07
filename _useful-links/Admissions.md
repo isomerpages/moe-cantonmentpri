@@ -69,7 +69,7 @@ not sold in school)</p>
 <p>Update parent particulars</p>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
 <br>
-<br>For P1 joining in 2026, please update this between 1-31 December</p>
+<br>For P1 joining in 2026, please update this between 1-31 December 2025</p>
 </div>
 </details>
 <details class="isomer-details">
