@@ -177,15 +177,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68e5dac04e938aed62280381" rel="noopener nofollow" target="_blank">Mrs Tan Guat Hwa</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH Student Well Being</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -195,25 +186,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68db71ae2a540b2f0f9571dd" rel="noopener nofollow" target="_blank">Ms Huang Yinqi</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Year Head Lower Primary (P12)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68f1dffae41e6229d4697805" rel="noopener nofollow" target="_blank">Ms So Bee Soon</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head Middle Primary (P34)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Malinda Lim</p>
@@ -221,7 +194,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head Upper Primary (P56)</p>
+<p>Covering Year Head Middle Primary (P34)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/68e5dac04e938aed62280381" rel="noopener nofollow" target="_blank">Mrs Tan Guat Hwa</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Covering Year Head Upper Primary (P56)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/68dc5a97e378849e3e338b6b" rel="noopener nofollow" target="_blank">Mr Ameen</a>
@@ -1137,12 +1119,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68f080592e300fb404ae6d65" rel="noopener nofollow" target="_blank">Mr Lim Eng Guan</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/68dcac49359a5e4712ccb2d2" rel="noopener nofollow" target="_blank">Ms Cecilia Koh</a>
 </p>
 </td>
@@ -1155,7 +1131,22 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Jason Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Arthur Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chloe Teoh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Asyraf</p>
 </td>
 </tr>
 </tbody>
