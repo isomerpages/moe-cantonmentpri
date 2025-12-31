@@ -151,7 +151,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Aesthetics</p>
+<p>SH Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Li Hsing</p>
@@ -168,7 +168,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH Mother Tongue Language</p>
+<p>SH Mother Tongue Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/68dc9b6afb63edc4dca55b08" rel="noopener nofollow" target="_blank">Mr Nur Muhammad</a>
@@ -752,7 +752,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sub XiaoJun</p>
+<p>Mdm Sun Xiaojun</p>
 </td>
 </tr>
 <tr>
