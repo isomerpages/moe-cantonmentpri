@@ -36,7 +36,7 @@ description: ""
 <p>Vice Principal (Acad)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheng Shin Miin</p>
+<p>Mrs Jane Cheah</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jane Cheah</p>
+<p>Mr Yeo Sho Hor</p>
 </td>
 </tr>
 <tr>
@@ -1209,6 +1209,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Emily Lim Bee Hian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1308,22 +1316,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Edzhan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Haneef</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science Lab Tech</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Rafidah</p>
 </td>
 </tr>
 </tbody>
