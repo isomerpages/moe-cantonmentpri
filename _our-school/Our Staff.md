@@ -143,6 +143,22 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Arita Shree Kumar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Li Hsing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH English Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -981,7 +997,8 @@ description: ""
 <p>6 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://form.gov.sg/68db9e30227cb4baf18b4876" rel="noopener nofollow" target="_blank">Mrs Tan Sze Mian</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -989,7 +1006,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Joshua Goh</p>
 </td>
 </tr>
 <tr>
@@ -997,7 +1014,7 @@ description: ""
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Daniel Ying</p>
 </td>
 </tr>
 <tr>
@@ -1005,7 +1022,26 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/68f1ddf89df141b7b56990a3" rel="noopener nofollow" target="_blank">Ms Jaslin Yeo</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/6901856eb3e89793414408a7" rel="noopener nofollow" target="_blank">Mrs Rachel Wong</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/68db8aeb6de8f77e88af980b" rel="noopener nofollow" target="_blank">Mr Tarmizi</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1108,6 +1144,12 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/68dcac49359a5e4712ccb2d2" rel="noopener nofollow" target="_blank">Ms Cecilia Koh</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/68f055c8ef8f3a5221d34a18" rel="noopener nofollow" target="_blank">Ms Tan Yi Xin</a>
 </p>
 </td>
 </tr>
@@ -1251,124 +1293,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Edzhan</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68db8c1a924359bba6223751" rel="noopener nofollow" target="_blank">Mr Josh Wong Han Xian</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68e5dac04e938aed62280381" rel="noopener nofollow" target="_blank">Mrs Tan Guat Hwa</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Joshua Goh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68db9e30227cb4baf18b4876" rel="noopener nofollow" target="_blank">Mrs Tan Sze Mian</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68f055c8ef8f3a5221d34a18" rel="noopener nofollow" target="_blank">Ms Tan Yi Xin</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Daniel Ying</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68f1ddf89df141b7b56990a3" rel="noopener nofollow" target="_blank">Ms Jaslin Yeo</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68db8aeb6de8f77e88af980b" rel="noopener nofollow" target="_blank">Mr Tarmizi</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/6901856eb3e89793414408a7" rel="noopener nofollow" target="_blank">Mrs Rachel Wong</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68dc5a97e378849e3e338b6b" rel="noopener nofollow" target="_blank">Mr Ameen</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
