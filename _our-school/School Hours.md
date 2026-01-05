@@ -159,6 +159,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p><em>For Term 1, Primary 3 recess will be from 10.30 am to 11.00 am, and Snack Time will take place between 9.00 am and 9.30 am. This arrangement supports the smooth implementation of the SwimSafer Programme.</em>
+</p>
 <h5>Tuesdays</h5>
 <table style="minWidth: 100px">
 <colgroup>
