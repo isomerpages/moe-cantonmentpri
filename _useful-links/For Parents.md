@@ -229,51 +229,87 @@ Parent Child Teacher Conference)</p>
 <details class="isomer-details">
 <summary>Submit reason after receiving notification</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Absence Notification
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/01_Submit_reason_after_receiving_notification_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/02_Submit_reason_after_receiving_notification_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/03_Submit_reason_after_receiving_notification_3.jpg">
+</div>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Received school’s request to follow-up on submission</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/04_Received_school_s_request_to_follow_up_on_submission_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/05_Received_school_s_request_to_follow_up_on_submission_2.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Submit absence without prompt from school</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/06_Submit_absence_without_prompt_from_school_1.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>School edits your submission</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/07_School_edits_your_submission_1.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Withdrawal of submitted absence</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/08_Withdrawal_of_submitted_absence_1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/09_Withdrawal_of_submitted_absence_2.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Withdrawal of submitted absence from teacher’s follow-up post</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/10_Withdrawal_of_submitted_absence_from_teacher_s_follow_up_post_1.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Expiry date for editing and/or withdrawing absence submission</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/11_Expiry_date_for_editing_andor_withdrawing_absence_submission_1.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Deletion of all submitted absences in the current year</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/12_Deletion_of_all_submitted_absences_in_the_current_year.jpg">
+</div>
 </div>
 </details>
 </div>
