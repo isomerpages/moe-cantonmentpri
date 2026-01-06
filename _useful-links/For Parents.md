@@ -87,6 +87,51 @@ School Dental Service</p>
 </div>
 </details>
 </div>
+<h4>Montfort Care Parenting Support Team</h4>
+<p><a href="https://www.montfortcare.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Montfort Care</a> is
+a Social Service Agency dedicated to improving the lives of individuals,
+families and the community facing transitional challenges</p>
+<p>The Parenting Support Team of Montfort Care was appointed by the Ministry
+of Family Development (MSF) to deliver Evidence-Based Programmes within
+the Kreta Ayer / Bukit Merah region.</p>
+<p>All programmes are fully funded by the Ministry of Social and Family Development</p>
+<p>For any enquiries, you can contact us at <a href="mailto:parenting@montfortcare.org.sg" rel="noopener noreferrer nofollow" target="_blank">parenting@montfortcare.org.sg</a>
+</p>
+<details class="isomer-details">
+<summary>Positive Parenting Programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Aims at preventing behavioural, emotional and developmental problems in
+children by enhancing the knowledge, skills and confidence of parents Seminars
+cover the following topics:
+<br>
+<br>The Power of Positive Parenting
+<br>Raising Confident, Competent Children
+<br>Raising Resilient Children</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1 - 1 Parenting Coaching</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Parents with specific parenting concerns can arrange for 4 sessions with
+our Parenting Coaches to assist in tackling these issues
+<br>
+<br>Timing of the sessions is flexible, and can be held in-person or online</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Topical Workshops</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>One-off workshops focused on specific topics that are of particular interest
+to parents. May include topics such as:
+<br>
+<br>Understanding &amp; Managing Difficult Behaviour
+<br>Developing Discipline &amp; Cultivating Routines
+<br>Understanding &amp; Expressing Emotions Appropriately
+<br>Device &amp; Gaming Addiction
+<br>Social Media Influences and Risks</p>
+</div>
+</details>
+<p></p>
 <h4>Parent Gateway</h4>
 <p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>&nbsp;is
 a one-stop <a href="https://play.google.com/store/apps/details?id=com.moe.pgp" rel="noopener noreferrer nofollow" target="_blank">Android</a>/
@@ -119,9 +164,7 @@ fingertips.</p>
 </li>
 <li>
 <p><a href="/files/PG_Mobile_App_Meetings_Feature.pdf" rel="noopener noreferrer nofollow" target="_blank">Booking Meeting Slots </a>(During
-Parent Child Teacher Conference)
-<br>
-</p>
+Parent Child Teacher Conference)</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Booking not started</summary>
@@ -179,48 +222,97 @@ Parent Child Teacher Conference)
 </div>
 </li>
 </ul>
-<h4>Montfort Care Parenting Support Team</h4>
-<p><a href="https://www.montfortcare.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Montfort Care</a> is
-a Social Service Agency dedicated to improving the lives of individuals,
-families and the community facing transitional challenges</p>
-<p>The Parenting Support Team of Montfort Care was appointed by the Ministry
-of Family Development (MSF) to deliver Evidence-Based Programmes within
-the Kreta Ayer / Bukit Merah region.</p>
-<p>All programmes are fully funded by the Ministry of Social and Family Development</p>
-<p>For any enquiries, you can contact us at <a href="mailto:parenting@montfortcare.org.sg" rel="noopener noreferrer nofollow" target="_blank">parenting@montfortcare.org.sg</a>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Absence Notification</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Positive Parenting Programme</summary>
+<summary>Submit reason after receiving notification</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Aims at preventing behavioural, emotional and developmental problems in
-children by enhancing the knowledge, skills and confidence of parents Seminars
-cover the following topics:
-<br>
-<br>The Power of Positive Parenting
-<br>Raising Confident, Competent Children
-<br>Raising Resilient Children</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/01_Submit_reason_after_receiving_notification_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/02_Submit_reason_after_receiving_notification_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/03_Submit_reason_after_receiving_notification_3.jpg">
+</div>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>1 - 1 Parenting Coaching</summary>
+<summary>Received school’s request to follow-up on submission</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Parents with specific parenting concerns can arrange for 4 sessions with
-our Parenting Coaches to assist in tackling these issues
-<br>
-<br>Timing of the sessions is flexible, and can be held in-person or online</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/04_Received_school_s_request_to_follow_up_on_submission_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/05_Received_school_s_request_to_follow_up_on_submission_2.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Topical Workshops</summary>
+<summary>Submit absence without prompt from school</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>One-off workshops focused on specific topics that are of particular interest
-to parents. May include topics such as:
-<br>
-<br>Understanding &amp; Managing Difficult Behaviour
-<br>Developing Discipline &amp; Cultivating Routines
-<br>Understanding &amp; Expressing Emotions Appropriately
-<br>Device &amp; Gaming Addiction
-<br>Social Media Influences and Risks</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/06_Submit_absence_without_prompt_from_school_1.jpg">
+</div>
 </div>
 </details>
+<details class="isomer-details">
+<summary>School edits your submission</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/07_School_edits_your_submission_1.jpg">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Withdrawal of submitted absence</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/08_Withdrawal_of_submitted_absence_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/09_Withdrawal_of_submitted_absence_2.jpg">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Withdrawal of submitted absence from teacher’s follow-up post</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/10_Withdrawal_of_submitted_absence_from_teacher_s_follow_up_post_1.jpg">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Expiry date for editing and/or withdrawing absence submission</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/11_Expiry_date_for_editing_andor_withdrawing_absence_submission_1.jpg">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Deletion of all submitted absences in the current year</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PG Absence/12_Deletion_of_all_submitted_absences_in_the_current_year.jpg">
+</div>
+</div>
+</details>
+</div>
+</li>
+</ul>
 <p></p>
