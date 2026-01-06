@@ -87,6 +87,51 @@ School Dental Service</p>
 </div>
 </details>
 </div>
+<h4>Montfort Care Parenting Support Team</h4>
+<p><a href="https://www.montfortcare.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Montfort Care</a> is
+a Social Service Agency dedicated to improving the lives of individuals,
+families and the community facing transitional challenges</p>
+<p>The Parenting Support Team of Montfort Care was appointed by the Ministry
+of Family Development (MSF) to deliver Evidence-Based Programmes within
+the Kreta Ayer / Bukit Merah region.</p>
+<p>All programmes are fully funded by the Ministry of Social and Family Development</p>
+<p>For any enquiries, you can contact us at <a href="mailto:parenting@montfortcare.org.sg" rel="noopener noreferrer nofollow" target="_blank">parenting@montfortcare.org.sg</a>
+</p>
+<details class="isomer-details">
+<summary>Positive Parenting Programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Aims at preventing behavioural, emotional and developmental problems in
+children by enhancing the knowledge, skills and confidence of parents Seminars
+cover the following topics:
+<br>
+<br>The Power of Positive Parenting
+<br>Raising Confident, Competent Children
+<br>Raising Resilient Children</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1 - 1 Parenting Coaching</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Parents with specific parenting concerns can arrange for 4 sessions with
+our Parenting Coaches to assist in tackling these issues
+<br>
+<br>Timing of the sessions is flexible, and can be held in-person or online</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Topical Workshops</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>One-off workshops focused on specific topics that are of particular interest
+to parents. May include topics such as:
+<br>
+<br>Understanding &amp; Managing Difficult Behaviour
+<br>Developing Discipline &amp; Cultivating Routines
+<br>Understanding &amp; Expressing Emotions Appropriately
+<br>Device &amp; Gaming Addiction
+<br>Social Media Influences and Risks</p>
+</div>
+</details>
+<p></p>
 <h4>Parent Gateway</h4>
 <p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>&nbsp;is
 a one-stop <a href="https://play.google.com/store/apps/details?id=com.moe.pgp" rel="noopener noreferrer nofollow" target="_blank">Android</a>/
@@ -119,9 +164,7 @@ fingertips.</p>
 </li>
 <li>
 <p><a href="/files/PG_Mobile_App_Meetings_Feature.pdf" rel="noopener noreferrer nofollow" target="_blank">Booking Meeting Slots </a>(During
-Parent Child Teacher Conference)
-<br>
-</p>
+Parent Child Teacher Conference)</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Booking not started</summary>
@@ -179,48 +222,61 @@ Parent Child Teacher Conference)
 </div>
 </li>
 </ul>
-<h4>Montfort Care Parenting Support Team</h4>
-<p><a href="https://www.montfortcare.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Montfort Care</a> is
-a Social Service Agency dedicated to improving the lives of individuals,
-families and the community facing transitional challenges</p>
-<p>The Parenting Support Team of Montfort Care was appointed by the Ministry
-of Family Development (MSF) to deliver Evidence-Based Programmes within
-the Kreta Ayer / Bukit Merah region.</p>
-<p>All programmes are fully funded by the Ministry of Social and Family Development</p>
-<p>For any enquiries, you can contact us at <a href="mailto:parenting@montfortcare.org.sg" rel="noopener noreferrer nofollow" target="_blank">parenting@montfortcare.org.sg</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Absence Notification</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Submit reason after receiving notification</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Absence Notification
+<br>
 </p>
-<details class="isomer-details">
-<summary>Positive Parenting Programme</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Aims at preventing behavioural, emotional and developmental problems in
-children by enhancing the knowledge, skills and confidence of parents Seminars
-cover the following topics:
-<br>
-<br>The Power of Positive Parenting
-<br>Raising Confident, Competent Children
-<br>Raising Resilient Children</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>1 - 1 Parenting Coaching</summary>
+<summary>Received school’s request to follow-up on submission</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Parents with specific parenting concerns can arrange for 4 sessions with
-our Parenting Coaches to assist in tackling these issues
-<br>
-<br>Timing of the sessions is flexible, and can be held in-person or online</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Topical Workshops</summary>
+<summary>Submit absence without prompt from school</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>One-off workshops focused on specific topics that are of particular interest
-to parents. May include topics such as:
-<br>
-<br>Understanding &amp; Managing Difficult Behaviour
-<br>Developing Discipline &amp; Cultivating Routines
-<br>Understanding &amp; Expressing Emotions Appropriately
-<br>Device &amp; Gaming Addiction
-<br>Social Media Influences and Risks</p>
+<p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>School edits your submission</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Withdrawal of submitted absence</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Withdrawal of submitted absence from teacher’s follow-up post</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Expiry date for editing and/or withdrawing absence submission</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Deletion of all submitted absences in the current year</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+</li>
+</ul>
 <p></p>
