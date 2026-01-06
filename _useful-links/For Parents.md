@@ -95,7 +95,7 @@ families and the community facing transitional challenges</p>
 of Family Development (MSF) to deliver Evidence-Based Programmes within
 the Kreta Ayer / Bukit Merah region.</p>
 <p>All programmes are fully funded by the Ministry of Social and Family Development</p>
-<p>For any enquiries, you can contact us at <a href="mailto:parenting@montfortcare.org.sg" rel="noopener noreferrer nofollow" target="_blank">parenting@montfortcare.org.sg</a>
+<p>For enquiries, you can contact us at <a href="mailto:parenting@montfortcare.org.sg" rel="noopener noreferrer nofollow" target="_blank">parenting@montfortcare.org.sg</a>
 </p>
 <details class="isomer-details">
 <summary>Positive Parenting Programme</summary>
