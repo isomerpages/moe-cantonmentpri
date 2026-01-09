@@ -4,7 +4,7 @@ permalink: /our-school/our-staff/
 variant: tiptap
 description: ""
 ---
-<h5>General Office:</h5>
+<h5>General Office:ro</h5>
 <p>Email: <a href="mailto:cantonment_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cantonment_ps@moe.edu.sg</a> 
 <br>Phone/WhatsApp: 65119555/ <a href="https://wa.me/6565119555" rel="noopener noreferrer nofollow" target="_blank">Click here to send a WhatsApp</a>
 </p>
@@ -85,7 +85,8 @@ description: ""
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jean Heng Choo Ching</p>
+<p><a href="https://form.gov.sg/68f7317e08267a6c6f571c58" rel="noopener nofollow" target="_blank">Mdm Jean Heng</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -400,7 +401,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rosalynn Teo</p>
+<p><a href="https://form.gov.sg/696095df57cfab0583c1eacd" rel="noopener nofollow" target="_blank">Ms Rosalynn Teomo</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -459,7 +461,8 @@ description: ""
 <p>2 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mohana</p>
+<p><a href="https://form.gov.sg/696094ab9ed4d2cd4415b1cf" rel="noopener nofollow" target="_blank">Ms Mohana Durgacind</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -687,7 +690,8 @@ description: ""
 <p>4 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cindy Wong</p>
+<p><a href="https://form.gov.sg/6960935a5f345f6b7de5d29e" rel="noopener nofollow" target="_blank">Mdm Cindy Wong</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -753,7 +757,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jean Heng Choo Ching</p>
+<p><a href="https://form.gov.sg/68f7317e08267a6c6f571c58" rel="noopener nofollow" target="_blank">Mdm Jean Heng</a>
+</p>
 </td>
 </tr>
 <tr>
