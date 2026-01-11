@@ -953,7 +953,8 @@ description: ""
 <p>6 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jared Goh</p>
+<p><a href="https://form.gov.sg/69636118056dabe06f895bee" rel="noopener nofollow" target="_blank">Mr Jared Goh</a>
+</p>
 </td>
 </tr>
 <tr>
