@@ -711,7 +711,8 @@ description: ""
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alan</p>
+<p><a href="https://form.gov.sg/6964900189b6aff0f42cb378" rel="noopener nofollow" target="_blank">Mr Alan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -745,7 +746,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sun XiaoJun</p>
+<p><a href="https://form.gov.sg/69607c009ed4d2cd4410fc8e" rel="noopener nofollow" target="_blank">Ms Sun XiaoJun</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1010,7 +1012,8 @@ description: ""
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Ying</p>
+<p><a href="https://form.gov.sg/696492e889b6aff0f42d6467" rel="noopener nofollow" target="_blank">Mr Daniel Ying</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1156,7 +1159,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chloe Teoh</p>
+<p><a href="https://form.gov.sg/696491836be2f228abf0c53e" rel="noopener nofollow" target="_blank">Ms Chloe Teoh</a>
+</p>
 </td>
 </tr>
 <tr>
