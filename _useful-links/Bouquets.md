@@ -4,21 +4,6 @@ permalink: /useful-links/bouquets/
 variant: tiptap
 description: ""
 ---
-<p>Let’s recognise and nominate our dedicated Teachers at Cantonment!
-<br>
-<br>The Caring Teacher Awards (CTA) celebrate educators who exemplify care
-and compassion in their teaching, going beyond the call of duty to nurture
-the holistic development of their students. These dedicated teachers play
-a vital role in shaping confident, independent, and resilient learners
-who contribute meaningfully to our nation.&nbsp;</p>
-<p>Anyone can nominate our teachers, including parents, students, fellow
-teachers and school partners.</p>
-<p>Nominate now at&nbsp;<strong><a href="https://www.cta.nie.edu.sg/?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExOVQza1BjODhqUHZaNzh0RAEeHSLnKwhs0FNAVHfAVD4g4K3coqQk06inzh7KfyZF505wC9fFfhFBSx7eBm8_aem_Gzl-Xuddr4qLNVLTGSfEkQ" rel="noopener noreferrer nofollow" target="_blank"><u>www.cta.nie.edu.sg</u></a></strong>
-<br>Closing date is 31 December 2025</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Caring_Teacher_Awards_2026.png">
-</div>
-<hr>
 <p>We believe that recognising the hard work and dedication of our teachers
 and non-teaching staff is essential. This platform is an opportunity for
 you to share a positive experience, highlight a teacher's impact, or simply
@@ -62,15 +47,6 @@ are a truly inspirational educator.😊</p>
 We are so grateful for your partnership in our child's education and You
 are a truly inspirational educator.😊</p>
 <p><strong>Ms Prema (non-teaching staff)</strong>
-<br>Whenever I fall down and scrape my knee or injure myself, I go to the
-general office to ask someone to tend to my wound. Every time I step in
-the general office, I would always be greeted by the warm smile on Ms Prema’s
-face. She would express empathy and would help me wash the wound and then
-put a plaster on my injury. She is really like a bee, busy and hardworking,
-and like the unassuming candle, lighting up the whole school with her smiles
-and her empathetic actions. She is a positive influence and role model
-for the whole school to imitate.</p>
-<p><strong>Mrs Arun</strong>
 <br>Whenever I fall down and scrape my knee or injure myself, I go to the
 general office to ask someone to tend to my wound. Every time I step in
 the general office, I would always be greeted by the warm smile on Ms Prema’s
@@ -309,8 +285,3 @@ to be in and happy to be in . Every effort regardless big or small makes
 a difference to the kids learning journey in their academic, CCA, leadership
 and personal well being and growth . A conducive environment by the non
 teaching staff too . Really appreciate them . Thank you</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
