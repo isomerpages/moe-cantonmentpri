@@ -88,9 +88,9 @@ variant: tiptap
 <br>
 <br>You can login to school laptop/MIMS/Microsoft Office/Google/All Ears survey
 with your student email with the same password</p>
-<p>^ You can install the Microsoft Office desktop software on 5 of your home
-desktop/laptop (PC/Mac), smartphone and tablets. Microsoft account comes
-with Minecraft Education.</p>
+<p>^ You can install the Microsoft Office desktop software on 15 of your
+home desktop/laptop (PC/Mac), smartphone and tablets. Microsoft account
+comes with Minecraft Education.</p>
 <h5>Password Reset</h5>
 <table style="minWidth: 50px">
 <colgroup>
