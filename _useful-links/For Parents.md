@@ -25,6 +25,17 @@ in your SingPass and then click <a href="https://form.gov.sg/625629188a621f0012a
 <br><a href="/files/Cyberwellness%20Holiday%20Tips%20for%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Holiday Tips for Parents</a> 
 <br><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Parent Kit</a>
 </p>
+<h4>Touch Base Meeting (21/22 January 2026)</h4>
+<p><a href="/files/TBM/P2_Hall_Slides.pdf" rel="noopener nofollow" target="_blank">P2 Hall Slides</a>
+<br><a href="/files/TBM/P34_Hall_Slides.pdf" rel="noopener nofollow" target="_blank">P34 Hall Slides</a>
+<br><a href="/files/TBM/P56_Hall_Slides.pdf" rel="noopener nofollow" target="_blank">P56 Hall Slides</a>
+<br><a href="/files/TBM/P1_Class_Slides.pdf" rel="noopener nofollow" target="_blank">P1 Class Slides</a>
+<br><a href="/files/TBM/P2_Class_Slides.pdf" rel="noopener nofollow" target="_blank">P2 Class Slides</a>
+<br><a href="/files/TBM/P3_Class_Slides.pdf" rel="noopener nofollow" target="_blank">P3 Class Slides</a>
+<br><a href="/files/TBM/P4_Class_Slides.pdf" rel="noopener nofollow" target="_blank">P4 Class Slides</a>
+<br><a href="/files/TBM/P5_Class_Slides.pdf" rel="noopener nofollow" target="_blank">P5 Class Slides</a>
+<br><a href="/files/TBM/P6_Class_Slides.pdf" rel="noopener nofollow" target="_blank">P6 Class Slides</a>
+</p>
 <h4>P4 Subject Based Banding</h4>
 <p><a href="https://www.moe.gov.sg/primary/curriculum/subject-based-banding" rel="noopener noreferrer nofollow" target="_blank">Website</a> 
 <br><a href="/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a> 
