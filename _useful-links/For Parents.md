@@ -25,8 +25,9 @@ in your SingPass and then click <a href="https://form.gov.sg/625629188a621f0012a
 <br><a href="/files/Cyberwellness%20Holiday%20Tips%20for%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Holiday Tips for Parents</a> 
 <br><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Parent Kit</a>
 </p>
-<h4>Touch Base Meeting (21/22 January 2026)</h4>
-<p><a href="/files/TBM/P2_Hall_Slides.pdf" rel="noopener nofollow" target="_blank">P2 Hall Slides</a>
+<h4>Touch Base Meeting (January 2026)</h4>
+<p><a href="/files/TBM/P1_Hall_Slides.pdf" rel="noopener nofollow" target="_blank">P1 Hall Slides</a>
+<br><a href="/files/TBM/P2_Hall_Slides.pdf" rel="noopener nofollow" target="_blank">P2 Hall Slides</a>
 <br><a href="/files/TBM/P34_Hall_Slides.pdf" rel="noopener nofollow" target="_blank">P34 Hall Slides</a>
 <br><a href="/files/TBM/P56_Hall_Slides.pdf" rel="noopener nofollow" target="_blank">P56 Hall Slides</a>
 <br><a href="/files/TBM/P1_Class_Slides.pdf" rel="noopener nofollow" target="_blank">P1 Class Slides</a>
