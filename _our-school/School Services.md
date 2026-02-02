@@ -53,7 +53,7 @@ variant: tiptap
 <br>Ms Jeccy Low: <a href="tel:88110102" rel="noopener noreferrer nofollow" target="_blank">88110102</a>
 <br>Email:&nbsp;<a href="mailto:jeccyemltransportservice@gmail.com" rel="noopener noreferrer nofollow" target="_blank">jeccyemltransportservice@gmail.com</a>
 <br>Application <a href="/files/Services/Bus.pdf" rel="noopener nofollow" target="_blank">Form</a> (Please
-email the completed form to the above vendor's email)</p>
+email the completed form to the vendor)</p>
 <h6>Pricing for 2026-2027</h6>
 <table style="minWidth: 125px">
 <colgroup>
@@ -166,7 +166,7 @@ school. You can purchase it from any retailer as long as it is plain white.
 </p>
 <h3>Dental Clinic @ CPS</h3>
 <p><u>Opening Days:</u>
-<br>2, 5-9, 19-23 January
+<br>2,3,5,6,19,20 February
 <br>
 <br><u>Opening Hours:</u>
 </p>
