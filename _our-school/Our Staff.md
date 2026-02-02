@@ -4,7 +4,7 @@ permalink: /our-school/our-staff/
 variant: tiptap
 description: ""
 ---
-<h5>General Office:ro</h5>
+<h5>General Office:</h5>
 <p>Email: <a href="mailto:cantonment_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cantonment_ps@moe.edu.sg</a> 
 <br>Phone/WhatsApp: 65119555/ <a href="https://wa.me/6565119555" rel="noopener noreferrer nofollow" target="_blank">Click here to send a WhatsApp</a>
 </p>
@@ -1305,6 +1305,22 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Edzhan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Thinesh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sciene Lab Technician</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Pang</p>
 </td>
 </tr>
 </tbody>
