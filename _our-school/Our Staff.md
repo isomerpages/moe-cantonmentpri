@@ -1317,7 +1317,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sciene Lab Technician</p>
+<p>Science Lab Technician</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Pang</p>
