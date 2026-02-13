@@ -37,7 +37,7 @@ a yearly contribution for their educational use.</p>
 to use Edusave to pay school miscellaneous fees and enrichment programmes
 organised by the school.</p>
 <h4>Insurance</h4>
-<p><a href="/files/Insurance/Product_Fact_Sheet__Year_2025__for_MOE_group_personal_accident__GPA__Insurance_Plan.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (Year 2025) for MOE group personal accident (GPA) Insurance Plan</a>
+<p><a href="/files/Insurance/Insurance.pdf" rel="noopener nofollow" target="_blank">Insurance Fact Sheet</a>
 <br><a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener nofollow" target="_blank">Information on Claims and FAQs</a>
 <br><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener nofollow" target="_blank">Online Claims Portal</a>
 <br>Parents/guardian are to submit and check the claims status through the
