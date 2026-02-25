@@ -10,6 +10,6 @@ description: ""
 <br>More details to come</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Mg48D7slZ04?si=9SkgKBV6pBBxHiBX"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Mg48D7slZ04?si=9SkgKBV6pBBxHiBX"></iframe>
 </div>
 <p></p>
