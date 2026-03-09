@@ -28,7 +28,8 @@ description: ""
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Foo</p>
+<p><a href="mailto:cantonment_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Grace Foo</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +37,8 @@ description: ""
 <p>Vice Principal (Acad)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jane Cheah</p>
+<p><a href="mailto:cantonment_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jane Cheah</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +46,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Sho Hor</p>
+<p><a href="mailto:cantonment_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Yeo Sho Hor</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +55,8 @@ description: ""
 <p>Vice Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Siang Kiang</p>
+<p><a href="mailto:cantonment_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Loh Siang Kiang</a>
+</p>
 </td>
 </tr>
 <tr>
