@@ -44,8 +44,9 @@ in your SingPass and then click <a href="https://form.gov.sg/625629188a621f0012a
 <h4>P4 Subject Based Banding</h4>
 <p><a href="https://www.moe.gov.sg/primary/curriculum/subject-based-banding" rel="noopener noreferrer nofollow" target="_blank">Website</a> 
 <br><a href="/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a> 
-<a href="/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese</a> <a href="/files/MOE_SBB_ML_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay</a> 
-<a href="/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil</a>
+<br><a href="/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese</a> 
+<br><a href="/files/MOE_SBB_ML_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay</a> 
+<br><a href="/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil</a>
 </p>
 <h5>PSLE Parent Engagement</h5>
 <p><a href="/files/psle%20parent%20engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE Parent Engagement</a>
