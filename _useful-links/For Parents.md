@@ -11,6 +11,10 @@ variant: tiptap
 <br><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.sg</a> 
 <br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Secondary Direct School Admissions</a>
 </p>
+<p></p>
+<h4>Calendar</h4>
+<p><a href="https://calendar.google.com/calendar/embed?src=moe.edu.sg_4ce90ju9s26q0hp8kakteaue9g%40group.calendar.google.com&amp;ctz=Asia%2FSingapore" rel="noopener nofollow" target="_blank">Click here to view the school calendar</a>
+</p>
 <h4>Update Student Particulars</h4>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Update student/parent particulars - Requires SingPass login</a> 
 <br>
