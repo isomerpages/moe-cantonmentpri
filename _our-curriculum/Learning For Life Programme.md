@@ -55,10 +55,9 @@ to master new skills.</p>
 special needs to perform and work with our students. Through these meaningful
 interactions, our students develop empathy and learn to appreciate diverse
 abilities in the performing arts, reinforcing our belief that the arts
-are truly for everyone.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FrDUYCwU6Nc?si=kb5a37DWSM9tam6R"></iframe>
-</div>
+are truly for everyone.
+<br><a href="https://www.youtube.com/watch?v=FrDUYCwU6Nc" rel="noopener nofollow" target="_blank">Click here to watch Drumming with Drum Prodigy</a>
+</p>
 <p><strong>Development Through Co-Curricular Activities (CCAs)</strong>
 </p>
 <p>Many of our students choose to develop their artistic talents through
@@ -67,10 +66,9 @@ Ensemble. These groups provide excellent platforms for building resilience
 through regular practice and performance preparations. Students learn integrity
 as they work towards group goals, and demonstrate graciousness in supporting
 one another during performances at Teachers' Day Celebrations and Primary
-One Orientation.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/n4qR45pEb6w?si=HIA9QmDjPkfNU69U"></iframe>
-</div>
+One Orientation.
+<br><a href="https://www.youtube.com/watch?v=n4qR45pEb6w" rel="noopener nofollow" target="_blank">Click here to watch Guitar CCA Teachers' Day Performance</a>
+</p>
 <p>Guitar CCA students performing at 2024 Teachers’ Day and Non-Teaching
 Staff Appreciation Concert changing the lyrics of Singapura, a familiar
 tune, to suit the occasion</p>
@@ -93,10 +91,9 @@ including the prestigious Singapore Youth Festival Arts Presentations.
 These experiences build resilience as students learn to overcome challenges
 and maintain integrity in their artistic pursuits. They demonstrate graciousness
 in victory and resilience in setbacks, understanding that character excellence
-is as important as artistic excellence.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ceCHFYGc0Ls?si=wDpd6czdaVUzop0M"></iframe>
-</div>
+is as important as artistic excellence.
+<br><a href="https://www.youtube.com/watch?v=ceCHFYGc0Ls" rel="noopener nofollow" target="_blank">Click here to watch Choir Performance at VoS 2024</a>
+</p>
 <p>Choir CCA students performing at Voices of Singapore 2024 Festival at
 CHIJMES</p>
 <p><strong>Our Impact</strong>
