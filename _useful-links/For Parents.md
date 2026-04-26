@@ -11,6 +11,10 @@ variant: tiptap
 <br><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.sg</a> 
 <br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Secondary Direct School Admissions</a>
 </p>
+<p></p>
+<h4>Calendar</h4>
+<p><a href="https://calendar.google.com/calendar/embed?src=moe.edu.sg_4ce90ju9s26q0hp8kakteaue9g%40group.calendar.google.com&amp;ctz=Asia%2FSingapore" rel="noopener nofollow" target="_blank">Click here to view the school calendar</a>
+</p>
 <h4>Update Student Particulars</h4>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Update student/parent particulars - Requires SingPass login</a> 
 <br>
@@ -40,8 +44,9 @@ in your SingPass and then click <a href="https://form.gov.sg/625629188a621f0012a
 <h4>P4 Subject Based Banding</h4>
 <p><a href="https://www.moe.gov.sg/primary/curriculum/subject-based-banding" rel="noopener noreferrer nofollow" target="_blank">Website</a> 
 <br><a href="/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a> 
-<a href="/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese</a> <a href="/files/MOE_SBB_ML_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay</a> 
-<a href="/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil</a>
+<br><a href="/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese</a> 
+<br><a href="/files/MOE_SBB_ML_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay</a> 
+<br><a href="/files/MOE_SBB_TL_revised%201%20Mar%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil</a>
 </p>
 <h5>PSLE Parent Engagement</h5>
 <p><a href="/files/psle%20parent%20engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE Parent Engagement</a>

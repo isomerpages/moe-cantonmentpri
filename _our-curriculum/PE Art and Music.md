@@ -108,10 +108,9 @@ developing 21st Century Competencies (21CC) such as communication, collaboration
 and global awareness. The experience begins with a pre-camp online meet-and-greet
 to build familiarity, followed by joint camp activities and post-camp bonding
 sessions that strengthen inter-school friendships and foster mutual respect,
-inclusivity, and confidence to thrive in a diverse society.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/58w-kMgCYMo?si=N63b0MqqgPxzUcke"></iframe>
-</div>
+inclusivity, and confidence to thrive in a diverse society.
+<br><a href="https://www.youtube.com/watch?v=58w-kMgCYMo" rel="noopener nofollow" target="_blank">Click here to watch Camp Harmony 2024</a>
+</p>
 <p>Our inaugural 2024 Combined Schools Camp at Dairy Farm Outdoor Adventure
 Learning Centre</p>
 <p></p>
