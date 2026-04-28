@@ -165,10 +165,7 @@ school. You can purchase it from any retailer as long as it is plain white.
 <br>Call/WhatsApp: <a href="https://wa.me/6580778218." rel="noopener noreferrer nofollow" target="_blank">80778218</a>
 </p>
 <h3>Dental Clinic @ CPS</h3>
-<p><u>Opening Days:</u>
-<br>1, 15,16, 27-29 April
-<br>
-<br><u>Opening Hours:</u>
+<p><u>Opening Hours on Selected Days:</u>
 </p>
 <p>Monday/Wednesday/Friday: 8 am to 5 pm
 <br>Tuesday/Thursday: 8 am to 5.30 pm
