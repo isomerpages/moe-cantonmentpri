@@ -10,3 +10,10 @@ links:
     collection: useful-links
   - title: Open House
     url: /openhouse/
+  - title: Useful Links
+    url: /permalink
+    sublinks:
+      - title: Calendar
+        url: https://calendar.google.com/calendar/embed?src=moe.edu.sg_4ce90ju9s26q0hp8kakteaue9g%40group.calendar.google.com&ctz=Asia%2FSingapore
+      - title: For Students
+        url: /useful-links/for-students/
