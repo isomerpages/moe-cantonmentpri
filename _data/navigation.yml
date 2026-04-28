@@ -7,6 +7,19 @@ links:
   - title: Our Partners
     collection: our-partners
   - title: Useful Links
-    collection: useful-links
+    url: /permalink
+    sublinks:
+      - title: Calendar
+        url: https://calendar.google.com/calendar/embed?src=moe.edu.sg_4ce90ju9s26q0hp8kakteaue9g%40group.calendar.google.com&ctz=Asia%2FSingapore
+      - title: For Students
+        url: /useful-links/for-students/
+      - title: For Parents
+        url: /useful-links/for-parents/
+      - title: Finances
+        url: /useful-links/finances/
+      - title: Admissions
+        url: /useful-links/admissions/
+      - title: Bouquets
+        url: /useful-links/bouquets/
   - title: Open House
     url: /openhouse/
