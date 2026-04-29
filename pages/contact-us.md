@@ -50,7 +50,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <a href="https://www.facebook.com/cantonmentpri/">Facebook</a>
+      - other: <a href="https://www.facebook.com/cantonmentpri/">Facebook</a> <a
+          href="https://www.instagram.com/cantonmentprimaryschool">Instagram</a>
     title: Social Media
 feedback: ""
 ---
