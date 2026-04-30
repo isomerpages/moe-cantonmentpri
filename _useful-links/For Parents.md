@@ -180,8 +180,8 @@ fingertips.</p>
 <p>Update contact details for Parents</p>
 </li>
 <li>
-<p><a href="/files/PG_Mobile_App_Meetings_Feature.pdf" rel="noopener noreferrer nofollow" target="_blank">Booking Meeting Slots </a>(During
-Parent Child Teacher Conference)</p>
+<p>Booking Appointment Slots (During Parent Teacher Meet/Parent Child Teacher
+Conference)</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Booking not started</summary>
@@ -237,9 +237,8 @@ Parent Child Teacher Conference)</p>
 </div>
 </details>
 </div>
+<p></p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>Absence Notification</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
