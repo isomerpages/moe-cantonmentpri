@@ -1146,8 +1146,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68f055c8ef8f3a5221d34a18" rel="noopener nofollow" target="_blank">Ms Tan Yi Xin</a>
-</p>
+<p>Ms Tan Yi Xin</p>
 </td>
 </tr>
 <tr>
