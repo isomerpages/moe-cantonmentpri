@@ -4,6 +4,10 @@ permalink: /openhouse/
 variant: tiptap
 description: ""
 ---
+<p>Registration for Open House is closed. Thank you for your interest. You
+may find more information about our school through our website and social
+media platforms.</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Mg48D7slZ04?si=9SkgKBV6pBBxHiBX"></iframe>
 </div>
