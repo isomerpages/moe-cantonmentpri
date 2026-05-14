@@ -4,12 +4,6 @@ permalink: /openhouse/
 variant: tiptap
 description: ""
 ---
-<h2>Save the date</h2>
-<p>26 May 2026, Tuesday
-<br>4-5:30pm
-<br><a href="http://go.gov.sg/openhouse2026cps" rel="noopener nofollow" target="_blank">Registration Link</a>
-</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Mg48D7slZ04?si=9SkgKBV6pBBxHiBX"></iframe>
 </div>
