@@ -21,7 +21,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://www.office.com/" rel="noopener noreferrer nofollow" target="_blank">Microsoft Office^</a>
+<p><a href="https://www.onedrive.com/" rel="noopener noreferrer nofollow" target="_blank">Microsoft Office^</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
