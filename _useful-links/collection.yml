@@ -2,10 +2,10 @@ collections:
   useful-links:
     output: true
     order:
-      - Social Media.md
       - Calendar.md
       - For Students.md
       - For Parents.md
       - Finances.md
       - Admissions.md
       - Bouquets.md
+      - Social Media.md
