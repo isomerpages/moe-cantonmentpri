@@ -86,16 +86,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68f7317e08267a6c6f571c58" rel="noopener nofollow" target="_blank">Mdm Jean Heng</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD Mathematics</p>
+<p>HOD Mathematics (Covering HOD ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/68f1aa1d02099cc2fc27e476" rel="noopener nofollow" target="_blank">Mr Andy Fan</a>
@@ -127,14 +118,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/68db8c1a924359bba6223751" rel="noopener nofollow" target="_blank">Mr Josh Wong Han Xian</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Johnny Chan</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +193,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Covering Year Head Upper Primary (P56)</p>
+<p>Year Head Upper Primary (P56)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/68dc5a97e378849e3e338b6b" rel="noopener nofollow" target="_blank">Mr Ameen</a>
@@ -253,7 +236,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LT Physical Education</p>
+<p>LT Physical Education (Covering HOD SSD)&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/68f19dcc02099cc2fc2451a5" rel="noopener nofollow" target="_blank">Ms Cassie Siua</a>
@@ -743,14 +726,6 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Johnny Chan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/69607c009ed4d2cd4410fc8e" rel="noopener nofollow" target="_blank">Ms Sun XiaoJun</a>
 </p>
 </td>
@@ -761,15 +736,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/68db8cc1227cb4baf1853f4e" rel="noopener nofollow" target="_blank">Ms Kaylen Ang</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68f7317e08267a6c6f571c58" rel="noopener nofollow" target="_blank">Mdm Jean Heng</a>
 </p>
 </td>
 </tr>
