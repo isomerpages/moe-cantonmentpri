@@ -2,11 +2,11 @@ collections:
   our-school:
     output: true
     order:
-      - Social Media.md
       - School Hours.md
       - School Services.md
       - School History.md
       - Vision, Mission, Values.md
       - Principal's Message.md
       - Cantonment Times.md
+      - Social Media.md
       - Our Staff.md
