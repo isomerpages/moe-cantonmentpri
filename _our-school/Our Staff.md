@@ -557,15 +557,6 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68dc7d69ac0e626348290766" rel="noopener nofollow" target="_blank">Ms Lau Kai Jing</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/68e5dd5c854d12e7cde7e8fa" rel="noopener nofollow" target="_blank">Mr Wilbert Tan</a>
 </p>
 </td>
@@ -744,7 +735,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Anne Poon</p>
 </td>
 </tr>
 </tbody>
@@ -980,6 +971,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/68f055c8ef8f3a5221d34a18" rel="noopener nofollow" target="_blank">Ms Tan Yi Xin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1050,6 +1050,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School&nbsp;Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Terence Chan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1107,16 +1115,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Yi Xin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/69645dc389b6aff0f42063fd" rel="noopener nofollow" target="_blank">Mr Tan</a>
 </p>
 </td>
@@ -1144,7 +1142,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://form.gov.sg/68dc7d69ac0e626348290766" rel="noopener nofollow" target="_blank">Ms Lau Kai Jing</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -1266,6 +1265,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Cheah Khuan Onn</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Fiona Cheow</p>
 </td>
 </tr>
 <tr>
