@@ -1115,16 +1115,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Yi Xin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/69645dc389b6aff0f42063fd" rel="noopener nofollow" target="_blank">Mr Tan</a>
 </p>
 </td>
